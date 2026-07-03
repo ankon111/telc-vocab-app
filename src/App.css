@@ -32,7 +32,37 @@
   --radius-lg: 12px;
 }
 
-body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; min-height: 100vh; }
+[data-theme="dark"] {
+  --bg: #0f0e0d;
+  --surface: #1c1a18;
+  --surface2: #272420;
+  --border: #302c28;
+  --border2: #4a4440;
+  --text: #f0ede8;
+  --text2: #a09890;
+  --text3: #6b6560;
+  --accent: #3b82f6;
+  --accent-bg: #1e2a3a;
+  --accent-border: #2d4a6e;
+  --accent-text: #93c5fd;
+  --success: #22c55e;
+  --success-bg: #0f2318;
+  --success-border: #166534;
+  --success-text: #4ade80;
+  --warning: #f59e0b;
+  --warning-bg: #2a1f0a;
+  --warning-border: #78450f;
+  --warning-text: #fbbf24;
+  --danger: #ef4444;
+  --danger-bg: #2a0f0f;
+  --danger-border: #7f1d1d;
+  --danger-text: #f87171;
+  --purple-bg: #1e1a2e;
+  --purple-border: #4c1d95;
+  --purple-text: #a78bfa;
+}
+
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; min-height: 100vh; transition: background 0.2s, color 0.2s; }
 
 .app { max-width: 720px; margin: 0 auto; min-height: 100vh; display: flex; flex-direction: column; }
 
@@ -43,6 +73,8 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; b
 .title-sub { font-size: 0.75rem; color: var(--text3); margin-top: 1px; }
 .header-stats { font-size: 0.8rem; color: var(--text3); display: flex; gap: 6px; align-items: center; }
 .dot { color: var(--border2); }
+.theme-toggle { background: none; border: 1px solid var(--border); border-radius: var(--radius); padding: 4px 7px; cursor: pointer; color: var(--text2); font-size: 1rem; line-height: 1; margin-left: 4px; transition: background 0.15s, color 0.15s; }
+.theme-toggle:hover { background: var(--surface2); color: var(--text); }
 
 .app-nav { background: var(--surface); border-bottom: 1px solid var(--border); display: flex; }
 .nav-btn { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 3px; padding: 0.6rem 0.5rem; font-size: 0.7rem; color: var(--text3); background: none; border: none; border-bottom: 2px solid transparent; cursor: pointer; transition: color 0.15s, border-color 0.15s; }

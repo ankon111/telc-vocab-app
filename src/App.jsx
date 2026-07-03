@@ -1,6 +1,4 @@
 import { useState, useEffect, useCallback } from "react"
-import a2Data from "./data/a2.json"
-import b1Data from "./data/b1.json"
 import VocabList from "./components/VocabList"
 import Flashcard from "./components/Flashcard"
 import Quiz from "./components/Quiz"
@@ -8,6 +6,7 @@ import Stats from "./components/Stats"
 import "./App.css"
 
 const STORAGE_KEY = "telc_vocab_progress"
+const THEME_KEY = "telc_theme"
 
 function loadProgress() {
   try {
@@ -24,10 +23,32 @@ export default function App() {
   const [tab, setTab] = useState("list")
   const [allWords, setAllWords] = useState([])
   const [progress, setProgress] = useState(loadProgress)
+  const [theme, setTheme] = useState(() => {
+    try {
+      const saved = localStorage.getItem(THEME_KEY)
+      if (saved) return saved
+    } catch {}
+    return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"
+  })
 
   useEffect(() => {
+    document.documentElement.setAttribute("data-theme", theme)
+    try { localStorage.setItem(THEME_KEY, theme) } catch {}
+  }, [theme])
+
+  const toggleTheme = () => setTheme(t => t === "dark" ? "light" : "dark")
+
+  useEffect(() => {
+    // Auto-discover all A2_*.json and B1_*.json chunk files via Vite glob import.
+    // Drop any new chunk file into src/data/ and it is picked up automatically.
+    const a2Modules = import.meta.glob("./data/A2_*.json", { eager: true })
+    const b1Modules = import.meta.glob("./data/B1_*.json", { eager: true })
+
+    const a2Chunks = Object.values(a2Modules).flatMap(m => m.default)
+    const b1Chunks = Object.values(b1Modules).flatMap(m => m.default)
+
     const merged = {}
-    ;[...a2Data, ...b1Data].forEach(w => {
+    ;[...a2Chunks, ...b1Chunks].forEach(w => {
       if (merged[w.word]) {
         const existing = merged[w.word]
         const combined = [...new Set([...existing.level, ...w.level])]
@@ -77,6 +98,9 @@ export default function App() {
             <span>{allWords.length} words</span>
             <span className="dot">·</span>
             <span>{mastered} mastered</span>
+            <button className="theme-toggle" onClick={toggleTheme} aria-label="Toggle theme">
+              <i className={`ti ${theme === "dark" ? "ti-sun" : "ti-moon"}`} aria-hidden="true" />
+            </button>
           </div>
         </div>
       </header>
