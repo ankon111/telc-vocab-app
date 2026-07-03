@@ -1,0 +1,2584 @@
+[
+{
+"id": "a2_0901",
+"german": "die Umwelt",
+"word": "Umwelt",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "environment, nature",
+"bengali": "পরিবেশ",
+"example": "Wir müssen die Umwelt schützen."
+}
+],
+"synonym": "die Natur",
+"starred": false
+},
+{
+"id": "a2_0902",
+"german": "umziehen",
+"word": "umziehen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "um-",
+"meaning": "change location/clothes",
+"related": ["Umzug", "anziehen"]
+},
+"conjugation": {
+"present": "er zieht um",
+"past": "er zog um",
+"participle": "umgezogen",
+"auxiliary": "ist/hat",
+"irregular": true,
+"vowel_change": "ie -> o",
+"full_present": {
+"ich": "ziehe um",
+"du": "ziehst um",
+"er_sie": "zieht um",
+"wir": "ziehen um",
+"ihr": "zieht um",
+"sie": "ziehen um"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to move (house), to change clothes",
+"bengali": "বাসা পরিবর্তন করা, কাপড় বদলানো",
+"example": "Nächsten Monat ziehen wir nach Berlin um."
+}
+],
+"synonym": "wechseln",
+"starred": false
+},
+{
+"id": "a2_0903",
+"german": "der Umzug",
+"word": "Umzug",
+"article": "der",
+"plural": "die Umzüge",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "relocation, move, parade",
+"bengali": "বাসা বদল, শোভাযাত্রা",
+"example": "Der Umzug war sehr anstrengend."
+}
+],
+"synonym": "die Übersiedlung",
+"starred": false
+},
+{
+"id": "a2_0904",
+"german": "der Umzugskarton",
+"word": "Umzugskarton",
+"article": "der",
+"plural": "die Umzugskartons",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "moving box",
+"bengali": "বাসা বদলের পিচবোর্ডের বাক্স",
+"example": "Wir müssen noch zehn Umzugskartons kaufen."
+}
+],
+"synonym": "die Umzugskiste",
+"starred": false
+},
+{
+"id": "a2_0905",
+"german": "unbürokratisch",
+"word": "unbürokratisch",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "unbureaucratic, straightforward",
+"bengali": "আমলাতান্ত্রিক জটিলতাহীন, সহজ সরল",
+"example": "Die Hilfe wurde schnell und unbürokratisch organisiert."
+}
+],
+"synonym": "unkompliziert",
+"starred": false
+},
+{
+"id": "a2_0906",
+"german": "unfair",
+"word": "unfair",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "unfair",
+"bengali": "অন্যায়, অসৎ",
+"example": "Das ist ein unfaires Spiel."
+}
+],
+"synonym": "ungerecht",
+"starred": false
+},
+{
+"id": "a2_0907",
+"german": "ungarisch",
+"word": "ungarisch",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "Hungarian",
+"bengali": "হাঙ্গেরীয়",
+"example": "Ich liebe ungarische Gulaschsuppe."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0908",
+"german": "ungenügend",
+"word": "ungenügend",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "insufficient, inadequate",
+"bengali": "অপ্রতুল, অপর্যাপ্ত",
+"example": "Seine Leistungen in der Schule waren ungenügend."
+}
+],
+"synonym": "mangelhaft",
+"starred": false
+},
+{
+"id": "a2_0909",
+"german": "die Uniform",
+"word": "Uniform",
+"article": "die",
+"plural": "die Uniformen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "uniform",
+"bengali": "ইউনিফর্ম, নির্ধারিত পোশাক",
+"example": "Polizisten tragen im Dienst eine Uniform."
+}
+],
+"synonym": "die Dienstkleidung",
+"starred": false
+},
+{
+"id": "a2_0910",
+"german": "unprofessionell",
+"word": "unprofessionell",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "unprofessional",
+"bengali": "অপেশাদার",
+"example": "Es ist unprofessionell, zu spät zum Meeting zu kommen."
+}
+],
+"synonym": "laienhaft",
+"starred": false
+},
+{
+"id": "a2_0911",
+"german": "unsympathisch",
+"word": "unsympathisch",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "unpleasant, dislikable",
+"bengali": "অপ্রীতিকর, অপছন্দনীয়",
+"example": "Der neue Chef wirkt auf mich sehr unsympathisch."
+}
+],
+"synonym": "unfreundlich",
+"starred": false
+},
+{
+"id": "a2_0912",
+"german": "unten",
+"word": "unten",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "below, downstairs, underneath",
+"bengali": "নিচে",
+"example": "Die Werkstatt befindet sich unten im Keller."
+}
+],
+"synonym": "abwärts",
+"starred": false
+},
+{
+"id": "a2_0913",
+"german": "unterhalten",
+"word": "unterhalten",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "unter-",
+"meaning": "entertain, converse",
+"related": ["Unterhaltung"]
+},
+"conjugation": {
+"present": "er unterhält",
+"past": "er unterhielt",
+"participle": "unterhalten",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "e -> ä",
+"full_present": {
+"ich": "unterhalte",
+"du": "unterhältst",
+"er_sie": "unterhält",
+"wir": "unterhalten",
+"ihr": "unterhaltet",
+"sie": "unterhalten"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to chat, converse, entertain",
+"bengali": "আলাপ করা, বিনোদন দেওয়া",
+"example": "Wir haben uns lange über den Urlaub unterhalten."
+}
+],
+"synonym": "reden",
+"starred": false
+},
+{
+"id": "a2_0914",
+"german": "die Unterlagen",
+"word": "Unterlagen",
+"article": "die",
+"plural": "die Unterlagen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "documents, papers",
+"bengali": "নথিপত্র, কাগজপত্র",
+"example": "Bitte bringen Sie alle wichtigen Unterlagen zum Termin mit."
+}
+],
+"synonym": "die Dokumente",
+"starred": false
+},
+{
+"id": "a2_0915",
+"german": "unternehmen",
+"word": "unternehmen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "unter-",
+"meaning": "undertake, do",
+"related": ["Unternehmen"]
+},
+"conjugation": {
+"present": "er unternimmt",
+"past": "er unternahm",
+"participle": "unternommen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "e -> i",
+"full_present": {
+"ich": "unternehme",
+"du": "unternimmst",
+"er_sie": "unternimmt",
+"wir": "unternehmen",
+"ihr": "unternehmt",
+"sie": "unternehmen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to do, undertake, go out",
+"bengali": "কোনো কিছু করা বা উদ্যোগ নেওয়া",
+"example": "Wollen wir am Wochenende etwas unternehmen?"
+}
+],
+"synonym": "machen",
+"starred": false
+},
+{
+"id": "a2_0916",
+"german": "der Unterschied",
+"word": "Unterschied",
+"article": "der",
+"plural": "die Unterschiede",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "difference",
+"bengali": "পার্থক্য",
+"example": "Gibt es einen Unterschied zwischen diesen beiden Handys?"
+}
+],
+"synonym": "die Differenz",
+"starred": false
+},
+{
+"id": "a2_0917",
+"german": "unterschreiben",
+"word": "unterschreiben",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "unter-",
+"meaning": "sign",
+"related": ["Unterschrift"]
+},
+"conjugation": {
+"present": "er unterschreibt",
+"past": "er unterschrieb",
+"participle": "unterschrieben",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "ei -> ie",
+"full_present": {
+"ich": "unterschreibe",
+"du": "unterschreibst",
+"er_sie": "unterschreibt",
+"wir": "unterschreiben",
+"ihr": "unterschreibt",
+"sie": "unterschreiben"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to sign",
+"bengali": "স্বাক্ষর করা, সই করা",
+"example": "Sie müssen den Arbeitsvertrag hier unterschreiben."
+}
+],
+"synonym": "signieren",
+"starred": false
+},
+{
+"id": "a2_0918",
+"german": "unterstützen",
+"word": "unterstützen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "unter-",
+"meaning": "support",
+"related": ["Unterstützung"]
+},
+"conjugation": {
+"present": "er unterstützt",
+"past": "er unterstützte",
+"participle": "unterstützt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "unterstütze",
+"du": "unterstützt",
+"er_sie": "unterstützt",
+"wir": "unterstützen",
+"ihr": "unterstützt",
+"sie": "unterstützen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to support, assist",
+"bengali": "সমর্থন করা, সাহায্য করা",
+"example": "Meine Familie unterstützt mich bei meinem Studium."
+}
+],
+"synonym": "helfen",
+"starred": false
+},
+{
+"id": "a2_0919",
+"german": "die Unterwäsche",
+"word": "Unterwäsche",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "underwear",
+"bengali": "অন্তর্বাস",
+"example": "Ich muss neue Unterwäsche kaufen."
+}
+],
+"synonym": "die Unterkleidung",
+"starred": false
+},
+{
+"id": "a2_0920",
+"german": "unterwegs",
+"word": "unterwegs",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "on the way, en route",
+"bengali": "পথে, যাত্রাপথে",
+"example": "Ich bin schon unterwegs und komme gleich."
+}
+],
+"synonym": "auf Achse",
+"starred": false
+},
+{
+"id": "a2_0921",
+"german": "unzufrieden",
+"word": "unzufrieden",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "dissatisfied, unhappy",
+"bengali": "অসন্তুষ্ট",
+"example": "Viele Kunden sind unzufrieden mit dem Service."
+}
+],
+"synonym": "verärgert",
+"starred": false
+},
+{
+"id": "a2_0922",
+"german": "die Urkunde",
+"word": "Urkunde",
+"article": "die",
+"plural": "die Urkunden",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "certificate, document, deed",
+"bengali": "দলিল, সনদপত্র",
+"example": "Nach dem Lauf bekam jeder Teilnehmer eine Urkunde."
+}
+],
+"synonym": "das Zertifikat",
+"starred": false
+},
+{
+"id": "a2_0923",
+"german": "das Vanilleeis",
+"word": "Vanilleeis",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "vanilla ice cream",
+"bengali": "ভ্যানিলা আইসক্রিম",
+"example": "Ich nehme ein Stück Apfelkuchen mit Vanilleeis."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0924",
+"german": "die Variante",
+"word": "Variante",
+"article": "die",
+"plural": "die Varianten",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "variant, variation, version",
+"bengali": "রূপান্তর, সংস্করণ",
+"example": "Dieses Kleid gibt es in drei verschiedenen Varianten."
+}
+],
+"synonym": "die Version",
+"starred": false
+},
+{
+"id": "a2_0925",
+"german": "die Vase",
+"word": "Vase",
+"article": "die",
+"plural": "die Vasen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "vase",
+"bengali": "ফুলদানি",
+"example": "Stell die Blumen bitte in die Vase."
+}
+],
+"synonym": "das Blumengefäß",
+"starred": false
+},
+{
+"id": "a2_0926",
+"german": "der/die Vegetarier/in",
+"word": "Vegetarier/in",
+"article": "der/die",
+"plural": "die Vegetarier / die Vegetarierinnen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "vegetarian",
+"bengali": "নিরামিষভোজী",
+"example": "Da sie Vegetarierin ist, isst sie kein Fleisch."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0927",
+"german": "vegetarisch",
+"word": "vegetarisch",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "vegetarian",
+"bengali": "নিরামিষ",
+"example": "In diesem Restaurant gibt es viele vegetarische Gerichte."
+}
+],
+"synonym": "fleischlos",
+"starred": false
+},
+{
+"id": "a2_0928",
+"german": "die Verabredung",
+"word": "Verabredung",
+"article": "die",
+"plural": "die Verabredungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "appointment, date",
+"bengali": "সাক্ষাতের চুক্তি, ডেট",
+"example": "Ich habe heute Abend eine Verabredung mit Anna."
+}
+],
+"synonym": "der Termin",
+"starred": false
+},
+{
+"id": "a2_0929",
+"german": "verabschieden",
+"word": "verabschieden",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "ver-",
+"meaning": "say goodbye",
+"related": ["Verabschiedung"]
+},
+"conjugation": {
+"present": "er verabschiedet",
+"past": "er verabschiedete",
+"participle": "verabschiedet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "verabschiede",
+"du": "verabschiedest",
+"er_sie": "verabschiedet",
+"wir": "verabschieden",
+"ihr": "verabschiedet",
+"sie": "verabschieden"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to say goodbye, to pass (a law)",
+"bengali": "বিদায় জানানো",
+"example": "Wir müssen uns leider von Ihnen verabschieden."
+}
+],
+"synonym": "Lebewohl sagen",
+"starred": false
+},
+{
+"id": "a2_0930",
+"german": "die Verabschiedung",
+"word": "Verabschiedung",
+"article": "die",
+"plural": "die Verabschiedungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "farewell, goodbye",
+"bengali": "বিদায় অনুষ্ঠান, বিদায়জ্ঞাপন",
+"example": "Die Verabschiedung des Kollegen war sehr emotional."
+}
+],
+"synonym": "der Abschied",
+"starred": false
+},
+{
+"id": "a2_0931",
+"german": "veranstalten",
+"word": "veranstalten",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "ver-",
+"meaning": "organize",
+"related": ["Veranstaltung"]
+},
+"conjugation": {
+"present": "er veranstaltet",
+"past": "er veranstaltete",
+"participle": "veranstaltet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "veranstalte",
+"du": "veranstaltest",
+"er_sie": "veranstaltet",
+"wir": "veranstalten",
+"ihr": "veranstaltet",
+"sie": "veranstalten"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to organize, host, arrange",
+"bengali": "আয়োজন করা",
+"example": "Unsere Schule veranstaltet jedes Jahr ein Sommerfest."
+}
+],
+"synonym": "organisieren",
+"starred": false
+},
+{
+"id": "a2_0932",
+"german": "die Veranstaltung",
+"word": "Veranstaltung",
+"article": "die",
+"plural": "die Veranstaltungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "event, function",
+"bengali": "অনুষ্ঠান, আয়োজন",
+"example": "Die kulturelle Veranstaltung war gut besucht."
+}
+],
+"synonym": "das Event",
+"starred": false
+},
+{
+"id": "a2_0933",
+"german": "der Veranstaltungshinweis",
+"word": "Veranstaltungshinweis",
+"article": "der",
+"plural": "die Veranstaltungshinweise",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "event notice, event announcement",
+"bengali": "অনুষ্ঠানের বিজ্ঞপ্তি",
+"example": "Im Radio gab es einen wichtigen Veranstaltungshinweis."
+}
+],
+"synonym": "die Ankündigung",
+"starred": false
+},
+{
+"id": "a2_0934",
+"german": "der Veranstaltungstipp",
+"word": "Veranstaltungstipp",
+"article": "der",
+"plural": "die Veranstaltungstipps",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "event tip, recommendation",
+"bengali": "অনুষ্ঠানের পরামর্শ বা টিপ",
+"example": "Hast du einen guten Veranstaltungstipp für das Wochenende?"
+}
+],
+"synonym": "die Empfehlung",
+"starred": false
+},
+{
+"id": "a2_0935",
+"german": "verbessern",
+"word": "verbessern",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "ver-",
+"meaning": "improve",
+"related": ["Verbesserung"]
+},
+"conjugation": {
+"present": "er verbessert",
+"past": "er verbesserte",
+"participle": "verbessert",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "verbessere",
+"du": "verbesserst",
+"er_sie": "verbessert",
+"wir": "verbessern",
+"ihr": "verbessert",
+"sie": "verbessern"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to improve, correct",
+"bengali": "উন্নতি করা, সংশোধন করা",
+"example": "Ich möchte mein Deutsch verbessern."
+}
+],
+"synonym": "optimieren",
+"starred": false
+},
+{
+"id": "a2_0936",
+"german": "die Verbindung",
+"word": "Verbindung",
+"article": "die",
+"plural": "die Verbindungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "connection, link",
+"bengali": "সংযোগ, যোগাযোগ",
+"example": "Die Internetverbindung ist heute sehr schlecht."
+}
+],
+"synonym": "der Kontakt",
+"starred": false
+},
+{
+"id": "a2_0937",
+"german": "verboten",
+"word": "verboten",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "forbidden, prohibited",
+"bengali": "নিষিদ্ধ",
+"example": "Rauchen ist hier streng verboten."
+}
+],
+"synonym": "unzulässig",
+"starred": false
+},
+{
+"id": "a2_0938",
+"german": "der Verbraucherzähler",
+"word": "Verbraucherzähler",
+"article": "der",
+"plural": "die Verbraucherzähler",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "utility meter, consumption meter",
+"bengali": "ব্যবহার পরিমাপক মিটার (যেমন বিদ্যুৎ বা গ্যাস)",
+"example": "Der Techniker muss den Verbraucherzähler ablesen."
+}
+],
+"synonym": "der Zähler",
+"starred": false
+},
+{
+"id": "a2_0939",
+"german": "verbringen",
+"word": "verbringen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "ver-",
+"meaning": "spend time",
+"related": ["bringen"]
+},
+"conjugation": {
+"present": "er verbringt",
+"past": "er verbrachte",
+"participle": "verbrachte",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "i -> a",
+"full_present": {
+"ich": "verbringe",
+"du": "verbringst",
+"er_sie": "verbringt",
+"wir": "verbringen",
+"ihr": "verbringt",
+"sie": "verbringen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to spend (time)",
+"bengali": "সময় অতিবাহিত করা",
+"example": "Wir verbringen unseren Urlaub an der Ostsee."
+}
+],
+"synonym": "aufwenden",
+"starred": false
+},
+{
+"id": "a2_0940",
+"german": "verehrt/verehrte",
+"word": "verehrt/verehrte",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "honored, esteemed, revered",
+"bengali": "শ্রদ্ধেয়, মাননীয়",
+"example": "Verehrte Damen und Herren, herzlich willkommen!"
+}
+],
+"synonym": "werte",
+"starred": false
+},
+{
+"id": "a2_0941",
+"german": "vereinbaren",
+"word": "vereinbaren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "ver-",
+"meaning": "agree, arrange",
+"related": ["Vereinbarung"]
+},
+"conjugation": {
+"present": "er vereinbart",
+"past": "er vereinbarte",
+"participle": "vereinbart",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "vereinbare",
+"du": "vereinbarst",
+"er_sie": "vereinbart",
+"wir": "vereinbaren",
+"ihr": "vereinbart",
+"sie": "vereinbaren"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to agree upon, arrange (appointment)",
+"bengali": "স্থির করা, রাজি হওয়া (যেমন অ্যাপয়েন্টমেন্ট)",
+"example": "Wir müssen einen neuen Termin vereinbaren."
+}
+],
+"synonym": "abmachen",
+"starred": false
+},
+{
+"id": "a2_0942",
+"german": "die Vergangenheit",
+"word": "Vergangenheit",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "past",
+"bengali": "অতীত",
+"example": "In der Vergangenheit gab es hier eine Fabrik."
+}
+],
+"synonym": "die Vorzeit",
+"starred": false
+},
+{
+"id": "a2_0943",
+"german": "das Verhalten",
+"word": "Verhalten",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "behavior, conduct",
+"bengali": "আচরণ",
+"example": "Ich verstehe das Verhalten des Kindes nicht."
+}
+],
+"synonym": "das Benehmen",
+"starred": false
+},
+{
+"id": "a2_0944",
+"german": "verlegen",
+"word": "verlegen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "ver-",
+"meaning": "misplace, reschedule",
+"related": ["legen"]
+},
+"conjugation": {
+"present": "er verlegt",
+"past": "er verlegte",
+"participle": "verlegt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "verlege",
+"du": "verlegst",
+"er_sie": "verlegt",
+"wir": "verlegen",
+"ihr": "verlegt",
+"sie": "verlegen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to misplace, postpone, relocate",
+"bengali": "ভুল জায়গায় রাখা, পেছানো (তারিখ)",
+"example": "Ich habe meinen Schlüssel irgendwo verlegt."
+}
+],
+"synonym": "verschieben",
+"starred": false
+},
+{
+"id": "a2_0945",
+"german": "verlieben",
+"word": "verlieben",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "ver-",
+"meaning": "fall in love",
+"related": ["Liebe", "verliebt"]
+},
+"conjugation": {
+"present": "er verliebt sich",
+"past": "er verliebte sich",
+"participle": "verliebt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "verliebe mich",
+"du": "verliebst dich",
+"er_sie": "verliebt sich",
+"wir": "verlieben uns",
+"ihr": "verliebt euch",
+"sie": "verlieben sich"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to fall in love",
+"bengali": "প্রেমে পড়া",
+"example": "Er hat sich in seine Kollegin verliebt."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0946",
+"german": "verlieren",
+"word": "verlieren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er verliert",
+"past": "er verlor",
+"participle": "verloren",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "ie -> o",
+"full_present": {
+"ich": "verliere",
+"du": "verlierst",
+"er_sie": "verliert",
+"wir": "verlieren",
+"ihr": "verliert",
+"sie": "verlieren"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to lose",
+"bengali": "হারানো, হেরে যাওয়া",
+"example": "Ich habe mein Portemonnaie verloren."
+}
+],
+"synonym": "einbüßen",
+"starred": false
+},
+{
+"id": "a2_0947",
+"german": "vermeiden",
+"word": "vermeiden",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "ver-",
+"meaning": "avoid",
+"related": ["Vermeidung"]
+},
+"conjugation": {
+"present": "er vermeidet",
+"past": "er vermied",
+"participle": "vermieden",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "ei -> ie",
+"full_present": {
+"ich": "vermeide",
+"du": "vermeidest",
+"er_sie": "vermeidet",
+"wir": "vermeiden",
+"ihr": "vermeidet",
+"sie": "vermeiden"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to avoid, prevent",
+"bengali": "এড়িয়ে চলা, বর্জন করা",
+"example": "Man sollte Fehler nach Möglichkeit vermeiden."
+}
+],
+"synonym": "meiden",
+"starred": false
+},
+{
+"id": "a2_0948",
+"german": "die Vermeidung",
+"word": "Vermeidung",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "avoidance, prevention",
+"bengali": "এড়িয়ে চলা, প্রতিরোধ",
+"example": "Die Vermeidung von Plastikmüll ist wichtig für die Umwelt."
+}
+],
+"synonym": "die Abwendung",
+"starred": false
+},
+{
+"id": "a2_0949",
+"german": "vermieten",
+"word": "vermieten",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "ver-",
+"meaning": "rent out",
+"related": ["Miete", "Vermieter"]
+},
+"conjugation": {
+"present": "er vermietet",
+"past": "er vermietete",
+"participle": "vermietet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "vermiete",
+"du": "vermietest",
+"er_sie": "vermietet",
+"wir": "vermieten",
+"ihr": "vermietet",
+"sie": "vermieten"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to rent out, lease",
+"bengali": "ভাড়া দেওয়া",
+"example": "Herr Müller vermietet seine Wohnung ab Mai."
+}
+],
+"synonym": "pachten",
+"starred": false
+},
+{
+"id": "a2_0950",
+"german": "der/die Vermieter/in",
+"word": "Vermieter/in",
+"article": "der/die",
+"plural": "die Vermieter / die Vermieterinnen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "landlord, landlady",
+"bengali": "বাড়িওয়ালা",
+"example": "Unser Vermieter ist sehr nett und hilfsbereit."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0951",
+"german": "vermitteln",
+"word": "vermitteln",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er vermittelt",
+"past": "er vermittelte",
+"participle": "vermittelt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "vermittele",
+"du": "vermittelst",
+"er_sie": "vermittelt",
+"wir": "vermitteln",
+"ihr": "vermittelt",
+"sie": "vermitteln"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to mediate, arrange, convey",
+"bengali": "মধ্যস্থতা করা, ব্যবস্থা করে দেওয়া",
+"example": "Die Agentur vermittelt Arbeitsplätze im Ausland."
+}
+],
+"synonym": "schlichten",
+"starred": false
+},
+{
+"id": "a2_0952",
+"german": "die Verpackung",
+"word": "Verpackung",
+"article": "die",
+"plural": "die Verpackungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "packaging, wrapping",
+"bengali": "মোড়ক, প্যাকেজিং",
+"example": "Werfen Sie die Verpackung bitte in die gelbe Tonne."
+}
+],
+"synonym": "die Hülle",
+"starred": false
+},
+{
+"id": "a2_0953",
+"german": "verpassen",
+"word": "verpassen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "ver-",
+"meaning": "miss",
+"related": ["passen"]
+},
+"conjugation": {
+"present": "er verpasst",
+"past": "er verpasste",
+"participle": "verpasst",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "verpasse",
+"du": "verpasst",
+"er_sie": "verpasst",
+"wir": "verpassen",
+"ihr": "verpasst",
+"sie": "verpassen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to miss (a train, opportunity)",
+"bengali": "মিস করা, ধরতে না পারা (যেমন ট্রেন)",
+"example": "Schnell, sonst verpassen wir den Bus!"
+}
+],
+"synonym": "versäumen",
+"starred": false
+},
+{
+"id": "a2_0954",
+"german": "verrückt",
+"word": "verrückt",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "crazy, mad",
+"bengali": "পাগল, অদ্ভুত",
+"example": "Bist du verrückt geworden?"
+}
+],
+"synonym": "wahnsinnig",
+"starred": false
+},
+{
+"id": "a2_0955",
+"german": "verschlafen",
+"word": "verschlafen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "ver-",
+"meaning": "oversleep",
+"related": ["schlafen"]
+},
+"conjugation": {
+"present": "er verschläft",
+"past": "er verschlief",
+"participle": "verschlafen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "a -> ä",
+"full_present": {
+"ich": "verschlafe",
+"du": "verschläfst",
+"er_sie": "verschläft",
+"wir": "verschlafen",
+"ihr": "verschlaft",
+"sie": "verschlafen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to oversleep",
+"bengali": "দেরি করে ঘুম থেকে ওঠা, বেশি ঘুমানো",
+"example": "Ich habe heute Morgen verschlafen und den Zug verpasst."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0956",
+"german": "verschreiben",
+"word": "verschreiben",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "ver-",
+"meaning": "prescribe",
+"related": ["schreiben"]
+},
+"conjugation": {
+"present": "er verschreibt",
+"past": "er verschrieb",
+"participle": "verschrieben",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "ei -> ie",
+"full_present": {
+"ich": "verschreibe",
+"du": "verschreibst",
+"er_sie": "verschreibt",
+"wir": "verschreiben",
+"ihr": "verschreibt",
+"sie": "verschreiben"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to prescribe (medicine), to make a typo",
+"bengali": "প্রেসক্রিপশন বা ওষুধের লিখে দেওয়া",
+"example": "Der Arzt verschreibt mir ein Antibiotikum."
+}
+],
+"synonym": "verordnen",
+"starred": false
+},
+{
+"id": "a2_0957",
+"german": "die Versicherung",
+"word": "Versicherung",
+"article": "die",
+"plural": "die Versicherungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "insurance",
+"bengali": "বীমা",
+"example": "Haben Sie eine Krankenversicherung?"
+}
+],
+"synonym": "die Assekuranz",
+"starred": false
+},
+{
+"id": "a2_0958",
+"german": "der/die Versicherungsnehmer/in",
+"word": "Versicherungsnehmer/in",
+"article": "der/die",
+"plural": "die Versicherungsnehmer / die Versicherungsnehmerinnen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "policyholder",
+"bengali": "বীমা গ্রহীতা",
+"example": "Der Versicherungsnehmer muss den Schaden sofort melden."
+}
+],
+"synonym": "der Versicherte",
+"starred": false
+},
+{
+"id": "a2_0959",
+"german": "der Versicherungstarif",
+"word": "Versicherungstarif",
+"article": "der",
+"plural": "die Versicherungstarife",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "insurance rate, insurance tariff",
+"bengali": "বীমার কিস্তি বা হার",
+"example": "Wir suchen nach einem günstigeren Versicherungstarif."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0960",
+"german": "die Verspannung",
+"word": "Verspannung",
+"article": "die",
+"plural": "die Verspannungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "muscle tension",
+"bengali": "মাংসপেশির টান বা শক্ত ভাব",
+"example": "Ich habe schmerzhafte Verspannungen im Nacken."
+}
+],
+"synonym": "die Verhärtung",
+"starred": false
+},
+{
+"id": "a2_0961",
+"german": "verspätet",
+"word": "verspätet",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "delayed, late",
+"bengali": "বিলম্বিত",
+"example": "Der verspätete Zug kam erst um Mitternacht an."
+}
+],
+"synonym": "versäumt",
+"starred": false
+},
+{
+"id": "a2_0962",
+"german": "die Verspätung",
+"word": "Verspätung",
+"article": "die",
+"plural": "die Verspätungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "delay",
+"bengali": "বিলম্ব, দেরি",
+"example": "Der Flug hatte leider zwei Stunden Verspätung."
+}
+],
+"synonym": "die Verzögerung",
+"starred": false
+},
+{
+"id": "a2_0963",
+"german": "der Versuch",
+"word": "Versuch",
+"article": "der",
+"plural": "die Versuche",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "attempt, try, experiment",
+"bengali": "চেষ্টা, পরীক্ষা",
+"example": "Das war ein gelungener Versuch."
+}
+],
+"synonym": "das Experiment",
+"starred": false
+},
+{
+"id": "a2_0964",
+"german": "verteilen",
+"word": "verteilen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "ver-",
+"meaning": "distribute",
+"related": ["teilen"]
+},
+"conjugation": {
+"present": "er verteilt",
+"past": "er verteilte",
+"participle": "verteilt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "verteile",
+"du": "verteilst",
+"er_sie": "verteilt",
+"wir": "verteilen",
+"ihr": "verteilt",
+"sie": "verteilen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to distribute, share out",
+"bengali": "বিতরণ করা, ভাগ করে দেওয়া",
+"example": "Könntest du bitte die Zettel verteilen?"
+}
+],
+"synonym": "aufteilen",
+"starred": false
+},
+{
+"id": "a2_0965",
+"german": "der Vertrieb",
+"word": "Vertrieb",
+"article": "der",
+"plural": "die Vertriebe",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "sales, distribution",
+"bengali": "বিক্রয় ও বিপণন বিভাগ, বিতরণ",
+"example": "Er arbeitet seit fünf Jahren im Vertrieb."
+}
+],
+"synonym": "der Verkauf",
+"starred": false
+},
+{
+"id": "a2_0966",
+"german": "verwenden",
+"word": "verwenden",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "ver-",
+"meaning": "use",
+"related": ["Verwendung"]
+},
+"conjugation": {
+"present": "er verwendet",
+"past": "er verwendete / verwandte",
+"participle": "verwendet / verwandt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "verwende",
+"du": "verwendest",
+"er_sie": "verwendet",
+"wir": "verwenden",
+"ihr": "verwendet",
+"sie": "verwenden"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to use, employ",
+"bengali": "ব্যবহার করা",
+"example": "Für diesen Kuchen verwende ich frische Äpfel."
+}
+],
+"synonym": "benutzen",
+"starred": false
+},
+{
+"id": "a2_0967",
+"german": "der Verwendungszweck",
+"word": "Verwendungszweck",
+"article": "der",
+"plural": "die Verwendungszwecke",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "intended use, reference (bank transfer)",
+"bengali": "ব্যবহারের উদ্দেশ্য, ব্যাংকিং রেফারেন্স",
+"example": "Tragen Sie bitte die Rechnungsnummer als Verwendungszweck ein."
+}
+],
+"synonym": "der Betreff",
+"starred": false
+},
+{
+"id": "a2_0968",
+"german": "der Vokabeltest",
+"word": "Vokabeltest",
+"article": "der",
+"plural": "die Vokabeltests",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "vocabulary test",
+"bengali": "শব্দার্থ পরীক্ষা",
+"example": "Wir schreiben am Freitag einen Vokabeltest in Englisch."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0969",
+"german": "der Volleyball",
+"word": "Volleyball",
+"article": "der",
+"plural": "die Volleybälle",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "volleyball (sport/ball)",
+"bengali": "ভলিবল",
+"example": "Er spielt sehr gerne Volleyball am Strand."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0970",
+"german": "das Volleyballspiel",
+"word": "Volleyballspiel",
+"article": "das",
+"plural": "die Volleyballspiele",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "volleyball match",
+"bengali": "ভলিবল খেলা",
+"example": "Das Volleyballspiel gestern war sehr spannend."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0971",
+"german": "vollständig",
+"word": "vollständig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "complete, total",
+"bengali": "সম্পূর্ণ",
+"example": "Die Unterlagen sind leider noch nicht vollständig."
+}
+],
+"synonym": "komplett",
+"starred": false
+},
+{
+"id": "a2_0972",
+"german": "die Vollzeit",
+"word": "Vollzeit",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "full-time",
+"bengali": "পূর্ণকালীন সময়, ফুল-টাইম",
+"example": "Nach dem Studium möchte ich in Vollzeit arbeiten."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0973",
+"german": "die Vollzeitstelle",
+"word": "Vollzeitstelle",
+"article": "die",
+"plural": "die Vollzeitstellen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "full-time job",
+"bengali": "পূর্ণকালীন চাকরি",
+"example": "Sie hat eine Vollzeitstelle bei einer Versicherung gefunden."
+}
+],
+"synonym": "der Vollzeitjob",
+"starred": false
+},
+{
+"id": "a2_0974",
+"german": "die Voraussetzung",
+"word": "Voraussetzung",
+"article": "die",
+"plural": "die Voraussetzungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "requirement, condition, prerequisite",
+"bengali": "পূর্বশর্ত, যোগ্যতা",
+"example": "Gute Deutschkenntnisse sind eine Voraussetzung für den Job."
+}
+],
+"synonym": "die Bedingung",
+"starred": false
+},
+{
+"id": "a2_0975",
+"german": "vorbeikommen",
+"word": "vorbeikommen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "vorbei-",
+"meaning": "by, past",
+"related": ["kommen"]
+},
+"conjugation": {
+"present": "er kommt vorbei",
+"past": "er kam vorbei",
+"participle": "vorbeigekommen",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": "o -> a",
+"full_present": {
+"ich": "komme vorbei",
+"du": "kommst vorbei",
+"er_sie": "kommt vorbei",
+"wir": "kommen vorbei",
+"ihr": "kommt vorbei",
+"sie": "kommen vorbei"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to drop by, come over",
+"bengali": "দেখা করতে আসা, কাছ দিয়ে যাওয়া",
+"example": "Du kannst heute Abend gerne bei mir vorbeikommen."
+}
+],
+"synonym": "besuchen",
+"starred": false
+},
+{
+"id": "a2_0976",
+"german": "vorbereiten",
+"word": "vorbereiten",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "vor-",
+"meaning": "before, pre",
+"related": ["Vorbereitung", "bereiten"]
+},
+"conjugation": {
+"present": "er bereitet vor",
+"past": "er bereitete vor",
+"participle": "vorbereitet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "bereite vor",
+"du": "bereitest vor",
+"er_sie": "bereitet vor",
+"wir": "bereiten vor",
+"ihr": "bereitet vor",
+"sie": "bereiten vor"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to prepare",
+"bengali": "প্রস্তুতি নেওয়া",
+"example": "Ich muss mich auf die Prüfung vorbereiten."
+}
+],
+"synonym": "planen",
+"starred": false
+},
+{
+"id": "a2_0977",
+"german": "die Vorbereitung",
+"word": "Vorbereitung",
+"article": "die",
+"plural": "die Vorbereitungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "preparation",
+"bengali": "প্রস্তুতি",
+"example": "Die Vorbereitungen für das Fest laufen auf Hochtouren."
+}
+],
+"synonym": "die Planung",
+"starred": false
+},
+{
+"id": "a2_0978",
+"german": "vorhanden",
+"word": "vorhanden",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "available, existing, present",
+"bengali": "বিদ্যমান, মজুত আছে এমন",
+"example": "Es sind noch genügend Plätze vorhanden."
+}
+],
+"synonym": "verfügbar",
+"starred": false
+},
+{
+"id": "a2_0979",
+"german": "die Vorkenntnisse",
+"word": "Vorkenntnisse",
+"article": "die",
+"plural": "die Vorkenntnisse",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "prior knowledge, previous experience",
+"bengali": "পূর্ব অভিজ্ঞতা বা জ্ঞান",
+"example": "Für diesen Computerkurs braucht man keine Vorkenntnisse."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0980",
+"german": "die Vorlage",
+"word": "Vorlage",
+"article": "die",
+"plural": "die Vorlagen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "template, model, pass (sports)",
+"bengali": "টেমপ্লেট, খসড়া রূপ, নমুনা",
+"example": "Nutzen Sie bitte diese Vorlage für Ihre Bewerbung."
+}
+],
+"synonym": "das Muster",
+"starred": false
+},
+{
+"id": "a2_0981",
+"german": "die Vorlesung",
+"word": "Vorlesung",
+"article": "die",
+"plural": "die Vorlesungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "lecture (university)",
+"bengali": "বিশ্ববিদ্যালয়ের বক্তৃতা বা লেকচার",
+"example": "Die Vorlesung beginnt pünktlich um 10 Uhr."
+}
+],
+"synonym": "der Vortrag",
+"starred": false
+},
+{
+"id": "a2_0982",
+"german": "der Vorschlag",
+"word": "Vorschlag",
+"article": "der",
+"plural": "die Vorschläge",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "suggestion, proposal",
+"bengali": "প্রস্তাব, পরামর্শ",
+"example": "Das ist ein guter Vorschlag, machen wir es so."
+}
+],
+"synonym": "die Empfehlung",
+"starred": false
+},
+{
+"id": "a2_0983",
+"german": "die Vorschrift",
+"word": "Vorschrift",
+"article": "die",
+"plural": "die Vorschriften",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "regulation, rule, instruction",
+"bengali": "নিয়ম, কানুন, নির্দেশনা",
+"example": "Man muss sich an die gesetzlichen Vorschriften halten."
+}
+],
+"synonym": "die Regel",
+"starred": false
+},
+{
+"id": "a2_0984",
+"german": "vorsichtig",
+"word": "Vorsicht",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "caution, care, attention",
+"bengali": "সতর্কতা",
+"example": "Vorsicht beim Überqueren der Straße!"
+}
+],
+"synonym": "die Achtsamkeit",
+"starred": false
+},
+{
+"id": "a2_0985",
+"german": "das Vorstellungsgespräch",
+"word": "Vorstellungsgespräch",
+"article": "das",
+"plural": "die Vorstellungsgespräche",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "job interview",
+"bengali": "চাকরির ইন্টারভিউ",
+"example": "Morgen habe ich ein Vorstellungsgespräch bei einer großen Firma."
+}
+],
+"synonym": "das Bewerbungsgespräch",
+"starred": false
+},
+{
+"id": "a2_0986",
+"german": "der Vorteil",
+"word": "Vorteil",
+"article": "der",
+"plural": "die Vorteile",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "advantage, benefit",
+"bengali": "সুবিধা, লাভ",
+"example": "Ein Auto zu haben, bringt viele Vorteile mit sich."
+}
+],
+"synonym": "der Nutzen",
+"starred": false
+},
+{
+"id": "a2_0987",
+"german": "der Vortrag",
+"word": "Vortrag",
+"article": "der",
+"plural": "die Vorträge",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "presentation, lecture, talk",
+"bengali": "বক্তৃতা, প্রেজেন্টেশন",
+"example": "Sie hat einen interessanten Vortrag gehalten."
+}
+],
+"synonym": "die Präsentation",
+"starred": false
+},
+{
+"id": "a2_0988",
+"german": "während",
+"word": "während",
+"article": null,
+"plural": null,
+"type": "Präposition",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Präposition",
+"english": "during, while",
+"bengali": "চলাকালীন সময়ে",
+"example": "Während der Prüfung darf man nicht sprechen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0989",
+"german": "wandern",
+"word": "wandern",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er wandert",
+"past": "er wanderte",
+"participle": "gewandert",
+"auxiliary": "ist",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "wandere",
+"du": "wanderst",
+"er_sie": "wandert",
+"wir": "wandern",
+"ihr": "wandert",
+"sie": "wandern"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to hike, wander",
+"bengali": "পায়ে হেঁটে ভ্রমণ করা, হাইকিং করা",
+"example": "Am Wochenende wandern wir in den Bergen."
+}
+],
+"synonym": "marschieren",
+"starred": false
+},
+{
+"id": "a2_0990",
+"german": "der Wanderschuh",
+"word": "Wanderschuh",
+"article": "der",
+"plural": "die Wanderschuhe",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "hiking boot",
+"bengali": "হাইকিং বা ভ্রমণের জুতো",
+"example": "Für die Bergtour brauchst du feste Wanderschuhe."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0991",
+"german": "die Wärmflasche",
+"word": "Wärmflasche",
+"article": "die",
+"plural": "die Wärmflaschen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "hot water bottle",
+"bengali": "গরম জলের ব্যাগ (সেঁক দেওয়ার)",
+"example": "Bei Bauchschmerzen hilft mir eine Wärmflasche."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0992",
+"german": "die Webseite",
+"word": "Webseite",
+"article": "die",
+"plural": "die Webseiten",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "website, webpage",
+"bengali": "ওয়েবসাইট",
+"example": "Auf unserer Webseite finden Sie alle Informationen."
+}
+],
+"synonym": "die Homepage",
+"starred": false
+},
+{
+"id": "a2_0993",
+"german": "der Wecker",
+"word": "Wecker",
+"article": "der",
+"plural": "die Wecker",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "alarm clock",
+"bengali": "অ্যালার্ম ঘড়ি",
+"example": "Der Wecker klingelt jeden Morgen um 6 Uhr."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0994",
+"german": "wegen",
+"word": "wegen",
+"article": null,
+"plural": null,
+"type": "Präposition",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Präposition",
+"english": "because of, due to",
+"bengali": "কারণে",
+"example": "Wegen des Regens ist das Spiel ausgefallen."
+}
+],
+"synonym": "aufgrund",
+"starred": false
+},
+{
+"id": "a2_0995",
+"german": "weggehen",
+"word": "weggehen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "weg-",
+"meaning": "away",
+"related": ["gehen", "weglaufen"]
+},
+"conjugation": {
+"present": "er geht weg",
+"past": "er ging weg",
+"participle": "weggegangen",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": "e -> i",
+"full_present": {
+"ich": "gehe weg",
+"du": "gehst weg",
+"er_sie": "geht weg",
+"wir": "gehen weg",
+"ihr": "geht weg",
+"sie": "gehen weg"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to go away, leave, go out (party)",
+"bengali": "চলে যাওয়া, বাইরে ঘুরতে যাওয়া",
+"example": "Er ist vor einer Stunde weggegangen."
+}
+],
+"synonym": "verlassen",
+"starred": false
+},
+{
+"id": "a2_0996",
+"german": "weglaufen",
+"word": "weglaufen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "weg-",
+"meaning": "away",
+"related": ["laufen", "weggehen"]
+},
+"conjugation": {
+"present": "er läuft weg",
+"past": "er lief weg",
+"participle": "weggelaufen",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": "au -> äu",
+"full_present": {
+"ich": "laufe weg",
+"du": "läufst weg",
+"er_sie": "läuft weg",
+"wir": "laufen weg",
+"ihr": "lauft weg",
+"sie": "laufen weg"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to run away, escape",
+"bengali": "পালিয়ে যাওয়া, দৌড়ে চলে যাওয়া",
+"example": "Der Hund ist im Park weggelaufen."
+}
+],
+"synonym": "fliehen",
+"starred": false
+},
+{
+"id": "a2_0997",
+"german": "weiblich",
+"word": "weiblich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "female, feminine",
+"bengali": "নারীবাচক, স্ত্রীলিঙ্গ",
+"example": "Bitte kreuzen Sie 'weiblich' oder 'männlich' an."
+}
+],
+"synonym": "feminin",
+"starred": false
+},
+{
+"id": "a2_0998",
+"german": "weil",
+"word": "weil",
+"article": null,
+"plural": null,
+"type": "Konjunktion",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Konjunktion",
+"english": "because",
+"bengali": "কারণ, যেহেতু",
+"example": "Ich bleibe im Bett, weil ich krank bin."
+}
+],
+"synonym": "da",
+"starred": false
+},
+{
+"id": "a2_0999",
+"german": "die Weiterbildung",
+"word": "Weiterbildung",
+"article": "die",
+"plural": "die Weiterbildungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "further education, advanced training",
+"bengali": "উচ্চতর প্রশিক্ষণ, পরবর্তী শিক্ষা",
+"example": "Die Firma bezahlt mir eine Weiterbildung im Bereich Marketing."
+}
+],
+"synonym": "die Fortbildung",
+"starred": false
+},
+{
+"id": "a2_1000",
+"german": "weiterhin",
+"word": "weiterhin",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "furthermore, still, in the future",
+"bengali": "তদুপরি, এখনও, ভবিষ্যতেও",
+"example": "Ich wünsche Ihnen weiterhin viel Erfolg."
+}
+],
+"synonym": "ferner",
+"starred": false
+}
+]

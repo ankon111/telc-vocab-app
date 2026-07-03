@@ -1,0 +1,2278 @@
+[
+{
+"id": "b1_0101",
+"german": "die Auswahl",
+"word": "Auswahl",
+"article": "die",
+"plural": "die Auswahlen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "aus-", "meaning": "selection from a set", "related": ["wählen", "auswählen"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "selection, choice",
+"bengali": "নির্বাচন, বাছাই",
+"example": "Es gibt eine große Auswahl an Schuhen."
+}
+],
+"synonym": "die Wahl",
+"starred": false
+},
+{
+"id": "b1_0102",
+"german": "der Auswanderer",
+"word": "Auswanderer",
+"article": "der",
+"plural": "die Auswanderer",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "aus-", "meaning": "moving out/away", "related": ["wandern", "einwandern"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "emigrant",
+"bengali": "অভিবাসী (যে দেশ ত্যাগ করে)",
+"example": "Viele Auswanderer suchen ein besseres Leben."
+}
+],
+"synonym": "der Emigrant",
+"starred": false
+},
+{
+"id": "b1_0103",
+"german": "die Auswanderung",
+"word": "Auswanderung",
+"article": "die",
+"plural": "die Auswanderungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "aus-", "meaning": "emigration process", "related": ["wandern", "Auswanderer"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "emigration",
+"bengali": "দেশত্যাগ, অভিবাসন",
+"example": "Die Auswanderung ist ein großer Schritt."
+}
+],
+"synonym": "die Emigration",
+"starred": false
+},
+{
+"id": "b1_0104",
+"german": "der Auszug",
+"word": "Auszug",
+"article": "der",
+"plural": "die Auszüge",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "aus-", "meaning": "moving out or extract", "related": ["ziehen", "ausziehen"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "moving out, extract (text), bank statement",
+"bengali": "বাসা পরিবর্তন, উদ্ধৃতি, ব্যাংক স্টেটমেন্ট",
+"example": "Ich brauche den Kontoauszug für die Bank."
+}
+],
+"synonym": "der Kontoauszug",
+"starred": false
+},
+{
+"id": "b1_0105",
+"german": "der/die Autofahrer/in",
+"word": "Autofahrer/in",
+"article": "der/die",
+"plural": "die Autofahrer / die Autofahrerinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "driver (car)",
+"bengali": "গাড়ির চালক",
+"example": "Autofahrer müssen an der Ampel halten."
+}
+],
+"synonym": "der Pkw-Fahrer",
+"starred": false
+},
+{
+"id": "b1_0106",
+"german": "die Automarke",
+"word": "Automarke",
+"article": "die",
+"plural": "die Automarken",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "car brand",
+"bengali": "গাড়ির ব্র্যান্ড",
+"example": "Welche Automarke bevorzugst du?"
+}
+],
+"synonym": "die Fahrzeugmarke",
+"starred": false
+},
+{
+"id": "b1_0107",
+"german": "das Autorennen",
+"word": "Autorennen",
+"article": "das",
+"plural": "die Autorennen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "car race",
+"bengali": "গাড়ি রেস",
+"example": "Er liebt es, Autorennen im Fernsehen zu schauen."
+}
+],
+"synonym": "das Formel-1-Rennen",
+"starred": false
+},
+{
+"id": "b1_0108",
+"german": "das Autoteil",
+"word": "Autoteil",
+"article": "das",
+"plural": "die Autoteile",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "car part",
+"bengali": "গাড়ির যন্ত্রাংশ",
+"example": "Ich muss ein neues Autoteil kaufen."
+}
+],
+"synonym": "das Ersatzteil",
+"starred": false
+},
+{
+"id": "b1_0109",
+"german": "die Autoversicherung",
+"word": "Autoversicherung",
+"article": "die",
+"plural": "die Autoversicherungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "car insurance",
+"bengali": "গাড়ির বীমা",
+"example": "Meine Autoversicherung ist sehr teuer geworden."
+}
+],
+"synonym": "die Kfz-Versicherung",
+"starred": false
+},
+{
+"id": "b1_0110",
+"german": "der Bachelor",
+"word": "Bachelor",
+"article": "der",
+"plural": "die Bachelors",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "bachelor's degree",
+"bengali": "স্নাতক ডিগ্রি",
+"example": "Nach drei Jahren hat sie ihren Bachelor."
+}
+],
+"synonym": "der Bakkalaureus",
+"starred": false
+},
+{
+"id": "b1_0111",
+"german": "das Balkongeländer",
+"word": "Balkongeländer",
+"article": "das",
+"plural": "die Balkongeländer",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "balcony railing",
+"bengali": "বারান্দার রেলিং",
+"example": "Das Balkongeländer muss neu gestrichen werden."
+}
+],
+"synonym": "die Balkonbrüstung",
+"starred": false
+},
+{
+"id": "b1_0112",
+"german": "der Bankeinzug",
+"word": "Bankeinzug",
+"article": "der",
+"plural": "die Bankeinzüge",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "direct debit",
+"bengali": "ব্যাংক থেকে সরাসরি টাকা কাটা",
+"example": "Ich bezahle meine Rechnung per Bankeinzug."
+}
+],
+"synonym": "die Lastschrift",
+"starred": false
+},
+{
+"id": "b1_0113",
+"german": "die Bearbeitung",
+"word": "Bearbeitung",
+"article": "die",
+"plural": "die Bearbeitungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "be-", "meaning": "process of working on something", "related": ["arbeiten", "bearbeiten"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "processing, handling",
+"bengali": "প্রক্রিয়াকরণ",
+"example": "Die Bearbeitung dauert zwei Wochen."
+}
+],
+"synonym": "die Abwicklung",
+"starred": false
+},
+{
+"id": "b1_0114",
+"german": "bedenklich",
+"word": "bedenklich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "worrying, questionable",
+"bengali": "উদ্বেগজনক, সন্দেহজনক",
+"example": "Das ist eine bedenkliche Entwicklung."
+}
+],
+"synonym": "besorgniserregend",
+"starred": false
+},
+{
+"id": "b1_0115",
+"german": "die Bedingung",
+"word": "Bedingung",
+"article": "die",
+"plural": "die Bedingungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "condition, requirement",
+"bengali": "শর্ত",
+"example": "Das ist eine wichtige Bedingung für den Vertrag."
+}
+],
+"synonym": "die Voraussetzung",
+"starred": false
+},
+{
+"id": "b1_0116",
+"german": "befestigen",
+"word": "befestigen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "be-", "meaning": "making firm/fastening", "related": ["fest", "festigen"] },
+"conjugation": {
+"present": "er befestigt",
+"past": "er befestigte",
+"participle": "befestigt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "befestige", "du": "befestigst", "er_sie": "befestigt", "wir": "befestigen", "ihr": "befestigt", "sie": "befestigen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to fasten, to attach",
+"bengali": "আটকে দেওয়া, দৃঢ় করা",
+"example": "Kannst du das Schild an der Wand befestigen?"
+}
+],
+"synonym": "fixieren",
+"starred": false
+},
+{
+"id": "b1_0117",
+"german": "befragen",
+"word": "befragen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "be-", "meaning": "questioning someone", "related": ["fragen", "umfragen"] },
+"conjugation": {
+"present": "er befragt",
+"past": "er befragte",
+"participle": "befragt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "befrage", "du": "befragst", "er_sie": "befragt", "wir": "befragen", "ihr": "befragt", "sie": "befragen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to interview, to survey",
+"bengali": "জিজ্ঞাসাবাদ করা, জরিপ করা",
+"example": "Wir haben viele Leute zur Wahl befragt."
+}
+],
+"synonym": "interviewen",
+"starred": false
+},
+{
+"id": "b1_0118",
+"german": "begeistern",
+"word": "begeistern",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "be-", "meaning": "filling with enthusiasm", "related": ["Geist", "begeistert"] },
+"conjugation": {
+"present": "er begeistert",
+"past": "er begeisterte",
+"participle": "begeistert",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "begeistere", "du": "begeisterst", "er_sie": "begeistert", "wir": "begeistern", "ihr": "begeistert", "sie": "begeistern" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to inspire, to thrill",
+"bengali": "উৎসাহিত করা, মুগ্ধ করা",
+"example": "Das Konzert hat alle begeistert."
+}
+],
+"synonym": "begeistern",
+"starred": false
+},
+{
+"id": "b1_0119",
+"german": "beglaubigen",
+"word": "beglaubigen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "be-", "meaning": "to authenticate/notarize", "related": ["glauben", "Glaube"] },
+"conjugation": {
+"present": "er beglaubigt",
+"past": "er beglaubigte",
+"participle": "beglaubigt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "beglaubige", "du": "beglaubigst", "er_sie": "beglaubigt", "wir": "beglaubigen", "ihr": "beglaubigt", "sie": "beglaubigen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to authenticate, to notarize",
+"bengali": "প্রত্যয়ন করা, সত্যায়িত করা",
+"example": "Ich muss die Kopie beglaubigen lassen."
+}
+],
+"synonym": "bestätigen",
+"starred": false
+},
+{
+"id": "b1_0120",
+"german": "die Beglaubigung",
+"word": "Beglaubigung",
+"article": "die",
+"plural": "die Beglaubigungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "authentication, certification",
+"bengali": "প্রত্যয়ন, সত্যায়ন",
+"example": "Die Beglaubigung der Dokumente kostet Geld."
+}
+],
+"synonym": "die Bestätigung",
+"starred": false
+},
+{
+"id": "b1_0121",
+"german": "die Begleitperson",
+"word": "Begleitperson",
+"article": "die",
+"plural": "die Begleitpersonen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "companion, escort",
+"bengali": "সঙ্গী, এসকর্ট",
+"example": "Er kommt mit einer Begleitperson zum Fest."
+}
+],
+"synonym": "der Begleiter",
+"starred": false
+},
+{
+"id": "b1_0122",
+"german": "behalten",
+"word": "behalten",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "be-", "meaning": "to keep/retain", "related": ["halten"] },
+"conjugation": {
+"present": "er behält",
+"past": "er behielt",
+"participle": "behalten",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "a → ä",
+"full_present": { "ich": "behalte", "du": "behältst", "er_sie": "behält", "wir": "behalten", "ihr": "behaltet", "sie": "behalten" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to keep, to retain",
+"bengali": "ধরে রাখা, বজায় রাখা",
+"example": "Du kannst das Buch behalten."
+}
+],
+"synonym": "aufbewahren",
+"starred": false
+},
+{
+"id": "b1_0123",
+"german": "der Behälter",
+"word": "Behälter",
+"article": "der",
+"plural": "die Behälter",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "be-", "meaning": "container", "related": ["halten", "behalten"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "container",
+"bengali": "পাত্র, কন্টেইনার",
+"example": "Bitte geben Sie die Reste in einen Behälter."
+}
+],
+"synonym": "die Dose",
+"starred": false
+},
+{
+"id": "b1_0124",
+"german": "behaupten",
+"word": "behaupten",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "be-", "meaning": "claiming", "related": ["Haupt"] },
+"conjugation": {
+"present": "er behauptet",
+"past": "er behauptete",
+"participle": "behauptet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "behaupte", "du": "behauptest", "er_sie": "behauptet", "wir": "behaupten", "ihr": "behauptet", "sie": "behaupten" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to claim, to assert",
+"bengali": "দাবি করা",
+"example": "Er behauptet, dass er die Wahrheit sagt."
+}
+],
+"synonym": "erklären",
+"starred": false
+},
+{
+"id": "b1_0125",
+"german": "beherrschen",
+"word": "beherrschen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "be-", "meaning": "mastering", "related": ["Herr", "Herrschaft"] },
+"conjugation": {
+"present": "er beherrscht",
+"past": "er beherrschte",
+"participle": "beherrscht",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "beherrsche", "du": "beherrschst", "er_sie": "beherrscht", "wir": "beherrschen", "ihr": "beherrscht", "sie": "beherrschen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to master (a language), to control",
+"bengali": "দক্ষ হওয়া, আয়ত্ত করা",
+"example": "Sie beherrscht drei Sprachen fließend."
+}
+],
+"synonym": "können",
+"starred": false
+},
+{
+"id": "b1_0126",
+"german": "beilegen",
+"word": "beilegen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "bei-", "meaning": "enclosing", "related": ["legen"] },
+"conjugation": {
+"present": "er legt bei",
+"past": "er legte bei",
+"participle": "beigelegt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "lege bei", "du": "legst bei", "er_sie": "legt bei", "wir": "legen bei", "ihr": "legt bei", "sie": "legen bei" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to enclose (documents)",
+"bengali": "সংযুক্ত করা, চিঠির সাথে দেওয়া",
+"example": "Ich habe den Vertrag beigelegt."
+}
+],
+"synonym": "anhängen",
+"starred": false
+},
+{
+"id": "b1_0127",
+"german": "die Bekannte",
+"word": "Bekannte",
+"article": "die",
+"plural": "die Bekannten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "acquaintance (female)",
+"bengali": "পরিচিতা (মহিলা)",
+"example": "Sie ist eine gute Bekannte von mir."
+}
+],
+"synonym": "die Freundin",
+"starred": false
+},
+{
+"id": "b1_0128",
+"german": "belasten",
+"word": "belasten",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "be-", "meaning": "burdening", "related": ["Last", "belastet"] },
+"conjugation": {
+"present": "er belastet",
+"past": "er belastete",
+"participle": "belastet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "belaste", "du": "belastest", "er_sie": "belastet", "wir": "belasten", "ihr": "belastet", "sie": "belasten" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to burden, to stress, to pollute",
+"bengali": "ভারাক্রান্ত করা, চাপ দেওয়া",
+"example": "Die Arbeit belastet mich sehr."
+}
+],
+"synonym": "beanspruchen",
+"starred": false
+},
+{
+"id": "b1_0129",
+"german": "die Belastung",
+"word": "Belastung",
+"article": "die",
+"plural": "die Belastungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "burden, stress, load",
+"bengali": "চাপ, ভার",
+"example": "Das ist eine große Belastung für die Umwelt."
+}
+],
+"synonym": "die Beanspruchung",
+"starred": false
+},
+{
+"id": "b1_0130",
+"german": "beleidigen",
+"word": "beleidigen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "be-", "meaning": "insulting", "related": ["Leid"] },
+"conjugation": {
+"present": "er beleidigt",
+"past": "er beleidigte",
+"participle": "beleidigt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "beleidige", "du": "beleidigst", "er_sie": "beleidigt", "wir": "beleidigen", "ihr": "beleidigt", "sie": "beleidigen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to insult, to offend",
+"bengali": "অপমান করা",
+"example": "Er wollte niemanden beleidigen."
+}
+],
+"synonym": "kränken",
+"starred": false
+},
+{
+"id": "b1_0131",
+"german": "die Beleidigung",
+"word": "Beleidigung",
+"article": "die",
+"plural": "die Beleidigungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "insult, offense",
+"bengali": "অপমান",
+"example": "Das ist eine echte Beleidigung."
+}
+],
+"synonym": "die Kränkung",
+"starred": false
+},
+{
+"id": "b1_0132",
+"german": "beliebt",
+"word": "beliebt",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "popular",
+"bengali": "জনপ্রিয়",
+"example": "Er ist bei den Schülern sehr beliebt."
+}
+],
+"synonym": "populär",
+"starred": false
+},
+{
+"id": "b1_0133",
+"german": "benötigen",
+"word": "benötigen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "be-", "meaning": "needing", "related": ["nötig"] },
+"conjugation": {
+"present": "er benötigt",
+"past": "er benötigte",
+"participle": "benötigt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "benötige", "du": "benötigst", "er_sie": "benötigt", "wir": "benötigen", "ihr": "benötigt", "sie": "benötigen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to need, to require",
+"bengali": "প্রয়োজন হওয়া",
+"example": "Ich benötige Ihre Hilfe."
+}
+],
+"synonym": "brauchen",
+"starred": false
+},
+{
+"id": "b1_0134",
+"german": "das Benzin",
+"word": "Benzin",
+"article": "das",
+"plural": "die Benzine",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "gasoline, petrol",
+"bengali": "পেট্রোল",
+"example": "Das Auto braucht bleifreies Benzin."
+}
+],
+"synonym": "der Sprit",
+"starred": false
+},
+{
+"id": "b1_0135",
+"german": "beobachten",
+"word": "beobachten",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "be-", "meaning": "watching", "related": ["obacht"] },
+"conjugation": {
+"present": "er beobachtet",
+"past": "er beobachtete",
+"participle": "beobachtet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "beobachte", "du": "beobachtest", "er_sie": "beobachtet", "wir": "beobachten", "ihr": "beobachtet", "sie": "beobachten" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to watch, to observe",
+"bengali": "পর্যবেক্ষণ করা, দেখা",
+"example": "Wir konnten die Tiere beobachten."
+}
+],
+"synonym": "zuschauen",
+"starred": false
+},
+{
+"id": "b1_0136",
+"german": "berechtigt",
+"word": "berechtigt",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "authorized, entitled",
+"bengali": "অধিকারপ্রাপ্ত, বৈধ",
+"example": "Er ist zur Teilnahme berechtigt."
+}
+],
+"synonym": "befugt",
+"starred": false
+},
+{
+"id": "b1_0137",
+"german": "bereits",
+"word": "bereits",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "already",
+"bengali": "ইতিমধ্যে",
+"example": "Es ist bereits spät."
+}
+],
+"synonym": "schon",
+"starred": false
+},
+{
+"id": "b1_0138",
+"german": "berufen",
+"word": "berufen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "be-", "meaning": "calling/appointing", "related": ["Ruf", "Beruf"] },
+"conjugation": {
+"present": "er beruft",
+"past": "er berief",
+"participle": "berufen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "u → ie",
+"full_present": { "ich": "berufe", "du": "berufst", "er_sie": "beruft", "wir": "berufen", "ihr": "beruft", "sie": "berufen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to appoint, to call",
+"bengali": "নিযুক্ত করা",
+"example": "Er wurde in den Vorstand berufen."
+}
+],
+"synonym": "ernennen",
+"starred": false
+},
+{
+"id": "b1_0139",
+"german": "die Berufsbezeichnung",
+"word": "Berufsbezeichnung",
+"article": "die",
+"plural": "die Berufsbezeichnungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "job title",
+"bengali": "পেশার নাম, পদের নাম",
+"example": "Was ist Ihre genaue Berufsbezeichnung?"
+}
+],
+"synonym": "die Berufsbezeichnung",
+"starred": false
+},
+{
+"id": "b1_0140",
+"german": "die Berufserfahrung",
+"word": "Berufserfahrung",
+"article": "die",
+"plural": "die Berufserfahrungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "work experience",
+"bengali": "কাজের অভিজ্ঞতা",
+"example": "Sie haben viel Berufserfahrung."
+}
+],
+"synonym": "die Praxiserfahrung",
+"starred": false
+},
+{
+"id": "b1_0141",
+"german": "das Berufsleben",
+"word": "Berufsleben",
+"article": "das",
+"plural": "die Berufsleben",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "professional life",
+"bengali": "পেশাগত জীবন",
+"example": "Er steht am Anfang seines Berufslebens."
+}
+],
+"synonym": "die Arbeitswelt",
+"starred": false
+},
+{
+"id": "b1_0142",
+"german": "die Berufstätigkeit",
+"word": "Berufstätigkeit",
+"article": "die",
+"plural": "die Berufstätigkeiten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "employment, occupation",
+"bengali": "পেশাগত কাজ",
+"example": "Während ihrer Berufstätigkeit lernte sie viel."
+}
+],
+"synonym": "der Beruf",
+"starred": false
+},
+{
+"id": "b1_0143",
+"german": "die Besatzungszone",
+"word": "Besatzungszone",
+"article": "die",
+"plural": "die Besatzungszonen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "occupation zone",
+"bengali": "দখলকৃত অঞ্চল",
+"example": "Deutschland war in vier Besatzungszonen geteilt."
+}
+],
+"synonym": "die Zone",
+"starred": false
+},
+{
+"id": "b1_0144",
+"german": "beschädigen",
+"word": "beschädigen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "be-", "meaning": "causing damage", "related": ["Schaden"] },
+"conjugation": {
+"present": "er beschädigt",
+"past": "er beschädigte",
+"participle": "beschädigt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "beschädige", "du": "beschädigst", "er_sie": "beschädigt", "wir": "beschädigen", "ihr": "beschädigt", "sie": "beschädigen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to damage",
+"bengali": "ক্ষতি করা",
+"example": "Der Sturm hat das Dach beschädigt."
+}
+],
+"synonym": "kaputtmachen",
+"starred": false
+},
+{
+"id": "b1_0145",
+"german": "beschädigt",
+"word": "beschädigt",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "damaged",
+"bengali": "ক্ষতিগ্রস্ত",
+"example": "Das Paket kam beschädigt an."
+}
+],
+"synonym": "kaputt",
+"starred": false
+},
+{
+"id": "b1_0146",
+"german": "bescheinigen",
+"word": "bescheinigen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "be-", "meaning": "certifying", "related": ["Schein"] },
+"conjugation": {
+"present": "er bescheinigt",
+"past": "er bescheinigte",
+"participle": "bescheinigt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "bescheinige", "du": "bescheinigst", "er_sie": "bescheinigt", "wir": "bescheinigen", "ihr": "bescheinigt", "sie": "bescheinigen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to certify, to attest",
+"bengali": "প্রত্যয়ন করা, সার্টিফিকেট দেওয়া",
+"example": "Der Arzt bescheinigt die Krankheit."
+}
+],
+"synonym": "bestätigen",
+"starred": false
+},
+{
+"id": "b1_0147",
+"german": "beschimpfen",
+"word": "beschimpfen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "be-", "meaning": "verbally abusing", "related": ["Schimpf"] },
+"conjugation": {
+"present": "er beschimpft",
+"past": "er beschimpfte",
+"participle": "beschimpft",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "beschimpfe", "du": "beschimpfst", "er_sie": "beschimpft", "wir": "beschimpfen", "ihr": "beschimpft", "sie": "beschimpfen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to verbally abuse, to call names",
+"bengali": "গালিগালাজ করা",
+"example": "Er hat sie beschimpft."
+}
+],
+"synonym": "beleidigen",
+"starred": false
+},
+{
+"id": "b1_0148",
+"german": "die Beschimpfung",
+"word": "Beschimpfung",
+"article": "die",
+"plural": "die Beschimpfungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "verbal abuse, insult",
+"bengali": "গালিগালাজ",
+"example": "Die Beschimpfungen waren sehr laut."
+}
+],
+"synonym": "die Beleidigung",
+"starred": false
+},
+{
+"id": "b1_0149",
+"german": "beschweren",
+"word": "beschweren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "be-", "meaning": "complaining", "related": ["Schwere"] },
+"conjugation": {
+"present": "er beschwert",
+"past": "er beschwerte",
+"participle": "beschwert",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "beschwere", "du": "beschwerst", "er_sie": "beschwert", "wir": "beschweren", "ihr": "beschwert", "sie": "beschweren" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to complain (reflexive)",
+"bengali": "অভিযোগ করা",
+"example": "Er beschwerte sich über das Essen."
+}
+],
+"synonym": "klagen",
+"starred": false
+},
+{
+"id": "b1_0150",
+"german": "besiegen",
+"word": "besiegen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "be-", "meaning": "defeating", "related": ["Sieg"] },
+"conjugation": {
+"present": "er besiegt",
+"past": "er besiegte",
+"participle": "besiegt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "besiege", "du": "besiegst", "er_sie": "besiegt", "wir": "besiegen", "ihr": "besiegt", "sie": "besiegen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to defeat, to overcome",
+"bengali": "পরাজিত করা, জয় করা",
+"example": "Sie haben den Gegner besiegt."
+}
+],
+"synonym": "schlagen",
+"starred": false
+},
+{
+"id": "b1_0151",
+"german": "das Besprechungszimmer",
+"word": "Besprechungszimmer",
+"article": "das",
+"plural": "die Besprechungszimmer",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "meeting room",
+"bengali": "মিটিং রুম",
+"example": "Das Treffen findet im Besprechungszimmer statt."
+}
+],
+"synonym": "der Konferenzraum",
+"starred": false
+},
+{
+"id": "b1_0152",
+"german": "die Bestellhotline",
+"word": "Bestellhotline",
+"article": "die",
+"plural": "die Bestellhotlines",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "order hotline",
+"bengali": "অর্ডার করার হটলাইন",
+"example": "Sie können auch unsere Bestellhotline anrufen."
+}
+],
+"synonym": "die Bestellnummer",
+"starred": false
+},
+{
+"id": "b1_0153",
+"german": "der Betrag",
+"word": "Betrag",
+"article": "der",
+"plural": "die Beträge",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "amount (money)",
+"bengali": "পরিমাণ (টাকা)",
+"example": "Der Betrag ist auf Ihr Konto überwiesen."
+}
+],
+"synonym": "die Summe",
+"starred": false
+},
+{
+"id": "b1_0154",
+"german": "betreten",
+"word": "betreten",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "be-", "meaning": "entering", "related": ["tritt"] },
+"conjugation": {
+"present": "er betritt",
+"past": "er betrat",
+"participle": "betreten",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "e → i",
+"full_present": { "ich": "betrete", "du": "betrittst", "er_sie": "betritt", "wir": "betreten", "ihr": "betretet", "sie": "betreten" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to enter (a room)",
+"bengali": "প্রবেশ করা",
+"example": "Bitte den Rasen nicht betreten."
+}
+],
+"synonym": "hineingehen",
+"starred": false
+},
+{
+"id": "b1_0155",
+"german": "die Betriebswirtschaft",
+"word": "Betriebswirtschaft",
+"article": "die",
+"plural": "die Betriebswirtschaften",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "business administration",
+"bengali": "ব্যবসায় প্রশাসন",
+"example": "Sie studiert Betriebswirtschaft."
+}
+],
+"synonym": "die BWL",
+"starred": false
+},
+{
+"id": "b1_0156",
+"german": "betrunken",
+"word": "betrunken",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "drunk",
+"bengali": "মাতাল",
+"example": "Er war betrunken und konnte nicht fahren."
+}
+],
+"synonym": "angetrunken",
+"starred": false
+},
+{
+"id": "b1_0157",
+"german": "beurteilen",
+"word": "beurteilen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "be-", "meaning": "judging", "related": ["Urteil"] },
+"conjugation": {
+"present": "er beurteilt",
+"past": "er beurteilte",
+"participle": "beurteilt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "beurteile", "du": "beurteilst", "er_sie": "beurteilt", "wir": "beurteilen", "ihr": "beurteilt", "sie": "beurteilen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to judge, to assess",
+"bengali": "বিচার করা, মূল্যায়ন করা",
+"example": "Man kann das Ergebnis noch nicht beurteilen."
+}
+],
+"synonym": "bewerten",
+"starred": false
+},
+{
+"id": "b1_0158",
+"german": "der Beutel",
+"word": "Beutel",
+"article": "der",
+"plural": "die Beutel",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "bag, pouch",
+"bengali": "থলি",
+"example": "Ich habe einen Beutel für den Einkauf."
+}
+],
+"synonym": "die Tasche",
+"starred": false
+},
+{
+"id": "b1_0159",
+"german": "die Bevölkerung",
+"word": "Bevölkerung",
+"article": "die",
+"plural": "die Bevölkerungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "population",
+"bengali": "জনসংখ্যা",
+"example": "Die Bevölkerung wächst."
+}
+],
+"synonym": "die Einwohnerschaft",
+"starred": false
+},
+{
+"id": "b1_0160",
+"german": "das Bewerbungsschreiben",
+"word": "Bewerbungsschreiben",
+"article": "das",
+"plural": "die Bewerbungsschreiben",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "cover letter (application)",
+"bengali": "আবেদনপত্র",
+"example": "Das Bewerbungsschreiben ist sehr wichtig."
+}
+],
+"synonym": "das Anschreiben",
+"starred": false
+},
+{
+"id": "b1_0161",
+"german": "der/die Bewohner/in",
+"word": "Bewohner/in",
+"article": "der/die",
+"plural": "die Bewohner / die Bewohnerinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "resident, inhabitant",
+"bengali": "বাসিন্দা",
+"example": "Die Bewohner des Hauses sind sehr freundlich."
+}
+],
+"synonym": "der Einwohner",
+"starred": false
+},
+{
+"id": "b1_0162",
+"german": "bewusst",
+"word": "bewusst",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "conscious, aware, deliberate",
+"bengali": "সচেতন, ইচ্ছাকৃত",
+"example": "Er war sich des Fehlers bewusst."
+}
+],
+"synonym": "absichtlich",
+"starred": false
+},
+{
+"id": "b1_0163",
+"german": "der Bezahlvorgang",
+"word": "Bezahlvorgang",
+"article": "der",
+"plural": "die Bezahlvorgänge",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "payment process",
+"bengali": "পেমেন্ট প্রক্রিয়া",
+"example": "Der Bezahlvorgang dauerte zu lange."
+}
+],
+"synonym": "die Zahlung",
+"starred": false
+},
+{
+"id": "b1_0164",
+"german": "der Biergarten",
+"word": "Biergarten",
+"article": "der",
+"plural": "die Biergärten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "beer garden",
+"bengali": "বিয়ার গার্ডেন",
+"example": "Im Sommer sitzen wir gerne im Biergarten."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0165",
+"german": "der/die Bilanzbuchhalter/in",
+"word": "Bilanzbuchhalter/in",
+"article": "der/die",
+"plural": "die Bilanzbuchhalter / die Bilanzbuchhalterinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "accountant",
+"bengali": "হিসাবরক্ষক",
+"example": "Er arbeitet als Bilanzbuchhalter."
+}
+],
+"synonym": "der Buchhalter",
+"starred": false
+},
+{
+"id": "b1_0166",
+"german": "bio (=biologisch)",
+"word": "bio (=biologisch)",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "organic",
+"bengali": "জৈব",
+"example": "Wir kaufen nur Bio-Produkte."
+}
+],
+"synonym": "ökologisch",
+"starred": false
+},
+{
+"id": "b1_0167",
+"german": "biologisch",
+"word": "biologisch",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "biological",
+"bengali": "জৈবিক",
+"example": "Die biologische Vielfalt ist wichtig."
+}
+],
+"synonym": "ökologisch",
+"starred": false
+},
+{
+"id": "b1_0168",
+"german": "das Bioprodukt",
+"word": "Bioprodukt",
+"article": "das",
+"plural": "die Bioprodukte",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "organic product",
+"bengali": "জৈব পণ্য",
+"example": "Bioprodukte sind oft etwas teurer."
+}
+],
+"synonym": "das Naturprodukt",
+"starred": false
+},
+{
+"id": "b1_0169",
+"german": "bisher",
+"word": "bisher",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "until now, so far",
+"bengali": "এখন পর্যন্ত",
+"example": "Bisher gab es keine Probleme."
+}
+],
+"synonym": "bislang",
+"starred": false
+},
+{
+"id": "b1_0170",
+"german": "der Blinker",
+"word": "Blinker",
+"article": "der",
+"plural": "die Blinker",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "turn signal, indicator",
+"bengali": "গাড়ির ইনডিকেটর বা সিগন্যাল",
+"example": "Du hast vergessen zu blinken."
+}
+],
+"synonym": "der Fahrtrichtungsanzeiger",
+"starred": false
+},
+{
+"id": "b1_0171",
+"german": "bloß",
+"word": "bloß",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "just, merely, only",
+"bengali": "মাত্র, শুধু",
+"example": "Das ist bloß eine Ausrede."
+}
+],
+"synonym": "nur",
+"starred": false
+},
+{
+"id": "b1_0172",
+"german": "der Blumentopf",
+"word": "Blumentopf",
+"article": "der",
+"plural": "die Blumentöpfe",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "flower pot",
+"bengali": "ফুলের টব",
+"example": "Sie hat einen neuen Blumentopf gekauft."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0173",
+"german": "bohren",
+"word": "bohren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er bohrt",
+"past": "er bohrte",
+"participle": "gebohrt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "bohre", "du": "bohrst", "er_sie": "bohrt", "wir": "bohren", "ihr": "bohrt", "sie": "bohren" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to drill",
+"bengali": "ড্রিল করা, ফুটো করা",
+"example": "Er muss ein Loch in die Wand bohren."
+}
+],
+"synonym": "anbohren",
+"starred": false
+},
+{
+"id": "b1_0174",
+"german": "die Bordkarte",
+"word": "Bordkarte",
+"article": "die",
+"plural": "die Bordkarten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "boarding pass",
+"bengali": "বোর্ডিং পাস",
+"example": "Haben Sie Ihre Bordkarte dabei?"
+}
+],
+"synonym": "die Bordkarte",
+"starred": false
+},
+{
+"id": "b1_0175",
+"german": "die Boxen",
+"word": "Boxen",
+"article": "die",
+"plural": "die Boxen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "speakers, boxing (sport)",
+"bengali": "স্পিকার, বক্সিং (খেলা)",
+"example": "Die Boxen haben einen guten Klang."
+}
+],
+"synonym": "die Lautsprecher",
+"starred": false
+},
+{
+"id": "b1_0176",
+"german": "bremsen",
+"word": "bremsen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er bremst",
+"past": "er bremste",
+"participle": "gebremst",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "bremse", "du": "bremst", "er_sie": "bremst", "wir": "bremsen", "ihr": "bremst", "sie": "bremsen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to brake",
+"bengali": "ব্রেক করা",
+"example": "Du musst früher bremsen."
+}
+],
+"synonym": "abbremsen",
+"starred": false
+},
+{
+"id": "b1_0177",
+"german": "das Briefpapier",
+"word": "Briefpapier",
+"article": "das",
+"plural": "die Briefpapiere",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "letter paper",
+"bengali": "চিঠির কাগজ",
+"example": "Er schreibt auf hochwertigem Briefpapier."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0178",
+"german": "der/die Bundeskanzler/in",
+"word": "Bundeskanzler/in",
+"article": "der/die",
+"plural": "die Bundeskanzler / die Bundeskanzlerinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "chancellor (Germany)",
+"bengali": "জার্মানির চ্যান্সেলর",
+"example": "Der Bundeskanzler spricht heute im Parlament."
+}
+],
+"synonym": "der Regierungschef",
+"starred": false
+},
+{
+"id": "b1_0179",
+"german": "die Bundesrepublik (BRD)",
+"word": "Bundesrepublik (BRD)",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "Federal Republic of Germany",
+"bengali": "জার্মানি",
+"example": "Die Bundesrepublik wurde 1949 gegründet."
+}
+],
+"synonym": "Deutschland",
+"starred": false
+},
+{
+"id": "b1_0180",
+"german": "der/die Bürger/in",
+"word": "Bürger/in",
+"article": "der/die",
+"plural": "die Bürger / die Bürgerinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "citizen",
+"bengali": "নাগরিক",
+"example": "Die Bürger gehen zur Wahl."
+}
+],
+"synonym": "der Einwohner",
+"starred": false
+},
+{
+"id": "b1_0181",
+"german": "der Bürgerkrieg",
+"word": "Bürgerkrieg",
+"article": "der",
+"plural": "die Bürgerkriege",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "civil war",
+"bengali": "গৃহযুদ্ধ",
+"example": "Der Bürgerkrieg dauerte viele Jahre."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0182",
+"german": "der Büroalltag",
+"word": "Büroalltag",
+"article": "der",
+"plural": "die Büroalltage",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "daily office life",
+"bengali": "অফিসের দৈনন্দিন জীবন",
+"example": "Der Büroalltag ist oft stressig."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0183",
+"german": "der/die Büroassistent/in",
+"word": "Büroassistent/in",
+"article": "der/die",
+"plural": "die Büroassistenten / die Büroassistentinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "office assistant",
+"bengali": "অফিস সহকারী",
+"example": "Unsere Büroassistentin ist sehr hilfreich."
+}
+],
+"synonym": "die Sekretärin",
+"starred": false
+},
+{
+"id": "b1_0184",
+"german": "das Büromaterial",
+"word": "Büromaterial",
+"article": "das",
+"plural": "die Büromaterialien",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "office supplies",
+"bengali": "অফিসের সরঞ্জাম",
+"example": "Wir müssen neues Büromaterial bestellen."
+}
+],
+"synonym": "der Bürobedarf",
+"starred": false
+},
+{
+"id": "b1_0185",
+"german": "der Büroraum",
+"word": "Büroraum",
+"article": "der",
+"plural": "die Büroräume",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "office room",
+"bengali": "অফিস রুম",
+"example": "Der Büroraum ist sehr groß."
+}
+],
+"synonym": "das Büro",
+"starred": false
+},
+{
+"id": "b1_0186",
+"german": "die Bürozeit",
+"word": "Bürozeit",
+"article": "die",
+"plural": "die Bürozeiten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "office hours",
+"bengali": "অফিসের সময়",
+"example": "Unsere Bürozeiten sind von 9 bis 17 Uhr."
+}
+],
+"synonym": "die Geschäftszeit",
+"starred": false
+},
+{
+"id": "b1_0187",
+"german": "das Callcenter",
+"word": "Callcenter",
+"article": "das",
+"plural": "die Callcenter",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "call center",
+"bengali": "কল সেন্টার",
+"example": "Sie arbeitet in einem Callcenter."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0188",
+"german": "der/die Camper/in",
+"word": "Camper/in",
+"article": "der/die",
+"plural": "die Camper / die Camperinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "camper",
+"bengali": "ক্যাম্পার",
+"example": "Viele Camper sind im Sommer unterwegs."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0189",
+"german": "der Campingplatz",
+"word": "Campingplatz",
+"article": "der",
+"plural": "die Campingplätze",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "campsite",
+"bengali": "ক্যাম্পিং সাইট",
+"example": "Wir suchen einen schönen Campingplatz."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0190",
+"german": "das Catering",
+"word": "Catering",
+"article": "das",
+"plural": "die Caterings",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "catering",
+"bengali": "ক্যাটারিং",
+"example": "Das Catering war ausgezeichnet."
+}
+],
+"synonym": "der Partyservice",
+"starred": false
+},
+{
+"id": "b1_0191",
+"german": "der Check-in-Schalter",
+"word": "Check-in-Schalter",
+"article": "der",
+"plural": "die Check-in-Schalter",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "check-in counter",
+"bengali": "চেক-ইন কাউন্টার",
+"example": "Finden Sie den Check-in-Schalter?"
+}
+],
+"synonym": "der Schalter",
+"starred": false
+},
+{
+"id": "b1_0192",
+"german": "die Chemikalie",
+"word": "Chemikalie",
+"article": "die",
+"plural": "die Chemikalien",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "chemical",
+"bengali": "রাসায়নিক",
+"example": "Das ist eine gefährliche Chemikalie."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0193",
+"german": "die Chips",
+"word": "Chips",
+"article": "die",
+"plural": "die Chips",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "potato chips / crisps",
+"bengali": "চিপস",
+"example": "Möchtest du ein paar Chips?"
+}
+],
+"synonym": "die Kartoffelchips",
+"starred": false
+},
+{
+"id": "b1_0194",
+"german": "der Container",
+"word": "Container",
+"article": "der",
+"plural": "die Container",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "container",
+"bengali": "কন্টেইনার",
+"example": "Wir müssen den Müll in den Container bringen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0195",
+"german": "das Dach",
+"word": "Dach",
+"article": "das",
+"plural": "die Dächer",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "roof",
+"bengali": "ছাদ",
+"example": "Das Dach ist undicht."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0196",
+"german": "daneben",
+"word": "daneben",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "next to it, beside",
+"bengali": "পাশে",
+"example": "Das Auto steht daneben."
+}
+],
+"synonym": "nebenan",
+"starred": false
+},
+{
+"id": "b1_0197",
+"german": "der Datenschutz",
+"word": "Datenschutz",
+"article": "der",
+"plural": "die Datenschutzmaßnahmen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "data protection",
+"bengali": "তথ্য সুরক্ষা",
+"example": "Der Datenschutz ist uns sehr wichtig."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0198",
+"german": "der Deckel",
+"word": "Deckel",
+"article": "der",
+"plural": "die Deckel",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "lid",
+"bengali": "ঢাকনা",
+"example": "Bitte den Deckel auf die Dose machen."
+}
+],
+"synonym": "der Verschluss",
+"starred": false
+},
+{
+"id": "b1_0199",
+"german": "demnächst",
+"word": "demnächst",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "soon, shortly",
+"bengali": "শীঘ্রই",
+"example": "Ich komme demnächst vorbei."
+}
+],
+"synonym": "bald",
+"starred": false
+},
+{
+"id": "b1_0200",
+"german": "die Demokratie",
+"word": "Demokratie",
+"article": "die",
+"plural": "die Demokratien",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "democracy",
+"bengali": "গণতন্ত্র",
+"example": "Wir leben in einer Demokratie."
+}
+],
+"synonym": null,
+"starred": false
+}
+]

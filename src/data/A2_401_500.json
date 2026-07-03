@@ -1,0 +1,2374 @@
+[
+{
+"id": "a2_0401",
+"german": "die Grafik",
+"word": "Grafik",
+"article": "die",
+"plural": "die Grafiken",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "graphic, chart, diagram",
+"bengali": "গ্রাফিক, চার্ট, নকশা",
+"example": "Die Grafik zeigt die Entwicklung der Preise."
+}
+],
+"synonym": "die Abbildung",
+"starred": false
+},
+{
+"id": "a2_0402",
+"german": "der/die Grafiker/in",
+"word": "Grafiker/in",
+"article": "der/die",
+"plural": "die Grafiker / die Grafikerinnen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "graphic designer",
+"bengali": "গ্রাফিক ডিজাইনার",
+"example": "Als Grafikerin gestaltet sie Websites."
+}
+],
+"synonym": "der Designer",
+"starred": false
+},
+{
+"id": "a2_0403",
+"german": "griechisch",
+"word": "griechisch",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "Greek",
+"bengali": "গ্রীক, গ্রীস দেশীয়",
+"example": "Wir essen heute in einem griechischen Restaurant."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0404",
+"german": "der Grill",
+"word": "Grill",
+"article": "der",
+"plural": "die Grills",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "grill, barbecue",
+"bengali": "গ্রিল, বারবিকিউ করার যন্ত্র",
+"example": "Wir werfen das Fleisch auf den Grill."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0405",
+"german": "die Grillkohle",
+"word": "Grillkohle",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "charcoal for barbecue",
+"bengali": "বারবিকিউর কয়লা",
+"example": "Hast du genug Grillkohle gekauft?"
+}
+],
+"synonym": "die Holzkohle",
+"starred": false
+},
+{
+"id": "a2_0406",
+"german": "der Grillplatz",
+"word": "Grillplatz",
+"article": "der",
+"plural": "die Grillplätze",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "barbecue area",
+"bengali": "বারবিকিউ করার নির্ধারিত স্থান",
+"example": "Am See gibt es einen schönen Grillplatz."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0407",
+"german": "die Grillsoße",
+"word": "Grillsoße",
+"article": "die",
+"plural": "die Grillsoßen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "barbecue sauce",
+"bengali": "বারবিকিউ সস",
+"example": "Diese Grillsoße ist ziemlich scharf."
+}
+],
+"synonym": "die Barbecuesoße",
+"starred": false
+},
+{
+"id": "a2_0408",
+"german": "die Grillzange",
+"word": "Grillzange",
+"article": "die",
+"plural": "die Grillzangen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "grilling tongs",
+"bengali": "মাংস ওল্টানোর চিমটা",
+"example": "Nimm die Grillzange, um das Fleisch umzudrehen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0409",
+"german": "der Grund",
+"word": "Grund",
+"article": "der",
+"plural": "die Gründe",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "reason, ground",
+"bengali": "কারণ, ভিত্তি",
+"example": "Aus diesem Grund kann ich heute nicht kommen."
+}
+],
+"synonym": "die Ursache",
+"starred": false
+},
+{
+"id": "a2_0410",
+"german": "die Grundschule",
+"word": "Grundschule",
+"article": "die",
+"plural": "die Grundschulen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "primary school, elementary school",
+"bengali": "প্রাথমিক বিদ্যালয়",
+"example": "Mein Sohn kommt im September in die Grundschule."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0411",
+"german": "die Gulaschsuppe",
+"word": "Gulaschsuppe",
+"article": "die",
+"plural": "die Gulaschsuppen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "goulash soup",
+"bengali": "গুলাশ স্যুপ (মাংস ও সবজির ঘন ঝোল)",
+"example": "Im Winter schmeckt eine heiße Gulaschsuppe sehr gut."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0412",
+"german": "der Gürtel",
+"word": "Gürtel",
+"article": "der",
+"plural": "die Gürtel",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "belt",
+"bengali": "কোমরবন্ধনী, বেল্ট",
+"example": "Die Hose ist zu weit, ich brauche einen Gürtel."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0413",
+"german": "das Gymnasium",
+"word": "Gymnasium",
+"article": "das",
+"plural": "die Gymnasien",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "grammar school, high school (academic track)",
+"bengali": "উচ্চমাধ্যমিক বিদ্যালয় (বিশ্ববিদ্যালয়ে ভর্তির প্রস্তুতিমূলক)",
+"example": "Nach der Grundschule wechselt sie auf das Gymnasium."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0414",
+"german": "die Gymnastik",
+"word": "Gymnastik",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "gymnastics, calisthenics",
+"bengali": "শারীরিক কসরত, জিমনাস্টিকস",
+"example": "Morgens mache ich zehn Minuten Gymnastik."
+}
+],
+"synonym": "das Turnen",
+"starred": false
+},
+{
+"id": "a2_0415",
+"german": "die Haarpflege",
+"word": "Haarpflege",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "hair care",
+"bengali": "চুলের যত্ন",
+"example": "Gute Haarpflege ist wichtig für gesunde Haare."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0416",
+"german": "das Halbjahr",
+"word": "Halbjahr",
+"article": "das",
+"plural": "die Halbjahre",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "half-year, semester",
+"bengali": "অর্ধেক বছর, ছয় মাস",
+"example": "Im ersten Halbjahr hatten wir viel Erfolg."
+}
+],
+"synonym": "das Semester",
+"starred": false
+},
+{
+"id": "a2_0417",
+"german": "der Halt",
+"word": "Halt",
+"article": "der",
+"plural": "die Halte",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "stop, support, hold",
+"bengali": "বিরতি, থামা, অবলম্বন",
+"example": "Der Zug macht einen kurzen Halt in Hannover."
+}
+],
+"synonym": "der Stopp",
+"starred": false
+},
+{
+"id": "a2_0418",
+"german": "das Handgelenk",
+"word": "Handgelenk",
+"article": "das",
+"plural": "die Handgelenke",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "wrist",
+"bengali": "হাতের কব্জি",
+"example": "Er trägt seine Uhr am linken Handgelenk."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0419",
+"german": "handwerklich",
+"word": "handwerklich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "manual, craft-related",
+"bengali": "হস্তশিল্প সংক্রান্ত, কারিগরি",
+"example": "Mein Vater ist handwerklich sehr geschickt."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0420",
+"german": "das Hauptgericht",
+"word": "Hauptgericht",
+"article": "das",
+"plural": "die Hauptgerichte",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "main course",
+"bengali": "মূল খাবার, মেইন কোর্স",
+"example": "Als Hauptgericht nehme ich den Fisch mit Reis."
+}
+],
+"synonym": "die Hauptspeise",
+"starred": false
+},
+{
+"id": "a2_0421",
+"german": "die Hauptschule",
+"word": "Hauptschule",
+"article": "die",
+"plural": "die Hauptschulen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "secondary general school",
+"bengali": "মাধ্যমিক বিদ্যালয় (বৃত্তিমূলক শিক্ষার জন্য)",
+"example": "Er hat die Hauptschule nach der 9. Klasse beendet."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0422",
+"german": "der/die Hausbewohner/in",
+"word": "Hausbewohner/in",
+"article": "der/die",
+"plural": "die Hausbewohner / die Hausbewohnerinnen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "resident of a house, occupant",
+"bengali": "বাড়ির বাসিন্দা",
+"example": "Alle Hausbewohner müssen die Mülltonnen nutzen."
+}
+],
+"synonym": "der Mieter",
+"starred": false
+},
+{
+"id": "a2_0423",
+"german": "der/die Hausmeister/in",
+"word": "Hausmeister/in",
+"article": "der/die",
+"plural": "die Hausmeister / die Hausmeisterinnen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "caretaker, janitor",
+"bengali": "বাড়ির তত্ত্বাবধায়ক, কেয়ারটেকার",
+"example": "Wenn die Heizung kaputt ist, rufen Sie den Hausmeister."
+}
+],
+"synonym": "der Gebäudemanager",
+"starred": false
+},
+{
+"id": "a2_0424",
+"german": "das Hausmittel",
+"word": "Hausmittel",
+"article": "das",
+"plural": "die Hausmittel",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "home remedy",
+"bengali": "ঘরোয়া টোটকা বা ওষুধ",
+"example": "Heißer Tee mit Honig ist ein gutes Hausmittel gegen Husten."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0425",
+"german": "die Hausordnung",
+"word": "Hausordnung",
+"article": "die",
+"plural": "die Hausordnungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "house rules",
+"bengali": "বাড়ির নিয়মাবলী",
+"example": "Laut Hausordnung ist ab 22 Uhr Nachtruhe."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0426",
+"german": "die Hausregel",
+"word": "Hausregel",
+"article": "die",
+"plural": "die Hausregeln",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "house rule (internal)",
+"bengali": "পারিবারিক বা অভ্যন্তরীণ নিয়ম",
+"example": "Schuhe ausziehen ist eine wichtige Hausregel bei uns."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0427",
+"german": "die Hausreinigung",
+"word": "Hausreinigung",
+"article": "die",
+"plural": "die Hausreinigungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "house cleaning",
+"bengali": "বাড়ি পরিষ্কার করার কাজ",
+"example": "Die Hausreinigung wird von einer Firma gemacht."
+}
+],
+"synonym": "die Säuberung",
+"starred": false
+},
+{
+"id": "a2_0428",
+"german": "die Hausverwaltung",
+"word": "Hausverwaltung",
+"article": "die",
+"plural": "die Hausverwaltungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "property management",
+"bengali": "বাড়ি বা ফ্ল্যাট পরিচালনা কর্তৃপক্ষ",
+"example": "Ich muss den Schaden der Hausverwaltung melden."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0429",
+"german": "die Haut",
+"word": "Haut",
+"article": "die",
+"plural": "die Häute",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "skin",
+"bengali": "ত্বক, চামড়া",
+"example": "Im Sommer muss man seine Haut vor der Sonne schützen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0430",
+"german": "die Hautpflege",
+"word": "Hautpflege",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "skin care",
+"bengali": "ত্বকের যত্ন, স্কিনকেয়ার",
+"example": "Creme ist wichtig für die Hautpflege im Winter."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0431",
+"german": "die Hektik",
+"word": "Hektik",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "hectic pace, rush",
+"bengali": "হুড়োহুড়ি, চরম ব্যস্ততা",
+"example": "Am Bahnhof herrscht immer große Hektik."
+}
+],
+"synonym": "der Stress",
+"starred": false
+},
+{
+"id": "a2_0432",
+"german": "herausfinden",
+"word": "herausfinden",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "heraus-",
+"meaning": "separable prefix indicating motion out of something",
+"related": ["finden"]
+},
+"conjugation": {
+"present": "er findet heraus",
+"past": "er fand heraus",
+"participle": "herausgefunden",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "i → a",
+"full_present": {
+"ich": "finde heraus",
+"du": "findest heraus",
+"er_sie": "findet heraus",
+"wir": "finden heraus",
+"ihr": "findet heraus",
+"sie": "finden heraus"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to find out, discover",
+"bengali": "খুঁজে বের করা, আবিষ্কার করা",
+"example": "Ich muss herausfinden, wann der Kurs beginnt."
+}
+],
+"synonym": "entdecken",
+"starred": false
+},
+{
+"id": "a2_0433",
+"german": "heraussuchen",
+"word": "heraussuchen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "heraus-",
+"meaning": "separable prefix",
+"related": ["suchen"]
+},
+"conjugation": {
+"present": "er sucht heraus",
+"past": "er suchte heraus",
+"participle": "herausgesucht",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "suche heraus",
+"du": "suchst heraus",
+"er_sie": "sucht heraus",
+"wir": "suchen heraus",
+"ihr": "sucht heraus",
+"sie": "suchen heraus"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to select, pick out",
+"bengali": "বাছাই করে নেওয়া, নির্বাচন করা",
+"example": "Kannst du mir die Telefonnummer heraussuchen?"
+}
+],
+"synonym": "auswählen",
+"starred": false
+},
+{
+"id": "a2_0434",
+"german": "herein",
+"word": "herein",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "in, inside (towards speaker)",
+"bengali": "ভিতরে (আসার অনুরোধে)",
+"example": "Es klopft an der Tür. Bitte kommen Sie herein!"
+}
+],
+"synonym": "rein",
+"starred": false
+},
+{
+"id": "a2_0435",
+"german": "herrlich",
+"word": "herrlich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "wonderful, magnificent",
+"bengali": "মনোরম, চমৎকার",
+"example": "Wir hatten einen herrlichen Tag im Park."
+}
+],
+"synonym": "wunderbar",
+"starred": false
+},
+{
+"id": "a2_0436",
+"german": "herum",
+"word": "herum",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "around, about",
+"bengali": "চারপাশে, চারদিক",
+"example": "Die Kinder laufen um das Haus herum."
+}
+],
+"synonym": "umher",
+"starred": false
+},
+{
+"id": "a2_0437",
+"german": "herunterladen",
+"word": "herunterladen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "herunter-",
+"meaning": "separable prefix meaning down",
+"related": ["laden"]
+},
+"conjugation": {
+"present": "er lädt herunter",
+"past": "er lud herunter",
+"participle": "heruntergeladen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "a → ä",
+"full_present": {
+"ich": "lade herunter",
+"du": "lädst herunter",
+"er_sie": "lädt herunter",
+"wir": "laden herunter",
+"ihr": "ladet herunter",
+"sie": "laden herunter"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to download",
+"bengali": "ডাউনলোড করা",
+"example": "Ich muss die App auf mein Handy herunterladen."
+}
+],
+"synonym": "downloaden",
+"starred": false
+},
+{
+"id": "a2_0438",
+"german": "herzlich",
+"word": "herzlich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "cordial, warm, heartfelt",
+"bengali": "আন্তরিক, আন্তরিকতাপূর্ণ",
+"example": "Herzlichen Glückwunsch zum Geburtstag!"
+}
+],
+"synonym": "warm",
+"starred": false
+},
+{
+"id": "a2_0439",
+"german": "hiermit",
+"word": "hiermit",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "hereby, with this",
+"bengali": "এতদ্বারা, এর সাথে",
+"example": "Hiermit kündige ich meinen Mietvertrag."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0440",
+"german": "hierzu",
+"word": "hierzu",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "on this, regarding this",
+"bengali": "এই বিষয়ে, এই উদ্দেশ্যে",
+"example": "Was sagen Sie hierzu?"
+}
+],
+"synonym": "dazu",
+"starred": false
+},
+{
+"id": "a2_0441",
+"german": "hin",
+"word": "hin",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "there, away (from speaker)",
+"bengali": "ঐ দিকে, কোনো স্থানের দিকে",
+"example": "Wir gehen heute hin."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0442",
+"german": "hinfahren",
+"word": "hinfahren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "hin-",
+"meaning": "separable prefix indicating movement away",
+"related": ["fahren"]
+},
+"conjugation": {
+"present": "er fährt hin",
+"past": "er fuhr hin",
+"participle": "hingefahren",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": "a → ä",
+"full_present": {
+"ich": "fahre hin",
+"du": "fährst hin",
+"er_sie": "fährt hin",
+"wir": "fahren hin",
+"ihr": "fahrt hin",
+"sie": "fahren hin"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to drive there, go there (by vehicle)",
+"bengali": "সেখানে গাড়ি চালিয়ে যাওয়া",
+"example": "Das Fest ist weit weg, wir müssen hinfahren."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0443",
+"german": "die Hinfahrt",
+"word": "Hinfahrt",
+"article": "die",
+"plural": "die Hinfahrten",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "outward journey, trip there",
+"bengali": "যাওয়ার যাত্রা, একমুখী যাত্রা",
+"example": "Die Hinfahrt hat drei Stunden gedauert."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0444",
+"german": "hinfaller",
+"word": "hinfallen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "hin-",
+"meaning": "separable prefix",
+"related": ["fallen"]
+},
+"conjugation": {
+"present": "er fällt hin",
+"past": "er fiel hin",
+"participle": "hingefallen",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": "a → ä",
+"full_present": {
+"ich": "falle hin",
+"du": "fällst hin",
+"er_sie": "fällt hin",
+"wir": "fallen hin",
+"ihr": "fallt hin",
+"sie": "fallen hin"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to fall down",
+"bengali": "পড়ে যাওয়া",
+"example": "Pass auf, dass du auf dem Eis nicht hinfällst."
+}
+],
+"synonym": "stürzen",
+"starred": false
+},
+{
+"id": "a2_0445",
+"german": "hingehen",
+"word": "hingehen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "hin-",
+"meaning": "separable prefix",
+"related": ["gehen"]
+},
+"conjugation": {
+"present": "er geht hin",
+"past": "er ging hin",
+"participle": "hingegangen",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": "e → i",
+"full_present": {
+"ich": "gehe hin",
+"du": "gehst hin",
+"er_sie": "geht hin",
+"wir": "gehen hin",
+"ihr": "geht hin",
+"sie": "gehen hin"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to go there (on foot)",
+"bengali": "সেখানে যাওয়া",
+"example": "Ich will zu der Party hingehen."
+}
+],
+"synonym": "aufbrechen",
+"starred": false
+},
+{
+"id": "a2_0446",
+"german": "hoch",
+"word": "hoch",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "high, tall",
+"bengali": "উঁচু",
+"example": "Das Haus ist sehr hoch."
+}
+],
+"synonym": "groß",
+"starred": false
+},
+{
+"id": "a2_0447",
+"german": "hochladen",
+"word": "hochladen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "hoch-",
+"meaning": "separable prefix meaning up",
+"related": ["laden"]
+},
+"conjugation": {
+"present": "er lädt hoch",
+"past": "er lud hoch",
+"participle": "hochgeladen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "a → ä",
+"full_present": {
+"ich": "lade hoch",
+"du": "lädst hoch",
+"er_sie": "lädt hoch",
+"wir": "laden hoch",
+"ihr": "ladet hoch",
+"sie": "laden hoch"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to upload",
+"bengali": "আপলোড করা",
+"example": "Ich muss die Dokumente auf der Website hochladen."
+}
+],
+"synonym": "uploaden",
+"starred": false
+},
+{
+"id": "a2_0448",
+"german": "hochlegen",
+"word": "hochlegen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "hoch-",
+"meaning": "separable prefix",
+"related": ["legen"]
+},
+"conjugation": {
+"present": "er legt hoch",
+"past": "er legte hoch",
+"participle": "hochgelegt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "lege hoch",
+"du": "legst hoch",
+"er_sie": "legt hoch",
+"wir": "legen hoch",
+"ihr": "legt hoch",
+"sie": "legen hoch"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to put up, elevate (e.g. legs)",
+"bengali": "উপরে তুলে রাখা (পা ইত্যাদি)",
+"example": "Nach der langen Wanderung muss ich die Beine hochlegen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0449",
+"german": "der Hof",
+"word": "Hof",
+"article": "der",
+"plural": "die Höfe",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "courtyard, yard, farm",
+"bengali": "উঠান, আঙিনা, খামার",
+"example": "Die Kinder spielen im Hof."
+}
+],
+"synonym": "der Innenhof",
+"starred": false
+},
+{
+"id": "a2_0450",
+"german": "hoffen",
+"word": "hoffen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er hofft",
+"past": "er hoffte",
+"participle": "gehofft",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "hoffe",
+"du": "hoffst",
+"er_sie": "hofft",
+"wir": "hoffen",
+"ihr": "hofft",
+"sie": "hoffen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to hope",
+"bengali": "আশা করা",
+"example": "Ich hoffe, dass das Wetter schön bleibt."
+}
+],
+"synonym": "erwarten",
+"starred": false
+},
+{
+"id": "a2_0451",
+"german": "hoffentlich",
+"word": "hoffentlich",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "hopefully",
+"bengali": "আশাকরি, আশা করা যায় যে",
+"example": "Hoffentlich kommt der Bus pünktlich."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0452",
+"german": "höflich",
+"word": "höflich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "polite, courteous",
+"bengali": "ভদ্র, নম্র",
+"example": "Das Personal im Hotel war sehr höflich."
+}
+],
+"synonym": "freundlich",
+"starred": false
+},
+{
+"id": "a2_0453",
+"german": "holen",
+"word": "holen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er holt",
+"past": "er holte",
+"participle": "geholt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "hole",
+"du": "holst",
+"er_sie": "holt",
+"wir": "holen",
+"ihr": "holt",
+"sie": "holen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to fetch, get",
+"bengali": "নিয়ে আসা, আনা",
+"example": "Ich hole kurz meine Jacke aus dem Auto."
+}
+],
+"synonym": "bringen",
+"starred": false
+},
+{
+"id": "a2_0454",
+"german": "das Holz",
+"word": "Holz",
+"article": "das",
+"plural": "die Hölzer",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "wood",
+"bengali": "কাঠ",
+"example": "Der Tisch ist aus echtem Holz."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0455",
+"german": "hübsch",
+"word": "hübsch",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "pretty, handsome, nice",
+"bengali": "সুন্দর, আকর্ষক",
+"example": "Sie hat ein sehr hübsches Kleid an."
+}
+],
+"synonym": "schön",
+"starred": false
+},
+{
+"id": "a2_0456",
+"german": "das Hufeisen",
+"word": "Hufeisen",
+"article": "das",
+"plural": "die Hufeisen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "horseshoe",
+"bengali": "ঘোড়ার খুর, নাল",
+"example": "Ein Hufeisen bringt angeblich Glück."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0457",
+"german": "die IBAN",
+"word": "IBAN",
+"article": "die",
+"plural": "die IBANs",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "IBAN (International Bank Account Number)",
+"bengali": "আইবান (আন্তর্জাতিক ব্যাংক হিসাব নম্বর)",
+"example": "Geben Sie bitte Ihre IBAN für die Überweisung an."
+}
+],
+"synonym": "die Kontonummer",
+"starred": false
+},
+{
+"id": "a2_0458",
+"german": "indirekt",
+"word": "indirekt",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "indirect",
+"bengali": "পরোক্ষ, ঘুরিয়ে",
+"example": "Sie stellte eine indirekte Frage."
+}
+],
+"synonym": "umwegig",
+"starred": false
+},
+{
+"id": "a2_0459",
+"german": "der/die Informatiker/in",
+"word": "Informatiker/in",
+"article": "der/die",
+"plural": "die Informatiker / die Informatikerinnen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "computer scientist, IT specialist",
+"bengali": "কম্পিউটার বিজ্ঞানী, আইটি বিশেষজ্ঞ",
+"example": "Er arbeitet als Informatiker bei einer Softwarefirma."
+}
+],
+"synonym": "der IT-Spezialist",
+"starred": false
+},
+{
+"id": "a2_0460",
+"german": "informieren",
+"word": "informieren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er informiert",
+"past": "er informierte",
+"participle": "informiert",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "informiere",
+"du": "informierst",
+"er_sie": "informiert",
+"wir": "informieren",
+"ihr": "informiert",
+"sie": "informieren"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to inform",
+"bengali": "তথ্য দেওয়া, অবহিত করা",
+"example": "Ich möchte mich über den Kurs informieren."
+}
+],
+"synonym": "mitteilen",
+"starred": false
+},
+{
+"id": "a2_0461",
+"german": "die Innenstadt",
+"word": "Innenstadt",
+"article": "die",
+"plural": "die Innenstädte",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "city center, downtown",
+"bengali": "শহরের কেন্দ্রস্থল",
+"example": "In der Innenstadt kann man gut einkaufen."
+}
+],
+"synonym": "das Zentrum",
+"starred": false
+},
+{
+"id": "a2_0462",
+"german": "die Integration",
+"word": "Integration",
+"article": "die",
+"plural": "die Integrationen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "integration",
+"bengali": "একত্রীকরণ, মূলধারার সাথে মিশে যাওয়া",
+"example": "Sprache ist der Schlüssel zur Integration."
+}
+],
+"synonym": "die Eingliederung",
+"starred": false
+},
+{
+"id": "a2_0463",
+"german": "der Integrationskurs",
+"word": "Integrationskurs",
+"article": "der",
+"plural": "die Integrationskurse",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "integration course",
+"bengali": "ভাষা ও সংস্কৃতি শিক্ষা কোর্স (অভিবাসীদের জন্য)",
+"example": "Im Integrationskurs lernt man Deutsch und Geschichte."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0464",
+"german": "der Integrationsverein",
+"word": "Integrationsverein",
+"article": "der",
+"plural": "die Integrationsvereine",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "integration association",
+"bengali": "একত্রীকরণ সহায়ক সমিতি",
+"example": "Der Integrationsverein hilft Zuwanderern im Alltag."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0465",
+"german": "interessieren",
+"word": "interessieren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er interessiert",
+"past": "er interessierte",
+"participle": "interessiert",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "interessiere",
+"du": "interessierst",
+"er_sie": "interessiert",
+"wir": "interessieren",
+"ihr": "interessiert",
+"sie": "interessieren"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to interest, be of interest",
+"bengali": "আগ্রহী করা",
+"example": "Ich interessiere mich für deutsche Literatur."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0466",
+"german": "international",
+"word": "international",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "international",
+"bengali": "আন্তর্জাতিক",
+"example": "An unserer Schule gibt es viele internationale Studenten."
+}
+],
+"synonym": "weltweit",
+"starred": false
+},
+{
+"id": "a2_0467",
+"german": "das Internet",
+"word": "Internet",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "internet",
+"bengali": "ইন্টারনেট",
+"example": "Ich suche die Information im Internet."
+}
+],
+"synonym": "das Netz",
+"starred": false
+},
+{
+"id": "a2_0468",
+"german": "der Internetzugang",
+"word": "Internetzugang",
+"article": "der",
+"plural": "die Internetzugänge",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "internet access",
+"bengali": "ইন্টারনেট সংযোগ",
+"example": "In diesem Hotel gibt es kostenlosen Internetzugang."
+}
+],
+"synonym": "der Internetanschluss",
+"starred": false
+},
+{
+"id": "a2_0469",
+"german": "der/die Interviewpartner/in",
+"word": "Interviewpartner/in",
+"article": "der/die",
+"plural": "die Interviewpartner / die Interviewpartnerinnen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "interviewee, interview partner",
+"bengali": "সাক্ষাৎকার দাতা বা সহযোগী",
+"example": "Der Interviewpartner beantwortete alle Fragen sehr offen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0470",
+"german": "irgendwo",
+"word": "irgendwo",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "anywhere, somewhere",
+"bengali": "কোথাও, যেকোনো স্থানে",
+"example": "Ich habe meinen Schlüssel irgendwo hier verloren."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0471",
+"german": "jährlich",
+"word": "jährlich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "annual, yearly",
+"bengali": "বার্ষিক, প্রতি বছর",
+"example": "Wir machen eine jährliche Untersuchung beim Arzt."
+}
+],
+"synonym": "jedes Jahr",
+"starred": false
+},
+{
+"id": "a2_0472",
+"german": "jederzeit",
+"word": "jederzeit",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "at any time, always",
+"bengali": "যেকোনো সময়, সর্বদা",
+"example": "Sie können mich jederzeit anrufen."
+}
+],
+"synonym": "immer",
+"starred": false
+},
+{
+"id": "a2_0473",
+"german": "jemand",
+"word": "jemand",
+"article": null,
+"plural": null,
+"type": "Pronomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Pronomen",
+"english": "someone, anybody",
+"bengali": "কেউ, কোনো ব্যক্তি",
+"example": "Hat jemand meinen Stift gesehen?"
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0474",
+"german": "jeweils",
+"word": "jeweils",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "each time, in each case",
+"bengali": "প্রত্যেক বার, প্রতি ক্ষেত্রে",
+"example": "Die Tickets kosten jeweils zehn Euro."
+}
+],
+"synonym": "jedes Mal",
+"starred": false
+},
+{
+"id": "a2_0475",
+"german": "jobben",
+"word": "jobben",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er jobbt",
+"past": "er jobbte",
+"participle": "gejobbt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "jobbe",
+"du": "jobbst",
+"er_sie": "jobbt",
+"wir": "jobben",
+"ihr": "jobbt",
+"sie": "jobben"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to work (casual/temporary jobs)",
+"bengali": "অস্থায়ী বা পার্ট-টাইম কাজ করা",
+"example": "In den Ferien möchte ich als Kellner jobben."
+}
+],
+"synonym": "arbeiten",
+"starred": false
+},
+{
+"id": "a2_0476",
+"german": "die Jugendliche",
+"word": "Jugendliche",
+"article": "die",
+"plural": "die Jugendlichen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "youth, teenager, adolescent",
+"bengali": "তরুণ-তরুণী, কিশোর-কিশোরী",
+"example": "Viele Jugendliche verbringen viel Zeit am Computer."
+}
+],
+"synonym": "der Teenager",
+"starred": false
+},
+{
+"id": "a2_0477",
+"german": "der Junge",
+"word": "Junge",
+"article": "der",
+"plural": "die Jungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "boy",
+"bengali": "বালক, ছেলে",
+"example": "Der Junge dort spielt sehr gut Basketball."
+}
+],
+"synonym": "der Bub",
+"starred": false
+},
+{
+"id": "a2_0478",
+"german": "der Kabelsalat",
+"word": "Kabelsalat",
+"article": "der",
+"plural": "die Kabelsalate",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "tangle of cables",
+"bengali": "তারের জটলা",
+"example": "Hinter dem Fernseher gibt es einen großen Kabelsalat."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0479",
+"german": "die Kamera",
+"word": "Kamera",
+"article": "die",
+"plural": "die Kameras",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "camera",
+"bengali": "ক্যামেরা",
+"example": "Ich habe eine neue Kamera für meinen Urlaub gekauft."
+}
+],
+"synonym": "der Fotoapparat",
+"starred": false
+},
+{
+"id": "a2_0480",
+"german": "kariert",
+"word": "kariert",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "checked, plaid, checkered",
+"bengali": "ছক কাটা, চেক কাটা (জামা)",
+"example": "Er trägt am liebsten ein blau kariertes Hemd."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0481",
+"german": "die Kategorie",
+"word": "Kategorie",
+"article": "die",
+"plural": "die Kategorien",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "category",
+"bengali": "বিভাগ, শ্রেণী",
+"example": "Die Bücher sind nach Kategorien sortiert."
+}
+],
+"synonym": "die Klasse",
+"starred": false
+},
+{
+"id": "a2_0482",
+"german": "kaufmännisch",
+"word": "kaufmännisch",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "commercial, business-related",
+"bengali": "বাণিজ্যিক, ব্যবসা সংক্রান্ত",
+"example": "Sie macht eine kaufmännische Ausbildung bei der Bank."
+}
+],
+"synonym": "geschäftlich",
+"starred": false
+},
+{
+"id": "a2_0483",
+"german": "der Kellerzugang",
+"word": "Kellerzugang",
+"article": "der",
+"plural": "die Kellerzugänge",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "basement access, cellar entrance",
+"bengali": "বেসমেন্ট বা ভূগর্ভস্থ কক্ষে প্রবেশের পথ",
+"example": "Der Kellerzugang befindet sich hinter dem Haus."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0484",
+"german": "die Kenntnisse",
+"word": "Kenntnisse",
+"article": "die",
+"plural": "die Kenntnisse",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "knowledge, skills (plural)",
+"bengali": "জ্ঞান, দক্ষতা (বহুবচন)",
+"example": "Für diesen Job brauchen Sie gute Deutschkenntnisse."
+}
+],
+"synonym": "das Wissen",
+"starred": false
+},
+{
+"id": "a2_0485",
+"german": "das Kennwort",
+"word": "Kennwort",
+"article": "das",
+"plural": "die Kennwörter",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "password, code word",
+"bengali": "পাসওয়ার্ড, গোপন শব্দ",
+"example": "Bitte geben Sie Ihr Kennwort ein, um sich anzumelden."
+}
+],
+"synonym": "das Passwort",
+"starred": false
+},
+{
+"id": "a2_0486",
+"german": "kennzeichnen",
+"word": "kennzeichnen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er kennzeichnet",
+"past": "er kennzeichnete",
+"participle": "gekennzeichnet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "kennzeichne",
+"du": "kennzeichnest",
+"er_sie": "kennzeichnet",
+"wir": "kennzeichnen",
+"ihr": "kennzeichnet",
+"sie": "kennzeichnen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to mark, label, characterize",
+"bengali": "চিহ্নিত করা, লেবেল লাগানো",
+"example": "Sie müssen die fehlerhaften Teile deutlich kennzeichnen."
+}
+],
+"synonym": "markieren",
+"starred": false
+},
+{
+"id": "a2_0487",
+"german": "die Kerze",
+"word": "Kerze",
+"article": "die",
+"plural": "die Kerzen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "candle",
+"bengali": "মোমবাতি",
+"example": "Zünde bitte die Kerze auf dem Tisch an."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0488",
+"german": "das Kindergeld",
+"word": "Kindergeld",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "child benefit, child allowance",
+"bengali": "শিশু ভাতা (সরকার প্রদত্ত)",
+"example": "In Deutschland bekommen Eltern monatlich Kindergeld."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0489",
+"german": "die Kindertagesstätte (Kita)",
+"word": "Kindertagesstätte (Kita)",
+"article": "die",
+"plural": "die Kindertagesstätten",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "daycare center, crèche",
+"bengali": "শিশু পরিচর্যা কেন্দ্র, ডে-কেয়ার",
+"example": "Meine Tochter geht von acht bis vier in die Kita."
+}
+],
+"synonym": "der Kindergarten",
+"starred": false
+},
+{
+"id": "a2_0490",
+"german": "der Kinderwagen",
+"word": "Kinderwagen",
+"article": "der",
+"plural": "die Kinderwagen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "stroller, baby carriage",
+"bengali": "শিশুদের হাঁটার গাড়ি, প্র্যাম",
+"example": "Sie schiebt den Kinderwagen durch den Park."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0491",
+"german": "die Kinokarte",
+"word": "Kinokarte",
+"article": "die",
+"plural": "die Kinokarten",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "cinema ticket",
+"bengali": "সিনেমার টিকিট",
+"example": "Ich habe schon zwei Kinokarten für heute Abend gekauft."
+}
+],
+"synonym": "das Kinoticket",
+"starred": false
+},
+{
+"id": "a2_0492",
+"german": "klagen",
+"word": "klagen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er klagt",
+"past": "er klagte",
+"participle": "geklagt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "klage",
+"du": "klagst",
+"er_sie": "klagt",
+"wir": "klagen",
+"ihr": "klagt",
+"sie": "klagen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to complain, lament, sue",
+"bengali": "অভিযোগ করা, অনুযোগ করা",
+"example": "Er klagt oft über Kopfschmerzen."
+}
+],
+"synonym": "beschweren",
+"starred": false
+},
+{
+"id": "a2_0493",
+"german": "die Klasse",
+"word": "Klasse",
+"article": "die",
+"plural": "die Klassen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "class, grade (school)",
+"bengali": "শ্রেণী, ক্লাস",
+"example": "Mein Sohn geht jetzt in die dritte Klasse."
+}
+],
+"synonym": "der Kurs",
+"starred": false
+},
+{
+"id": "a2_0494",
+"german": "die Klassenarbeit",
+"word": "Klassenarbeit",
+"article": "die",
+"plural": "die Klassenarbeiten",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "class test, exam",
+"bengali": "শ্রেণী পরীক্ষা, ক্লাস টেস্ট",
+"example": "Morgen schreiben wir eine Klassenarbeit in Mathe."
+}
+],
+"synonym": "die Prüfung",
+"starred": false
+},
+{
+"id": "a2_0495",
+"german": "der/die Klassenlehrer/in",
+"word": "Klassenlehrer/in",
+"article": "der/die",
+"plural": "die Klassenlehrer / die Klassenlehrerinnen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "class teacher",
+"bengali": "শ্রেণী শিক্ষক",
+"example": "Herr Schmidt ist unser neuer Klassenlehrer."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0496",
+"german": "das Kleeblatt",
+"word": "Kleeblatt",
+"article": "das",
+"plural": "die Kleebätter",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "cloverleaf",
+"bengali": "ক্লোভার পাতা (বিশেষ করে চার পাতার যা সৌভাগ্যের প্রতীক)",
+"example": "Ein vierblättriges Kleeblatt bringt Glück."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0497",
+"german": "das Kleingeld",
+"word": "Kleingeld",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "small change, coins",
+"bengali": "খুচরা টাকা, ভাঙতি পয়সা",
+"example": "Haben Sie Kleingeld für den Kaffeeautomaten?"
+}
+],
+"synonym": "die Münzen",
+"starred": false
+},
+{
+"id": "a2_0498",
+"german": "die Kleinmöbel (Pl.)",
+"word": "Kleinmöbel (Pl.)",
+"article": "die",
+"plural": "die Kleinmöbel",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "small furniture items",
+"bengali": "ছোট আসবাবপত্র",
+"example": "In diesem Geschäft verkaufen sie Betten und Kleinmöbel."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0499",
+"german": "klicken",
+"word": "klicken",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er klickt",
+"past": "er klickte",
+"participle": "geklickt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "klicke",
+"du": "klickst",
+"er_sie": "klickt",
+"wir": "klicken",
+"ihr": "klickt",
+"sie": "klicken"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to click (computer)",
+"bengali": "ক্লিক করা (কম্পিউটার মাউস দিয়ে)",
+"example": "Klicken Sie auf den Link, um das Dokument zu öffnen."
+}
+],
+"synonym": "anwählen",
+"starred": false
+},
+{
+"id": "a2_0500",
+"german": "knackig",
+"word": "knackig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "crisp, crunchy",
+"bengali": "মুড়মুড়ে, কুড়কুড়ে, সতেজ",
+"example": "Der Salat schmeckt frisch und knackig."
+}
+],
+"synonym": "frisch",
+"starred": false
+}
+]

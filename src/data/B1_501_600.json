@@ -1,0 +1,2362 @@
+[
+{
+"id": "b1_0501",
+"german": "die Kundenbefragung",
+"word": "Kundenbefragung",
+"article": "die",
+"plural": "die Kundenbefragungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "customer survey",
+"bengali": "গ্রাহক জরিপ",
+"example": "Die Kundenbefragung ergab eine hohe Zufriedenheit."
+}
+],
+"synonym": "die Kundenzufriedenheitsanalyse",
+"starred": false
+},
+{
+"id": "b1_0502",
+"german": "kundenfreundlich",
+"word": "kundenfreundlich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "customer-friendly",
+"bengali": "গ্রাহক-বান্ধব",
+"example": "Unsere Firma bietet einen kundenfreundlichen Service."
+}
+],
+"synonym": "serviceorientiert",
+"starred": false
+},
+{
+"id": "b1_0503",
+"german": "die Kündigung",
+"word": "Kündigung",
+"article": "die",
+"plural": "die Kündigungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "cancellation, resignation, dismissal",
+"bengali": "বাতিলকরণ, পদত্যাগ, বরখাস্ত",
+"example": "Er hat seine Kündigung eingereicht."
+}
+],
+"synonym": "die Entlassung",
+"starred": false
+},
+{
+"id": "b1_0504",
+"german": "der Kunststoff",
+"word": "Kunststoff",
+"article": "der",
+"plural": "die Kunststoffe",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "plastic",
+"bengali": "প্লাস্টিক",
+"example": "Dieses Spielzeug ist aus Kunststoff gefertigt."
+}
+],
+"synonym": "der Plastik",
+"starred": false
+},
+{
+"id": "b1_0505",
+"german": "kuscheln",
+"word": "kuscheln",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er kuschelt",
+"past": "er kuschelte",
+"participle": "gekuschelt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "kuschele",
+"du": "kuschelst",
+"er_sie": "kuschelt",
+"wir": "kuscheln",
+"ihr": "kuschelt",
+"sie": "kuscheln"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to cuddle",
+"bengali": "জড়িয়ে ধরা, আদর করা",
+"example": "Die Katze kuschelt gerne auf dem Sofa."
+}
+],
+"synonym": "schmusen",
+"starred": false
+},
+{
+"id": "b1_0506",
+"german": "die Lage",
+"word": "Lage",
+"article": "die",
+"plural": "die Lagen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "location, situation",
+"bengali": "অবস্থান, পরিস্থিতি",
+"example": "Die Lage des Hotels ist ausgezeichnet."
+}
+],
+"synonym": "die Situation",
+"starred": false
+},
+{
+"id": "b1_0507",
+"german": "das Lager",
+"word": "Lager",
+"article": "das",
+"plural": "die Lager",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "warehouse, camp",
+"bengali": "গুদাম, শিবির",
+"example": "Die Waren befinden sich im Lager."
+}
+],
+"synonym": "das Depot",
+"starred": false
+},
+{
+"id": "b1_0508",
+"german": "das Lagerfeuer",
+"word": "Lagerfeuer",
+"article": "das",
+"plural": "die Lagerfeuer",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "campfire",
+"bengali": "ক্যাম্পফায়ার, আগুনের কুণ্ডলী",
+"example": "Wir saßen abends am Lagerfeuer."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0509",
+"german": "laktosefrei",
+"word": "laktosefrei",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "lactose-free",
+"bengali": "ল্যাকটোজ-মুক্ত",
+"example": "Ich vertrage nur laktosefreie Milch."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0510",
+"german": "landen",
+"word": "landen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er landet",
+"past": "er landete",
+"participle": "gelandet",
+"auxiliary": "ist",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "lande",
+"du": "landest",
+"er_sie": "landet",
+"wir": "landen",
+"ihr": "landet",
+"sie": "landen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to land",
+"bengali": "অবতরণ করা",
+"example": "Das Flugzeug ist pünktlich gelandet."
+}
+],
+"synonym": "ankommen",
+"starred": false
+},
+{
+"id": "b1_0511",
+"german": "die Langeweile",
+"word": "Langeweile",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "boredom",
+"bengali": "একঘেয়েমি",
+"example": "Nach einer Weile kam Langeweile auf."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0512",
+"german": "langfristig",
+"word": "langfristig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "long-term",
+"bengali": "দীর্ঘমেয়াদী",
+"example": "Wir planen eine langfristige Zusammenarbeit."
+}
+],
+"synonym": "dauerhaft",
+"starred": false
+},
+{
+"id": "b1_0513",
+"german": "der Lärm",
+"word": "Lärm",
+"article": "der",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "noise",
+"bengali": "কোলাহল, গোলমাল",
+"example": "Der Lärm auf der Baustelle stört mich."
+}
+],
+"synonym": "der Krach",
+"starred": false
+},
+{
+"id": "b1_0514",
+"german": "die Laune",
+"word": "Laune",
+"article": "die",
+"plural": "die Launen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "mood",
+"bengali": "মেজাজ",
+"example": "Heute habe ich gute Laune."
+}
+],
+"synonym": "die Stimmung",
+"starred": false
+},
+{
+"id": "b1_0515",
+"german": "die Lautsprecherdurchsage",
+"word": "Lautsprecherdurchsage",
+"article": "die",
+"plural": "die Lautsprecherdurchsagen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "loudspeaker announcement",
+"bengali": "লাউডস্পিকার ঘোষণা",
+"example": "Ich habe die Lautsprecherdurchsage nicht verstanden."
+}
+],
+"synonym": "die Durchsage",
+"starred": false
+},
+{
+"id": "b1_0516",
+"german": "lebhaft",
+"word": "lebhaft",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "lively",
+"bengali": "প্রাণবন্ত",
+"example": "Sie ist ein sehr lebhaftes Kind."
+}
+],
+"synonym": "lebendig",
+"starred": false
+},
+{
+"id": "b1_0517",
+"german": "die Leichtathletik",
+"word": "Leichtathletik",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "athletics",
+"bengali": "অ্যাথলেটিকস",
+"example": "Er trainiert für die Leichtathletik."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0518",
+"german": "leiden",
+"word": "leiden",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er leidet",
+"past": "er litt",
+"participle": "gelitten",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": null,
+"full_present": {
+"ich": "leide",
+"du": "leidest",
+"er_sie": "leidet",
+"wir": "leiden",
+"ihr": "leidet",
+"sie": "leiden"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to suffer",
+"bengali": "কষ্ট পাওয়া, ভোগা",
+"example": "Viele Menschen leiden unter der Hitze."
+}
+],
+"synonym": "erdulden",
+"starred": false
+},
+{
+"id": "b1_0519",
+"german": "die Leine",
+"word": "Leine",
+"article": "die",
+"plural": "die Leinen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "leash, lead",
+"bengali": "ফিতা, দড়ি (পোষা প্রাণীর)",
+"example": "Der Hund muss an die Leine."
+}
+],
+"synonym": "das Seil",
+"starred": false
+},
+{
+"id": "b1_0520",
+"german": "leistungsgerecht",
+"word": "leistungsgerecht",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "performance-related",
+"bengali": "কর্মক্ষমতা অনুযায়ী",
+"example": "Sie fordern eine leistungsgerechte Bezahlung."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0521",
+"german": "leiten",
+"word": "leiten",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er leitet",
+"past": "er leitete",
+"participle": "geleitet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "leite",
+"du": "leitest",
+"er_sie": "leitet",
+"wir": "leiten",
+"ihr": "leitet",
+"sie": "leiten"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to manage, lead",
+"bengali": "পরিচালনা করা, নেতৃত্ব দেওয়া",
+"example": "Sie leitet die Abteilung seit fünf Jahren."
+}
+],
+"synonym": "führen",
+"starred": false
+},
+{
+"id": "b1_0522",
+"german": "lenken",
+"word": "lenken",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er lenkt",
+"past": "er lenkte",
+"participle": "gelenkt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "lenke",
+"du": "lenkst",
+"er_sie": "lenkt",
+"wir": "lenken",
+"ihr": "lenkt",
+"sie": "lenken"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to steer",
+"bengali": "চালনা করা, স্টিয়ারিং করা",
+"example": "Er lenkte das Auto sicher durch den Verkehr."
+}
+],
+"synonym": "steuern",
+"starred": false
+},
+{
+"id": "b1_0523",
+"german": "der Leuchtturm",
+"word": "Leuchtturm",
+"article": "der",
+"plural": "die Leuchttürme",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "lighthouse",
+"bengali": "বাতিঘর",
+"example": "Der Leuchtturm steht an der Küste."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0524",
+"german": "die Lieblingsbeschäftigung",
+"word": "Lieblingsbeschäftigung",
+"article": "die",
+"plural": "die Lieblingsbeschäftigungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "favorite activity",
+"bengali": "প্রিয় কাজ",
+"example": "Lesen ist meine Lieblingsbeschäftigung."
+}
+],
+"synonym": "das Lieblingshobby",
+"starred": false
+},
+{
+"id": "b1_0525",
+"german": "lieferbar",
+"word": "lieferbar",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "available",
+"bengali": "সরবরাহযোগ্য",
+"example": "Das Produkt ist sofort lieferbar."
+}
+],
+"synonym": "verfügbar",
+"starred": false
+},
+{
+"id": "b1_0526",
+"german": "die Lieferbedingung",
+"word": "Lieferbedingung",
+"article": "die",
+"plural": "die Lieferbedingungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "delivery condition",
+"bengali": "ডেলিভারি শর্তাবলী",
+"example": "Bitte beachten Sie unsere Lieferbedingungen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0527",
+"german": "die Lieferung",
+"word": "Lieferung",
+"article": "die",
+"plural": "die Lieferungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "delivery",
+"bengali": "ডেলিভারি, সরবরাহ",
+"example": "Die Lieferung erfolgt innerhalb von drei Tagen."
+}
+],
+"synonym": "der Versand",
+"starred": false
+},
+{
+"id": "b1_0528",
+"german": "lohnen",
+"word": "lohnen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er lohnt",
+"past": "er lohnte",
+"participle": "gelohnt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "lohne",
+"du": "lohnst",
+"er_sie": "lohnt",
+"wir": "lohnen",
+"ihr": "lohnt",
+"sie": "lohnen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to be worth it",
+"bengali": "সার্থক হওয়া, যোগ্য হওয়া",
+"example": "Es lohnt sich, früh aufzustehen."
+}
+],
+"synonym": "sich bezahlt machen",
+"starred": false
+},
+{
+"id": "b1_0529",
+"german": "die Luft",
+"word": "Luft",
+"article": "die",
+"plural": "die Lüfte",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "air",
+"bengali": "বাতাস",
+"example": "Hier ist die Luft sehr frisch."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0530",
+"german": "luftdurchlässig",
+"word": "luftdurchlässig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "breathable, air-permeable",
+"bengali": "বাতাস চলাচল করতে পারে এমন",
+"example": "Das Material ist luftdurchlässig."
+}
+],
+"synonym": "atmungsaktiv",
+"starred": false
+},
+{
+"id": "b1_0531",
+"german": "lüften",
+"word": "lüften",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er lüftet",
+"past": "er lüftete",
+"participle": "gelüftet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "lüfte",
+"du": "lüftest",
+"er_sie": "lüftet",
+"wir": "lüften",
+"ihr": "lüftet",
+"sie": "lüften"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to air out, to ventilate",
+"bengali": "বাতাস চলাচল করানো",
+"example": "Wir müssen das Zimmer mal wieder lüften."
+}
+],
+"synonym": "durchlüften",
+"starred": false
+},
+{
+"id": "b1_0532",
+"german": "das Magazin",
+"word": "Magazin",
+"article": "das",
+"plural": "die Magazine",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "magazine",
+"bengali": "ম্যাগাজিন, পত্রিকা",
+"example": "Ich lese gerne dieses Magazin."
+}
+],
+"synonym": "die Zeitschrift",
+"starred": false
+},
+{
+"id": "b1_0533",
+"german": "der/die Manager/in",
+"word": "Manager/in",
+"article": "der/die",
+"plural": "die Manager/Managerinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "manager",
+"bengali": "ম্যানেজার",
+"example": "Er arbeitet als Manager."
+}
+],
+"synonym": "der Geschäftsführer",
+"starred": false
+},
+{
+"id": "b1_0534",
+"german": "die Mannschaft",
+"word": "Mannschaft",
+"article": "die",
+"plural": "die Mannschaften",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "team",
+"bengali": "দল",
+"example": "Die Mannschaft hat gewonnen."
+}
+],
+"synonym": "das Team",
+"starred": false
+},
+{
+"id": "b1_0535",
+"german": "der Maschinenbau",
+"word": "Maschinenbau",
+"article": "der",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "mechanical engineering",
+"bengali": "যন্ত্র প্রকৌশল",
+"example": "Er studiert Maschinenbau."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0536",
+"german": "die Massentierhaltung",
+"word": "Massentierhaltung",
+"article": "die",
+"plural": "die Massentierhaltungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "factory farming",
+"bengali": "গণ গবাদি পশুপালন",
+"example": "Massentierhaltung ist sehr umstritten."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0537",
+"german": "massiv",
+"word": "massiv",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "massive, solid",
+"bengali": "ভারী, মজবুত, ব্যাপক",
+"example": "Das Haus ist aus massivem Holz gebaut."
+}
+],
+"synonym": "stabil",
+"starred": false
+},
+{
+"id": "b1_0538",
+"german": "die Matratze",
+"word": "Matratze",
+"article": "die",
+"plural": "die Matratzen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "mattress",
+"bengali": "তোশক",
+"example": "Wir brauchen eine neue Matratze."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0539",
+"german": "die Mauer",
+"word": "Mauer",
+"article": "die",
+"plural": "die Mauern",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "wall",
+"bengali": "দেয়াল",
+"example": "Die Mauer war sehr hoch."
+}
+],
+"synonym": "die Wand",
+"starred": false
+},
+{
+"id": "b1_0540",
+"german": "der Mauerbau",
+"word": "Mauerbau",
+"article": "der",
+"plural": "die Mauerbauten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "construction of the Berlin Wall",
+"bengali": "বার্লিন প্রাচীর নির্মাণ",
+"example": "Der Mauerbau war ein historisches Ereignis."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0541",
+"german": "der Mauerfall",
+"word": "Mauerfall",
+"article": "der",
+"plural": "die Mauerfälle",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "fall of the Berlin Wall",
+"bengali": "বার্লিন প্রাচীরের পতন",
+"example": "Der Mauerfall ereignete sich 1989."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0542",
+"german": "meckern",
+"word": "meckern",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er meckert",
+"past": "er meckerte",
+"participle": "gemeckert",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "meckere",
+"du": "meckerst",
+"er_sie": "meckert",
+"wir": "meckern",
+"ihr": "meckert",
+"sie": "meckern"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to gripe, grumble",
+"bengali": "অভিযোগ করা, বিরক্তি প্রকাশ করা",
+"example": "Hör auf zu meckern!"
+}
+],
+"synonym": "sich beschweren",
+"starred": false
+},
+{
+"id": "b1_0543",
+"german": "die Medizin",
+"word": "Medizin",
+"article": "die",
+"plural": "die Medizinen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "medicine",
+"bengali": "ঔষধ",
+"example": "Du musst deine Medizin nehmen."
+}
+],
+"synonym": "das Medikament",
+"starred": false
+},
+{
+"id": "b1_0544",
+"german": "der Meerblick",
+"word": "Meerblick",
+"article": "der",
+"plural": "die Meerblicke",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "sea view",
+"bengali": "সমুদ্রের দৃশ্য",
+"example": "Das Zimmer hat einen tollen Meerblick."
+}
+],
+"synonym": "der Ausblick aufs Meer",
+"starred": false
+},
+{
+"id": "b1_0545",
+"german": "das Meerschweinchen",
+"word": "Meerschweinchen",
+"article": "das",
+"plural": "die Meerschweinchen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "guinea pig",
+"bengali": "গিনিপিগ",
+"example": "Wir haben ein Meerschweinchen als Haustier."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0546",
+"german": "die Mehrheit",
+"word": "Mehrheit",
+"article": "die",
+"plural": "die Mehrheiten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "majority",
+"bengali": "সংখ্যাগরিষ্ঠতা",
+"example": "Die Mehrheit hat für den Plan gestimmt."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0547",
+"german": "die Mehrkosten",
+"word": "Mehrkosten",
+"article": "die",
+"plural": "die Mehrkosten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "additional costs",
+"bengali": "অতিরিক্ত খরচ",
+"example": "Das Projekt führt zu hohen Mehrkosten."
+}
+],
+"synonym": "die Zusatzkosten",
+"starred": false
+},
+{
+"id": "b1_0548",
+"german": "mehrmals",
+"word": "mehrmals",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "several times",
+"bengali": "কয়েকবার",
+"example": "Ich habe ihn mehrmals angerufen."
+}
+],
+"synonym": "mehrmalig",
+"starred": false
+},
+{
+"id": "b1_0549",
+"german": "meistern",
+"word": "meistern",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er meistert",
+"past": "er meisterte",
+"participle": "gemeistert",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "meistere",
+"du": "meisterst",
+"er_sie": "meistert",
+"wir": "meistern",
+"ihr": "meistert",
+"sie": "meistern"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to master, handle",
+"bengali": "নিপুণ হওয়া, সামলানো",
+"example": "Sie hat die schwierige Aufgabe gut gemeistert."
+}
+],
+"synonym": "bewältigen",
+"starred": false
+},
+{
+"id": "b1_0550",
+"german": "die Mentalität",
+"word": "Mentalität",
+"article": "die",
+"plural": "die Mentalitäten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "mentality",
+"bengali": "মানসিকতা",
+"example": "Die Mentalität der Menschen ist hier ganz anders."
+}
+],
+"synonym": "die Denkweise",
+"starred": false
+},
+{
+"id": "b1_0551",
+"german": "merken",
+"word": "merken",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er merkt",
+"past": "er merkte",
+"participle": "gemerkt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "merke",
+"du": "merkst",
+"er_sie": "merkt",
+"wir": "merken",
+"ihr": "merkt",
+"sie": "merken"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to notice, to remember",
+"bengali": "লক্ষ্য করা, মনে রাখা",
+"example": "Ich habe nicht gemerkt, dass er kam."
+}
+],
+"synonym": "bemerken",
+"starred": false
+},
+{
+"id": "b1_0552",
+"german": "das Metall",
+"word": "Metall",
+"article": "das",
+"plural": "die Metalle",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "metal",
+"bengali": "ধাতু",
+"example": "Die Kette ist aus echtem Metall."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0553",
+"german": "die Mieterhöhung",
+"word": "Mieterhöhung",
+"article": "die",
+"plural": "die Mieterhöhungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "rent increase",
+"bengali": "ভাড়া বৃদ্ধি",
+"example": "Der Vermieter hat eine Mieterhöhung angekündigt."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0554",
+"german": "der Mietspiegel",
+"word": "Mietspiegel",
+"article": "der",
+"plural": "die Mietspiegel",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "rent index",
+"bengali": "ভাড়ার সূচক",
+"example": "Die Miete liegt genau im Mietspiegel."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0555",
+"german": "der Mietvertrag",
+"word": "Mietvertrag",
+"article": "der",
+"plural": "die Mietverträge",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "rental agreement",
+"bengali": "ভাড়া চুক্তি",
+"example": "Hast du den Mietvertrag schon unterschrieben?"
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0556",
+"german": "die Migration",
+"word": "Migration",
+"article": "die",
+"plural": "die Migrationen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "migration",
+"bengali": "অভিবাসন",
+"example": "Migration ist ein wichtiges politisches Thema."
+}
+],
+"synonym": "die Einwanderung",
+"starred": false
+},
+{
+"id": "b1_0557",
+"german": "der Milchkarton",
+"word": "Milchkarton",
+"article": "der",
+"plural": "die Milchkartons",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "milk carton",
+"bengali": "দুধের কার্টন",
+"example": "Kannst du den leeren Milchkarton wegwerfen?"
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0558",
+"german": "der Milchzucker",
+"word": "Milchzucker",
+"article": "der",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "lactose",
+"bengali": "ল্যাকটোজ, দুধের শর্করা",
+"example": "Milchzucker wird auch Laktose genannt."
+}
+],
+"synonym": "die Laktose",
+"starred": false
+},
+{
+"id": "b1_0559",
+"german": "die Million",
+"word": "Million",
+"article": "die",
+"plural": "die Millionen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "million",
+"bengali": "দশ লক্ষ",
+"example": "Er hat eine Million Euro gewonnen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0560",
+"german": "der/die Millionär/in",
+"word": "Millionär/in",
+"article": "der/die",
+"plural": "die Millionäre/Millionärinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "millionaire",
+"bengali": "কোটিপতি",
+"example": "Er ist ein erfolgreicher Millionär."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0561",
+"german": "die Minderheit",
+"word": "Minderheit",
+"article": "die",
+"plural": "die Minderheiten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "minority",
+"bengali": "সংখ্যালঘু",
+"example": "Sie gehören einer Minderheit an."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0562",
+"german": "mitdenken",
+"word": "mitdenken",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "mit-",
+"meaning": "participatory, along with",
+"related": ["mitarbeiten", "mitfahren"]
+},
+"conjugation": {
+"present": "er denkt mit",
+"past": "er dachte mit",
+"participle": "mitgedacht",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": null,
+"full_present": {
+"ich": "denke mit",
+"du": "denkst mit",
+"er_sie": "denkt mit",
+"wir": "denken mit",
+"ihr": "denkt mit",
+"sie": "denken mit"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to think along",
+"bengali": "চিন্তায় অংশ নেওয়া",
+"example": "Er kann sehr gut mitdenken."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0563",
+"german": "miteinander",
+"word": "miteinander",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "together, with one another",
+"bengali": "একে অপরের সাথে",
+"example": "Wir reden viel miteinander."
+}
+],
+"synonym": "zusammen",
+"starred": false
+},
+{
+"id": "b1_0564",
+"german": "miterleben",
+"word": "miterleben",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "mit-",
+"meaning": "participatory",
+"related": ["miterleben", "mitspielen"]
+},
+"conjugation": {
+"present": "er erlebt mit",
+"past": "er erlebte mit",
+"participle": "miterlebt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "erlebe mit",
+"du": "erlebst mit",
+"er_sie": "erlebt mit",
+"wir": "erleben mit",
+"ihr": "erlebt mit",
+"sie": "erleben mit"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to experience something with someone",
+"bengali": "অন্যের সাথে অনুভব করা",
+"example": "Ich habe die ganze Reise miterlebt."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0565",
+"german": "mitreden",
+"word": "mitreden",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "mit-",
+"meaning": "participatory",
+"related": ["mitreden"]
+},
+"conjugation": {
+"present": "er redet mit",
+"past": "er redete mit",
+"participle": "mitgeredet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "rede mit",
+"du": "redest mit",
+"er_sie": "redet mit",
+"wir": "reden mit",
+"ihr": "redet mit",
+"sie": "reden mit"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to have a say",
+"bengali": "মত প্রকাশ করা",
+"example": "Ich möchte auch mitreden."
+}
+],
+"synonym": "mitsprechen",
+"starred": false
+},
+{
+"id": "b1_0566",
+"german": "das Mittelfeld",
+"word": "Mittelfeld",
+"article": "das",
+"plural": "die Mittelfelder",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "midfield",
+"bengali": "মিডফিল্ড",
+"example": "Er spielt im Mittelfeld."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0567",
+"german": "mittelständisch",
+"word": "mittelständisch",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "medium-sized",
+"bengali": "মাঝারি আকারের",
+"example": "Er arbeitet bei einem mittelständischen Unternehmen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0568",
+"german": "mitten",
+"word": "mitten",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "in the middle",
+"bengali": "মাঝখানে",
+"example": "Er stand mitten auf der Straße."
+}
+],
+"synonym": "inmitten",
+"starred": false
+},
+{
+"id": "b1_0569",
+"german": "die Moderation",
+"word": "Moderation",
+"article": "die",
+"plural": "die Moderationen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "presentation, moderation",
+"bengali": "উপস্থাপনা",
+"example": "Sie hat die Moderation der Sendung übernommen."
+}
+],
+"synonym": "die Leitung",
+"starred": false
+},
+{
+"id": "b1_0570",
+"german": "die Modernisierung",
+"word": "Modernisierung",
+"article": "die",
+"plural": "die Modernisierungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "modernization",
+"bengali": "আধুনিকীকরণ",
+"example": "Die Modernisierung des Hauses dauert lange."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0571",
+"german": "moralisch",
+"word": "moralisch",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "moral",
+"bengali": "নৈতিক",
+"example": "Das ist eine moralische Frage."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0572",
+"german": "der Mord",
+"word": "Mord",
+"article": "der",
+"plural": "die Morde",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "murder",
+"bengali": "খুন",
+"example": "Der Mord wurde aufgeklärt."
+}
+],
+"synonym": "die Tötung",
+"starred": false
+},
+{
+"id": "b1_0573",
+"german": "motiviert",
+"word": "motiviert",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "motivated",
+"bengali": "অনুপ্রাণিত",
+"example": "Er ist ein sehr motivierter Schüler."
+}
+],
+"synonym": "engagiert",
+"starred": false
+},
+{
+"id": "b1_0574",
+"german": "der Motor",
+"word": "Motor",
+"article": "der",
+"plural": "die Motoren",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "engine",
+"bengali": "ইঞ্জিন",
+"example": "Der Motor läuft sehr ruhig."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0575",
+"german": "die Motorhaube",
+"word": "Motorhaube",
+"article": "die",
+"plural": "die Motorhauben",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "hood (car)",
+"bengali": "গাড়ির বনেট",
+"example": "Er öffnete die Motorhaube."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0576",
+"german": "der/die Motorradfahrer/in",
+"word": "Motorradfahrer/in",
+"article": "der/die",
+"plural": "die Motorradfahrer/Motorradfahrerinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "motorcyclist",
+"bengali": "মোটরসাইকেল চালক",
+"example": "Der Motorradfahrer ist schnell gefahren."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0577",
+"german": "die Mülltonne",
+"word": "Mülltonne",
+"article": "die",
+"plural": "die Mülltonnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "dustbin",
+"bengali": "ময়লার ঝুড়ি",
+"example": "Der Müll muss in die Mülltonne."
+}
+],
+"synonym": "der Mülleimer",
+"starred": false
+},
+{
+"id": "b1_0578",
+"german": "die Mülltrennung",
+"word": "Mülltrennung",
+"article": "die",
+"plural": "die Mülltrennungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "waste separation",
+"bengali": "বর্জ্য পৃথকীকরণ",
+"example": "Mülltrennung ist in Deutschland wichtig."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0579",
+"german": "musikalisch",
+"word": "musikalisch",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "musical",
+"bengali": "সঙ্গীতজ্ঞ, সংগীতপ্রেমী",
+"example": "Sie ist sehr musikalisch."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0580",
+"german": "die Muttersprache",
+"word": "Muttersprache",
+"article": "die",
+"plural": "die Muttersprachen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "mother tongue",
+"bengali": "মাতৃভাষা",
+"example": "Meine Muttersprache ist Deutsch."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0581",
+"german": "nachdem",
+"word": "nachdem",
+"article": null,
+"plural": null,
+"type": "Konjunktion",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Konjunktion",
+"english": "after",
+"bengali": "পর",
+"example": "Nachdem ich gegessen hatte, ging ich spazieren."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0582",
+"german": "nachdenken",
+"word": "nachdenken",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "nach-",
+"meaning": "reflecting",
+"related": ["nachdenken", "nachschlagen"]
+},
+"conjugation": {
+"present": "er denkt nach",
+"past": "er dachte nach",
+"participle": "nachgedacht",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": null,
+"full_present": {
+"ich": "denke nach",
+"du": "denkst nach",
+"er_sie": "denkt nach",
+"wir": "denken nach",
+"ihr": "denkt nach",
+"sie": "denken nach"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to reflect, ponder",
+"bengali": "চিন্তাভাবনা করা",
+"example": "Ich muss darüber nachdenken."
+}
+],
+"synonym": "überlegen",
+"starred": false
+},
+{
+"id": "b1_0583",
+"german": "nachdenklich",
+"word": "nachdenklich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "thoughtful",
+"bengali": "চিন্তাশীল",
+"example": "Er sieht heute so nachdenklich aus."
+}
+],
+"synonym": "besinnlich",
+"starred": false
+},
+{
+"id": "b1_0584",
+"german": "die Nachkriegszeit",
+"word": "Nachkriegszeit",
+"article": "die",
+"plural": "die Nachkriegszeiten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "post-war period",
+"bengali": "যুদ্ধ-পরবর্তী সময়",
+"example": "In der Nachkriegszeit war vieles knapp."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0585",
+"german": "die Nachnahme",
+"word": "Nachnahme",
+"article": "die",
+"plural": "die Nachnahmen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "cash on delivery (COD)",
+"bengali": "ক্যাশ অন ডেলিভারি",
+"example": "Ich bestelle das Paket per Nachnahme."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0586",
+"german": "nachsehen",
+"word": "nachsehen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "nach-",
+"meaning": "looking/checking",
+"related": ["nachschauen", "nachsehen"]
+},
+"conjugation": {
+"present": "er sieht nach",
+"past": "er sah nach",
+"participle": "nachgesehen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "e → ie",
+"full_present": {
+"ich": "sehe nach",
+"du": "siehst nach",
+"er_sie": "sieht nach",
+"wir": "sehen nach",
+"ihr": "seht nach",
+"sie": "sehen nach"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to look up, to check",
+"bengali": "খুঁজে দেখা, চেক করা",
+"example": "Ich muss kurz im Wörterbuch nachsehen."
+}
+],
+"synonym": "nachschauen",
+"starred": false
+},
+{
+"id": "b1_0587",
+"german": "der Nachteil",
+"word": "Nachteil",
+"article": "der",
+"plural": "die Nachteile",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "disadvantage",
+"bengali": "অসুবিধা",
+"example": "Das hat einen großen Nachteil."
+}
+],
+"synonym": "der Minuspunkt",
+"starred": false
+},
+{
+"id": "b1_0588",
+"german": "der Nährstoff",
+"word": "Nährstoff",
+"article": "der",
+"plural": "die Nährstoffe",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "nutrient",
+"bengali": "পুষ্টি উপাদান",
+"example": "Gemüse enthält viele wichtige Nährstoffe."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0589",
+"german": "das Nahrungsmittel",
+"word": "Nahrungsmittel",
+"article": "das",
+"plural": "die Nahrungsmittel",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "food item",
+"bengali": "খাদ্যদ্রব্য",
+"example": "Die Preise für Nahrungsmittel sind gestiegen."
+}
+],
+"synonym": "das Lebensmittel",
+"starred": false
+},
+{
+"id": "b1_0590",
+"german": "naschen",
+"word": "naschen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er nascht",
+"past": "er naschte",
+"participle": "genascht",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "nasche",
+"du": "naschst",
+"er_sie": "nascht",
+"wir": "naschen",
+"ihr": "nascht",
+"sie": "naschen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to nibble, snack",
+"bengali": "মিষ্টি খাওয়া, আড্ডা দেওয়ার সময় কিছু খাওয়া",
+"example": "Kinder naschen gerne Süßigkeiten."
+}
+],
+"synonym": "knabbern",
+"starred": false
+},
+{
+"id": "b1_0591",
+"german": "der Nationalsozialismus",
+"word": "Nationalsozialismus",
+"article": "der",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "National Socialism",
+"bengali": "নাৎসি মতবাদ",
+"example": "Die Zeit des Nationalsozialismus war dunkel."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0592",
+"german": "die NATO",
+"word": "NATO",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "NATO",
+"bengali": "ন্যাটো",
+"example": "Deutschland ist Mitglied der NATO."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0593",
+"german": "die Naturkatastrophe",
+"word": "Naturkatastrophe",
+"article": "die",
+"plural": "die Naturkatastrophen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "natural disaster",
+"bengali": "প্রাকৃতিক দুর্যোগ",
+"example": "Das Erdbeben war eine schwere Naturkatastrophe."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0594",
+"german": "das Naturprodukt",
+"word": "Naturprodukt",
+"article": "das",
+"plural": "die Naturprodukte",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "natural product",
+"bengali": "প্রাকৃতিক পণ্য",
+"example": "Dieser Honig ist ein reines Naturprodukt."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0595",
+"german": "der Nebel",
+"word": "Nebel",
+"article": "der",
+"plural": "die Nebel",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "fog",
+"bengali": "কুয়াশা",
+"example": "Am Morgen war es sehr neblig."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0596",
+"german": "nebenbei",
+"word": "nebenbei",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "by the way, incidentally",
+"bengali": "পাশাপাশি, প্রসঙ্গক্রমে",
+"example": "Ich habe nebenbei noch gearbeitet."
+}
+],
+"synonym": "außerdem",
+"starred": false
+},
+{
+"id": "b1_0597",
+"german": "neblig",
+"word": "neblig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "foggy",
+"bengali": "কুয়াশাচ্ছন্ন",
+"example": "Es ist heute sehr neblig draußen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0598",
+"german": "neugierig",
+"word": "neugierig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "curious",
+"bengali": "কৌতূহলী",
+"example": "Kinder sind von Natur aus neugierig."
+}
+],
+"synonym": "wissbegierig",
+"starred": false
+},
+{
+"id": "b1_0599",
+"german": "der Neuwagen",
+"word": "Neuwagen",
+"article": "der",
+"plural": "die Neuwagen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "new car",
+"bengali": "নতুন গাড়ি",
+"example": "Er hat sich einen Neuwagen gekauft."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0600",
+"german": "die Niederlage",
+"word": "Niederlage",
+"article": "die",
+"plural": "die Niederlagen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "defeat",
+"bengali": "পরাজয়",
+"example": "Die Mannschaft hat die Niederlage gut verkraftet."
+}
+],
+"synonym": "der Verlust",
+"starred": false
+}
+]

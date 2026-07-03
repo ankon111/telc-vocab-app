@@ -1,0 +1,2234 @@
+[
+{
+"id": "a2_0601",
+"german": "mitschreiben",
+"word": "mitschreiben",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "mit-",
+"meaning": "along, with",
+"related": ["mitkommen", "mitmachen"]
+},
+"conjugation": {
+"present": "er schreibt mit",
+"past": "er schrieb mit",
+"participle": "mitgeschrieben",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "ei → ie",
+"full_present": {
+"ich": "schreibe mit",
+"du": "schreibst mit",
+"er_sie": "schreibt mit",
+"wir": "schreiben mit",
+"ihr": "schreibt mit",
+"sie": "schreiben mit"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to take notes, write down",
+"bengali": "নোট নেওয়া",
+"example": "In der Vorlesung muss man viel mitschreiben."
+}
+],
+"synonym": "notieren",
+"starred": false
+},
+{
+"id": "a2_0602",
+"german": "die Mitteilung",
+"word": "Mitteilung",
+"article": "die",
+"plural": "die Mitteilungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "message, notification, announcement",
+"bengali": "বার্তা, বিজ্ঞপ্তি",
+"example": "Ich habe eine wichtige Mitteilung bekommen."
+}
+],
+"synonym": "die Nachricht",
+"starred": false
+},
+{
+"id": "a2_0603",
+"german": "die Mittelschule",
+"word": "Mittelschule",
+"article": "die",
+"plural": "die Mittelschulen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "middle school",
+"bengali": "মাধ্যমিক বিদ্যালয়",
+"example": "Mein Sohn geht jetzt auf die Mittelschule."
+}
+],
+"synonym": "die Realschule",
+"starred": false
+},
+{
+"id": "a2_0604",
+"german": "mittlere",
+"word": "mittlere",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "middle, average",
+"bengali": "মাঝারি",
+"example": "Er hat einen mittleren Bildungsabschluss."
+}
+],
+"synonym": "durchschnittlich",
+"starred": false
+},
+{
+"id": "a2_0605",
+"german": "mobil",
+"word": "mobil",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "mobile",
+"bengali": "গতিশীল",
+"example": "Mit dem Auto ist man sehr mobil."
+}
+],
+"synonym": "beweglich",
+"starred": false
+},
+{
+"id": "a2_0606",
+"german": "der/die Modedesigner/in",
+"word": "Modedesigner/in",
+"article": "der/die",
+"plural": "die Modedesigner / die Modedesignerinnen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "fashion designer",
+"bengali": "ফ্যাশন ডিজাইনার",
+"example": "Sie möchte später als Modedesignerin arbeiten."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0607",
+"german": "das Modegeschäft",
+"word": "Modegeschäft",
+"article": "das",
+"plural": "die Modegeschäfte",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "fashion shop, clothing store",
+"bengali": "পোশাকের দোকান",
+"example": "In der Innenstadt gibt es ein neues Modegeschäft."
+}
+],
+"synonym": "die Boutique",
+"starred": false
+},
+{
+"id": "a2_0608",
+"german": "der Modeschmuck",
+"word": "Modeschmuck",
+"article": "der",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "costume jewelry, fashion jewelry",
+"bengali": "নকল গহনা",
+"example": "Diese Kette ist kein echtes Gold, sondern nur Modeschmuck."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0609",
+"german": "monatlich",
+"word": "monatlich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "monthly",
+"bengali": "মাসিক",
+"example": "Die Miete muss monatlich bezahlt werden."
+}
+],
+"synonym": "jeden Monat",
+"starred": false
+},
+{
+"id": "a2_0610",
+"german": "die Müllabfuhr",
+"word": "Müllabfuhr",
+"article": "die",
+"plural": "die Müllabfuhren",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "garbage collection",
+"bengali": "আবর্জনা অপসারণ",
+"example": "Morgen kommt die Müllabfuhr."
+}
+],
+"synonym": "die Müllentsorgung",
+"starred": false
+},
+{
+"id": "a2_0611",
+"german": "die Münze",
+"word": "Münze",
+"article": "die",
+"plural": "die Münzen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "coin",
+"bengali": "মুদ্রা",
+"example": "Hast du eine Münze für den Einkaufswagen?"
+}
+],
+"synonym": "das Kleingeld",
+"starred": false
+},
+{
+"id": "a2_0612",
+"german": "der Muskel",
+"word": "Muskel",
+"article": "der",
+"plural": "die Muskeln",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "muscle",
+"bengali": "পেশী",
+"example": "Durch das Training wachsen die Muskeln."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0613",
+"german": "das Muster",
+"word": "Muster",
+"article": "das",
+"plural": "die Muster",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "pattern, sample",
+"bengali": "নকশা, নমুনা",
+"example": "Das Hemd hat ein schönes Muster."
+}
+],
+"synonym": "das Modell",
+"starred": false
+},
+{
+"id": "a2_0614",
+"german": "die Nachbarschaft",
+"word": "Nachbarschaft",
+"article": "die",
+"plural": "die Nachbarschaften",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "neighborhood",
+"bengali": "প্রতিবেশ",
+"example": "Wir wohnen in einer netten Nachbarschaft."
+}
+],
+"synonym": "die Umgebung",
+"starred": false
+},
+{
+"id": "a2_0615",
+"german": "die Nachbereitung",
+"word": "Nachbereitung",
+"article": "die",
+"plural": "die Nachbereitungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": {
+"prefix": "nach-",
+"meaning": "after, post-",
+"related": ["nachbereiten"]
+},
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "follow-up, post-processing",
+"bengali": "পরবর্তী প্রস্তুতি বা পর্যালোচনা",
+"example": "Die Nachbereitung des Seminars dauert zwei Stunden."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0616",
+"german": "nachher",
+"word": "nachher",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "afterwards, later",
+"bengali": "পরে",
+"example": "Ich komme nachher bei dir vorbei."
+}
+],
+"synonym": "später",
+"starred": false
+},
+{
+"id": "a2_0617",
+"german": "die Nachhilfe",
+"word": "Nachhilfe",
+"article": "die",
+"plural": "die Nachhilfen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "tutoring, extra tuition",
+"bengali": "গৃহশিক্ষকতা, সাহায্যকারী শিক্ষা",
+"example": "Er braucht Nachhilfe in Mathematik."
+}
+],
+"synonym": "der Nachhilfeunterricht",
+"starred": false
+},
+{
+"id": "a2_0618",
+"german": "die Nachricht",
+"word": "Nachricht",
+"article": "die",
+"plural": "die Nachrichten",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "news, message",
+"bengali": "খবর, বার্তা",
+"example": "Ich habe eine Nachricht von meiner Mutter bekommen."
+}
+],
+"synonym": "die Mitteilung",
+"starred": false
+},
+{
+"id": "a2_0619",
+"german": "nachschauen",
+"word": "nachschauen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "nach-",
+"meaning": "after, look up",
+"related": ["nachsehen"]
+},
+"conjugation": {
+"present": "er schaut nach",
+"past": "er schaute nach",
+"participle": "nachgeschaut",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "schaue nach",
+"du": "schaust nach",
+"er_sie": "schaut nach",
+"wir": "schauen nach",
+"ihr": "schaut nach",
+"sie": "schauen nach"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to look up, check",
+"bengali": "চেক করা, দেখে নেওয়া",
+"example": "Ich muss kurz im Wörterbuch nachschauen."
+}
+],
+"synonym": "nachsehen",
+"starred": false
+},
+{
+"id": "a2_0620",
+"german": "der Nachtisch",
+"word": "Nachtisch",
+"article": "der",
+"plural": "die Nachtische",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "dessert",
+"bengali": "মিষ্টান্ন",
+"example": "Was gibt es heute als Nachtisch?"
+}
+],
+"synonym": "die Nachspeise",
+"starred": false
+},
+{
+"id": "a2_0621",
+"german": "nah",
+"word": "nah",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "near, close",
+"bengali": "কাছে",
+"example": "Der Bahnhof ist sehr nah."
+}
+],
+"synonym": "nahgelegen",
+"starred": false
+},
+{
+"id": "a2_0622",
+"german": "die Nähe",
+"word": "Nähe",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "proximity, vicinity",
+"bengali": "কাছাকাছি এলাকা",
+"example": "Gibt es hier einen Supermarkt in der Nähe?"
+}
+],
+"synonym": "die Umgebung",
+"starred": false
+},
+{
+"id": "a2_0623",
+"german": "nähen",
+"word": "nähen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er näht",
+"past": "er nähte",
+"participle": "genäht",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "nähe",
+"du": "nähst",
+"er_sie": "näht",
+"wir": "nähen",
+"ihr": "näht",
+"sie": "nähen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to sew",
+"bengali": "সেলাই করা",
+"example": "Meine Oma kann sehr gut nähen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0624",
+"german": "nämlich",
+"word": "nämlich",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "namely, because",
+"bengali": "আসলে, অর্থাৎ",
+"example": "Ich kann nicht kommen, ich bin nämlich krank."
+}
+],
+"synonym": "denn",
+"starred": false
+},
+{
+"id": "a2_0625",
+"german": "die Naturkosmetik",
+"word": "Naturkosmetik",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "natural cosmetics",
+"bengali": "প্রাকৃতিক প্রসাধন সামগ্রী",
+"example": "Sie benutzt nur Naturkosmetik für ihre Haut."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0626",
+"german": "das Navigationsgerät (Navi)",
+"word": "Navigationsgerät (Navi)",
+"article": "das",
+"plural": "die Navigationsgeräte",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "navigation system (GPS)",
+"bengali": "ন্যাভিগেশন ডিভাইস",
+"example": "Das Navi zeigt uns den Weg."
+}
+],
+"synonym": "das GPS-Gerät",
+"starred": false
+},
+{
+"id": "a2_0627",
+"german": "die Nebenwirkung",
+"word": "Nebenwirkung",
+"article": "die",
+"plural": "die Nebenwirkungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "side effect",
+"bengali": "পার্শ্বপ্রতিক্রিয়া",
+"example": "Dieses Medikament hat keine Nebenwirkungen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0628",
+"german": "der Neffe",
+"word": "Neffe",
+"article": "der",
+"plural": "die Neffen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "nephew",
+"bengali": "ভাইপো বা ভাগ্নে",
+"example": "Mein Neffe feiert heute seinen Geburtstag."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0629",
+"german": "nennen",
+"word": "nennen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er nennt",
+"past": "er nannte",
+"participle": "genannt",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "e → a",
+"full_present": {
+"ich": "nenne",
+"du": "nennst",
+"er_sie": "nennt",
+"wir": "nennen",
+"ihr": "nennt",
+"sie": "nennen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to name, call",
+"bengali": "নাম রাখা, ডাকা",
+"example": "Wie nennt man dieses Tier auf Deutsch?"
+}
+],
+"synonym": "bezeichnen",
+"starred": false
+},
+{
+"id": "a2_0630",
+"german": "nervös",
+"word": "nervös",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "nervous",
+"bengali": "উদ্বিগ্ন, নার্ভাস",
+"example": "Vor der Prüfung war ich sehr nervös."
+}
+],
+"synonym": "unruhig",
+"starred": false
+},
+{
+"id": "a2_0631",
+"german": "der Newsletter",
+"word": "Newsletter",
+"article": "der",
+"plural": "die Newsletter",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "newsletter",
+"bengali": "নিউজলেটার",
+"example": "Ich habe den Newsletter der Firma abonniert."
+}
+],
+"synonym": "der Infobrief",
+"starred": false
+},
+{
+"id": "a2_0632",
+"german": "die Nichte",
+"word": "Nichte",
+"article": "die",
+"plural": "die Nichten",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "niece",
+"bengali": "ভাইঝি বা ভাগ্নী",
+"example": "Meine Nichte geht schon in den Kindergarten."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0633",
+"german": "niemand",
+"word": "niemand",
+"article": null,
+"plural": null,
+"type": "Pronomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Pronomen",
+"english": "nobody, no one",
+"bengali": "কেউ না",
+"example": "Es war niemand zu Hause."
+}
+],
+"synonym": "keiner",
+"starred": false
+},
+{
+"id": "a2_0634",
+"german": "normal",
+"word": "normal",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "normal, standard",
+"bengali": "স্বাভাবিক",
+"example": "Das ist ein ganz normaler Tag."
+}
+],
+"synonym": "gewöhnlich",
+"starred": false
+},
+{
+"id": "a2_0635",
+"german": "normalerweise",
+"word": "normalerweise",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "normally, usually",
+"bengali": "সাধারণত",
+"example": "Normalerweise trinke ich morgens Kaffee."
+}
+],
+"synonym": "meistens",
+"starred": false
+},
+{
+"id": "a2_0636",
+"german": "die Note",
+"word": "Note",
+"article": "die",
+"plural": "die Noten",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "grade, mark",
+"bengali": "গ্রেড বা নম্বর",
+"example": "Er hat eine gute Note in Deutsch bekommen."
+}
+],
+"synonym": "die Zensur",
+"starred": false
+},
+{
+"id": "a2_0637",
+"german": "notieren",
+"word": "notieren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er notiert",
+"past": "er notierte",
+"participle": "notiert",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "notiere",
+"du": "notierst",
+"er_sie": "notiert",
+"wir": "notieren",
+"ihr": "notiert",
+"sie": "notieren"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to note down, record",
+"bengali": "লিখে রাখা",
+"example": "Bitte notieren Sie sich den Termin."
+}
+],
+"synonym": "aufschreiben",
+"starred": false
+},
+{
+"id": "a2_0638",
+"german": "nötig",
+"word": "nötig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "necessary",
+"bengali": "প্রয়োজনীয়",
+"example": "Es ist nicht nötig, dass du mitkommst."
+}
+],
+"synonym": "notwendig",
+"starred": false
+},
+{
+"id": "a2_0639",
+"german": "der Nulltarif",
+"word": "Nulltarif",
+"article": "der",
+"plural": "die Nulltarife",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "free of charge, zero rate",
+"bengali": "বিনা মূল্যে",
+"example": "Diese Leistung gibt es zum Nulltarif."
+}
+],
+"synonym": "kostenlos",
+"starred": false
+},
+{
+"id": "a2_0640",
+"german": "die Nummer",
+"word": "Nummer",
+"article": "die",
+"plural": "die Nummern",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "number",
+"bengali": "নম্বর",
+"example": "Wie ist deine Telefonnummer?"
+}
+],
+"synonym": "die Zahl",
+"starred": false
+},
+{
+"id": "a2_0641",
+"german": "nutzen",
+"word": "nutzen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er nutzt",
+"past": "er nutzte",
+"participle": "genutzt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "nutze",
+"du": "nutzt",
+"er_sie": "nutzt",
+"wir": "nutzen",
+"ihr": "nutzt",
+"sie": "nutzen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to use, make use of",
+"bengali": "ব্যবহার করা",
+"example": "Wir sollten das schöne Wetter nutzen."
+}
+],
+"synonym": "benutzen",
+"starred": false
+},
+{
+"id": "a2_0642",
+"german": "ob",
+"word": "ob",
+"article": null,
+"plural": null,
+"type": "Konjunktion",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Konjunktion",
+"english": "whether, if",
+"bengali": "কিনা",
+"example": "Ich weiß nicht, ob er heute kommt."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0643",
+"german": "oben",
+"word": "oben",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "above, upstairs",
+"bengali": "উপরে",
+"example": "Wir wohnen ganz oben im Haus."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0644",
+"german": "die Oberschule",
+"word": "Oberschule",
+"article": "die",
+"plural": "die Oberschulen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "high school, secondary school",
+"bengali": "উচ্চ বিদ্যালয়",
+"example": "Nach der Grundschule wechselt sie auf die Oberschule."
+}
+],
+"synonym": "das Gymnasium",
+"starred": false
+},
+{
+"id": "a2_0645",
+"german": "der Ofen",
+"word": "Ofen",
+"article": "der",
+"plural": "die Öfen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "oven, stove",
+"bengali": "চুলা, ওভেন",
+"example": "Der Kuchen ist noch im Ofen."
+}
+],
+"synonym": "der Backofen",
+"starred": false
+},
+{
+"id": "a2_0646",
+"german": "der Ohrring",
+"word": "Ohrring",
+"article": "der",
+"plural": "die Ohrringe",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "earring",
+"bengali": "কানের দুল",
+"example": "Sie hat ihre Ohrringe verloren."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0647",
+"german": "olympisch",
+"word": "olympisch",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "Olympic",
+"bengali": "অলিম্পিক সংক্রান্ত",
+"example": "Er träumt von einer Teilnahme an den Olympischen Spielen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0648",
+"german": "das Online-Banking",
+"word": "Online-Banking",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "online banking",
+"bengali": "অনলাইন ব্যাংকিং",
+"example": "Ich erledige meine Überweisungen per Online-Banking."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0649",
+"german": "das Open-Air-Konzert",
+"word": "Open-Air-Konzert",
+"article": "das",
+"plural": "die Open-Air-Konzerte",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "open-air concert",
+"bengali": "উন্মুক্ত কনসার্ট",
+"example": "Im Sommer gehen wir zu einem Open-Air-Konzert."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0650",
+"german": "die Option",
+"word": "Option",
+"article": "die",
+"plural": "die Optionen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "option, choice",
+"bengali": "বিকল্প, অপশন",
+"example": "Wir haben mehrere Optionen zur Auswahl."
+}
+],
+"synonym": "die Möglichkeit",
+"starred": false
+},
+{
+"id": "a2_0651",
+"german": "ordnungsgerecht",
+"word": "ordnungsgerecht",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "orderly, proper, correct",
+"bengali": "নিয়মতান্ত্রিক",
+"example": "Der Müll muss ordnungsgerecht entsorgt werden."
+}
+],
+"synonym": "ordnungsgemäß",
+"starred": false
+},
+{
+"id": "a2_0652",
+"german": "die Parfümerie",
+"word": "Parfümerie",
+"article": "die",
+"plural": "die Parfümerien",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "perfumery",
+"bengali": "সুগন্ধির দোকান",
+"example": "Ich kaufe mein Parfum immer in dieser Parfümerie."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0653",
+"german": "passieren",
+"word": "passieren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "es passiert",
+"past": "es passierte",
+"participle": "passiert",
+"auxiliary": "ist",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "passiere",
+"du": "passierst",
+"er_sie": "passiert",
+"wir": "passieren",
+"ihr": "passiert",
+"sie": "passieren"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to happen",
+"bengali": "ঘটা",
+"example": "Was ist passiert?"
+}
+],
+"synonym": "geschehen",
+"starred": false
+},
+{
+"id": "a2_0654",
+"german": "das Pech",
+"word": "Pech",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "bad luck",
+"bengali": "দুর্ভাগ্য",
+"example": "Wir hatten im Urlaub leider viel Pech mit dem Wetter."
+}
+],
+"synonym": "das Unglück",
+"starred": false
+},
+{
+"id": "a2_0655",
+"german": "die Personalabteilung",
+"word": "Personalabteilung",
+"article": "die",
+"plural": "die Personalabteilungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "human resources department (HR)",
+"bengali": "মানব সম্পদ বিভাগ",
+"example": "Schicken Sie Ihre Bewerbung bitte an die Personalabteilung."
+}
+],
+"synonym": "das Personalbüro",
+"starred": false
+},
+{
+"id": "a2_0656",
+"german": "der Personalausweis",
+"word": "Personalausweis",
+"article": "der",
+"plural": "die Personalausweise",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "identity card (ID)",
+"bengali": "পরিচয়পত্র",
+"example": "Ich muss meinen Personalausweis verlängern lassen."
+}
+],
+"synonym": "der Ausweis",
+"starred": false
+},
+{
+"id": "a2_0657",
+"german": "das Personalbüro",
+"word": "Personalbüro",
+"article": "das",
+"plural": "die Personalbüros",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "HR office",
+"bengali": "মানব সম্পদ কার্যালয়",
+"example": "Das Personalbüro befindet sich im ersten Stock."
+}
+],
+"synonym": "die Personalabteilung",
+"starred": false
+},
+{
+"id": "a2_0658",
+"german": "der/die Personalleiter/in",
+"word": "Personalleiter/in",
+"article": "der/die",
+"plural": "die Personalleiter / die Personalleiterinnen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "HR manager",
+"bengali": "এইচআর ম্যানেজার",
+"example": "Der Personalleiter führt heute das Interview."
+}
+],
+"synonym": "der Personalchef",
+"starred": false
+},
+{
+"id": "a2_0659",
+"german": "persönlich",
+"word": "persönlich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "personal, in person",
+"bengali": "ব্যক্তিগত বা নিজে",
+"example": "Das ist meine persönliche Meinung."
+}
+],
+"synonym": "privat",
+"starred": false
+},
+{
+"id": "a2_0660",
+"german": "die Pfanne",
+"word": "Pfanne",
+"article": "die",
+"plural": "die Pfannen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "frying pan",
+"bengali": "কড়াই, ফ্রাইং প্যান",
+"example": "Das Fleisch liegt schon in der Pfanne."
+}
+],
+"synonym": "die Bratpfanne",
+"starred": false
+},
+{
+"id": "a2_0661",
+"german": "der Pfennig",
+"word": "Pfennig",
+"article": "der",
+"plural": "die Pfennige",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "pfennig (former German coin)",
+"bengali": "ফেনিগ (পূর্বতন জার্মান মুদ্রা)",
+"example": "Früher gab es in Deutschland den Pfennig."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0662",
+"german": "die Pflicht",
+"word": "Pflicht",
+"article": "die",
+"plural": "die Pflichten",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "duty, obligation",
+"bengali": "কর্তব্য, বাধ্যবাধকতা",
+"example": "In Deutschland ist die Schule eine Pflicht."
+}
+],
+"synonym": "die Verpflichtung",
+"starred": false
+},
+{
+"id": "a2_0663",
+"german": "die Physik",
+"word": "Physik",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "physics",
+"bengali": "পদার্থবিজ্ঞান",
+"example": "Physik war mein Lieblingsfach in der Schule."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0664",
+"german": "Pilates",
+"word": "Pilates",
+"article": null,
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "Pilates",
+"bengali": "পাইলেটস (এক ধরণের ব্যায়াম)",
+"example": "Ich mache zweimal pro Woche Pilates."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0665",
+"german": "der/die Pilot/in",
+"word": "Pilot/in",
+"article": "der/die",
+"plural": "die Piloten / die Pilotinnen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "pilot",
+"bengali": "বিমানচালক",
+"example": "Der Pilot begrüßt die Passagiere."
+}
+],
+"synonym": "der Flugzeugführer",
+"starred": false
+},
+{
+"id": "a2_0666",
+"german": "die PIN",
+"word": "PIN",
+"article": "die",
+"plural": "die PINs",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "PIN (personal identification number)",
+"bengali": "পিন নম্বর",
+"example": "Geben Sie bitte Ihre PIN ein."
+}
+],
+"synonym": "die Geheimzahl",
+"starred": false
+},
+{
+"id": "a2_0667",
+"german": "planmäßig",
+"word": "planmäßig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "according to plan, scheduled",
+"bengali": "পরিকল্পনা অনুযায়ী",
+"example": "Der Flug ist planmäßig gelandet."
+}
+],
+"synonym": "pünktlich",
+"starred": false
+},
+{
+"id": "a2_0668",
+"german": "die Planung",
+"word": "Planung",
+"article": "die",
+"plural": "die Planungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "planning",
+"bengali": "পরিকল্পনা",
+"example": "Die Planung für das Fest hat begonnen."
+}
+],
+"synonym": "die Vorbereitung",
+"starred": false
+},
+{
+"id": "a2_0669",
+"german": "plötzlich",
+"word": "plötzlich",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "suddenly",
+"bengali": "হঠাৎ",
+"example": "Plötzlich fing es an zu regnen."
+}
+],
+"synonym": "auf einmal",
+"starred": false
+},
+{
+"id": "a2_0670",
+"german": "der Poetry-Slam",
+"word": "Poetry-Slam",
+"article": "der",
+"plural": "die Poetry-Slams",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "poetry slam",
+"bengali": "কবিতা আবৃত্তি প্রতিযোগিতা",
+"example": "Heute Abend gehen wir zu einem Poetry-Slam."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0671",
+"german": "die Politik",
+"word": "Politik",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "politics",
+"bengali": "রাজনীতি",
+"example": "Er interessiert sich sehr für Politik."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0672",
+"german": "der/die Polizist/in",
+"word": "Polizist/in",
+"article": "der/die",
+"plural": "die Polizisten / die Polizistinnen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "police officer",
+"bengali": "পুলিশ অফিসার",
+"example": "Der Polizist regelt den Verkehr."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0673",
+"german": "preiswert",
+"word": "preiswert",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "inexpensive, cheap",
+"bengali": "সস্তা, সাশ্রয়ী",
+"example": "Das Restaurant ist gut und preiswert."
+}
+],
+"synonym": "günstig",
+"starred": false
+},
+{
+"id": "a2_0674",
+"german": "prima",
+"word": "prima",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "great, fine",
+"bengali": "চমৎকার",
+"example": "Das ist eine prima Idee!"
+}
+],
+"synonym": "toll",
+"starred": false
+},
+{
+"id": "a2_0675",
+"german": "privat",
+"word": "privat",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "private",
+"bengali": "ব্যক্তিগত",
+"example": "Hier darf man nicht parken, das ist privat."
+}
+],
+"synonym": "persönlich",
+"starred": false
+},
+{
+"id": "a2_0676",
+"german": "professionell",
+"word": "professionell",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "professional",
+"bengali": "পেশাদার",
+"example": "Sie ist eine professionelle Musikerin."
+}
+],
+"synonym": "fachmännisch",
+"starred": false
+},
+{
+"id": "a2_0677",
+"german": "das Programm",
+"word": "Programm",
+"article": "das",
+"plural": "die Programme",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "program",
+"bengali": "অনুষ্ঠান বা প্রোগ্রাম",
+"example": "Was läuft heute im Fernsehprogramm?"
+}
+],
+"synonym": "der Plan",
+"starred": false
+},
+{
+"id": "a2_0678",
+"german": "Prost",
+"word": "Prost",
+"article": null,
+"plural": null,
+"type": "Konjunktion",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Interjektion",
+"english": "cheers",
+"bengali": "শুভকামনা (চিয়ার্স)",
+"example": "Prost! Auf ein gutes neues Jahr!"
+}
+],
+"synonym": "Zum Wohl",
+"starred": false
+},
+{
+"id": "a2_0679",
+"german": "das Protokoll",
+"word": "Protokoll",
+"article": "das",
+"plural": "die Protokolle",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "protocol, minutes (of a meeting)",
+"bengali": "সভার বিবরণী",
+"example": "Wer schreibt heute das Protokoll?"
+}
+],
+"synonym": "der Bericht",
+"starred": false
+},
+{
+"id": "a2_0680",
+"german": "die Prüfung",
+"word": "Prüfung",
+"article": "die",
+"plural": "die Prüfungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "examination, test",
+"bengali": "পরীক্ষা",
+"example": "Ich habe meine Deutschprüfung bestanden."
+}
+],
+"synonym": "der Test",
+"starred": false
+},
+{
+"id": "a2_0681",
+"german": "das Prüfungstraining",
+"word": "Prüfungstraining",
+"article": "das",
+"plural": "die Prüfungstrainings",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "exam preparation, training",
+"bengali": "পরীক্ষার প্রস্তুতি",
+"example": "Das Prüfungstraining hilft mir sehr."
+}
+],
+"synonym": "die Prüfungsvorbereitung",
+"starred": false
+},
+{
+"id": "a2_0682",
+"german": "der Quatsch",
+"word": "Quatsch",
+"article": "der",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "nonsense",
+"bengali": "বাজে কথা, আবোলতাবোল",
+"example": "Ach, das ist doch Quatsch!"
+}
+],
+"synonym": "der Unsinn",
+"starred": false
+},
+{
+"id": "a2_0683",
+"german": "die Radtour",
+"word": "Radtour",
+"article": "die",
+"plural": "die Radtouren",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "bicycle tour",
+"bengali": "সাইকেল ভ্রমণ",
+"example": "Am Wochenende machen wir eine Radtour."
+}
+],
+"synonym": "die Fahrradtour",
+"starred": false
+},
+{
+"id": "a2_0684",
+"german": "der Rat",
+"word": "Rat",
+"article": "der",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "advice, counsel",
+"bengali": "পরামর্শ",
+"example": "Komm zu mir, wenn du einen Rat brauchst."
+}
+],
+"synonym": "der Ratschlag",
+"starred": false
+},
+{
+"id": "a2_0685",
+"german": "der Ratschlag",
+"word": "Ratschlag",
+"article": "der",
+"plural": "die Ratschläge",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "advice, suggestion",
+"bengali": "পরামর্শ",
+"example": "Vielen Dank für Ihren guten Ratschlag."
+}
+],
+"synonym": "der Rat",
+"starred": false
+},
+{
+"id": "a2_0686",
+"german": "reagieren",
+"word": "reagieren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er reagiert",
+"past": "er reagierte",
+"participle": "reagiert",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "reagiere",
+"du": "reagierst",
+"er_sie": "reagiert",
+"wir": "reagieren",
+"ihr": "reagiert",
+"sie": "reagen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to react, respond",
+"bengali": "প্রতিক্রিয়া জানানো",
+"example": "Er hat auf meine Frage nicht reagiert."
+}
+],
+"synonym": "antworten",
+"starred": false
+},
+{
+"id": "a2_0687",
+"german": "der Realschulabschluss",
+"word": "Realschulabschluss",
+"article": "der",
+"plural": "die Realschulabschlüsse",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "secondary school certificate",
+"bengali": "মাধ্যমিক স্কুল সার্টিফিকেট",
+"example": "Sie hat den Realschulabschluss gemacht."
+}
+],
+"synonym": "die Mittlere Reife",
+"starred": false
+},
+{
+"id": "a2_0688",
+"german": "die Realschule",
+"word": "Realschule",
+"article": "die",
+"plural": "die Realschulen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "secondary school (grades 5-10)",
+"bengali": "মাধ্যমিক বিদ্যালয়",
+"example": "Nach der Grundschule ging er auf die Realschule."
+}
+],
+"synonym": "die Mittelschule",
+"starred": false
+},
+{
+"id": "a2_0689",
+"german": "die Rechnung",
+"word": "Rechnung",
+"article": "die",
+"plural": "die Rechnungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "bill, invoice",
+"bengali": "বিল, রসিদ",
+"example": "Zahlen Sie die Rechnung bitte sofort."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0690",
+"german": "der Rechnungsbetrag",
+"word": "Rechnungsbetrag",
+"article": "der",
+"plural": "die Rechnungsbeträge",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "invoice amount, total amount due",
+"bengali": "বিলের মোট টাকা",
+"example": "Der Rechnungsbetrag liegt bei 50 Euro."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0691",
+"german": "die Rechnungsnummer",
+"word": "Rechnungsnummer",
+"article": "die",
+"plural": "die Rechnungsnummern",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "invoice number",
+"bengali": "বিল নম্বর",
+"example": "Bitte geben Sie die Rechnungsnummer an."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0692",
+"german": "die Rede",
+"word": "Rede",
+"article": "die",
+"plural": "die Reden",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "speech, talk",
+"bengali": "বক্তৃতা",
+"example": "Der Chef hält eine kurze Rede."
+}
+],
+"synonym": "die Ansprache",
+"starred": false
+},
+{
+"id": "a2_0693",
+"german": "die Regel",
+"word": "Regel",
+"article": "die",
+"plural": "die Regeln",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "rule",
+"bengali": "নিয়ম",
+"example": "Man muss die Regeln beachten."
+}
+],
+"synonym": "die Vorschrift",
+"starred": false
+},
+{
+"id": "a2_0694",
+"german": "der Regen",
+"word": "Regen",
+"article": "der",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "rain",
+"bengali": "বৃষ্টি",
+"example": "Bei diesem Regen gehe ich nicht raus."
+}
+],
+"synonym": "der Niederschlag",
+"starred": false
+},
+{
+"id": "a2_0695",
+"german": "der Regenschirm",
+"word": "Regenschirm",
+"article": "der",
+"plural": "die Regenschirme",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "umbrella",
+"bengali": "ছাতা",
+"example": "Hast du einen Regenschirm dabei?"
+}
+],
+"synonym": "der Schirm",
+"starred": false
+},
+{
+"id": "a2_0696",
+"german": "die Regie",
+"word": "Regie",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "direction (film/theater)",
+"bengali": "পরিচালনা",
+"example": "Wer führt bei diesem Film Regie?"
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0697",
+"german": "reich",
+"word": "reich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "rich, wealthy",
+"bengali": "ধনী",
+"example": "Er ist ein sehr reicher Mann."
+}
+],
+"synonym": "vermögend",
+"starred": false
+},
+{
+"id": "a2_0698",
+"german": "reichlich",
+"word": "reichlich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "plentiful, abundant",
+"bengali": "প্রচুর",
+"example": "Es gab reichlich zu essen auf der Party."
+}
+],
+"synonym": "viel",
+"starred": false
+},
+{
+"id": "a2_0699",
+"german": "der Reichtum",
+"word": "Reichtum",
+"article": "der",
+"plural": "die Reichtümer",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "wealth, riches",
+"bengali": "সম্পদ, ঐশ্বর্য",
+"example": "Geld allein bringt keinen Reichtum im Leben."
+}
+],
+"synonym": "der Wohlstand",
+"starred": false
+},
+{
+"id": "a2_0700",
+"german": "die Reihenfolge",
+"word": "Reihenfolge",
+"article": "die",
+"plural": "die Reihenfolgen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "sequence, order",
+"bengali": "ক্রম বা ধারাবাহিকতা",
+"example": "Bitte bringen Sie die Karten in die richtige Reihenfolge."
+}
+],
+"synonym": "die Ordnung",
+"starred": false
+}
+]

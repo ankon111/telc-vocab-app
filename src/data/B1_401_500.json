@@ -1,0 +1,2166 @@
+[
+{
+"id": "b1_0401",
+"german": "die Haftpflichtversicherung",
+"word": "Haftpflichtversicherung",
+"article": "die",
+"plural": "die Haftpflichtversicherungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "liability insurance",
+"bengali": "দায় বীমা",
+"example": "Eine Haftpflichtversicherung ist sehr wichtig."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0402",
+"german": "der Hagel",
+"word": "Hagel",
+"article": "der",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "hail",
+"bengali": "শিলাবৃষ্টি",
+"example": "Der Hagel hat das Auto beschädigt."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0403",
+"german": "die Halbpension (HP)",
+"word": "Halbpension (HP)",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "half board",
+"bengali": "হাফ বোর্ড (দুই বেলার খাবার)",
+"example": "Wir haben das Hotel mit Halbpension gebucht."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0404",
+"german": "hämmern",
+"word": "hämmern",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er hämmert",
+"past": "er hämmerte",
+"participle": "gehämmert",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "hämmere", "du": "hämmerst", "er_sie": "hämmert", "wir": "hämmern", "ihr": "hämmert", "sie": "hämmern" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to hammer",
+"bengali": "হাতুড়ি মারা",
+"example": "Er hämmert einen Nagel in die Wand."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0405",
+"german": "der Handball",
+"word": "Handball",
+"article": "der",
+"plural": "die Handbälle",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "handball",
+"bengali": "হ্যান্ডবল",
+"example": "Handball ist eine beliebte Sportart."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0406",
+"german": "das Handgepäck",
+"word": "Handgepäck",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "hand luggage",
+"bengali": "হাতে বহনযোগ্য ব্যাগ",
+"example": "Darf ich das mit ins Handgepäck nehmen?"
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0407",
+"german": "die Handlung",
+"word": "Handlung",
+"article": "die",
+"plural": "die Handlungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "plot, action",
+"bengali": "কাহিনি, কর্ম",
+"example": "Die Handlung des Films ist spannend."
+}
+],
+"synonym": "die Geschichte",
+"starred": false
+},
+{
+"id": "b1_0408",
+"german": "der/die Handwerker/in",
+"word": "Handwerker/in",
+"article": "der/die",
+"plural": "die Handwerker / die Handwerkerinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "craftsman, tradesman",
+"bengali": "কারিগর",
+"example": "Wir brauchen einen Handwerker für die Reparatur."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0409",
+"german": "hart",
+"word": "hart",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "hard",
+"bengali": "শক্ত",
+"example": "Das Brot ist sehr hart."
+}
+],
+"synonym": "fest",
+"starred": false
+},
+{
+"id": "b1_0410",
+"german": "der Hartweizen",
+"word": "Hartweizen",
+"article": "der",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "durum wheat",
+"bengali": "ডুরম গম",
+"example": "Nudeln werden oft aus Hartweizen gemacht."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0411",
+"german": "die Haselnuss",
+"word": "Haselnuss",
+"article": "die",
+"plural": "die Haselnüsse",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "hazelnut",
+"bengali": "হেজেল নাট",
+"example": "Ich esse gerne Haselnüsse."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0412",
+"german": "häufig",
+"word": "häufig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "frequently, often",
+"bengali": "প্রায়শই",
+"example": "Das kommt häufig vor."
+}
+],
+"synonym": "oft",
+"starred": false
+},
+{
+"id": "b1_0413",
+"german": "der Hauptgrund",
+"word": "Hauptgrund",
+"article": "der",
+"plural": "die Hauptgründe",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "main reason",
+"bengali": "প্রধান কারণ",
+"example": "Das ist der Hauptgrund für meine Entscheidung."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0414",
+"german": "die Hauptstadt",
+"word": "Hauptstadt",
+"article": "die",
+"plural": "die Hauptstädte",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "capital city",
+"bengali": "রাজধানী",
+"example": "Berlin ist die Hauptstadt von Deutschland."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0415",
+"german": "der Haushalt",
+"word": "Haushalt",
+"article": "der",
+"plural": "die Haushalte",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "household",
+"bengali": "পরিবার, গৃহস্থালি",
+"example": "Er hilft im Haushalt mit."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0416",
+"german": "die Heimat",
+"word": "Heimat",
+"article": "die",
+"plural": "die Heimaten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "homeland",
+"bengali": "মাতৃভূমি",
+"example": "Ich vermisse meine Heimat."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0417",
+"german": "das Heimweh",
+"word": "Heimweh",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "homesickness",
+"bengali": "বাড়ির জন্য মন কেমন করা",
+"example": "Am Anfang hatte ich großes Heimweh."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0418",
+"german": "heizen",
+"word": "heizen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er heizt",
+"past": "er heizte",
+"participle": "geheizt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "heize", "du": "heizt", "er_sie": "heizt", "wir": "heizen", "ihr": "heizt", "sie": "heizen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to heat",
+"bengali": "গরম করা",
+"example": "Man muss in diesem Winter viel heizen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0419",
+"german": "die Heizkosten",
+"word": "Heizkosten",
+"article": "die",
+"plural": "die Heizkosten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "heating costs",
+"bengali": "গরম করার খরচ",
+"example": "Die Heizkosten sind gestiegen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0420",
+"german": "die Herausforderung",
+"word": "Herausforderung",
+"article": "die",
+"plural": "die Herausforderungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "heraus-", "meaning": "out/towards", "related": ["heraus", "fordern"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "challenge",
+"bengali": "চ্যালেঞ্জ",
+"example": "Das ist eine große Herausforderung für mich."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0421",
+"german": "herkommen",
+"word": "herkommen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "her-", "meaning": "towards speaker", "related": ["her", "kommen"] },
+"conjugation": {
+"present": "er kommt her",
+"past": "er kam her",
+"participle": "hergekommen",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": null,
+"full_present": { "ich": "komme her", "du": "kommst her", "er_sie": "kommt her", "wir": "kommen her", "ihr": "kommt her", "sie": "kommen her" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to come here",
+"bengali": "এখানে আসা",
+"example": "Komm sofort her!"
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0422",
+"german": "das Herkunftsland",
+"word": "Herkunftsland",
+"article": "das",
+"plural": "die Herkunftsländer",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "country of origin",
+"bengali": "উৎপত্তি দেশ",
+"example": "Wie heißt dein Herkunftsland?"
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0423",
+"german": "herstellen",
+"word": "herstellen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "her-", "meaning": "producing/making", "related": ["her", "stellen"] },
+"conjugation": {
+"present": "er stellt her",
+"past": "er stellte her",
+"participle": "hergestellt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "stelle her", "du": "stellst her", "er_sie": "stellt her", "wir": "stellen her", "ihr": "stellt her", "sie": "stellen her" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to produce, to manufacture",
+"bengali": "উৎপাদন করা",
+"example": "Diese Firma stellt Möbel her."
+}
+],
+"synonym": "produzieren",
+"starred": false
+},
+{
+"id": "b1_0424",
+"german": "die Herstellung",
+"word": "Herstellung",
+"article": "die",
+"plural": "die Herstellungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "production, manufacturing",
+"bengali": "উৎপাদন",
+"example": "Die Herstellung ist sehr komplex."
+}
+],
+"synonym": "die Produktion",
+"starred": false
+},
+{
+"id": "b1_0425",
+"german": "das Herz",
+"word": "Herz",
+"article": "das",
+"plural": "die Herzen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "heart",
+"bengali": "হৃদয়",
+"example": "Er hat ein gutes Herz."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0426",
+"german": "hierher",
+"word": "hierher",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "to this place",
+"bengali": "এই দিকে",
+"example": "Bitte komm hierher."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0427",
+"german": "hilfsbereit",
+"word": "hilfsbereit",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "helpful",
+"bengali": "সাহায্যকারী",
+"example": "Sie ist sehr hilfsbereit."
+}
+],
+"synonym": "behilflich",
+"starred": false
+},
+{
+"id": "b1_0428",
+"german": "historisch",
+"word": "historisch",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "historical",
+"bengali": "ঐতিহাসিক",
+"example": "Wir besuchen ein historisches Gebäude."
+}
+],
+"synonym": "geschichtlich",
+"starred": false
+},
+{
+"id": "b1_0429",
+"german": "das Hochwasser",
+"word": "Hochwasser",
+"article": "das",
+"plural": "die Hochwasser",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "flood",
+"bengali": "বন্যা",
+"example": "Nach dem Regen gab es Hochwasser."
+}
+],
+"synonym": "die Flut",
+"starred": false
+},
+{
+"id": "b1_0430",
+"german": "der/die Hörer/in",
+"word": "Hörer/in",
+"article": "der/die",
+"plural": "die Hörer / die Hörerinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "listener",
+"bengali": "শ্রোতা",
+"example": "Die Radiosendung hat viele Hörer."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0431",
+"german": "der Horrorfilm",
+"word": "Horrorfilm",
+"article": "der",
+"plural": "die Horrorfilme",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "horror movie",
+"bengali": "হরর মুভি",
+"example": "Ich schaue gerne Horrorfilme."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0432",
+"german": "das Hostel",
+"word": "Hostel",
+"article": "das",
+"plural": "die Hostels",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "hostel",
+"bengali": "হোস্টেল",
+"example": "Wir übernachten in einem günstigen Hostel."
+}
+],
+"synonym": "die Jugendherberge",
+"starred": false
+},
+{
+"id": "b1_0433",
+"german": "der Hügel",
+"word": "Hügel",
+"article": "der",
+"plural": "die Hügel",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "hill",
+"bengali": "পাহাড়",
+"example": "Das Dorf liegt auf einem Hügel."
+}
+],
+"synonym": "der Berg",
+"starred": false
+},
+{
+"id": "b1_0434",
+"german": "die Hülsenfrucht",
+"word": "Hülsenfrucht",
+"article": "die",
+"plural": "die Hülsenfrüchte",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "legume",
+"bengali": "শিম জাতীয় উদ্ভিদ",
+"example": "Er isst viele Hülsenfrüchte."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0435",
+"german": "hygienisch",
+"word": "hygienisch",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "hygienic",
+"bengali": "স্বাস্থ্যসম্মত",
+"example": "Das ist sehr hygienisch."
+}
+],
+"synonym": "sauber",
+"starred": false
+},
+{
+"id": "b1_0436",
+"german": "das Impressum",
+"word": "Impressum",
+"article": "das",
+"plural": "die Impressen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "legal notice / imprint",
+"bengali": "ইমপ্রিন্ট (আইনি তথ্য)",
+"example": "Die Informationen stehen im Impressum."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0437",
+"german": "indem",
+"word": "indem",
+"article": null,
+"plural": null,
+"type": "Konjunktion",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Konjunktion",
+"english": "by (doing something)",
+"bengali": "যেভাবে",
+"example": "Man lernt, indem man übt."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0438",
+"german": "individuell",
+"word": "individuell",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "individual",
+"bengali": "স্বতন্ত্র",
+"example": "Wir bieten individuelle Beratung."
+}
+],
+"synonym": "persönlich",
+"starred": false
+},
+{
+"id": "b1_0439",
+"german": "die Industrie",
+"word": "Industrie",
+"article": "die",
+"plural": "die Industrien",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "industry",
+"bengali": "শিল্প",
+"example": "Die Industrie ist sehr wichtig."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0440",
+"german": "industriell",
+"word": "industriell",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "industrial",
+"bengali": "শিল্পজাত",
+"example": "Das ist ein industrielles Produkt."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0441",
+"german": "das Inlineskaten",
+"word": "Inlineskaten",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "inline skating",
+"bengali": "ইনলাইন স্কেটিং",
+"example": "Am Wochenende gehen wir Inlineskaten."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0442",
+"german": "innerhalb",
+"word": "innerhalb",
+"article": null,
+"plural": null,
+"type": "Präposition",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Präposition",
+"english": "within",
+"bengali": "মধ্যে",
+"example": "Innerhalb einer Stunde sind wir da."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0443",
+"german": "insofern",
+"word": "insofern",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "insofar as, to that extent",
+"bengali": "সেই অর্থে",
+"example": "Insofern hast du recht."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0444",
+"german": "die Instandhaltung",
+"word": "Instandhaltung",
+"article": "die",
+"plural": "die Instandhaltungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "instand-", "meaning": "maintaining/keeping in order", "related": ["in", "Stand", "halten"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "maintenance",
+"bengali": "রক্ষণাবেক্ষণ",
+"example": "Die Instandhaltung der Maschinen kostet Geld."
+}
+],
+"synonym": "die Wartung",
+"starred": false
+},
+{
+"id": "b1_0445",
+"german": "die Institution",
+"word": "Institution",
+"article": "die",
+"plural": "die Institutionen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "institution",
+"bengali": "প্রতিষ্ঠান",
+"example": "Das ist eine bekannte Institution."
+}
+],
+"synonym": "die Einrichtung",
+"starred": false
+},
+{
+"id": "b1_0446",
+"german": "intern",
+"word": "intern",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "internal",
+"bengali": "অভ্যন্তরীণ",
+"example": "Das ist ein internes Dokument."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0447",
+"german": "inzwischen",
+"word": "inzwischen",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "meanwhile",
+"bengali": "ইতিমধ্যে",
+"example": "Inzwischen kenne ich mich gut aus."
+}
+],
+"synonym": "mittlerweile",
+"starred": false
+},
+{
+"id": "b1_0448",
+"german": "irgendwann",
+"word": "irgendwann",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "sometime",
+"bengali": "কখনও না কখনও",
+"example": "Wir treffen uns irgendwann."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0449",
+"german": "irgendwelche",
+"word": "irgendwelche",
+"article": null,
+"plural": null,
+"type": "Pronomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Pronomen",
+"english": "any (some)",
+"bengali": "কোনো",
+"example": "Hast du irgendwelche Fragen?"
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0450",
+"german": "irgendwer",
+"word": "irgendwer",
+"article": null,
+"plural": null,
+"type": "Pronomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Pronomen",
+"english": "anyone",
+"bengali": "কেউ",
+"example": "Irgendwer hat angerufen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0451",
+"german": "irgendwie",
+"word": "irgendwie",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "somehow",
+"bengali": "কোনভাবে",
+"example": "Irgendwie schaffen wir das."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0452",
+"german": "jahrelang",
+"word": "jahrelang",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "for years",
+"bengali": "বছরের পর বছর",
+"example": "Er hat jahrelang dort gelebt."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0453",
+"german": "das Jahrhundert",
+"word": "Jahrhundert",
+"article": "das",
+"plural": "die Jahrhunderte",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "century",
+"bengali": "শতাব্দী",
+"example": "Wir leben im 21. Jahrhundert."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0454",
+"german": "das Jahrzehnt",
+"word": "Jahrzehnt",
+"article": "das",
+"plural": "die Jahrzehnte",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "decade",
+"bengali": "দশক",
+"example": "Das war ein wichtiges Jahrzehnt."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0455",
+"german": "die Jobbezeichnung",
+"word": "Jobbezeichnung",
+"article": "die",
+"plural": "die Jobbezeichnungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "job title",
+"bengali": "চাকরির শিরোনাম",
+"example": "Wie ist deine genaue Jobbezeichnung?"
+}
+],
+"synonym": "die Berufsbezeichnung",
+"starred": false
+},
+{
+"id": "b1_0456",
+"german": "der/die Jude/Jüdin",
+"word": "Jude/Jüdin",
+"article": "der/die",
+"plural": "die Juden / die Jüdinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "Jew",
+"bengali": "ইহুদি",
+"example": "Er ist Jude."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0457",
+"german": "die Jugendherberge",
+"word": "Jugendherberge",
+"article": "die",
+"plural": "die Jugendherbergen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "youth hostel",
+"bengali": "ইয়ুথ হোস্টেল",
+"example": "Wir übernachten in einer Jugendherberge."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0458",
+"german": "der Kaffeefilter",
+"word": "Kaffeefilter",
+"article": "der",
+"plural": "die Kaffeefilter",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "coffee filter",
+"bengali": "কফি ফিল্টার",
+"example": "Wir brauchen neue Kaffeefilter."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0459",
+"german": "der Kamm",
+"word": "Kamm",
+"article": "der",
+"plural": "die Kämme",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "comb",
+"bengali": "চিরুনি",
+"example": "Hast du einen Kamm?"
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0460",
+"german": "der/die Kandidat/in",
+"word": "Kandidat/in",
+"article": "der/die",
+"plural": "die Kandidaten / die Kandidatinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "candidate",
+"bengali": "প্রার্থী",
+"example": "Es gibt drei Kandidaten."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0461",
+"german": "die Kaskoversicherung",
+"word": "Kaskoversicherung",
+"article": "die",
+"plural": "die Kaskoversicherungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "comprehensive insurance (car)",
+"bengali": "গাড়ির বীমা",
+"example": "Er hat eine gute Kaskoversicherung."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0462",
+"german": "der Katalog",
+"word": "Katalog",
+"article": "der",
+"plural": "die Kataloge",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "catalog",
+"bengali": "ক্যাটালগ",
+"example": "Ich schaue im Katalog nach."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0463",
+"german": "der Kauf",
+"word": "Kauf",
+"article": "der",
+"plural": "die Käufe",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "purchase",
+"bengali": "ক্রয়",
+"example": "Der Kauf war sehr teuer."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0464",
+"german": "die Kaufbestätigung",
+"word": "Kaufbestätigung",
+"article": "die",
+"plural": "die Kaufbestätigungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "proof of purchase",
+"bengali": "ক্রয় নিশ্চিতকরণ",
+"example": "Ich brauche die Kaufbestätigung."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0465",
+"german": "der/die Käufer/in",
+"word": "Käufer/in",
+"article": "der/die",
+"plural": "die Käufer / die Käuferinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "buyer",
+"bengali": "ক্রেতা",
+"example": "Der Käufer ist zufrieden."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0466",
+"german": "der Kaufvertrag",
+"word": "Kaufvertrag",
+"article": "der",
+"plural": "die Kaufverträge",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "sales contract",
+"bengali": "বিক্রয় চুক্তি",
+"example": "Wir müssen den Kaufvertrag unterschreiben."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0467",
+"german": "kaum",
+"word": "kaum",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "hardly",
+"bengali": "প্রায় না",
+"example": "Er kann kaum laufen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0468",
+"german": "der Kilometer",
+"word": "Kilometer",
+"article": "der",
+"plural": "die Kilometer",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "kilometer",
+"bengali": "কিলোমিটার",
+"example": "Es sind noch 10 Kilometer."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0469",
+"german": "die Kindheit",
+"word": "Kindheit",
+"article": "die",
+"plural": "die Kindheiten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "childhood",
+"bengali": "শৈশব",
+"example": "Ich hatte eine schöne Kindheit."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0470",
+"german": "kippen",
+"word": "kippen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er kippt",
+"past": "er kippte",
+"participle": "gekippt",
+"auxiliary": "ist",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "kippe", "du": "kippst", "er_sie": "kippt", "wir": "kippen", "ihr": "kippt", "sie": "kippen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to tilt, to tip over",
+"bengali": "উল্টে যাওয়া",
+"example": "Das Glas ist gekippt."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0471",
+"german": "klettern",
+"word": "klettern",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er klettert",
+"past": "er kletterte",
+"participle": "geklettert",
+"auxiliary": "ist",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "klettere", "du": "kletterst", "er_sie": "klettert", "wir": "klettern", "ihr": "klettert", "sie": "klettern" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to climb",
+"bengali": "আরোহণ করা",
+"example": "Wir klettern auf den Berg."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0472",
+"german": "das Klima",
+"word": "Klima",
+"article": "das",
+"plural": "die Klimate",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "climate",
+"bengali": "জলবায়ু",
+"example": "Das Klima in Deutschland ist mild."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0473",
+"german": "der Klimawandel",
+"word": "Klimawandel",
+"article": "der",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "climate change",
+"bengali": "জলবায়ু পরিবর্তন",
+"example": "Der Klimawandel ist gefährlich."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0474",
+"german": "klug",
+"word": "klug",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "smart, wise",
+"bengali": "বুদ্ধিমান",
+"example": "Das war eine kluge Idee."
+}
+],
+"synonym": "intelligent",
+"starred": false
+},
+{
+"id": "b1_0475",
+"german": "das Kochbuch",
+"word": "Kochbuch",
+"article": "das",
+"plural": "die Kochbücher",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "cookbook",
+"bengali": "রান্নার বই",
+"example": "Ich lese gerne in meinem Kochbuch."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0476",
+"german": "der Kofferraum",
+"word": "Kofferraum",
+"article": "der",
+"plural": "die Kofferräume",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "trunk (car)",
+"bengali": "গাড়ির ডিকি",
+"example": "Stell den Koffer in den Kofferraum."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0477",
+"german": "komfortabel",
+"word": "komfortabel",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "comfortable",
+"bengali": "আরামদায়ক",
+"example": "Das Sofa ist sehr komfortabel."
+}
+],
+"synonym": "bequem",
+"starred": false
+},
+{
+"id": "b1_0478",
+"german": "der/die Kommentator/in",
+"word": "Kommentator/in",
+"article": "der/die",
+"plural": "die Kommentatoren / die Kommentatorinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "commentator",
+"bengali": "ভাষ্যকার",
+"example": "Der Kommentator spricht schnell."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0479",
+"german": "der/die Kommissar/in",
+"word": "Kommissar/in",
+"article": "der/die",
+"plural": "die Kommissare / die Kommissarinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "detective (police)",
+"bengali": "গোয়েন্দা পুলিশ",
+"example": "Der Kommissar löst den Fall."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0480",
+"german": "die Kommunikationsstärke",
+"word": "Kommunikationsstärke",
+"article": "die",
+"plural": "die Kommunikationsstärken",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "communication skills",
+"bengali": "যোগাযোগের দক্ষতা",
+"example": "Er besitzt eine hohe Kommunikationsstärke."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0481",
+"german": "kommunikativ",
+"word": "kommunikativ",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "communicative",
+"bengali": "মিশুক, যোগাযোগে দক্ষ",
+"example": "Sie ist eine kommunikative Person."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0482",
+"german": "die Komödie",
+"word": "Komödie",
+"article": "die",
+"plural": "die Komödien",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "comedy",
+"bengali": "কমেডি",
+"example": "Wir sehen uns eine Komödie an."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0483",
+"german": "der Konferenzraum",
+"word": "Konferenzraum",
+"article": "der",
+"plural": "die Konferenzräume",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "conference room",
+"bengali": "কনফারেন্স রুম",
+"example": "Das Meeting ist im Konferenzraum."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0484",
+"german": "der Konflikt",
+"word": "Konflikt",
+"article": "der",
+"plural": "die Konflikte",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "conflict",
+"bengali": "দ্বন্দ্ব",
+"example": "Es gibt einen Konflikt im Team."
+}
+],
+"synonym": "der Streit",
+"starred": false
+},
+{
+"id": "b1_0485",
+"german": "der/die König/in",
+"word": "König/in",
+"article": "der/die",
+"plural": "die Könige / die Königinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "king/queen",
+"bengali": "রাজা/রানি",
+"example": "Der König regiert das Land."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0486",
+"german": "die Konservendose",
+"word": "Konservendose",
+"article": "die",
+"plural": "die Konservendosen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "tin can",
+"bengali": "টিনের কৌটা",
+"example": "Ich öffne die Konservendose."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0487",
+"german": "die Kontaktdaten",
+"word": "Kontaktdaten",
+"article": "die",
+"plural": "die Kontaktdaten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "contact details",
+"bengali": "যোগাযোগের ঠিকানা",
+"example": "Hast du seine Kontaktdaten?"
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0488",
+"german": "die Kopie",
+"word": "Kopie",
+"article": "die",
+"plural": "die Kopien",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "copy",
+"bengali": "কপি",
+"example": "Ich brauche eine Kopie von dem Dokument."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0489",
+"german": "der Kopierer",
+"word": "Kopierer",
+"article": "der",
+"plural": "die Kopierer",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "copier",
+"bengali": "ফটোকপি মেশিন",
+"example": "Der Kopierer ist kaputt."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0490",
+"german": "korrekt",
+"word": "korrekt",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "correct",
+"bengali": "সঠিক",
+"example": "Das ist nicht korrekt."
+}
+],
+"synonym": "richtig",
+"starred": false
+},
+{
+"id": "b1_0491",
+"german": "die Kosmetik",
+"word": "Kosmetik",
+"article": "die",
+"plural": "die Kosmetiken",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "cosmetics",
+"bengali": "প্রসাধনী",
+"example": "Sie kauft Kosmetik."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0492",
+"german": "krachen",
+"word": "krachen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er kracht",
+"past": "er krachte",
+"participle": "gekracht",
+"auxiliary": "ist",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "krache", "du": "krachst", "er_sie": "kracht", "wir": "krachen", "ihr": "kracht", "sie": "krachen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to crash",
+"bengali": "ধাক্কা লাগা",
+"example": "Das Auto ist gegen den Baum gekracht."
+}
+],
+"synonym": "aufprallen",
+"starred": false
+},
+{
+"id": "b1_0493",
+"german": "der Kratzer",
+"word": "Kratzer",
+"article": "der",
+"plural": "die Kratzer",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "scratch",
+"bengali": "আঁচড়",
+"example": "Das Auto hat einen Kratzer."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0494",
+"german": "der Krieg",
+"word": "Krieg",
+"article": "der",
+"plural": "die Kriege",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "war",
+"bengali": "যুদ্ধ",
+"example": "Der Krieg war schrecklich."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0495",
+"german": "das Kriegsende",
+"word": "Kriegsende",
+"article": "das",
+"plural": "die Kriegsenden",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "end of the war",
+"bengali": "যুদ্ধ শেষ হওয়া",
+"example": "Das Kriegsende war im Jahr 1945."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0496",
+"german": "der Krimi",
+"word": "Krimi",
+"article": "der",
+"plural": "die Krimis",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "crime novel/thriller",
+"bengali": "গোয়েন্দা গল্প",
+"example": "Ich lese gerne Krimis."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0497",
+"german": "die Krippe",
+"word": "Krippe",
+"article": "die",
+"plural": "die Krippen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "crèche / nursery",
+"bengali": "শিশুশালা",
+"example": "Das Kind geht in die Krippe."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0498",
+"german": "der/die Kritiker/in",
+"word": "Kritiker/in",
+"article": "der/die",
+"plural": "die Kritiker / die Kritikerinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "critic",
+"bengali": "সমালোচক",
+"example": "Der Kritiker lobt den Film."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0499",
+"german": "kulinarisch",
+"word": "kulinarisch",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "culinary",
+"bengali": "রান্নাসংক্রান্ত",
+"example": "Das ist ein kulinarisches Erlebnis."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0500",
+"german": "kümmern",
+"word": "kümmern",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er kümmert",
+"past": "er kümmerte",
+"participle": "gekümmert",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "kümmere", "du": "kümmerst", "er_sie": "kümmert", "wir": "kümmern", "ihr": "kümmert", "sie": "kümmern" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to take care of (reflexive)",
+"bengali": "যত্ন নেওয়া",
+"example": "Er kümmert sich um die Katze."
+}
+],
+"synonym": "sich sorgen",
+"starred": false
+}
+]

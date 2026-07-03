@@ -1,0 +1,2309 @@
+[
+  {
+    "id": "b1_0301",
+    "german": "die Erstellung",
+    "word": "Erstellung",
+    "article": "die",
+    "plural": "die Erstellungen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "creation, production",
+        "bengali": "তৈরি করা, সৃষ্টি",
+        "example": "Die Erstellung des Berichts dauerte zwei Tage."
+      }
+    ],
+    "synonym": "die Anfertigung",
+    "starred": false
+  },
+  {
+    "id": "b1_0302",
+    "german": "erwähnen",
+    "word": "erwähnen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er erwähnt",
+      "past": "er erwähnte",
+      "participle": "erwähnt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "erwähne",
+        "du": "erwähnst",
+        "er_sie": "erwähnt",
+        "wir": "erwähnen",
+        "ihr": "erwähnt",
+        "sie": "erwähnen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to mention",
+        "bengali": "উল্লেখ করা",
+        "example": "Er hat seinen Namen nicht erwähnt."
+      }
+    ],
+    "synonym": "nennen",
+    "starred": false
+  },
+  {
+    "id": "b1_0303",
+    "german": "eskalieren",
+    "word": "eskalieren",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er eskaliert",
+      "past": "er eskalierte",
+      "participle": "eskaliert",
+      "auxiliary": "ist",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "eskaliere",
+        "du": "eskalierst",
+        "er_sie": "eskaliert",
+        "wir": "eskalieren",
+        "ihr": "eskaliert",
+        "sie": "eskalieren"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to escalate",
+        "bengali": "তীব্রতর হওয়া",
+        "example": "Der Streit ist schnell eskaliert."
+      }
+    ],
+    "synonym": "verschlimmern",
+    "starred": false
+  },
+  {
+    "id": "b1_0304",
+    "german": "der/die Esser/in",
+    "word": "Esser/in",
+    "article": "der/die",
+    "plural": "die Esser",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "eater",
+        "bengali": "খককারী",
+        "example": "Sie ist eine wählerische Esserin."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0305",
+    "german": "die Euroeinführung",
+    "word": "Euroeinführung",
+    "article": "die",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "introduction of the Euro",
+        "bengali": "ইউরো মুদ্রার প্রবর্তন",
+        "example": "Die Euroeinführung änderte den Zahlungsverkehr."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0306",
+    "german": "die Europäische Union (EU)",
+    "word": "Europäische Union (EU)",
+    "article": "die",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "European Union",
+        "bengali": "ইউরোপীয় ইউনিয়ন",
+        "example": "Deutschland ist Mitglied der EU."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0307",
+    "german": "eventuell",
+    "word": "eventuell",
+    "article": null,
+    "plural": null,
+    "type": "Adverb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adverb",
+        "english": "possibly, perhaps",
+        "bengali": "সম্ভবত",
+        "example": "Ich komme eventuell morgen vorbei."
+      }
+    ],
+    "synonym": "vielleicht",
+    "starred": false
+  },
+  {
+    "id": "b1_0308",
+    "german": "exotisch",
+    "word": "exotisch",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "exotic",
+        "bengali": "বিদেশী বা অদ্ভুত",
+        "example": "Wir haben exotische Früchte probiert."
+      }
+    ],
+    "synonym": "fremdartig",
+    "starred": false
+  },
+  {
+    "id": "b1_0309",
+    "german": "der/die Experte/Expertin",
+    "word": "Experte/Expertin",
+    "article": "der/die",
+    "plural": "die Experten",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "expert",
+        "bengali": "বিশেষজ্ঞ",
+        "example": "Sie ist eine Expertin für Klimawandel."
+      }
+    ],
+    "synonym": "der Fachmann",
+    "starred": false
+  },
+  {
+    "id": "b1_0310",
+    "german": "die Fähigkeit",
+    "word": "Fähigkeit",
+    "article": "die",
+    "plural": "die Fähigkeiten",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "ability, skill",
+        "bengali": "ক্ষমতা, দক্ষতা",
+        "example": "Er besitzt die Fähigkeit, schnell zu lernen."
+      }
+    ],
+    "synonym": "die Kompetenz",
+    "starred": false
+  },
+  {
+    "id": "b1_0311",
+    "german": "die Fahrerseite",
+    "word": "Fahrerseite",
+    "article": "die",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "driver's side",
+        "bengali": "চালকের দিকের পাশ",
+        "example": "Das Fenster auf der Fahrerseite ist offen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0312",
+    "german": "fair",
+    "word": "fair",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "fair",
+        "bengali": "ন্যায্য",
+        "example": "Das war ein fairer Kampf."
+      }
+    ],
+    "synonym": "gerecht",
+    "starred": false
+  },
+  {
+    "id": "b1_0313",
+    "german": "falls",
+    "word": "falls",
+    "article": null,
+    "plural": null,
+    "type": "Konjunktion",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Konjunktion",
+        "english": "in case, if",
+        "bengali": "যদি",
+        "example": "Falls es regnet, bleiben wir zu Hause."
+      }
+    ],
+    "synonym": "wenn",
+    "starred": false
+  },
+  {
+    "id": "b1_0314",
+    "german": "der Fan",
+    "word": "Fan",
+    "article": "der",
+    "plural": "die Fans",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "fan, admirer",
+        "bengali": "প্রशंसক",
+        "example": "Er ist ein großer Fan von Mozart."
+      }
+    ],
+    "synonym": "der Anhänger",
+    "starred": false
+  },
+  {
+    "id": "b1_0315",
+    "german": "die Fantasie",
+    "word": "Fantasie",
+    "article": "die",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "imagination, fantasy",
+        "bengali": "কল্পনা",
+        "example": "Kinder haben oft eine große Fantasie."
+      }
+    ],
+    "synonym": "die Einbildungskraft",
+    "starred": false
+  },
+  {
+    "id": "b1_0316",
+    "german": "färben",
+    "word": "färben",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er färbt",
+      "past": "er färbte",
+      "participle": "gefärbt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "färbe",
+        "du": "färbst",
+        "er_sie": "färbt",
+        "wir": "färben",
+        "ihr": "färbt",
+        "sie": "färben"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to dye, to color",
+        "bengali": "রং করা",
+        "example": "Sie möchte ihre Haare blond färben."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0317",
+    "german": "das Fax",
+    "word": "Fax",
+    "article": "das",
+    "plural": "die Faxe",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "fax",
+        "bengali": "ফ্যাক্স",
+        "example": "Ich schicke Ihnen das Dokument per Fax."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0318",
+    "german": "das Fertiggericht",
+    "word": "Fertiggericht",
+    "article": "das",
+    "plural": "die Fertiggerichte",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "ready meal, convenience food",
+        "bengali": "তৈরি খাবার",
+        "example": "Fertiggerichte sind oft ungesund."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0319",
+    "german": "die Festanstellung",
+    "word": "Festanstellung",
+    "article": "die",
+    "plural": "die Festanstellungen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "permanent employment",
+        "bengali": "স্থায়ী চাকরি",
+        "example": "Nach der Probezeit bekam er eine Festanstellung."
+      }
+    ],
+    "synonym": "das unbefristete Arbeitsverhältnis",
+    "starred": false
+  },
+  {
+    "id": "b1_0320",
+    "german": "festkleben",
+    "word": "festkleben",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": {
+      "prefix": "fest-",
+      "meaning": "fixed/tightly",
+      "related": ["kleben"]
+    },
+    "conjugation": {
+      "present": "er klebt fest",
+      "past": "er klebte fest",
+      "participle": "festgeklebt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "klebe fest",
+        "du": "klebst fest",
+        "er_sie": "klebt fest",
+        "wir": "kleben fest",
+        "ihr": "klebt fest",
+        "sie": "kleben fest"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to stick fast, to glue",
+        "bengali": "শক্ত করে লেগে থাকা",
+        "example": "Das Etikett ist festgeklebt."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0321",
+    "german": "festlegen",
+    "word": "festlegen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": {
+      "prefix": "fest-",
+      "meaning": "fixed",
+      "related": ["legen"]
+    },
+    "conjugation": {
+      "present": "er legt fest",
+      "past": "er legte fest",
+      "participle": "festgelegt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "lege fest",
+        "du": "legst fest",
+        "er_sie": "legt fest",
+        "wir": "legen fest",
+        "ihr": "legt fest",
+        "sie": "legen fest"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to determine, to fix, to stipulate",
+        "bengali": "নির্ধারণ করা",
+        "example": "Wir müssen einen Termin festlegen."
+      }
+    ],
+    "synonym": "bestimmen",
+    "starred": false
+  },
+  {
+    "id": "b1_0322",
+    "german": "fett",
+    "word": "fett",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "fat, greasy",
+        "bengali": "চর্বিযুক্ত, মোটা",
+        "example": "Dieses Fleisch ist sehr fett."
+      }
+    ],
+    "synonym": "ölig",
+    "starred": false
+  },
+  {
+    "id": "b1_0323",
+    "german": "finanziell",
+    "word": "finanziell",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "financial",
+        "bengali": "আর্থিক",
+        "example": "Ich habe momentan finanzielle Probleme."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0324",
+    "german": "das Finanzwesen",
+    "word": "Finanzwesen",
+    "article": "das",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "finance system, financial sector",
+        "bengali": "অর্থব্যবস্থা",
+        "example": "Er arbeitet im Finanzwesen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0325",
+    "german": "der Firmensitz",
+    "word": "Firmensitz",
+    "article": "der",
+    "plural": "die Firmensitze",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "company headquarters",
+        "bengali": "কোম্পানির প্রধান কার্যালয়",
+        "example": "Der Firmensitz befindet sich in Berlin."
+      }
+    ],
+    "synonym": "der Hauptsitz",
+    "starred": false
+  },
+  {
+    "id": "b1_0326",
+    "german": "fix",
+    "word": "fix",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "fast, fixed",
+        "bengali": "দ্রুত, নির্দিষ্ট",
+        "example": "Wir haben einen fixen Termin."
+      }
+    ],
+    "synonym": "schnell",
+    "starred": false
+  },
+  {
+    "id": "b1_0327",
+    "german": "fleischfrei",
+    "word": "fleischfrei",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "meat-free",
+        "bengali": "মাংসহীন",
+        "example": "Ich esse gerne fleischfreie Gerichte."
+      }
+    ],
+    "synonym": "vegetarisch",
+    "starred": false
+  },
+  {
+    "id": "b1_0328",
+    "german": "fleischlos",
+    "word": "fleischlos",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "meatless",
+        "bengali": "মাংসহীন",
+        "example": "Ein fleischloser Tag pro Woche ist gesund."
+      }
+    ],
+    "synonym": "fleischfrei",
+    "starred": false
+  },
+  {
+    "id": "b1_0329",
+    "german": "fließend",
+    "word": "fließend",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "fluent",
+        "bengali": "সাবলীল",
+        "example": "Sie spricht fließend Deutsch."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0330",
+    "german": "der Flüchtling",
+    "word": "Flüchtling",
+    "article": "der",
+    "plural": "die Flüchtlinge",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "refugee",
+        "bengali": "শরণার্থী",
+        "example": "Viele Flüchtlinge suchen Schutz in Europa."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0331",
+    "german": "der Flug",
+    "word": "Flug",
+    "article": "der",
+    "plural": "die Flüge",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "flight",
+        "bengali": "বিমান যাত্রা",
+        "example": "Der Flug nach New York dauert acht Stunden."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0332",
+    "german": "der/die Flugbegleiter/in",
+    "word": "Flugbegleiter/in",
+    "article": "der/die",
+    "plural": "die Flugbegleiter",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "flight attendant",
+        "bengali": "ফ্লাইট অ্যাটেনডেন্ট",
+        "example": "Die Flugbegleiterin half den Passagieren."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0333",
+    "german": "der Fluggast",
+    "word": "Fluggast",
+    "article": "der",
+    "plural": "die Fluggäste",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "flight passenger",
+        "bengali": "বিমান যাত্রী",
+        "example": "Die Fluggäste warten am Gate."
+      }
+    ],
+    "synonym": "der Passagier",
+    "starred": false
+  },
+  {
+    "id": "b1_0334",
+    "german": "die Fluggesellschaft",
+    "word": "Fluggesellschaft",
+    "article": "die",
+    "plural": "die Fluggesellschaften",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "airline",
+        "bengali": "বিমান সংস্থা",
+        "example": "Welche Fluggesellschaft bietet die günstigsten Preise?"
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0335",
+    "german": "der Föhn",
+    "word": "Föhn",
+    "article": "der",
+    "plural": "die Föhne",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "hair dryer / foehn wind",
+        "bengali": "হেয়ার ড্রায়ার / উষ্ণ বাতাস",
+        "example": "Ich benutze jeden Morgen einen Föhn."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0336",
+    "german": "fordern",
+    "word": "fordern",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er fordert",
+      "past": "er forderte",
+      "participle": "gefordert",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "fordere",
+        "du": "forderst",
+        "er_sie": "fordert",
+        "wir": "fordern",
+        "ihr": "fordert",
+        "sie": "fordern"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to demand",
+        "bengali": "দাবি করা",
+        "example": "Die Gewerkschaft fordert mehr Lohn."
+      }
+    ],
+    "synonym": "verlangen",
+    "starred": false
+  },
+  {
+    "id": "b1_0337",
+    "german": "fördern",
+    "word": "fördern",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er fördert",
+      "past": "er förderte",
+      "participle": "gefördert",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "fördere",
+        "du": "förderst",
+        "er_sie": "fördert",
+        "wir": "fördern",
+        "ihr": "fördert",
+        "sie": "fördern"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to promote, to support",
+        "bengali": "উৎসাহিত করা, সহায়তা করা",
+        "example": "Der Staat fördert junge Unternehmer."
+      }
+    ],
+    "synonym": "unterstützen",
+    "starred": false
+  },
+  {
+    "id": "b1_0338",
+    "german": "die Formalität",
+    "word": "Formalität",
+    "article": "die",
+    "plural": "die Formalitäten",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "formality",
+        "bengali": "আনুষ্ঠানিকতা",
+        "example": "Das ist nur eine kleine Formalität."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0339",
+    "german": "förmlich",
+    "word": "förmlich",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "formal",
+        "bengali": "আনুষ্ঠানিক",
+        "example": "In diesem Büro tragen alle förmliche Kleidung."
+      }
+    ],
+    "synonym": "offiziell",
+    "starred": false
+  },
+  {
+    "id": "b1_0340",
+    "german": "die Formulierung",
+    "word": "Formulierung",
+    "article": "die",
+    "plural": "die Formulierungen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "wording, formulation",
+        "bengali": "শব্দচয়ন, প্রণয়ন",
+        "example": "Die Formulierung des Satzes ist etwas unklar."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0341",
+    "german": "der/die Förster/in",
+    "word": "Förster/in",
+    "article": "der/die",
+    "plural": "die Förster",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "forester",
+        "bengali": "বনরক্ষক",
+        "example": "Der Förster kümmert sich um den Wald."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0342",
+    "german": "die Fortbildung",
+    "word": "Fortbildung",
+    "article": "die",
+    "plural": "die Fortbildungen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": {
+      "prefix": "fort-",
+      "meaning": "further",
+      "related": ["Bildung"]
+    },
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "further training, continuing education",
+        "bengali": "উন্নত প্রশিক্ষণ",
+        "example": "Die Firma bezahlt meine Fortbildung."
+      }
+    ],
+    "synonym": "die Weiterbildung",
+    "starred": false
+  },
+  {
+    "id": "b1_0343",
+    "german": "die Fotokopie",
+    "word": "Fotokopie",
+    "article": "die",
+    "plural": "die Fotokopien",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "photocopy",
+        "bengali": "ফটোকপি",
+        "example": "Können Sie mir bitte eine Fotokopie machen?"
+      }
+    ],
+    "synonym": "die Kopie",
+    "starred": false
+  },
+  {
+    "id": "b1_0344",
+    "german": "die Freiwillige",
+    "word": "Freiwillige",
+    "article": "die",
+    "plural": "die Freiwilligen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "volunteer",
+        "bengali": "স্বেচ্ছাসেবী",
+        "example": "Sie arbeitet als Freiwillige im Krankenhaus."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0345",
+    "german": "die Fremdsprache",
+    "word": "Fremdsprache",
+    "article": "die",
+    "plural": "die Fremdsprachen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "foreign language",
+        "bengali": "বিদেশী ভাষা",
+        "example": "Englisch ist die am häufigsten gelernte Fremdsprache."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0346",
+    "german": "die Freude",
+    "word": "Freude",
+    "article": "die",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "joy, pleasure",
+        "bengali": "আনন্দ",
+        "example": "Es ist mir eine große Freude, Sie kennenzulernen."
+      }
+    ],
+    "synonym": "das Vergnügen",
+    "starred": false
+  },
+  {
+    "id": "b1_0347",
+    "german": "der Freundeskreis",
+    "word": "Freundeskreis",
+    "article": "der",
+    "plural": "die Freundeskreise",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "circle of friends",
+        "bengali": "বন্ধুমহলে",
+        "example": "In meinem Freundeskreis diskutieren wir oft über Politik."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0348",
+    "german": "der Frieden",
+    "word": "Frieden",
+    "article": "der",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "peace",
+        "bengali": "শান্তি",
+        "example": "Die Menschen wünschen sich weltweiten Frieden."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0349",
+    "german": "friedlich",
+    "word": "friedlich",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "peaceful",
+        "bengali": "শান্তিপূর্ণ",
+        "example": "Die Demonstration verlief friedlich."
+      }
+    ],
+    "synonym": "ruhig",
+    "starred": false
+  },
+  {
+    "id": "b1_0350",
+    "german": "die Frist",
+    "word": "Frist",
+    "article": "die",
+    "plural": "die Fristen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "deadline, period",
+        "bengali": "সময়সীমা",
+        "example": "Die Frist für die Anmeldung läuft morgen ab."
+      }
+    ],
+    "synonym": "die Deadline",
+    "starred": false
+  },
+  {
+    "id": "b1_0351",
+    "german": "fristgerecht",
+    "word": "fristgerecht",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "on time, within the deadline",
+        "bengali": "সময়মতো",
+        "example": "Die Kündigung erfolgte fristgerecht."
+      }
+    ],
+    "synonym": "pünktlich",
+    "starred": false
+  },
+  {
+    "id": "b1_0352",
+    "german": "fristlos",
+    "word": "fristlos",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "without notice, immediately",
+        "bengali": "তৎক্ষণাৎ বা নোটিশ ছাড়াই",
+        "example": "Er wurde fristlos entlassen."
+      }
+    ],
+    "synonym": "sofort",
+    "starred": false
+  },
+  {
+    "id": "b1_0353",
+    "german": "die Frisur",
+    "word": "Frisur",
+    "article": "die",
+    "plural": "die Frisuren",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "hairstyle",
+        "bengali": "চুলের স্টাইল",
+        "example": "Deine neue Frisur steht dir sehr gut."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0354",
+    "german": "der Frust",
+    "word": "Frust",
+    "article": "der",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "frustration",
+        "bengali": "হতাশা",
+        "example": "Nach dem verlorenen Spiel herrschte großer Frust."
+      }
+    ],
+    "synonym": "die Enttäuschung",
+    "starred": false
+  },
+  {
+    "id": "b1_0355",
+    "german": "frustriert",
+    "word": "frustriert",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "frustrated",
+        "bengali": "হতাশ",
+        "example": "Er war frustriert über seine schlechten Noten."
+      }
+    ],
+    "synonym": "enttäuscht",
+    "starred": false
+  },
+  {
+    "id": "b1_0356",
+    "german": "führen",
+    "word": "führen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er führt",
+      "past": "er führte",
+      "participle": "geführt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "führe",
+        "du": "führst",
+        "er_sie": "führt",
+        "wir": "führen",
+        "ihr": "führt",
+        "sie": "führen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to lead, to guide, to conduct",
+        "bengali": "নেতৃত্ব দেওয়া, পরিচালনা করা",
+        "example": "Sie führt das Gespräch."
+      }
+    ],
+    "synonym": "leiten",
+    "starred": false
+  },
+  {
+    "id": "b1_0357",
+    "german": "das Führungszeugnis",
+    "word": "Führungszeugnis",
+    "article": "das",
+    "plural": "die Führungszeugnisse",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "certificate of good conduct, police clearance certificate",
+        "bengali": "আচরণগত সনদপত্র",
+        "example": "Für diesen Job brauchen Sie ein polizeiliches Führungszeugnis."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0358",
+    "german": "furchtbar",
+    "word": "furchtbar",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "terrible, awful",
+        "bengali": "ভয়ানক, খুব খারাপ",
+        "example": "Das Wetter heute ist einfach furchtbar."
+      }
+    ],
+    "synonym": "schrecklich",
+    "starred": false
+  },
+  {
+    "id": "b1_0359",
+    "german": "der Fußballclub",
+    "word": "Fußballclub",
+    "article": "der",
+    "plural": "die Fußballclubs",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "football club",
+        "bengali": "ফুটবল ক্লাব",
+        "example": "Mein Bruder spielt in einem lokalen Fußballclub."
+      }
+    ],
+    "synonym": "der Fußballverein",
+    "starred": false
+  },
+  {
+    "id": "b1_0360",
+    "german": "füttern",
+    "word": "füttern",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er füttert",
+      "past": "er fütterte",
+      "participle": "gefüttert",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "füttere",
+        "du": "fütterst",
+        "er_sie": "füttert",
+        "wir": "füttern",
+        "ihr": "füttert",
+        "sie": "füttern"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to feed",
+        "bengali": "খাওয়ানো",
+        "example": "Vergiss nicht, den Hund zu füttern."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0361",
+    "german": "der Gang",
+    "word": "Gang",
+    "article": "der",
+    "plural": "die Gänge",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "aisle, corridor, gear (car), course (meal)",
+        "bengali": "করিডোর, গিয়ার, খাবারের কোর্স",
+        "example": "Ich gehe den Gang entlang zum Ausgang."
+      }
+    ],
+    "synonym": "der Flur",
+    "starred": false
+  },
+  {
+    "id": "b1_0362",
+    "german": "garantieren",
+    "word": "garantieren",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er garantiert",
+      "past": "er garantierte",
+      "participle": "garantiert",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "garantiere",
+        "du": "garantierst",
+        "er_sie": "garantiert",
+        "wir": "garantieren",
+        "ihr": "garantiert",
+        "sie": "garantieren"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to guarantee",
+        "bengali": "গ্যারান্টি দেওয়া, নিশ্চয়তা দেওয়া",
+        "example": "Ich kann Ihnen den Erfolg nicht garantieren."
+      }
+    ],
+    "synonym": "zusichern",
+    "starred": false
+  },
+  {
+    "id": "b1_0363",
+    "german": "der/die Gastarbeiter/in",
+    "word": "Gastarbeiter/in",
+    "article": "der/die",
+    "plural": "die Gastarbeiter",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "guest worker",
+        "bengali": "অতিথি শ্রমিক",
+        "example": "In den 60er Jahren kamen viele Gastarbeiter nach Deutschland."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0364",
+    "german": "das Gate",
+    "word": "Gate",
+    "article": "das",
+    "plural": "die Gates",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "gate (airport)",
+        "bengali": "গেট (বিমানবন্দর)",
+        "example": "Bitte begeben Sie sich zum Gate B12."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0365",
+    "german": "der Gebrauchtwagen",
+    "word": "Gebrauchtwagen",
+    "article": "der",
+    "plural": "die Gebrauchtwagen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "used car",
+        "bengali": "পুরাতন ব্যবহৃত গাড়ি",
+        "example": "Ich kaufe lieber einen Gebrauchtwagen als ein neues Auto."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0366",
+    "german": "der Gedanke",
+    "word": "Gedanke",
+    "article": "der",
+    "plural": "die Gedanken",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "thought",
+        "bengali": "চিন্তা",
+        "example": "Ein interessanter Gedanke, aber ich bin nicht sicher."
+      }
+    ],
+    "synonym": "die Überlegung",
+    "starred": false
+  },
+  {
+    "id": "b1_0367",
+    "german": "die Geduld",
+    "word": "Geduld",
+    "article": "die",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "patience",
+        "bengali": "ধৈর্য",
+        "example": "Man braucht viel Geduld, um eine Sprache zu lernen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0368",
+    "german": "geduldig",
+    "word": "geduldig",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "patient",
+        "bengali": "ধৈর্যশীল",
+        "example": "Ein Lehrer muss sehr geduldig sein."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0369",
+    "german": "das Gefühl",
+    "word": "Gefühl",
+    "article": "das",
+    "plural": "die Gefühle",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "feeling, emotion",
+        "bengali": "অনুভূতি",
+        "example": "Ich habe das Gefühl, dass etwas nicht stimmt."
+      }
+    ],
+    "synonym": "die Empfindung",
+    "starred": false
+  },
+  {
+    "id": "b1_0370",
+    "german": "der Gegenstand",
+    "word": "Gegenstand",
+    "article": "der",
+    "plural": "die Gegenstände",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "object, item",
+        "bengali": "বস্তু",
+        "example": "Bitte lassen Sie keine persönlichen Gegenstände zurück."
+      }
+    ],
+    "synonym": "das Ding",
+    "starred": false
+  },
+  {
+    "id": "b1_0371",
+    "german": "der Gegenvorschlag",
+    "word": "Gegenvorschlag",
+    "article": "der",
+    "plural": "die Gegenvorschläge",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "counter-proposal",
+        "bengali": "পাল্টা প্রস্তাব",
+        "example": "Ich akzeptiere Ihr Angebot nicht, aber ich habe einen Gegenvorschlag."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0372",
+    "german": "der/die Gegner/in",
+    "word": "Gegner/in",
+    "article": "der/die",
+    "plural": "die Gegner",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "opponent, adversary",
+        "bengali": "প্রতিপক্ষ",
+        "example": "Der Gegner im Finale war sehr stark."
+      }
+    ],
+    "synonym": "der Rivale",
+    "starred": false
+  },
+  {
+    "id": "b1_0373",
+    "german": "das Gehalt",
+    "word": "Gehalt",
+    "article": "das",
+    "plural": "die Gehälter",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "salary",
+        "bengali": "বেতন",
+        "example": "Das monatliche Gehalt wird am ersten des Monats gezahlt."
+      }
+    ],
+    "synonym": "der Lohn",
+    "starred": false
+  },
+  {
+    "id": "b1_0374",
+    "german": "die Gehaltsvorstellung",
+    "word": "Gehaltsvorstellung",
+    "article": "die",
+    "plural": "die Gehaltsvorstellungen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "salary expectation",
+        "bengali": "বেতনের প্রত্যাশা",
+        "example": "Bitte nennen Sie uns Ihre Gehaltsvorstellungen im Anschreiben."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0375",
+    "german": "die Gemeinsamkeit",
+    "word": "Gemeinsamkeit",
+    "article": "die",
+    "plural": "die Gemeinsamkeiten",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "commonality, similarity",
+        "bengali": "সাধারণ বৈশিষ্ট্য, মিল",
+        "example": "Wir haben viele Gemeinsamkeiten."
+      }
+    ],
+    "synonym": "die Ähnlichkeit",
+    "starred": false
+  },
+  {
+    "id": "b1_0376",
+    "german": "der Gemeinschaftsraum",
+    "word": "Gemeinschaftsraum",
+    "article": "der",
+    "plural": "die Gemeinschaftsräume",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "common room",
+        "bengali": "কমন রুম, সাধারণ কক্ষ",
+        "example": "Im Gemeinschaftsraum können Studenten lernen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0377",
+    "german": "der/die Gemüsehändler/in",
+    "word": "Gemüsehändler/in",
+    "article": "der/die",
+    "plural": "die Gemüsehändler",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "vegetable seller",
+        "bengali": "সবজি বিক্রেতা",
+        "example": "Ich kaufe mein Gemüse beim Gemüsehändler an der Ecke."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0378",
+    "german": "das Gepäck",
+    "word": "Gepäck",
+    "article": "das",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "luggage, baggage",
+        "bengali": "লাগেজ, মালপত্র",
+        "example": "Haben Sie viel Gepäck dabei?"
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0379",
+    "german": "die Gepäckausgabe",
+    "word": "Gepäckausgabe",
+    "article": "die",
+    "plural": "die Gepäckausgaben",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "baggage claim",
+        "bengali": "লাগেজ ডেলিভারি",
+        "example": "Wir treffen uns an der Gepäckausgabe."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0380",
+    "german": "das Gepäckband",
+    "word": "Gepäckband",
+    "article": "das",
+    "plural": "die Gepäckbänder",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "baggage carousel / conveyor belt",
+        "bengali": "লাগেজ বেল্ট",
+        "example": "Mein Koffer kommt endlich auf dem Gepäckband an."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0381",
+    "german": "der Geruch",
+    "word": "Geruch",
+    "article": "der",
+    "plural": "die Gerüche",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "smell, odor",
+        "bengali": "গন্ধ",
+        "example": "Der Geruch von frisch gebackenem Brot ist wunderbar."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0382",
+    "german": "der/die Geschäftsführer/in",
+    "word": "Geschäftsführer/in",
+    "article": "der/die",
+    "plural": "die Geschäftsführer",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "managing director, CEO",
+        "bengali": "ব্যবস্থাপনা পরিচালক",
+        "example": "Der Geschäftsführer hat das Projekt genehmigt."
+      }
+    ],
+    "synonym": "der Manager",
+    "starred": false
+  },
+  {
+    "id": "b1_0383",
+    "german": "die Geschäftsführung",
+    "word": "Geschäftsführung",
+    "article": "die",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "management, executive board",
+        "bengali": "ব্যবস্থাপনা",
+        "example": "Die Geschäftsführung plant eine Expansion."
+      }
+    ],
+    "synonym": "das Management",
+    "starred": false
+  },
+  {
+    "id": "b1_0384",
+    "german": "der Geschmack",
+    "word": "Geschmack",
+    "article": "der",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "taste",
+        "bengali": "স্বাদ",
+        "example": "Dieser Wein hat einen sehr intensiven Geschmack."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0385",
+    "german": "gesetzlich",
+    "word": "gesetzlich",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "legal, statutory",
+        "bengali": "আইনগত",
+        "example": "Das ist eine gesetzliche Verpflichtung."
+      }
+    ],
+    "synonym": "rechtlich",
+    "starred": false
+  },
+  {
+    "id": "b1_0386",
+    "german": "gestattet sein",
+    "word": "gestattet sein",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er ist gestattet",
+      "past": "er war gestattet",
+      "participle": "gestattet",
+      "auxiliary": "ist",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "bin gestattet",
+        "du": "bist gestattet",
+        "er_sie": "ist gestattet",
+        "wir": "sind gestattet",
+        "ihr": "seid gestattet",
+        "sie": "sind gestattet"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to be permitted, to be allowed",
+        "bengali": "অনুমোদিত হওয়া",
+        "example": "Rauchen ist hier nicht gestattet."
+      }
+    ],
+    "synonym": "erlaubt sein",
+    "starred": false
+  },
+  {
+    "id": "b1_0387",
+    "german": "das Gesundheitszeugnis",
+    "word": "Gesundheitszeugnis",
+    "article": "das",
+    "plural": "die Gesundheitszeugnisse",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "health certificate",
+        "bengali": "স্বাস্থ্য সার্টিফিকেট",
+        "example": "Für die Arbeit in der Gastronomie benötigen Sie ein Gesundheitszeugnis."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0388",
+    "german": "das Getreide",
+    "word": "Getreide",
+    "article": "das",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "grain, cereal",
+        "bengali": "শস্য",
+        "example": "Weizen und Roggen sind gängige Getreidearten."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0389",
+    "german": "gewährleisten",
+    "word": "gewährleisten",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er gewährleistet",
+      "past": "er gewährleistete",
+      "participle": "gewährleistet",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "gewährleiste",
+        "du": "gewährleistest",
+        "er_sie": "gewährleistet",
+        "wir": "gewährleisten",
+        "ihr": "gewährleistet",
+        "sie": "gewährleisten"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to guarantee, to ensure",
+        "bengali": "নিশ্চিত করা",
+        "example": "Wir müssen die Sicherheit der Passagiere gewährleisten."
+      }
+    ],
+    "synonym": "garantieren",
+    "starred": false
+  },
+  {
+    "id": "b1_0390",
+    "german": "die Gewohnheit",
+    "word": "Gewohnheit",
+    "article": "die",
+    "plural": "die Gewohnheiten",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "habit",
+        "bengali": "অভ্যাস",
+        "example": "Es ist eine schlechte Gewohnheit, zu spät zu kommen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0391",
+    "german": "das Gewürz",
+    "word": "Gewürz",
+    "article": "das",
+    "plural": "die Gewürze",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "spice, seasoning",
+        "bengali": "মশলা",
+        "example": "Pfeffer und Salz sind die wichtigsten Gewürze."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0392",
+    "german": "giftig",
+    "word": "giftig",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "poisonous, toxic",
+        "bengali": "বিষাক্ত",
+        "example": "Manche Pilze im Wald sind giftig."
+      }
+    ],
+    "synonym": "toxisch",
+    "starred": false
+  },
+  {
+    "id": "b1_0393",
+    "german": "gleichzeitig",
+    "word": "gleichzeitig",
+    "article": null,
+    "plural": null,
+    "type": "Adverb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adverb",
+        "english": "simultaneously, at the same time",
+        "bengali": "একই সময়ে",
+        "example": "Ich kann nicht zwei Dinge gleichzeitig tun."
+      }
+    ],
+    "synonym": "simultan",
+    "starred": false
+  },
+  {
+    "id": "b1_0394",
+    "german": "glutenfrei",
+    "word": "glutenfrei",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "gluten-free",
+        "bengali": "গ্লুটেনমুক্ত",
+        "example": "Ich brauche glutenfreies Brot."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0395",
+    "german": "der Golf",
+    "word": "Golf",
+    "article": "der",
+    "plural": "die Golfe",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "gulf / golf (sport)",
+        "bengali": "উপসাগর / গলফ খেলা",
+        "example": "Der Golf von Mexiko ist sehr groß."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0396",
+    "german": "die Grenze",
+    "word": "Grenze",
+    "article": "die",
+    "plural": "die Grenzen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "border, boundary, limit",
+        "bengali": "সীমানা",
+        "example": "Wir haben die Grenze nach Frankreich überquert."
+      }
+    ],
+    "synonym": "die Limitierung",
+    "starred": false
+  },
+  {
+    "id": "b1_0397",
+    "german": "gründen",
+    "word": "gründen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er gründet",
+      "past": "er gründete",
+      "participle": "gegründet",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "gründe",
+        "du": "gründest",
+        "er_sie": "gründet",
+        "wir": "gründen",
+        "ihr": "gründet",
+        "sie": "gründen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to found, to establish",
+        "bengali": "প্রতিষ্ঠা করা",
+        "example": "Sie wollen eine eigene Firma gründen."
+      }
+    ],
+    "synonym": "aufbauen",
+    "starred": false
+  },
+  {
+    "id": "b1_0398",
+    "german": "grundsätzlich",
+    "word": "grundsätzlich",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "fundamental, in principle",
+        "bengali": "মৌলিক, নীতিগতভাবে",
+        "example": "Ich bin grundsätzlich einverstanden, aber es gibt Details."
+      }
+    ],
+    "synonym": "prinzipiell",
+    "starred": false
+  },
+  {
+    "id": "b1_0399",
+    "german": "der Gutschein",
+    "word": "Gutschein",
+    "article": "der",
+    "plural": "die Gutscheine",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "voucher, gift certificate",
+        "bengali": "ভাউচার, গিফট সার্টিফিকেট",
+        "example": "Ich habe einen Gutschein für ein Restaurant bekommen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0400",
+    "german": "die Haftpflicht",
+    "word": "Haftpflicht",
+    "article": "die",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "liability insurance",
+        "bengali": "দায়বদ্ধতা বীমা",
+        "example": "Eine Haftpflichtversicherung ist in Deutschland sehr wichtig."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  }
+]

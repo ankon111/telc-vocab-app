@@ -1,0 +1,2366 @@
+[
+{
+"id": "b1_0001",
+"german": "abdecken",
+"word": "abdecken",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ab-", "meaning": "away/off or covering completely", "related": ["decken", "entdecken"] },
+"conjugation": {
+"present": "er deckt ab",
+"past": "er deckte ab",
+"participle": "abgedeckt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "decke ab", "du": "deckst ab", "er_sie": "deckt ab", "wir": "decken ab", "ihr": "deckt ab", "sie": "decken ab" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to cover, to shield",
+"bengali": "ঢেকে রাখা, আবৃত করা",
+"example": "Wir müssen das Auto gegen den Regen abdecken."
+}
+],
+"synonym": "zudecken",
+"starred": false
+},
+{
+"id": "b1_0002",
+"german": "abdrehen",
+"word": "abdrehen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ab-", "meaning": "off/away by turning", "related": ["drehen", "umdrehen"] },
+"conjugation": {
+"present": "er dreht ab",
+"past": "er drehte ab",
+"participle": "abgedreht",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "drehe ab", "du": "drehst ab", "er_sie": "dreht ab", "wir": "drehen ab", "ihr": "dreht ab", "sie": "drehen ab" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to turn off (a tap, gas)",
+"bengali": "বন্ধ করা (কল বা গ্যাস ঘোরানোর মাধ্যমে)",
+"example": "Hast du das Wasser abgedreht?"
+}
+],
+"synonym": "ausdrehen",
+"starred": false
+},
+{
+"id": "b1_0003",
+"german": "der Abfall",
+"word": "Abfall",
+"article": "der",
+"plural": "die Abfälle",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "ab-", "meaning": "falling away/waste", "related": ["fallen", "Müll"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "waste, rubbish, trash",
+"bengali": "আবর্জনা, বর্জ্য",
+"example": "Werft den Abfall bitte in die Tonne."
+}
+],
+"synonym": "der Müll",
+"starred": false
+},
+{
+"id": "b1_0004",
+"german": "der Abflug",
+"word": "Abflug",
+"article": "der",
+"plural": "die Abflüge",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "ab-", "meaning": "departure by flying", "related": ["fliegen", "Ankunft"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "departure (flight)",
+"bengali": "উড্ডয়ন, প্লেন প্রস্থান",
+"example": "Der Abflug ist für 14:00 Uhr geplant."
+}
+],
+"synonym": "der Start",
+"starred": false
+},
+{
+"id": "b1_0005",
+"german": "das Abgas",
+"word": "Abgas",
+"article": "das",
+"plural": "die Abgase",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "ab-", "meaning": "waste gas", "related": ["Gas"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "exhaust gas, emission",
+"bengali": "ধোঁয়া, নির্গত গ্যাস",
+"example": "Die Abgase von Autos schaden der Umwelt."
+}
+],
+"synonym": "die Emission",
+"starred": false
+},
+{
+"id": "b1_0006",
+"german": "abhängig",
+"word": "abhängig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "dependent, addicted",
+"bengali": "নির্ভরশীল, আসক্ত",
+"example": "Er ist finanziell von seinen Eltern abhängig."
+}
+],
+"synonym": "unselbstständig",
+"starred": false
+},
+{
+"id": "b1_0007",
+"german": "abheften",
+"word": "abheften",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ab-", "meaning": "filing away", "related": ["heften", "Hefter"] },
+"conjugation": {
+"present": "er heftet ab",
+"past": "er heftete ab",
+"participle": "abgeheftet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "hefte ab", "du": "heftest ab", "er_sie": "heftet ab", "wir": "heften ab", "ihr": "heftet ab", "sie": "heften ab" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to file, to file away (documents)",
+"bengali": "ফাইল করে রাখা, নথিভুক্ত করা",
+"example": "Ich muss diese Briefe noch abheften."
+}
+],
+"synonym": "einordnen",
+"starred": false
+},
+{
+"id": "b1_0008",
+"german": "abnehmen",
+"word": "abnehmen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ab-", "meaning": "taking off / decreasing", "related": ["nehmen", "zunehmen"] },
+"conjugation": {
+"present": "er nimmt ab",
+"past": "er nahm ab",
+"participle": "abgenommen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "e → i",
+"full_present": { "ich": "nehme ab", "du": "nimmst ab", "er_sie": "nimmt ab", "wir": "nehmen ab", "ihr": "nehmt ab", "sie": "nehmen ab" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to lose weight, to decrease",
+"bengali": "ওজন কমানো, হ্রাস পাওয়া",
+"example": "Ich möchte im Sommer fünf Kilo abnehmen."
+}
+],
+"synonym": "sinken",
+"starred": false
+},
+{
+"id": "b1_0009",
+"german": "die Absage",
+"word": "Absage",
+"article": "die",
+"plural": "die Absagen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "ab-", "meaning": "rejection/cancellation", "related": ["sagen", "Zusage"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "cancellation, refusal, rejection",
+"bengali": "বাতিলকরণ, প্রত্যাখ্যান",
+"example": "Leider habe ich eine Absage für die Stelle bekommen."
+}
+],
+"synonym": "die Ablehnung",
+"starred": false
+},
+{
+"id": "b1_0010",
+"german": "abschicken",
+"word": "abschicken",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ab-", "meaning": "sending off", "related": ["schicken", "verschicken"] },
+"conjugation": {
+"present": "er schickt ab",
+"past": "er schickte ab",
+"participle": "abgeschickt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "schicke ab", "du": "schickst ab", "er_sie": "schickt ab", "wir": "schicken ab", "ihr": "schickt ab", "sie": "schicken ab" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to send off, to dispatch",
+"bengali": "পাঠানো, প্রেরণ করা",
+"example": "Hast du die E-Mail schon abgeschickt?"
+}
+],
+"synonym": "versenden",
+"starred": false
+},
+{
+"id": "b1_0011",
+"german": "absichtlich",
+"word": "absichtlich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "intentional, on purpose",
+"bengali": "ইচ্ছাকৃত",
+"example": "Das war keine Absicht, ich habe es nicht absichtlich getan."
+}
+],
+"synonym": "bewusst",
+"starred": false
+},
+{
+"id": "b1_0012",
+"german": "absolvieren",
+"word": "absolvieren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er absolviert",
+"past": "er absolvierte",
+"participle": "absolviert",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "absolviere", "du": "absolvierst", "er_sie": "absolviert", "wir": "absolvieren", "ihr": "absolviert", "sie": "absolvieren" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to complete, to graduate from",
+"bengali": "সম্পন্ন করা, সফলভাবে শেষ করা",
+"example": "Sie hat ihr Praktikum erfolgreich absolviert."
+}
+],
+"synonym": "abschließen",
+"starred": false
+},
+{
+"id": "b1_0013",
+"german": "absprechen",
+"word": "absprechen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ab-", "meaning": "arranging/denying by speech", "related": ["sprechen", "besprechen"] },
+"conjugation": {
+"present": "er spricht ab",
+"past": "er sprach ab",
+"participle": "abgesprochen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "e → i",
+"full_present": { "ich": "spreche ab", "du": "sprichst ab", "er_sie": "spricht ab", "wir": "sprechen ab", "ihr": "sprecht ab", "sie": "sprechen ab" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to agree upon, to coordinate",
+"bengali": "আলোচনা করে ঠিক করা, সমন্বয় করা",
+"example": "Wir müssen den Termin miteinander absprechen."
+}
+],
+"synonym": "vereinbaren",
+"starred": false
+},
+{
+"id": "b1_0014",
+"german": "der Abstellplatz",
+"word": "Abstellplatz",
+"article": "der",
+"plural": "die Abstellplätze",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "ab-", "meaning": "place to put things away", "related": ["stellen", "Platz"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "parking space, storage space",
+"bengali": "রাখার বা পার্কিং করার জায়গা",
+"example": "Gibt es einen Abstellplatz für Fahrräder im Hof?"
+}
+],
+"synonym": "der Parkplatz",
+"starred": false
+},
+{
+"id": "b1_0015",
+"german": "der/die Abteilungsleiter/in",
+"word": "Abteilungsleiter/in",
+"article": "der/die",
+"plural": "die Abteilungsleiter / die Abteilungsleiterinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "department manager, head of department",
+"bengali": "বিভাগীয় প্রধান",
+"example": "Unsere Abteilungsleiterin hat uns heute informiert."
+}
+],
+"synonym": "der Chef",
+"starred": false
+},
+{
+"id": "b1_0016",
+"german": "das Abwasser",
+"word": "Abwasser",
+"article": "das",
+"plural": "die Abwässer",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "ab-", "meaning": "waste water", "related": ["Wasser"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "sewage, waste water",
+"bengali": "বর্জ্য জল, নোংরা জল",
+"example": "Das Abwasser wird in der Kläranlage gereinigt."
+}
+],
+"synonym": "das Schmutzwasser",
+"starred": false
+},
+{
+"id": "b1_0017",
+"german": "abwechslungsreich",
+"word": "abwechslungsreich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "varied, diverse",
+"bengali": "বৈচিত্র্যময়",
+"example": "Meine neue Arbeit ist sehr abwechslungsreich."
+}
+],
+"synonym": "vielfältig",
+"starred": false
+},
+{
+"id": "b1_0018",
+"german": "die Abwicklung",
+"word": "Abwicklung",
+"article": "die",
+"plural": "die Abwicklungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "ab-", "meaning": "handling/unwinding", "related": ["wickeln", "abwickeln"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "handling, processing, execution",
+"bengali": "প্রক্রিয়াকরণ, নিষ্পত্তি",
+"example": "Die Abwicklung des Projekts dauerte zwei Wochen."
+}
+],
+"synonym": "die Bearbeitung",
+"starred": false
+},
+{
+"id": "b1_0019",
+"german": "achten",
+"word": "achten",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er achtet",
+"past": "er achtete",
+"participle": "geachtet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "achte", "du": "achtest", "er_sie": "achtet", "wir": "achten", "ihr": "achtet", "sie": "achten" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to pay attention, to respect",
+"bengali": "মনোযোগ দেওয়া, সম্মান করা",
+"example": "Bitte achten Sie auf die Schilder am Straßenrand."
+}
+],
+"synonym": "aufpassen",
+"starred": false
+},
+{
+"id": "b1_0020",
+"german": "die AGB (=Allgemeine Geschäftsbedingungen)",
+"word": "AGB (=Allgemeine Geschäftsbedingungen)",
+"article": "die",
+"plural": "die AGB",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "terms and conditions",
+"bengali": "সাধারণ নিয়ম ও শর্তাবলী",
+"example": "Ich habe die AGB gelesen und akzeptiert."
+}
+],
+"synonym": "die Vertragsbedingungen",
+"starred": false
+},
+{
+"id": "b1_0021",
+"german": "aktiv",
+"word": "aktiv",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "active, energetic",
+"bengali": "সক্রিয়",
+"example": "In meiner Freizeit bin ich sehr aktiv."
+}
+],
+"synonym": "lebhaft",
+"starred": false
+},
+{
+"id": "b1_0022",
+"german": "akzeptieren",
+"word": "akzeptieren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er akzeptiert",
+"past": "er akzeptierte",
+"participle": "akzeptiert",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "akzeptiere", "du": "akzeptierst", "er_sie": "akzeptiert", "wir": "akzeptieren", "ihr": "akzeptiert", "sie": "akzeptieren" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to accept",
+"bengali": "মেনে নেওয়া, গ্রহণ করা",
+"example": "Wir müssen seine Entscheidung akzeptieren."
+}
+],
+"synonym": "annehmen",
+"starred": false
+},
+{
+"id": "b1_0023",
+"german": "der Alkohol",
+"word": "Alkohol",
+"article": "der",
+"plural": "die Alkohole",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "alcohol",
+"bengali": "অ্যালকোহল, মদ",
+"example": "Jugendliche dürfen keinen Alkohol kaufen."
+}
+],
+"synonym": "die Spirituosen",
+"starred": false
+},
+{
+"id": "b1_0024",
+"german": "allerdings",
+"word": "allerdings",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "however, though, indeed",
+"bengali": "অবশ্যই, তবে",
+"example": "Das Auto ist schön, allerdings ist es sehr teuer."
+}
+],
+"synonym": "jedoch",
+"starred": false
+},
+{
+"id": "b1_0025",
+"german": "die Allergie",
+"word": "Allergie",
+"article": "die",
+"plural": "die Allergien",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "allergy",
+"bengali": "অ্যালার্জি",
+"example": "Ich habe eine Allergie gegen Hausstaub."
+}
+],
+"synonym": "die Überempfindlichkeit",
+"starred": false
+},
+{
+"id": "b1_0026",
+"german": "allergisch",
+"word": "allergisch",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "allergic",
+"bengali": "অ্যালার্জিজনিত",
+"example": "Er reagiert allergisch auf Nüsse."
+}
+],
+"synonym": "empfindlich",
+"starred": false
+},
+{
+"id": "b1_0027",
+"german": "die Alliierte",
+"word": "Alliierte",
+"article": "die",
+"plural": "die Alliierten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "allies (historical/political)",
+"bengali": "মিত্রবাহিনী, মিত্রপক্ষ",
+"example": "Die Alliierten gewannen den Zweiten Weltkrieg."
+}
+],
+"synonym": "die Verbündeten",
+"starred": false
+},
+{
+"id": "b1_0028",
+"german": "der/die Altenpfleger/in",
+"word": "Altenpfleger/in",
+"article": "der/die",
+"plural": "die Altenpfleger / die Altenpflegerinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "geriatric nurse, caregiver for the elderly",
+"bengali": "বৃদ্ধাশ্রমের সেবক/সেবিকা",
+"example": "Sie arbeitet als Altenpflegerin in einem Seniorenheim."
+}
+],
+"synonym": "der Pflegehelfer",
+"starred": false
+},
+{
+"id": "b1_0029",
+"german": "das Alter",
+"word": "Alter",
+"article": "das",
+"plural": "die Alter",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "age",
+"bengali": "বয়স",
+"example": "Bitte geben Sie Ihr Alter an."
+}
+],
+"synonym": "Lebensalter",
+"starred": false
+},
+{
+"id": "b1_0030",
+"german": "das Altöl",
+"word": "Altöl",
+"article": "das",
+"plural": "die Altöle",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "waste oil, used oil",
+"bengali": "ব্যবহৃত বা পুরানো তেল",
+"example": "Altöl muss umweltgerecht entsorgt werden."
+}
+],
+"synonym": "Gebrauchtöl",
+"starred": false
+},
+{
+"id": "b1_0031",
+"german": "das Altpapier",
+"word": "Altpapier",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "waste paper",
+"bengali": "পুরানো বা ফেলে দেওয়া কাগজ",
+"example": "Werfen Sie Zeitungen bitte zum Altpapier."
+}
+],
+"synonym": "Papierabfall",
+"starred": false
+},
+{
+"id": "b1_0032",
+"german": "das Aluminium",
+"word": "Aluminium",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "aluminum",
+"bengali": "অ্যালুমিনিয়াম",
+"example": "Die Dose besteht aus Aluminium."
+}
+],
+"synonym": "Alu",
+"starred": false
+},
+{
+"id": "b1_0033",
+"german": "amtlich",
+"word": "amtlich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "official",
+"bengali": "সরকারী, দাপ্তরিক",
+"example": "Sie benötigen ein amtliches Dokument."
+}
+],
+"synonym": "offiziell",
+"starred": false
+},
+{
+"id": "b1_0034",
+"german": "die Amtssprache",
+"word": "Amtssprache",
+"article": "die",
+"plural": "die Amtssprachen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "official language",
+"bengali": "সরকারী ভাষা",
+"example": "Deutsch ist die Amtssprache in Deutschland."
+}
+],
+"synonym": "die Staatssprache",
+"starred": false
+},
+{
+"id": "b1_0035",
+"german": "der Anbau",
+"word": "Anbau",
+"article": "der",
+"plural": "die Anbauten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "an-", "meaning": "cultivation or building extension", "related": ["bauen", "anbauen"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "cultivation (plants), extension (building)",
+"bengali": "চাষাবাদ, ভবনের বর্ধিত অংশ",
+"example": "Der Anbau von Gemüse im Garten macht Spaß."
+}
+],
+"synonym": "die Kultivierung",
+"starred": false
+},
+{
+"id": "b1_0036",
+"german": "andauernd",
+"word": "andauernd",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "continual, constant",
+"bengali": "ক্রমাগত, অবিরত",
+"example": "Sein andauernder Husten macht mir Sorgen."
+}
+],
+"synonym": "ständig",
+"starred": false
+},
+{
+"id": "b1_0037",
+"german": "anerkennen",
+"word": "anerkennen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "an-", "meaning": "recognizing standard/status", "related": ["kennen", "erkennen"] },
+"conjugation": {
+"present": "er erkennt an",
+"past": "er erkannte an",
+"participle": "anerkannt",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "e → a",
+"full_present": { "ich": "erkenne an", "du": "erkennst an", "er_sie": "erkennt an", "wir": "erkennen an", "ihr": "erkennt an", "sie": "erkennen an" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to recognize, to validate (e.g. diploma)",
+"bengali": "স্বীকৃতি দেওয়া, বৈধতা প্রদান করা",
+"example": "Wird mein ausländischer Abschluss hier anerkannt?"
+}
+],
+"synonym": "akzeptieren",
+"starred": false
+},
+{
+"id": "b1_0038",
+"german": "die Anerkennung",
+"word": "Anerkennung",
+"article": "die",
+"plural": "die Anerkennungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "an-", "meaning": "recognition", "related": ["anerkennen"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "recognition, appreciation",
+"bengali": "স্বীকৃতি, প্রশংসা",
+"example": "Er sucht immer nach Anerkennung im Beruf."
+}
+],
+"synonym": "die Lobung",
+"starred": false
+},
+{
+"id": "b1_0039",
+"german": "anfahren",
+"word": "anfahren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "an-", "meaning": "starting to drive or hitting with vehicle", "related": ["fahren"] },
+"conjugation": {
+"present": "er fährt an",
+"past": "er fuhr an",
+"participle": "angefahren",
+"auxiliary": "ist/hat",
+"irregular": true,
+"vowel_change": "a → ä",
+"full_present": { "ich": "fahre an", "du": "fährst an", "er_sie": "fährt an", "wir": "fahren an", "ihr": "fahrt an", "sie": "fahren an" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to start driving, to hit (with a car)",
+"bengali": "গাড়ি চালানো শুরু করা, ধাক্কা দেওয়া",
+"example": "Ein Hund wurde gestern angefahren."
+}
+],
+"synonym": "anrollen",
+"starred": false
+},
+{
+"id": "b1_0040",
+"german": "der Anfang",
+"word": "Anfang",
+"article": "der",
+"plural": "die Anfänge",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "an-", "meaning": "beginning", "related": ["fangen", "anfangen"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "beginning, start",
+"bengali": "শুরু, আরম্ভ",
+"example": "Aller Anfang ist schwer."
+}
+],
+"synonym": "der Beginn",
+"starred": false
+},
+{
+"id": "b1_0041",
+"german": "anfangs",
+"word": "anfangs",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "initially, at first",
+"bengali": "শুরুতে, প্রারম্ভে",
+"example": "Anfangs war das Deutschlernen sehr schwer."
+}
+],
+"synonym": "zuerst",
+"starred": false
+},
+{
+"id": "b1_0042",
+"german": "anfassen",
+"word": "anfassen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "an-", "meaning": "touching/handling", "related": ["fassen", "berühren"] },
+"conjugation": {
+"present": "er fasst an",
+"past": "er fasste an",
+"participle": "angefasst",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "fasse an", "du": "fasst an", "er_sie": "fasst an", "wir": "fassen an", "ihr": "fasst an", "sie": "fassen an" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to touch, to handle",
+"bengali": "স্পর্শ করা, ধরা",
+"example": "Fass das heiße Bügeleisen nicht an!"
+}
+],
+"synonym": "berühren",
+"starred": false
+},
+{
+"id": "b1_0043",
+"german": "angenehm",
+"word": "angenehm",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "pleasant, agreeable",
+"bengali": "মনোরম, মনোরম",
+"example": "Ich wünsche Ihnen ein angenehmes Wochenende."
+}
+],
+"synonym": "gemütlich",
+"starred": false
+},
+{
+"id": "b1_0044",
+"german": "angewöhnen",
+"word": "angewöhnen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "an-", "meaning": "getting used to a habit", "related": ["wohnen", "Gewohnheit"] },
+"conjugation": {
+"present": "er gewöhnt an",
+"past": "er gewöhnte an",
+"participle": "angewöhnt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "gewöhne an", "du": "gewöhnst an", "er_sie": "gewöhnt an", "wir": "gewöhnen an", "ihr": "gewöhnt an", "sie": "gewöhnen an" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to get used to, to adopt a habit",
+"bengali": "অভ্যস্ত করা, অভ্যাস করা",
+"example": "Ich muss mir angewöhnen, früher aufzustehen."
+}
+],
+"synonym": "anpassen",
+"starred": false
+},
+{
+"id": "b1_0045",
+"german": "anheben",
+"word": "anheben",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "an-", "meaning": "raising slightly", "related": ["heben", "heben"] },
+"conjugation": {
+"present": "er hebt an",
+"past": "er hob an",
+"participle": "angehoben",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": null,
+"full_present": { "ich": "hebe an", "du": "hebst an", "er_sie": "hebt an", "wir": "heben an", "ihr": "hebt an", "sie": "heben an" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to raise, to lift slightly",
+"bengali": "কিছুটা উপরে তোলা, বাড়ানো",
+"example": "Die Preise wurden wieder angeheben."
+}
+],
+"synonym": "erhöhen",
+"starred": false
+},
+{
+"id": "b1_0046",
+"german": "ankündigen",
+"word": "ankündigen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "an-", "meaning": "announcing beforehand", "related": ["kündigen"] },
+"conjugation": {
+"present": "er kündigt an",
+"past": "er kündigte an",
+"participle": "angekündigt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "kündige an", "du": "kündigst an", "er_sie": "kündigt an", "wir": "kündigen an", "ihr": "kündigt an", "sie": "kündigen an" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to announce, to declare",
+"bengali": "ঘোষণা করা",
+"example": "Der Minister hat seinen Besuch angekündigt."
+}
+],
+"synonym": "bekanntgeben",
+"starred": false
+},
+{
+"id": "b1_0047",
+"german": "die Anlage",
+"word": "Anlage",
+"article": "die",
+"plural": "die Anlagen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "an-", "meaning": "system/facility/attachment", "related": ["legen", "anlegen"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "facility, equipment, enclosure/attachment",
+"bengali": "স্থাপনা, সরঞ্জাম, সংযুক্তি",
+"example": "In der Anlage finden Sie meinen Lebenslauf."
+}
+],
+"synonym": "der Anhang",
+"starred": false
+},
+{
+"id": "b1_0048",
+"german": "anmachen",
+"word": "anmachen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "an-", "meaning": "turning on", "related": ["machen", "ausmachen"] },
+"conjugation": {
+"present": "er macht an",
+"past": "er machte an",
+"participle": "angemacht",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "mache an", "du": "machst an", "er_sie": "macht an", "wir": "machen an", "ihr": "macht an", "sie": "machen an" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to turn on, to switch on",
+"bengali": "চালু করা (লাইট, রেডিও ইত্যাদি)",
+"example": "Kannst du bitte das Licht anmachen?"
+}
+],
+"synonym": "einschalten",
+"starred": false
+},
+{
+"id": "b1_0049",
+"german": "die Annahme",
+"word": "Annahme",
+"article": "die",
+"plural": "die Annahmen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "an-", "meaning": "acceptance or assumption", "related": ["nehmen", "annehmen"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "acceptance, assumption",
+"bengali": "গ্রহণ, অনুমান",
+"example": "Das Paket ist bei der Annahme im Erdgeschoss."
+}
+],
+"synonym": "die Vermutung",
+"starred": false
+},
+{
+"id": "b1_0050",
+"german": "annulliert",
+"word": "annulliert",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "canceled, annulled",
+"bengali": "বাতিলকৃত",
+"example": "Unser Flug wurde leider annulliert."
+}
+],
+"synonym": "abgesagt",
+"starred": false
+},
+{
+"id": "b1_0051",
+"german": "die Anprobe",
+"word": "Anprobe",
+"article": "die",
+"plural": "die Anproben",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "an-", "meaning": "testing on body", "related": ["probieren", "anprobieren"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "fitting, try-on",
+"bengali": "পোশাক পরে পরীক্ষা করা (ফিটিং)",
+"example": "Die Anprobe des Hochzeitskleides dauert lange."
+}
+],
+"synonym": "die Kleideranprobe",
+"starred": false
+},
+{
+"id": "b1_0052",
+"german": "anprobieren",
+"word": "anprobieren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "an-", "meaning": "trying clothes on", "related": ["probieren", "ausprobieren"] },
+"conjugation": {
+"present": "er probiert an",
+"past": "er probierte an",
+"participle": "anprobiert",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "probiere an", "du": "probierst an", "er_sie": "probiert an", "wir": "probieren an", "ihr": "probiert an", "sie": "probieren an" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to try on (clothes)",
+"bengali": "পোশাক পরে দেখা",
+"example": "Ich möchte diese Jacke gerne anprobieren."
+}
+],
+"synonym": "testen",
+"starred": false
+},
+{
+"id": "b1_0053",
+"german": "anrechnen",
+"word": "anrechnen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "an-", "meaning": "crediting/counting towards", "related": ["rechnen", "berechnen"] },
+"conjugation": {
+"present": "er rechnet an",
+"past": "er rechnete an",
+"participle": "angerechnet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "rechne an", "du": "rechnest an", "er_sie": "rechnet an", "wir": "rechnen an", "ihr": "rechnet an", "sie": "rechnen an" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to credit, to count towards",
+"bengali": "গণনা বা ক্রেডিট করা (যেমন কোর্স ক্রেডিট)",
+"example": "Kann man mir diese Kurse anrechnen?"
+}
+],
+"synonym": "gutschreiben",
+"starred": false
+},
+{
+"id": "b1_0054",
+"german": "anschauen",
+"word": "anschauen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "an-", "meaning": "looking at", "related": ["schauen", "ansehen"] },
+"conjugation": {
+"present": "er schaut an",
+"past": "er schaute an",
+"participle": "angeschaut",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "schaue an", "du": "schaust an", "er_sie": "schaut an", "wir": "schauen an", "ihr": "schaut an", "sie": "schauen an" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to look at, to watch",
+"bengali": "তাকানো, দেখা",
+"example": "Schau dir mal dieses Foto an."
+}
+],
+"synonym": "ansehen",
+"starred": false
+},
+{
+"id": "b1_0055",
+"german": "ansehen",
+"word": "ansehen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "an-", "meaning": "looking closely at", "related": ["sehen", "anschauen"] },
+"conjugation": {
+"present": "er sieht an",
+"past": "er sah an",
+"participle": "angesehen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "e → ie",
+"full_present": { "ich": "sehe an", "du": "siehst an", "er_sie": "sieht an", "wir": "sehen an", "ihr": "seht an", "sie": "sehen an" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to look at, to view",
+"bengali": "দেখা, পর্যবেক্ষণ করা",
+"example": "Wir möchten uns die Stadt ansehen."
+}
+],
+"synonym": "betrachten",
+"starred": false
+},
+{
+"id": "b1_0056",
+"german": "anstatt",
+"word": "anstatt",
+"article": null,
+"plural": null,
+"type": "Präposition",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Präposition",
+"english": "instead of",
+"bengali": "পরিবর্তে",
+"example": "Anstatt ins Kino zu gehen, blieb er zu Hause."
+}
+],
+"synonym": "statt",
+"starred": false
+},
+{
+"id": "b1_0057",
+"german": "ansteckend",
+"word": "ansteckend",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "contagious, infectious",
+"bengali": "ছোঁয়াচে, সংক্রামক",
+"example": "Grippe ist eine sehr ansteckende Krankheit."
+}
+],
+"synonym": "infektiös",
+"starred": false
+},
+{
+"id": "b1_0058",
+"german": "die Anstellung",
+"word": "Anstellung",
+"article": "die",
+"plural": "die Anstellungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "an-", "meaning": "employment state", "related": ["stellen", "einstellen"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "employment, appointment",
+"bengali": "চাকরি, নিয়োগ",
+"example": "Sie hat eine feste Anstellung gefunden."
+}
+],
+"synonym": "die Beschäftigung",
+"starred": false
+},
+{
+"id": "b1_0059",
+"german": "der Anstoß",
+"word": "Anstoß",
+"article": "der",
+"plural": "die Anstöße",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "an-", "meaning": "kick-off/impulse", "related": ["stoßen", "anstoßen"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "kick-off (sports), impulse/initiation",
+"bengali": "কিক-অফ, প্রেরণা বা সূচনা",
+"example": "Der Schiedsrichter pfeift den Anstoß an."
+}
+],
+"synonym": "der Impuls",
+"starred": false
+},
+{
+"id": "b1_0060",
+"german": "anstreichen",
+"word": "anstreichen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "an-", "meaning": "painting/coating surface", "related": ["streichen", "streichen"] },
+"conjugation": {
+"present": "er streicht an",
+"past": "er strich an",
+"participle": "angestrichen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "ei → i",
+"full_present": { "ich": "streiche an", "du": "streichst an", "er_sie": "streicht an", "wir": "streichen an", "ihr": "streicht an", "sie": "streichen an" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to paint (a wall), to mark/highlight",
+"bengali": "রং করা, চিহ্নিত করা",
+"example": "Wir wollen das Wohnzimmer neu anstreichen."
+}
+],
+"synonym": "malen",
+"starred": false
+},
+{
+"id": "b1_0061",
+"german": "anstrengend",
+"word": "anstrengend",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "exhausting, strenuous",
+"bengali": "ক্লান্তিকর, কষ্টসাধ্য",
+"example": "Die Arbeit auf der Baustelle ist sehr anstrengend."
+}
+],
+"synonym": "mühsam",
+"starred": false
+},
+{
+"id": "b1_0062",
+"german": "die Anzeigetafel",
+"word": "Anzeigetafel",
+"article": "die",
+"plural": "die Anzeigetafeln",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "display board, scoreboard",
+"bengali": "বিজ্ঞপ্তি বা তথ্য বোর্ড",
+"example": "Schau auf die Anzeigetafel, um das Gleis zu finden."
+}
+],
+"synonym": "die Informationstafel",
+"starred": false
+},
+{
+"id": "b1_0063",
+"german": "die Arbeitskraft",
+"word": "Arbeitskraft",
+"article": "die",
+"plural": "die Arbeitskräfte",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "worker, labor force",
+"bengali": "শ্রমিক, কর্মশক্তি",
+"example": "Die Fabrik sucht neue Arbeitskräfte."
+}
+],
+"synonym": "der Arbeitnehmer",
+"starred": false
+},
+{
+"id": "b1_0064",
+"german": "die Arbeitslosigkeit",
+"word": "Arbeitslosigkeit",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "unemployment",
+"bengali": "বেকারত্ব",
+"example": "Die Arbeitslosigkeit ist in diesem Jahr gesunken."
+}
+],
+"synonym": "Erwerbslosigkeit",
+"starred": false
+},
+{
+"id": "b1_0065",
+"german": "die Arbeitsstelle",
+"word": "Arbeitsstelle",
+"article": "die",
+"plural": "die Arbeitsstellen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "job, workplace",
+"bengali": "কর্মস্থল, চাকরি",
+"example": "Er hat eine neue Arbeitsstelle in Berlin."
+}
+],
+"synonym": "der Arbeitsplatz",
+"starred": false
+},
+{
+"id": "b1_0066",
+"german": "die Arbeitsweise",
+"word": "Arbeitsweise",
+"article": "die",
+"plural": "die Arbeitsweisen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "working method, routine",
+"bengali": "কাজের পদ্ধতি",
+"example": "Ihre strukturierte Arbeitsweise gefällt dem Chef."
+}
+],
+"synonym": "die Methode",
+"starred": false
+},
+{
+"id": "b1_0067",
+"german": "die Arbeitszeit",
+"word": "Arbeitszeit",
+"article": "die",
+"plural": "die Arbeitszeiten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "working hours",
+"bengali": "কাজের সময়",
+"example": "Meine Arbeitszeit beginnt um 8 Uhr morgens."
+}
+],
+"synonym": "Dienstzeit",
+"starred": false
+},
+{
+"id": "b1_0068",
+"german": "der Ärger",
+"word": "Ärger",
+"article": "der",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "trouble, anger, annoyance",
+"bengali": "বিরক্তি, রাগ, ঝামেলা",
+"example": "Ich hatte heute viel Ärger im Büro."
+}
+],
+"synonym": "der Frust",
+"starred": false
+},
+{
+"id": "b1_0069",
+"german": "ärgerlich",
+"word": "ärgerlich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "annoying, irritating",
+"bengali": "বিরক্তিকর",
+"example": "Das ist wirklich eine ärgerliche Situation."
+}
+],
+"synonym": "lästig",
+"starred": false
+},
+{
+"id": "b1_0070",
+"german": "die Art",
+"word": "Art",
+"article": "die",
+"plural": "die Arten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "kind, type, manner",
+"bengali": "ধরণ, প্রকার",
+"example": "Es gibt verschiedene Arten von Tieren."
+}
+],
+"synonym": "der Typ",
+"starred": false
+},
+{
+"id": "b1_0071",
+"german": "die Artikelnummer",
+"word": "Artikelnummer",
+"article": "die",
+"plural": "die Artikelnummern",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "item/product number",
+"bengali": "পণ্য নম্বর",
+"example": "Bitte nennen Sie mir die Artikelnummer des Produkts."
+}
+],
+"synonym": "die Produktnummer",
+"starred": false
+},
+{
+"id": "b1_0072",
+"german": "ärztlich",
+"word": "ärztlich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "medical",
+"bengali": "চিকিৎসা সংক্রান্ত",
+"example": "Sie benötigen ein ärztliches Attest."
+}
+],
+"synonym": "medizinisch",
+"starred": false
+},
+{
+"id": "b1_0073",
+"german": "die Assistenz",
+"word": "Assistenz",
+"article": "die",
+"plural": "die Assistenzen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "assistance, assistant support",
+"bengali": "সহায়তা, সহকারী পদ",
+"example": "Die Assistenz der Geschäftsleitung hat den Termin vereinbart."
+}
+],
+"synonym": "die Unterstützung",
+"starred": false
+},
+{
+"id": "b1_0074",
+"german": "der/die Astronaut/in",
+"word": "Astronaut/in",
+"article": "der/die",
+"plural": "die Astronauten / die Astronautinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "astronaut",
+"bengali": "মহাকাশচারী",
+"example": "Der Astronaut fliegt zum Mond."
+}
+],
+"synonym": "der Raumfahrer",
+"starred": false
+},
+{
+"id": "b1_0075",
+"german": "das Asyl",
+"word": "Asyl",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "asylum, sanctuary",
+"bengali": "আশ্রয়, রাজনৈতিক আশ্রয়",
+"example": "Viele Menschen beantragen Asyl in Europa."
+}
+],
+"synonym": "die Zuflucht",
+"starred": false
+},
+{
+"id": "b1_0076",
+"german": "die Atmung",
+"word": "Atmung",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "breathing, respiration",
+"bengali": "শ্বাসক্রিয়া, শ্বাসপ্রশ্বাস",
+"example": "Nach dem Sport war seine Atmung sehr schnell."
+}
+],
+"synonym": "die Respiration",
+"starred": false
+},
+{
+"id": "b1_0077",
+"german": "atmungsaktiv",
+"word": "atmungsaktiv",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "breathable (fabrics)",
+"bengali": "বায়ু চলাচল করতে পারে এমন (কাপড়)",
+"example": "Diese Sportjacke ist atmungsaktiv."
+}
+],
+"synonym": "luftdurchlässig",
+"starred": false
+},
+{
+"id": "b1_0078",
+"german": "aufdrehen",
+"word": "aufdrehen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "auf-", "meaning": "opening/turning up", "related": ["drehen", "abdrehen"] },
+"conjugation": {
+"present": "er dreht auf",
+"past": "er drehte auf",
+"participle": "aufgedreht",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "drehe auf", "du": "drehst auf", "er_sie": "dreht auf", "wir": "drehen auf", "ihr": "dreht auf", "sie": "drehen auf" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to turn on/up (heating, music, tap)",
+"bengali": "ঘোরানো বা বাড়ানো (যেমন ভলিউম বা কল)",
+"example": "Kannst du die Musik bitte etwas aufdrehen?"
+}
+],
+"synonym": "erhöhen",
+"starred": false
+},
+{
+"id": "b1_0079",
+"german": "aufkommen",
+"word": "aufkommen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "auf-", "meaning": "arising/paying for", "related": ["kommen", "ankommen"] },
+"conjugation": {
+"present": "er kommt auf",
+"past": "er kam auf",
+"participle": "aufgekommen",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": "o → o",
+"full_present": { "ich": "komme auf", "du": "kommst auf", "er_sie": "kommt auf", "wir": "kommen auf", "ihr": "kommt auf", "sie": "kommen auf" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to arise, to pay for (costs)",
+"bengali": "উত্থিত হওয়া, ব্যয়ভার বহন করা",
+"example": "Wer muss für den Schaden aufkommen?"
+}
+],
+"synonym": "entstehen",
+"starred": false
+},
+{
+"id": "b1_0080",
+"german": "aufmachen",
+"word": "aufmachen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "auf-", "meaning": "opening up", "related": ["machen", "zumachen"] },
+"conjugation": {
+"present": "er macht auf",
+"past": "er machte auf",
+"participle": "aufgemacht",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "mache auf", "du": "machst auf", "er_sie": "macht auf", "wir": "machen auf", "ihr": "macht auf", "sie": "machen auf" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to open",
+"bengali": "খোলা",
+"example": "Kannst du bitte das Fenster aufmachen?"
+}
+],
+"synonym": "öffnen",
+"starred": false
+},
+{
+"id": "b1_0081",
+"german": "aufmerksam",
+"word": "aufmerksam",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "attentive, mindful",
+"bengali": "মনোযোগী",
+"example": "Die Schüler hörten dem Lehrer aufmerksam zu."
+}
+],
+"synonym": "konzentriert",
+"starred": false
+},
+{
+"id": "b1_0082",
+"german": "die Aufregung",
+"word": "Aufregung",
+"article": "die",
+"plural": "die Aufregungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "auf-", "meaning": "excitement", "related": ["regen", "aufregen"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "excitement, agitation",
+"bengali": "উত্তেজনা, হুলস্থুল",
+"example": "Vor der Prüfung gab es große Aufregung."
+}
+],
+"synonym": "die Unruhe",
+"starred": false
+},
+{
+"id": "b1_0083",
+"german": "der Aufruf",
+"word": "Aufruf",
+"article": "der",
+"plural": "die Aufrufe",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "auf-", "meaning": "calling upon", "related": ["rufen", "aufrufen"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "appeal, call, page view (internet)",
+"bengali": "আহ্বান, ডাক",
+"example": "Die Polizei startete einen Aufruf an Zeugen."
+}
+],
+"synonym": "der Appell",
+"starred": false
+},
+{
+"id": "b1_0084",
+"german": "aufschreiben",
+"word": "aufschreiben",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "auf-", "meaning": "writing down to record", "related": ["schreiben", "mitschreiben"] },
+"conjugation": {
+"present": "er schreibt auf",
+"past": "er schrieb auf",
+"participle": "aufgeschrieben",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "ei → ie",
+"full_present": { "ich": "schreibe auf", "du": "schreibst auf", "er_sie": "schreibt auf", "wir": "schreiben auf", "ihr": "schreibt auf", "sie": "schreiben auf" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to write down, to note",
+"bengali": "লিখে রাখা, টুকে রাখা",
+"example": "Ich muss mir deine Telefonnummer aufschreiben."
+}
+],
+"synonym": "notieren",
+"starred": false
+},
+{
+"id": "b1_0085",
+"german": "aufteilen",
+"word": "aufteilen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "auf-", "meaning": "splitting into parts", "related": ["teilen", "verteilen"] },
+"conjugation": {
+"present": "er teilt auf",
+"past": "er teilte auf",
+"participle": "aufgeteilt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "teile auf", "du": "teilst auf", "er_sie": "teilt auf", "wir": "teilen auf", "ihr": "teilt auf", "sie": "teilen auf" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to divide up, to split",
+"bengali": "ভাগ করা, বণ্টন করা",
+"example": "Wir sollten die Arbeit gerecht aufteilen."
+}
+],
+"synonym": "unterteilen",
+"starred": false
+},
+{
+"id": "b1_0086",
+"german": "die Aufteilung",
+"word": "Aufteilung",
+"article": "die",
+"plural": "die Aufteilungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "auf-", "meaning": "division", "related": ["aufteilen"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "division, distribution",
+"bengali": "বিভাজন, বণ্টন",
+"example": "Die Aufteilung der Zimmer im neuen Haus ist perfekt."
+}
+],
+"synonym": "die Einteilung",
+"starred": false
+},
+{
+"id": "b1_0087",
+"german": "der Auftrag",
+"word": "Auftrag",
+"article": "der",
+"plural": "die Aufträge",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "auf-", "meaning": "order/task assignment", "related": ["tragen", "beauftragen"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "order, assignment, task",
+"bengali": "অর্ডার, আদেশ, কার্যভার",
+"example": "Firma Müller hat uns einen großen Auftrag gegeben."
+}
+],
+"synonym": "die Bestellung",
+"starred": false
+},
+{
+"id": "b1_0088",
+"german": "die Auftragsnummer",
+"word": "Auftragsnummer",
+"article": "die",
+"plural": "die Auftragsnummern",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "order number",
+"bengali": "অর্ডার নম্বর",
+"example": "Geben Sie bei Fragen immer Ihre Auftragsnummer an."
+}
+],
+"synonym": "die Bestellnummer",
+"starred": false
+},
+{
+"id": "b1_0089",
+"german": "auseinandersetzen",
+"word": "auseinandersetzen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "auseinander-", "meaning": "apart/separate", "related": ["setzen", "zusammenfetzen"] },
+"conjugation": {
+"present": "er setzt auseinander",
+"past": "er setzte auseinander",
+"participle": "auseinandergesetzt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "setze auseinander", "du": "setzt auseinander", "er_sie": "setzt auseinander", "wir": "setzen auseinander", "ihr": "setzt auseinander", "sie": "setzen auseinander" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to deal with, to argue (reflexive)",
+"bengali": "বিশ্লেষণ করা বা কোনো বিষয়ে আলোচনা/বিতর্ক করা",
+"example": "Ich muss mich mit diesem Thema auseinandersetzen."
+}
+],
+"synonym": "befassen",
+"starred": false
+},
+{
+"id": "b1_0090",
+"german": "der Ausgang",
+"word": "Ausgang",
+"article": "der",
+"plural": "die Ausgänge",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "aus-", "meaning": "going out/exit", "related": ["gehen", "Eingang"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "exit, outcome",
+"bengali": "বাহির পথ, ফলাফল",
+"example": "Wo ist der Ausgang aus diesem Bahnhof?"
+}
+],
+"synonym": "die Ausfahrt",
+"starred": false
+},
+{
+"id": "b1_0091",
+"german": "ausgewogen",
+"word": "ausgewogen",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "balanced",
+"bengali": "সুষম, ভারসাম্যপূর্ণ",
+"example": "Eine ausgewogene Ernährung ist sehr wichtig."
+}
+],
+"synonym": "balanciert",
+"starred": false
+},
+{
+"id": "b1_0092",
+"german": "ausliefern",
+"word": "ausliefern",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "aus-", "meaning": "delivering out", "related": ["liefern", "geliefern"] },
+"conjugation": {
+"present": "er liefert aus",
+"past": "er lieferte aus",
+"participle": "ausgeliefert",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "liefere aus", "du": "lieferst aus", "er_sie": "liefert aus", "wir": "liefern aus", "ihr": "liefert aus", "sie": "liefern aus" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to deliver, to distribute",
+"bengali": "বিতরণ করা, পণ্য পৌঁছে দেওয়া",
+"example": "Die Ware wird morgen an den Kunden ausgeliefert."
+}
+],
+"synonym": "zustellen",
+"starred": false
+},
+{
+"id": "b1_0093",
+"german": "die Ausnahme",
+"word": "Ausnahme",
+"article": "die",
+"plural": "die Ausnahmen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "aus-", "meaning": "taking out/exception", "related": ["nehmen", "ausnehmen"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "exception",
+"bengali": "ব্যতিক্রম",
+"example": "Normalerweise arbeite ich samstags nicht, das ist eine Ausnahme."
+}
+],
+"synonym": "die Sonderregelung",
+"starred": false
+},
+{
+"id": "b1_0094",
+"german": "ausparken",
+"word": "ausparken",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "aus-", "meaning": "out of parking", "related": ["parken", "einparken"] },
+"conjugation": {
+"present": "er parkt aus",
+"past": "er parkte aus",
+"participle": "ausgeparkt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "parke aus", "du": "parkst aus", "er_sie": "parkt aus", "wir": "parken aus", "ihr": "parkt aus", "sie": "parken aus" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to pull out of a parking space",
+"bengali": "পার্কিং থেকে গাড়ি বের করা",
+"example": "Passen Sie beim Ausparken auf die Fußgänger auf."
+}
+],
+"synonym": "wegfahren",
+"starred": false
+},
+{
+"id": "b1_0095",
+"german": "ausprobieren",
+"word": "ausprobieren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "aus-", "meaning": "testing thoroughly", "related": ["probieren", "anprobieren"] },
+"conjugation": {
+"present": "er probiert aus",
+"past": "er probierte aus",
+"participle": "ausprobiert",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "probiere aus", "du": "probierst aus", "er_sie": "probiert aus", "wir": "probieren aus", "ihr": "probiert aus", "sie": "probieren aus" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to try out, to test",
+"bengali": "পরীক্ষা করে দেখা, ট্রাই করা",
+"example": "Ich möchte dieses neue Rezept ausprobieren."
+}
+],
+"synonym": "testen",
+"starred": false
+},
+{
+"id": "b1_0096",
+"german": "ausschalten",
+"word": "ausschalten",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "aus-", "meaning": "switching off", "related": ["schalten", "einschalten"] },
+"conjugation": {
+"present": "er schaltet aus",
+"past": "er schaltete aus",
+"participle": "ausgeschaltet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "schalte aus", "du": "schaltest aus", "er_sie": "schaltet aus", "wir": "schalten aus", "ihr": "schaltet aus", "sie": "schalten aus" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to turn off, to switch off",
+"bengali": "বন্ধ করা (টিভি, লাইট ইত্যাদি)",
+"example": "Bitte schalte den Fernseher aus, wenn du gehst."
+}
+],
+"synonym": "ausmachen",
+"starred": false
+},
+{
+"id": "b1_0097",
+"german": "ausschlafen",
+"word": "ausschlafen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "aus-", "meaning": "sleeping enough", "related": ["schlafen", "einschlafen"] },
+"conjugation": {
+"present": "er schläft aus",
+"past": "er schlief aus",
+"participle": "ausgeschlafen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "a → ä",
+"full_present": { "ich": "schlafe aus", "du": "schläfst aus", "er_sie": "schläft aus", "wir": "schlafen aus", "ihr": "schlaft aus", "sie": "schlafen aus" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to sleep in, to sleep enough",
+"bengali": "পর্যাপ্ত ঘুমানো, প্রাণভরে ঘুমানো",
+"example": "Am Sonntag kann ich endlich mal ausschlafen."
+}
+],
+"synonym": "langschlafen",
+"starred": false
+},
+{
+"id": "b1_0098",
+"german": "der Außenspiegel",
+"word": "Außenspiegel",
+"article": "der",
+"plural": "die Außenspiegel",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "side mirror, wing mirror",
+"bengali": "গাড়ির লুকিং গ্লাস বা সাইড মিরর",
+"example": "Der rechte Außenspiegel des Autos ist kaputt."
+}
+],
+"synonym": "der Seitenspiegel",
+"starred": false
+},
+{
+"id": "b1_0099",
+"german": "die Ausstattung",
+"word": "Ausstattung",
+"article": "die",
+"plural": "die Ausstattungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "aus-", "meaning": "equipment details", "related": ["statt", "ausstatten"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "equipment, interior, features",
+"bengali": "সাজসজ্জা, আসবাবপত্র বা সুবিধা",
+"example": "Die Wohnung hat eine sehr moderne Ausstattung."
+}
+],
+"synonym": "die Einrichtung",
+"starred": false
+},
+{
+"id": "b1_0100",
+"german": "ausstellen",
+"word": "ausstellen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "aus-", "meaning": "putting out/exhibiting or issuing", "related": ["stellen", "einstellen"] },
+"conjugation": {
+"present": "er stellt aus",
+"past": "er stellte aus",
+"participle": "ausgestellt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "stelle aus", "du": "stellst aus", "er_sie": "stellt aus", "wir": "stellen aus", "ihr": "stellt aus", "sie": "stellen aus" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to exhibit, to issue (a certificate)",
+"bengali": "প্রদর্শন করা, প্রদান করা (সার্টিফিকেট)",
+"example": "Der Arzt wird Ihnen ein Rezept ausstellen."
+}
+],
+"synonym": "präsentieren",
+"starred": false
+}
+]

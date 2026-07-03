@@ -1,0 +1,973 @@
+[
+{
+"id": "a2_1001",
+"german": "die Welt",
+"word": "Welt",
+"article": "die",
+"plural": "die Welten",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "world",
+"bengali": "পৃথিবী",
+"example": "Es gibt viele schöne Orte auf der Welt."
+}
+],
+"synonym": "die Erde",
+"starred": false
+},
+{
+"id": "a2_1002",
+"german": "wenig",
+"word": "wenig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "little, few",
+"bengali": "অল্প, কম",
+"example": "Ich habe heute leider nur wenig Zeit."
+}
+],
+"synonym": "gering",
+"starred": false
+},
+{
+"id": "a2_1003",
+"german": "die Werbeagentur",
+"word": "Werbeagentur",
+"article": "die",
+"plural": "die Werbeagenturen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "advertising agency",
+"bengali": "বিজ্ঞাপন সংস্থা",
+"example": "Er arbeitet als Designer in einer Werbeagentur."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_1004",
+"german": "der Werbeflyer",
+"word": "Werbeflyer",
+"article": "der",
+"plural": "die Werbeflyer",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "advertising flyer",
+"bengali": "বিজ্ঞাপনের লিফলেট",
+"example": "Sie verteilt Werbeflyer in der Fußgängerzone."
+}
+],
+"synonym": "das Prospekt",
+"starred": false
+},
+{
+"id": "a2_1005",
+"german": "der/die Werbetexter/in",
+"word": "Werbetexter/in",
+"article": "der/die",
+"plural": "die Werbetexter / die Werbetexterinnen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "copywriter",
+"bengali": "বিজ্ঞাপন লেখক",
+"example": "Als Werbetexterin schreibt sie kreative Slogans."
+}
+],
+"synonym": "der Copywriter",
+"starred": false
+},
+{
+"id": "a2_1006",
+"german": "werfen",
+"word": "werfen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er wirft",
+"past": "er warf",
+"participle": "geworfen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "e → i",
+"full_present": {
+"ich": "werfe",
+"du": "wirfst",
+"er_sie": "wirft",
+"wir": "werfen",
+"ihr": "werft",
+"sie": "werfen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to throw",
+"bengali": "নিক্ষেপ করা, ছুঁড়ে মারা",
+"example": "Der Junge wirft den Ball zum Hund."
+}
+],
+"synonym": "schmeißen",
+"starred": false
+},
+{
+"id": "a2_1007",
+"german": "die Wettervorhersage",
+"word": "Wettervorhersage",
+"article": "die",
+"plural": "die Wettervorhersagen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "weather forecast",
+"bengali": "আবহাওয়ার পূর্বাভাস",
+"example": "Laut Wettervorhersage soll es morgen regnen."
+}
+],
+"synonym": "der Wetterbericht",
+"starred": false
+},
+{
+"id": "a2_1008",
+"german": "wiederholen",
+"word": "wiederholen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "wieder-",
+"meaning": "again, repeat",
+"related": ["Wiederholung"]
+},
+"conjugation": {
+"present": "er wiederholt",
+"past": "er wiederholte",
+"participle": "wiederholt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "wiederhole",
+"du": "wiederholst",
+"er_sie": "wiederholt",
+"wir": "wiederholen",
+"ihr": "wiederholt",
+"sie": "wiederholen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to repeat",
+"bengali": "পুনরাবৃত্তি করা",
+"example": "Können Sie den Satz bitte noch einmal wiederholen?"
+}
+],
+"synonym": "sagen noch einmal",
+"starred": false
+},
+{
+"id": "a2_1009",
+"german": "wirklich",
+"word": "wirklich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "real, actual, really",
+"bengali": "সত্যিই, আসল",
+"example": "Das ist ein wirklich schönes Kleid."
+}
+],
+"synonym": "echt",
+"starred": false
+},
+{
+"id": "a2_1010",
+"german": "die Wirtschaft",
+"word": "Wirtschaft",
+"article": "die",
+"plural": "die Wirtschaften",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "economy, pub/inn",
+"bengali": "অর্থনীতি, সরাইখানা",
+"example": "Die Wirtschaft des Landes wächst schnell."
+}
+],
+"synonym": "die Ökonomie",
+"starred": false
+},
+{
+"id": "a2_1011",
+"german": "wohl",
+"word": "wohl",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "well, probably",
+"bengali": "সম্ভবত, ভালো",
+"example": "Ich fühle mich heute nicht besonders wohl."
+}
+],
+"synonym": "vermutlich",
+"starred": false
+},
+{
+"id": "a2_1012",
+"german": "die Wohngemeinschaft",
+"word": "Wohngemeinschaft",
+"article": "die",
+"plural": "die Wohngemeinschaften",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "shared apartment, flat-share",
+"bengali": "মেস, যৌথ বাসা",
+"example": "Viele Studenten leben in einer Wohngemeinschaft (WG)."
+}
+],
+"synonym": "die WG",
+"starred": false
+},
+{
+"id": "a2_1013",
+"german": "die Wohnungsbesichtigung",
+"word": "Wohnungsbesichtigung",
+"article": "die",
+"plural": "die Wohnungsbesichtigungen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "apartment viewing",
+"bengali": "বাসা দেখতে যাওয়া",
+"example": "Morgen habe ich eine wichtige Wohnungsbesichtigung."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_1014",
+"german": "wunderbar",
+"word": "wunderbar",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "wonderful, marvellous",
+"bengali": "চমৎকার, অপূর্ব",
+"example": "Das Wetter am Wochenende war einfach wunderbar."
+}
+],
+"synonym": "großartig",
+"starred": false
+},
+{
+"id": "a2_1015",
+"german": "wundervoll",
+"word": "wundervoll",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "wonderful, beautiful",
+"bengali": "অপূর্ব, চমৎকার",
+"example": "Vielen Dank für das wundervolle Geschenk."
+}
+],
+"synonym": "wunderbar",
+"starred": false
+},
+{
+"id": "a2_1016",
+"german": "der Wunsch",
+"word": "Wunsch",
+"article": "der",
+"plural": "die Wünsche",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "wish, desire",
+"bengali": "ইচ্ছা, আকাঙ্ক্ষা",
+"example": "Haben Sie noch einen Wunsch?"
+}
+],
+"synonym": "das Verlangen",
+"starred": false
+},
+{
+"id": "a2_1017",
+"german": "das Würstchen",
+"word": "Würstchen",
+"article": "das",
+"plural": "die Würstchen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "small sausage",
+"bengali": "ছোট সসেজ",
+"example": "Möchtest du ein Würstchen mit Senf?"
+}
+],
+"synonym": "die Würstel",
+"starred": false
+},
+{
+"id": "a2_1018",
+"german": "das Yoga",
+"word": "Yoga",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "yoga",
+"bengali": "যোগব্যায়াম",
+"example": "Yoga hilft mir sehr beim Entspannen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_1019",
+"german": "der Zähler",
+"word": "Zähler",
+"article": "der",
+"plural": "die Zähler",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "meter, counter",
+"bengali": "মিটার, গণনাযন্ত্র",
+"example": "Der Stromzähler befindet sich im Keller."
+}
+],
+"synonym": "das Messgerät",
+"starred": false
+},
+{
+"id": "a2_1020",
+"german": "der/die Zahlungsempfänger/in",
+"word": "Zahlungsempfänger/in",
+"article": "der/die",
+"plural": "die Zahlungsempfänger / die Zahlungsempfängerinnen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "payee, recipient of payment",
+"bengali": "অর্থ প্রাপক",
+"example": "Tragen Sie bitte den Namen des Zahlungsempfängers ein."
+}
+],
+"synonym": "der Kreditor",
+"starred": false
+},
+{
+"id": "a2_1021",
+"german": "das Zeitmanagement",
+"word": "Zeitmanagement",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "time management",
+"bengali": "সময় ব্যবস্থাপনা",
+"example": "Gutes Zeitmanagement ist im Beruf sehr wichtig."
+}
+],
+"synonym": "die Zeitplanung",
+"starred": false
+},
+{
+"id": "a2_1022",
+"german": "die Zeitschrift",
+"word": "Zeitschrift",
+"article": "die",
+"plural": "die Zeitschriften",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "magazine, journal",
+"bengali": "সাময়িকী, ম্যাগাজিন",
+"example": "Ich lese beim Arzt eine Zeitschrift."
+}
+],
+"synonym": "das Magazin",
+"starred": false
+},
+{
+"id": "a2_1023",
+"german": "der Zeitungsartikel",
+"word": "Zeitungsartikel",
+"article": "der",
+"plural": "die Zeitungsartikel",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "newspaper article",
+"bengali": "সংবাদপত্রের নিবন্ধ",
+"example": "Hast du den Zeitungsartikel über das Fest gelesen?"
+}
+],
+"synonym": "der Bericht",
+"starred": false
+},
+{
+"id": "a2_1024",
+"german": "zeitweise",
+"word": "zeitweise",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "temporarily, at times, occasionally",
+"bengali": "মাঝেমধ্যে, সাময়িকভাবে",
+"example": "Morgen kann es zeitweise regnen."
+}
+],
+"synonym": "manchmal",
+"starred": false
+},
+{
+"id": "a2_1025",
+"german": "das Zertifikat",
+"word": "Zertifikat",
+"article": "das",
+"plural": "die Zertifikate",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "certificate",
+"bengali": "সনদপত্র",
+"example": "Nach dem Sprachkurs erhalte ich ein Zertifikat."
+}
+],
+"synonym": "die Urkunde",
+"starred": false
+},
+{
+"id": "a2_1026",
+"german": "der/die Zeuge/Zeugin",
+"word": "Zeuge/Zeugin",
+"article": "der/die",
+"plural": "die Zeugen / die Zeuginnen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "witness",
+"bengali": "সাক্ষী",
+"example": "Die Polizei sucht Zeugen für den Unfall."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_1027",
+"german": "das Zeugnis",
+"word": "Zeugnis",
+"article": "das",
+"plural": "die Zeugnisse",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "report card, certificate, reference",
+"bengali": "প্রশংসাপত্র, রিপোর্ট কার্ড",
+"example": "Er hat ein sehr gutes Zeugnis bekommen."
+}
+],
+"synonym": "das Diplom",
+"starred": false
+},
+{
+"id": "a2_1028",
+"german": "der Zoo",
+"word": "Zoo",
+"article": "der",
+"plural": "die Zoos",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "zoo",
+"bengali": "চিড়িয়াখানা",
+"example": "Am Sonntag gehen wir mit den Kindern in den Zoo."
+}
+],
+"synonym": "der Tierpark",
+"starred": false
+},
+{
+"id": "a2_1029",
+"german": "zubereiten",
+"word": "zubereiten",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "zu-",
+"meaning": "prepare, cook",
+"related": ["bereiten"]
+},
+"conjugation": {
+"present": "er bereitet zu",
+"past": "er bereitete zu",
+"participle": "zubereitet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "bereite zu",
+"du": "bereitest zu",
+"er_sie": "bereitet zu",
+"wir": "bereiten zu",
+"ihr": "bereitet zu",
+"sie": "bereiten zu"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to prepare (food), to cook",
+"bengali": "খাবার প্রস্তুত করা",
+"example": "Ich werde das Abendessen frisch zubereiten."
+}
+],
+"synonym": "kochen",
+"starred": false
+},
+{
+"id": "a2_1030",
+"german": "die Zucchini",
+"word": "Zucchini",
+"article": "die",
+"plural": "die Zucchini",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "zucchini, courgette",
+"bengali": "ধুন্দুল, জুকিনি",
+"example": "Ich koche heute eine Suppe mit Zucchini."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_1031",
+"german": "zufrieden",
+"word": "zufrieden",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "satisfied, content",
+"bengali": "সন্তুষ্ট",
+"example": "Mit meinem neuen Job bin ich sehr zufrieden."
+}
+],
+"synonym": "glücklich",
+"starred": false
+},
+{
+"id": "a2_1032",
+"german": "der Zugang",
+"word": "Zugang",
+"article": "der",
+"plural": "die Zugänge",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "access, entrance",
+"bengali": "প্রবেশাধিকার, প্রবেশপথ",
+"example": "Hier haben Sie keinen Zugang zum Gebäude."
+}
+],
+"synonym": "der Eintritt",
+"starred": false
+},
+{
+"id": "a2_1033",
+"german": "zuhören",
+"word": "zuhören",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "zu-",
+"meaning": "listen to",
+"related": ["hören"]
+},
+"conjugation": {
+"present": "er hört zu",
+"past": "er hörte zu",
+"participle": "zugehört",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "höre zu",
+"du": "hörst zu",
+"er_sie": "hört zu",
+"wir": "hören zu",
+"ihr": "hört zu",
+"sie": "hören zu"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to listen attentively",
+"bengali": "মনোযোগ দিয়ে শোনা",
+"example": "Bitte hör mir gut zu, wenn ich spreche."
+}
+],
+"synonym": "lauschen",
+"starred": false
+},
+{
+"id": "a2_1034",
+"german": "die Zulassungsstelle",
+"word": "Zulassungsstelle",
+"article": "die",
+"plural": "die Zulassungsstellen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "registration office (for vehicles)",
+"bengali": "যানবাহন নিবন্ধন অফিস",
+"example": "Ich muss mein neues Auto bei der Zulassungsstelle anmelden."
+}
+],
+"synonym": "das Kfz-Meldeamt",
+"starred": false
+},
+{
+"id": "a2_1035",
+"german": "zuletzt",
+"word": "zuletzt",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "lastly, recently, at last",
+"bengali": "সবশেষে, অতি সম্প্রতি",
+"example": "Wann hast du ihn zuletzt gesehen?"
+}
+],
+"synonym": "schließlich",
+"starred": false
+},
+{
+"id": "a2_1036",
+"german": "zurückgeben",
+"word": "zurückgeben",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "zurück-",
+"meaning": "back, return",
+"related": ["geben"]
+},
+"conjugation": {
+"present": "er gibt zurück",
+"past": "er gab zurück",
+"participle": "zurückgegeben",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "e → i",
+"full_present": {
+"ich": "gebe zurück",
+"du": "gibst zurück",
+"er_sie": "gibt zurück",
+"wir": "geben zurück",
+"ihr": "gebt zurück",
+"sie": "geben zurück"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to return, give back",
+"bengali": "ফেরত দেওয়া",
+"example": "Ich muss das Buch morgen der Bibliothek zurückgeben."
+}
+],
+"synonym": "erstatten",
+"starred": false
+},
+{
+"id": "a2_1037",
+"german": "zuschauen",
+"word": "zuschauen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "zu-",
+"meaning": "watch, look on",
+"related": ["schauen"]
+},
+"conjugation": {
+"present": "er schaut zu",
+"past": "er schaute zu",
+"participle": "zugeschaut",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "schaue zu",
+"du": "schaust zu",
+"er_sie": "schaut zu",
+"wir": "schauen zu",
+"ihr": "schaut zu",
+"sie": "schauen zu"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to watch, look on",
+"bengali": "দর্শকের মতো দেখা, লক্ষ করা",
+"example": "Darf ich dir beim Kochen zuschauen?"
+}
+],
+"synonym": "zusehen",
+"starred": false
+},
+{
+"id": "a2_1038",
+"german": "zuständig",
+"word": "zuständig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "responsible, in charge",
+"bengali": "দায়িত্বপ্রাপ্ত, উপযুক্ত",
+"example": "Wer ist für dieses Projekt zuständig?"
+}
+],
+"synonym": "verantwortlich",
+"starred": false
+},
+{
+"id": "a2_1039",
+"german": "zuverlässig",
+"word": "zuverlässig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "reliable, dependable",
+"bengali": "নির্ভরযোগ্য, বিশ্বস্ত",
+"example": "Mein Auto ist alt, aber absolut zuverlässig."
+}
+],
+"synonym": "sicher",
+"starred": false
+},
+{
+"id": "a2_1040",
+"german": "zuzüglich",
+"word": "zuzüglich",
+"article": null,
+"plural": null,
+"type": "Präposition",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Präposition",
+"english": "plus, in addition to, excluding/adding",
+"bengali": "যোগ করে, সাথে",
+"example": "Der Preis beträgt 50 Euro zuzüglich Versandkosten."
+}
+],
+"synonym": "plus",
+"starred": false
+},
+{
+"id": "a2_1041",
+"german": "zwischendurch",
+"word": "zwischendurch",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "in between, from time to time",
+"bengali": "কাজের ফাঁকে, ইতিমধ্যে",
+"example": "Ich arbeite viel, aber zwischendurch mache ich kleine Pausen."
+}
+],
+"synonym": "unterdessen",
+"starred": false
+}
+]

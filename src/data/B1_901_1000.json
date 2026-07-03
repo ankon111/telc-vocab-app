@@ -1,0 +1,2744 @@
+[
+{
+"id": "b1_0901",
+"german": "voraussichtlich",
+"word": "voraussichtlich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "expected, probable",
+"bengali": "সম্ভাব্য",
+"example": "Die Ankunft ist voraussichtlich um 10 Uhr."
+}
+],
+"synonym": "wahrscheinlich",
+"starred": false
+},
+{
+"id": "b1_0902",
+"german": "vorbeigehen",
+"word": "vorbeigehen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "vorbei-",
+"meaning": "passing by",
+"related": ["vorbeifahren", "vorbeikommen"]
+},
+"conjugation": {
+"present": "er geht vorbei",
+"past": "er ging vorbei",
+"participle": "vorbeigegangen",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": null,
+"full_present": {
+"ich": "gehe vorbei",
+"du": "gehst vorbei",
+"er_sie": "geht vorbei",
+"wir": "gehen vorbei",
+"ihr": "geht vorbei",
+"sie": "gehen vorbei"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to pass by",
+"bengali": "পাশ দিয়ে চলে যাওয়া",
+"example": "Er geht jeden Tag an unserem Haus vorbei."
+}
+],
+"synonym": "passieren",
+"starred": false
+},
+{
+"id": "b1_0903",
+"german": "vorher",
+"word": "vorher",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "before, beforehand",
+"bengali": "আগে, পূর্বে",
+"example": "Das hättest du vorher sagen sollen."
+}
+],
+"synonym": "zuvor",
+"starred": false
+},
+{
+"id": "b1_0904",
+"german": "vorhersagen",
+"word": "vorhersagen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "vorher-",
+"meaning": "predicting",
+"related": ["Vorhersage"]
+},
+"conjugation": {
+"present": "er sagt vorher",
+"past": "er sagte vorher",
+"participle": "vorhergesagt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "sage vorher",
+"du": "sagst vorher",
+"er_sie": "sagt vorher",
+"wir": "sagen vorher",
+"ihr": "sagt vorher",
+"sie": "sagen vorher"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to predict",
+"bengali": "ভবিষ্যদ্বাণী করা",
+"example": "Der Wetterbericht hat Regen vorhergesagt."
+}
+],
+"synonym": "prognostizieren",
+"starred": false
+},
+{
+"id": "b1_0905",
+"german": "vorschreiben",
+"word": "vorschreiben",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "vor-",
+"meaning": "prescribing/instructing",
+"related": ["Vorschrift"]
+},
+"conjugation": {
+"present": "er schreibt vor",
+"past": "er schrieb vor",
+"participle": "vorgeschrieben",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "ei → ie",
+"full_present": {
+"ich": "schreibe vor",
+"du": "schreibst vor",
+"er_sie": "schreibt vor",
+"wir": "schreiben vor",
+"ihr": "schreibt vor",
+"sie": "schreiben vor"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to prescribe, dictate",
+"bengali": "নির্দেশ দেওয়া, নিয়ম করা",
+"example": "Die Regeln schreiben genau vor, was zu tun ist."
+}
+],
+"synonym": "anordnen",
+"starred": false
+},
+{
+"id": "b1_0906",
+"german": "vorsichtig",
+"word": "vorsichtig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "careful, cautious",
+"bengali": "সতর্ক, সাবধানী",
+"example": "Sei vorsichtig bei Glatteis."
+}
+],
+"synonym": "behutsam",
+"starred": false
+},
+{
+"id": "b1_0907",
+"german": "wahr",
+"word": "wahr",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "true",
+"bengali": "সত্য",
+"example": "Ist das wirklich wahr?"
+}
+],
+"synonym": "richtig",
+"starred": false
+},
+{
+"id": "b1_0908",
+"german": "wahrscheinlich",
+"word": "wahrscheinlich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "likely, probable",
+"bengali": "সম্ভবত",
+"example": "Es ist sehr wahrscheinlich, dass es heute regnet."
+}
+],
+"synonym": "vermutlich",
+"starred": false
+},
+{
+"id": "b1_0909",
+"german": "der Wanderer",
+"word": "Wanderer",
+"article": "der",
+"plural": "die Wanderer",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "hiker",
+"bengali": "হাইকার, পদব্রজযাত্রী",
+"example": "Der Wanderer sucht den richtigen Weg."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0910",
+"german": "die Wandertour",
+"word": "Wandertour",
+"article": "die",
+"plural": "die Wandertouren",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "hiking tour",
+"bengali": "হাইকিং ট্রিপ",
+"example": "Wir machen morgen eine Wandertour."
+}
+],
+"synonym": "die Wanderung",
+"starred": false
+},
+{
+"id": "b1_0911",
+"german": "die Ware",
+"word": "Ware",
+"article": "die",
+"plural": "die Waren",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "goods, merchandise",
+"bengali": "পণ্য",
+"example": "Die Waren wurden pünktlich geliefert."
+}
+],
+"synonym": "das Produkt",
+"starred": false
+},
+{
+"id": "b1_0912",
+"german": "der Warenkorb",
+"word": "Warenkorb",
+"article": "der",
+"plural": "die Warenkörbe",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "shopping cart",
+"bengali": "শপিং কার্ট",
+"example": "Ich habe den Artikel in den Warenkorb gelegt."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0913",
+"german": "die Wärme",
+"word": "Wärme",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "warmth",
+"bengali": "উষ্ণতা",
+"example": "Die Wärme der Sonne ist angenehm."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0914",
+"german": "der Waschraum",
+"word": "Waschraum",
+"article": "der",
+"plural": "die Waschräume",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "washroom, laundry room",
+"bengali": "ওয়াশ রুম, ধোলাই ঘর",
+"example": "Die Waschmaschine steht im Waschraum."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0915",
+"german": "wasserdicht",
+"word": "wasserdicht",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "waterproof",
+"bengali": "জলরোধী",
+"example": "Diese Jacke ist absolut wasserdicht."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0916",
+"german": "der Wasserhahn",
+"word": "Wasserhahn",
+"article": "der",
+"plural": "die Wasserhähne",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "faucet, tap",
+"bengali": "কল",
+"example": "Dreh bitte den Wasserhahn zu."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0917",
+"german": "wegfahren",
+"word": "wegfahren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "weg-",
+"meaning": "moving away",
+"related": ["wegwerfen", "weglaufen"]
+},
+"conjugation": {
+"present": "er fährt weg",
+"past": "er fuhr weg",
+"participle": "weggefahren",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": "a → ä",
+"full_present": {
+"ich": "fahre weg",
+"du": "fährst weg",
+"er_sie": "fährt weg",
+"wir": "fahren weg",
+"ihr": "fahrt weg",
+"sie": "fahren weg"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to drive away, to leave",
+"bengali": "দূরে চলে যাওয়া, ছেড়ে যাওয়া",
+"example": "Wir fahren am Wochenende weg."
+}
+],
+"synonym": "abfahren",
+"starred": false
+},
+{
+"id": "b1_0918",
+"german": "wegräumen",
+"word": "wegräumen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "weg-",
+"meaning": "putting away",
+"related": ["wegräumen"]
+},
+"conjugation": {
+"present": "er räumt weg",
+"past": "er räumte weg",
+"participle": "weggeräumt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "räume weg",
+"du": "räumst weg",
+"er_sie": "räumt weg",
+"wir": "räumen weg",
+"ihr": "räumt weg",
+"sie": "räumen weg"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to put away",
+"bengali": "সরিয়ে রাখা",
+"example": "Räum bitte deine Sachen weg."
+}
+],
+"synonym": "aufräumen",
+"starred": false
+},
+{
+"id": "b1_0919",
+"german": "wegschmeißen",
+"word": "wegschmeißen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "weg-",
+"meaning": "getting rid of",
+"related": ["wegwerfen"]
+},
+"conjugation": {
+"present": "er schmeißt weg",
+"past": "er schmiss weg",
+"participle": "weggeschmissen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": null,
+"full_present": {
+"ich": "schmeiße weg",
+"du": "schmeißt weg",
+"er_sie": "schmeißt weg",
+"wir": "schmeißen weg",
+"ihr": "schmeißt weg",
+"sie": "schmeißen weg"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to throw away (colloquial)",
+"bengali": "ফেলে দেওয়া",
+"example": "Soll ich das wegschmeißen?"
+}
+],
+"synonym": "wegwerfen",
+"starred": false
+},
+{
+"id": "b1_0920",
+"german": "wegwerfen",
+"word": "wegwerfen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "weg-",
+"meaning": "tossing away",
+"related": ["wegschmeißen"]
+},
+"conjugation": {
+"present": "er wirft weg",
+"past": "er warf weg",
+"participle": "weggeworfen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "i → i",
+"full_present": {
+"ich": "werfe weg",
+"du": "wirfst weg",
+"er_sie": "wirft weg",
+"wir": "werfen weg",
+"ihr": "werft weg",
+"sie": "werfen weg"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to throw away",
+"bengali": "ফেলে দেওয়া",
+"example": "Man sollte keinen Müll einfach wegwerfen."
+}
+],
+"synonym": "entsorgen",
+"starred": false
+},
+{
+"id": "b1_0921",
+"german": "die Weise",
+"word": "Weise",
+"article": "die",
+"plural": "die Weisen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "way, manner",
+"bengali": "ধরন",
+"example": "Auf diese Weise geht es schneller."
+}
+],
+"synonym": "die Art",
+"starred": false
+},
+{
+"id": "b1_0922",
+"german": "weitergehen",
+"word": "weitergehen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "weiter-",
+"meaning": "continuing",
+"related": ["weiterhelfen", "weiterfahren"]
+},
+"conjugation": {
+"present": "er geht weiter",
+"past": "er ging weiter",
+"participle": "weitergegangen",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": null,
+"full_present": {
+"ich": "gehe weiter",
+"du": "gehst weiter",
+"er_sie": "geht weiter",
+"wir": "gehen weiter",
+"ihr": "geht weiter",
+"sie": "gehen weiter"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to go on, continue",
+"bengali": "এগিয়ে যাওয়া, চলতে থাকা",
+"example": "Wir gehen jetzt weiter."
+}
+],
+"synonym": "fortfahren",
+"starred": false
+},
+{
+"id": "b1_0923",
+"german": "weiterhelfen",
+"word": "weiterhelfen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "weiter-",
+"meaning": "further assistance",
+"related": ["weitergeben"]
+},
+"conjugation": {
+"present": "er hilft weiter",
+"past": "er half weiter",
+"participle": "weitergeholfen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "e → i",
+"full_present": {
+"ich": "helfe weiter",
+"du": "hilfst weiter",
+"er_sie": "hilft weiter",
+"wir": "helfen weiter",
+"ihr": "helft weiter",
+"sie": "helfen weiter"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to assist further",
+"bengali": "আরও সাহায্য করা",
+"example": "Kann Ihnen jemand anderes weiterhelfen?"
+}
+],
+"synonym": "unterstützen",
+"starred": false
+},
+{
+"id": "b1_0924",
+"german": "die Weiterleitung",
+"word": "Weiterleitung",
+"article": "die",
+"plural": "die Weiterleitungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": {
+"prefix": "weiter-",
+"meaning": "forwarding",
+"related": ["weiterleiten"]
+},
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "forwarding, redirection",
+"bengali": "ফরোয়ার্ড করা",
+"example": "Die Weiterleitung der E-Mail hat funktioniert."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0925",
+"german": "das Weltall",
+"word": "Weltall",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "universe, space",
+"bengali": "মহাকাশ",
+"example": "Wie groß ist das Weltall?"
+}
+],
+"synonym": "das Universum",
+"starred": false
+},
+{
+"id": "b1_0926",
+"german": "die Weltmeisterschaft",
+"word": "Weltmeisterschaft (WM)",
+"article": "die",
+"plural": "die Weltmeisterschaften",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "world cup, world championship",
+"bengali": "বিশ্ব চ্যাম্পিয়নশিপ",
+"example": "Dieses Jahr ist wieder Weltmeisterschaft."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0927",
+"german": "der Werktag",
+"word": "Werktag",
+"article": "der",
+"plural": "die Werktage",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "working day",
+"bengali": "কর্মদিবস",
+"example": "An Werktagen arbeite ich bis 17 Uhr."
+}
+],
+"synonym": "der Arbeitstag",
+"starred": false
+},
+{
+"id": "b1_0928",
+"german": "das Werkzeug",
+"word": "Werkzeug",
+"article": "das",
+"plural": "die Werkzeuge",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "tool",
+"bengali": "সরঞ্জাম, টুল",
+"example": "Er braucht das richtige Werkzeug für die Reparatur."
+}
+],
+"synonym": "das Hilfsmittel",
+"starred": false
+},
+{
+"id": "b1_0929",
+"german": "der Wert",
+"word": "Wert",
+"article": "der",
+"plural": "die Werte",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "value",
+"bengali": "মূল্য",
+"example": "Dieses Schmuckstück hat einen hohen Wert."
+}
+],
+"synonym": "die Bedeutung",
+"starred": false
+},
+{
+"id": "b1_0930",
+"german": "der Wertstoff",
+"word": "Wertstoff",
+"article": "der",
+"plural": "die Wertstoffe",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "recyclable material",
+"bengali": "পুনঃব্যবহারযোগ্য পদার্থ",
+"example": "Plastik ist ein wichtiger Wertstoff."
+}
+],
+"synonym": "das Recyclingmaterial",
+"starred": false
+},
+{
+"id": "b1_0931",
+"german": "weshalb",
+"word": "weshalb",
+"article": null,
+"plural": null,
+"type": "Konjunktion",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Konjunktion",
+"english": "why, for which reason",
+"bengali": "কেন, যার জন্য",
+"example": "Ich weiß nicht, weshalb er nicht gekommen ist."
+}
+],
+"synonym": "deshalb",
+"starred": false
+},
+{
+"id": "b1_0932",
+"german": "wetterfest",
+"word": "wetterfest",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "weatherproof",
+"bengali": "আবহাওয়া-প্রতিরোধী",
+"example": "Wir brauchen wetterfeste Kleidung."
+}
+],
+"synonym": "robust",
+"starred": false
+},
+{
+"id": "b1_0933",
+"german": "widerrufen",
+"word": "widerrufen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "wider-",
+"meaning": "revoking",
+"related": ["Widerruf"]
+},
+"conjugation": {
+"present": "er widerruft",
+"past": "er widerrief",
+"participle": "widerrufen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": null,
+"full_present": {
+"ich": "widerrufe",
+"du": "widerrufst",
+"er_sie": "widerruft",
+"wir": "widerrufen",
+"ihr": "widerruft",
+"sie": "widerrufen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to revoke, withdraw",
+"bengali": "বাতিল করা, তুলে নেওয়া",
+"example": "Sie können den Vertrag innerhalb von 14 Tagen widerrufen."
+}
+],
+"synonym": "zurücknehmen",
+"starred": false
+},
+{
+"id": "b1_0934",
+"german": "das Widerrufsrecht",
+"word": "Widerrufsrecht",
+"article": "das",
+"plural": "die Widerrufsrechte",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "right of withdrawal",
+"bengali": "বাতিল করার অধিকার",
+"example": "Haben Sie auf das Widerrufsrecht geachtet?"
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0935",
+"german": "der Widerspruch",
+"word": "Widerspruch",
+"article": "der",
+"plural": "die Widersprüche",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "objection, contradiction",
+"bengali": "আপত্তি, বিরোধিতা",
+"example": "Er hat Widerspruch gegen das Urteil eingelegt."
+}
+],
+"synonym": "der Einspruch",
+"starred": false
+},
+{
+"id": "b1_0936",
+"german": "wiedervereinigen",
+"word": "wiedervereinigen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "wieder-",
+"meaning": "re-doing",
+"related": ["Wiedervereinigung"]
+},
+"conjugation": {
+"present": "er wiedervereinigt",
+"past": "er wiedervereinigte",
+"participle": "wiedervereinigt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "wiedervereinige",
+"du": "wiedervereinigst",
+"er_sie": "wiedervereinigt",
+"wir": "wiedervereinigen",
+"ihr": "wiedervereinigt",
+"sie": "wiedervereinigen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to reunite",
+"bengali": "পুনরায় একত্রিত করা",
+"example": "Deutschland wurde 1990 wiedervereinigt."
+}
+],
+"synonym": "vereinen",
+"starred": false
+},
+{
+"id": "b1_0937",
+"german": "die Wiedervereinigung",
+"word": "Wiedervereinigung",
+"article": "die",
+"plural": "die Wiedervereinigungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "reunification",
+"bengali": "পুনর্মিলন",
+"example": "Die Wiedervereinigung war ein bedeutendes historisches Ereignis."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0938",
+"german": "der Wind",
+"word": "Wind",
+"article": "der",
+"plural": "die Winde",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "wind",
+"bengali": "বাতাস",
+"example": "Der Wind weht heute stark."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0939",
+"german": "die Windel",
+"word": "Windel",
+"article": "die",
+"plural": "die Windeln",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "diaper",
+"bengali": "ডায়াপার",
+"example": "Das Baby braucht eine neue Windel."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0940",
+"german": "die Windschutzscheibe",
+"word": "Windschutzscheibe",
+"article": "die",
+"plural": "die Windschutzscheiben",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "windshield",
+"bengali": "উইন্ডশিল্ড",
+"example": "Die Windschutzscheibe ist schmutzig."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0941",
+"german": "der Wirbelsturm",
+"word": "Wirbelsturm",
+"article": "der",
+"plural": "die Wirbelstürme",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "cyclone, tornado",
+"bengali": "ঘূর্ণিঝড়",
+"example": "Der Wirbelsturm hat viele Häuser zerstört."
+}
+],
+"synonym": "der Tornado",
+"starred": false
+},
+{
+"id": "b1_0942",
+"german": "wohlfühlen",
+"word": "wohlfühlen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "wohl-",
+"meaning": "feeling well",
+"related": ["Wohlbefinden"]
+},
+"conjugation": {
+"present": "er fühlt sich wohl",
+"past": "er fühlte sich wohl",
+"participle": "wohlgefühlt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "fühle mich wohl",
+"du": "fühlst dich wohl",
+"er_sie": "fühlt sich wohl",
+"wir": "fühlen uns wohl",
+"ihr": "fühlt euch wohl",
+"sie": "fühlen sich wohl"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to feel comfortable",
+"bengali": "স্বাচ্ছন্দ্য বোধ করা",
+"example": "Ich fühle mich in diesem Hotel sehr wohl."
+}
+],
+"synonym": "behaglich fühlen",
+"starred": false
+},
+{
+"id": "b1_0943",
+"german": "der Wohnwagen",
+"word": "Wohnwagen",
+"article": "der",
+"plural": "die Wohnwagen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "caravan, camper",
+"bengali": "ক্যারাভান",
+"example": "Wir machen Urlaub mit dem Wohnwagen."
+}
+],
+"synonym": "der Wohnmobil",
+"starred": false
+},
+{
+"id": "b1_0944",
+"german": "die Wolke",
+"word": "Wolke",
+"article": "die",
+"plural": "die Wolken",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "cloud",
+"bengali": "মেঘ",
+"example": "Es sind viele Wolken am Himmel."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0945",
+"german": "die Wurst",
+"word": "Wurst",
+"article": "die",
+"plural": "die Würste",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "sausage",
+"bengali": "সসেজ",
+"example": "Ich möchte eine Wurst essen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0946",
+"german": "wütend",
+"word": "wütend",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "angry",
+"bengali": "ক্রুদ্ধ",
+"example": "Er ist sehr wütend auf mich."
+}
+],
+"synonym": "zornig",
+"starred": false
+},
+{
+"id": "b1_0947",
+"german": "die Zahlung",
+"word": "Zahlung",
+"article": "die",
+"plural": "die Zahlungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "payment",
+"bengali": "পরিশোধ",
+"example": "Die Zahlung ist noch nicht eingegangen."
+}
+],
+"synonym": "die Bezahlung",
+"starred": false
+},
+{
+"id": "b1_0948",
+"german": "zappen",
+"word": "zappen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er zappt",
+"past": "er zappte",
+"participle": "gezappt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "zappe",
+"du": "zappst",
+"er_sie": "zappt",
+"wir": "zappen",
+"ihr": "zappt",
+"sie": "zappen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to channel-surf",
+"bengali": "টিভি চ্যানেল পাল্টানো",
+"example": "Er zappt den ganzen Abend durch die Programme."
+}
+],
+"synonym": "umschalten",
+"starred": false
+},
+{
+"id": "b1_0949",
+"german": "zaubern",
+"word": "zaubern",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er zaubert",
+"past": "er zauberte",
+"participle": "gezaubert",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "zaubere",
+"du": "zauberst",
+"er_sie": "zaubert",
+"wir": "zaubern",
+"ihr": "zaubert",
+"sie": "zaubern"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to do magic",
+"bengali": "জাদু করা",
+"example": "Der Magier kann tolle Dinge zaubern."
+}
+],
+"synonym": "magisch wirken",
+"starred": false
+},
+{
+"id": "b1_0950",
+"german": "der Zeichentrickfilm",
+"word": "Zeichentrickfilm",
+"article": "der",
+"plural": "die Zeichentrickfilme",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "cartoon",
+"bengali": "কার্টুন",
+"example": "Mein Sohn liebt diesen Zeichentrickfilm."
+}
+],
+"synonym": "der Cartoon",
+"starred": false
+},
+{
+"id": "b1_0951",
+"german": "zeitlich",
+"word": "zeitlich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "temporal, time-related",
+"bengali": "সময় সংক্রান্ত",
+"example": "Es gibt eine zeitliche Begrenzung."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0952",
+"german": "der Zeitmangel",
+"word": "Zeitmangel",
+"article": "der",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "lack of time",
+"bengali": "সময়ের অভাব",
+"example": "Wegen Zeitmangel konnte ich nicht kommen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0953",
+"german": "der Zeitpunkt",
+"word": "Zeitpunkt",
+"article": "der",
+"plural": "die Zeitpunkte",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "time, moment",
+"bengali": "সময়, মুহূর্ত",
+"example": "Das ist der richtige Zeitpunkt."
+}
+],
+"synonym": "der Moment",
+"starred": false
+},
+{
+"id": "b1_0954",
+"german": "der Zeitraum",
+"word": "Zeitraum",
+"article": "der",
+"plural": "die Zeiträume",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "period of time",
+"bengali": "সময়সীমা",
+"example": "In diesem Zeitraum ist das Büro geschlossen."
+}
+],
+"synonym": "die Zeitspanne",
+"starred": false
+},
+{
+"id": "b1_0955",
+"german": "der Zeitungsbericht",
+"word": "Zeitungsbericht",
+"article": "der",
+"plural": "die Zeitungsberichte",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "newspaper report",
+"bengali": "সংবাদপত্রের প্রতিবেদন",
+"example": "Hast du den Zeitungsbericht gelesen?"
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0956",
+"german": "die Zeitverschwendung",
+"word": "Zeitverschwendung",
+"article": "die",
+"plural": "die Zeitverschwendungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "waste of time",
+"bengali": "সময়ের অপচয়",
+"example": "Das ist reine Zeitverschwendung."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0957",
+"german": "das Zelt",
+"word": "Zelt",
+"article": "das",
+"plural": "die Zelte",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "tent",
+"bengali": "তাঁবু",
+"example": "Wir schlafen im Zelt."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0958",
+"german": "zerschlagen",
+"word": "zerschlagen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "zer-",
+"meaning": "destruction",
+"related": ["zerstören"]
+},
+"conjugation": {
+"present": "er zerschlägt",
+"past": "er zerschlug",
+"participle": "zerschlagen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "a → ä",
+"full_present": {
+"ich": "zerschlage",
+"du": "zerschlägst",
+"er_sie": "zerschlägt",
+"wir": "zerschlagen",
+"ihr": "zerschlagt",
+"sie": "zerschlagen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to smash",
+"bengali": "চূর্ণ-বিচূর্ণ করা",
+"example": "Er hat die Fensterscheibe zerschlagen."
+}
+],
+"synonym": "zertrümmern",
+"starred": false
+},
+{
+"id": "b1_0959",
+"german": "zerstören",
+"word": "zerstören",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "zer-",
+"meaning": "destructive",
+"related": ["Zerstörung"]
+},
+"conjugation": {
+"present": "er zerstört",
+"past": "er zerstörte",
+"participle": "zerstört",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "zerstöre",
+"du": "zerstörst",
+"er_sie": "zerstört",
+"wir": "zerstören",
+"ihr": "zerstört",
+"sie": "zerstören"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to destroy",
+"bengali": "ধ্বংস করা",
+"example": "Der Sturm hat das Haus zerstört."
+}
+],
+"synonym": "kaputt machen",
+"starred": false
+},
+{
+"id": "b1_0960",
+"german": "die Zerstörung",
+"word": "Zerstörung",
+"article": "die",
+"plural": "die Zerstörungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "destruction",
+"bengali": "ধ্বংস",
+"example": "Die Zerstörung war gewaltig."
+}
+],
+"synonym": "der Verfall",
+"starred": false
+},
+{
+"id": "b1_0961",
+"german": "das Ziel",
+"word": "Ziel",
+"article": "das",
+"plural": "die Ziele",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "goal, destination",
+"bengali": "লক্ষ্য, গন্তব্য",
+"example": "Was ist dein Ziel für dieses Jahr?"
+}
+],
+"synonym": "die Absicht",
+"starred": false
+},
+{
+"id": "b1_0962",
+"german": "ziemlich",
+"word": "ziemlich",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "quite, fairly",
+"bengali": "মোটামুটি, বেশ",
+"example": "Das ist ziemlich schwer."
+}
+],
+"synonym": "recht",
+"starred": false
+},
+{
+"id": "b1_0963",
+"german": "die Zigarettenkippe",
+"word": "Zigarettenkippe",
+"article": "die",
+"plural": "die Zigarettenkippen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "cigarette butt",
+"bengali": "সিগারেটের টুকরো",
+"example": "Bitte wirf die Zigarettenkippe nicht auf den Boden."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0964",
+"german": "die Zimmerlautstärke",
+"word": "Zimmerlautstärke",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "room volume",
+"bengali": "রুমের স্বাভাবিক শব্দসীমা",
+"example": "Bitte Musik nur in Zimmerlautstärke hören."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0965",
+"german": "der Zoll",
+"word": "Zoll",
+"article": "der",
+"plural": "die Zölle",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "customs",
+"bengali": "শুল্ক, কাস্টমস",
+"example": "Musst du Zoll für die Ware bezahlen?"
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0966",
+"german": "zudrehen",
+"word": "zudrehen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "zu-",
+"meaning": "closing/tightening",
+"related": ["zudrehen", "zuschrauben"]
+},
+"conjugation": {
+"present": "er dreht zu",
+"past": "er drehte zu",
+"participle": "zugedreht",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "drehe zu",
+"du": "drehst zu",
+"er_sie": "dreht zu",
+"wir": "drehen zu",
+"ihr": "dreht zu",
+"sie": "drehen zu"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to turn shut",
+"bengali": "ঘুরিয়ে বন্ধ করা",
+"example": "Hast du den Hahn richtig zugedreht?"
+}
+],
+"synonym": "schließen",
+"starred": false
+},
+{
+"id": "b1_0967",
+"german": "zufällig",
+"word": "zufällig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "accidental, coincidental",
+"bengali": "আকস্মিক",
+"example": "Wir haben uns zufällig getroffen."
+}
+],
+"synonym": "durch Zufall",
+"starred": false
+},
+{
+"id": "b1_0968",
+"german": "zugeben",
+"word": "zugeben",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "zu-",
+"meaning": "admitting",
+"related": ["Zugeben"]
+},
+"conjugation": {
+"present": "er gibt zu",
+"past": "er gab zu",
+"participle": "zugegeben",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "i → i",
+"full_present": {
+"ich": "gebe zu",
+"du": "gibst zu",
+"er_sie": "gibt zu",
+"wir": "geben zu",
+"ihr": "gebt zu",
+"sie": "geben zu"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to admit",
+"bengali": "স্বীকার করা",
+"example": "Er musste zugeben, dass er einen Fehler gemacht hatte."
+}
+],
+"synonym": "eingestehen",
+"starred": false
+},
+{
+"id": "b1_0969",
+"german": "zügig",
+"word": "zügig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "swift, rapid",
+"bengali": "দ্রুত",
+"example": "Wir müssen zügig weiterarbeiten."
+}
+],
+"synonym": "schnell",
+"starred": false
+},
+{
+"id": "b1_0970",
+"german": "zulassen",
+"word": "zulassen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "zu-",
+"meaning": "permitting/leaving closed",
+"related": ["Zulassung"]
+},
+"conjugation": {
+"present": "er lässt zu",
+"past": "er ließ zu",
+"participle": "zugelassen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "a → ä",
+"full_present": {
+"ich": "lasse zu",
+"du": "lässt zu",
+"er_sie": "lässt zu",
+"wir": "lassen zu",
+"ihr": "lasst zu",
+"sie": "lassen zu"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to permit, allow",
+"bengali": "অনুমতি দেওয়া",
+"example": "Das lässt sich nicht zulassen."
+}
+],
+"synonym": "erlauben",
+"starred": false
+},
+{
+"id": "b1_0971",
+"german": "zumachen",
+"word": "zumachen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "zu-",
+"meaning": "closing",
+"related": ["zumachen"]
+},
+"conjugation": {
+"present": "er macht zu",
+"past": "er machte zu",
+"participle": "zugemacht",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "mache zu",
+"du": "machst zu",
+"er_sie": "macht zu",
+"wir": "machen zu",
+"ihr": "macht zu",
+"sie": "machen zu"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to close",
+"bengali": "বন্ধ করা",
+"example": "Mach bitte die Tür zum."
+}
+],
+"synonym": "schließen",
+"starred": false
+},
+{
+"id": "b1_0972",
+"german": "zunehmen",
+"word": "zunehmen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "zu-",
+"meaning": "increasing",
+"related": ["Zunahme"]
+},
+"conjugation": {
+"present": "er nimmt zu",
+"past": "er nahm zu",
+"participle": "zugenommen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "e → i",
+"full_present": {
+"ich": "nehme zu",
+"du": "nimmst zu",
+"er_sie": "nimmt zu",
+"wir": "nehmen zu",
+"ihr": "nehmt zu",
+"sie": "nehmen zu"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to gain weight, increase",
+"bengali": "ওজন বাড়া, বৃদ্ধি পাওয়া",
+"example": "Im Winter nimmt man oft zu."
+}
+],
+"synonym": "wachsen",
+"starred": false
+},
+{
+"id": "b1_0973",
+"german": "zurückfahren",
+"word": "zurückfahren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "zurück-",
+"meaning": "moving back",
+"related": ["zurückkehren"]
+},
+"conjugation": {
+"present": "er fährt zurück",
+"past": "er fuhr zurück",
+"participle": "zurückgefahren",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": "a → ä",
+"full_present": {
+"ich": "fahre zurück",
+"du": "fährst zurück",
+"er_sie": "fährt zurück",
+"wir": "fahren zurück",
+"ihr": "fahrt zurück",
+"sie": "fahren zurück"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to drive back",
+"bengali": "গাড়িতে ফিরে যাওয়া",
+"example": "Wann fährst du zurück?"
+}
+],
+"synonym": "zurückkehren",
+"starred": false
+},
+{
+"id": "b1_0974",
+"german": "zurückkehren",
+"word": "zurückkehren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "zurück-",
+"meaning": "returning",
+"related": ["Zurückkehr"]
+},
+"conjugation": {
+"present": "er kehrt zurück",
+"past": "er kehrte zurück",
+"participle": "zurückgekehrt",
+"auxiliary": "ist",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "kehre zurück",
+"du": "kehrst zurück",
+"er_sie": "kehrt zurück",
+"wir": "kehren zurück",
+"ihr": "kehrt zurück",
+"sie": "kehren zurück"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to return",
+"bengali": "ফিরে আসা",
+"example": "Er ist endlich zurückgekehrt."
+}
+],
+"synonym": "wiederkommen",
+"starred": false
+},
+{
+"id": "b1_0975",
+"german": "zurücklassen",
+"word": "zurücklassen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "zurück-",
+"meaning": "leaving behind",
+"related": ["zurücklassen"]
+},
+"conjugation": {
+"present": "er lässt zurück",
+"past": "er ließ zurück",
+"participle": "zurückgelassen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "a → ä",
+"full_present": {
+"ich": "lasse zurück",
+"du": "lässt zurück",
+"er_sie": "lässt zurück",
+"wir": "lassen zurück",
+"ihr": "lasst zurück",
+"sie": "lassen zurück"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to leave behind",
+"bengali": "ফেলে আসা",
+"example": "Wir haben unseren Koffer zurückgelassen."
+}
+],
+"synonym": "vergessen",
+"starred": false
+},
+{
+"id": "b1_0976",
+"german": "zurückschicken",
+"word": "zurückschicken",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "zurück-",
+"meaning": "sending back",
+"related": ["zurücksenden"]
+},
+"conjugation": {
+"present": "er schickt zurück",
+"past": "er schickte zurück",
+"participle": "zurückgeschickt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "schicke zurück",
+"du": "schickst zurück",
+"er_sie": "schickt zurück",
+"wir": "schicken zurück",
+"ihr": "schickt zurück",
+"sie": "schicken zurück"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to send back",
+"bengali": "ফেরত পাঠানো",
+"example": "Ich schicke das kaputte Gerät zurück."
+}
+],
+"synonym": "zurücksenden",
+"starred": false
+},
+{
+"id": "b1_0977",
+"german": "zurücksenden",
+"word": "zurücksenden",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "zurück-",
+"meaning": "sending back",
+"related": ["zurückschicken"]
+},
+"conjugation": {
+"present": "er sendet zurück",
+"past": "er sandte zurück",
+"participle": "zurückgesandt",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": null,
+"full_present": {
+"ich": "sende zurück",
+"du": "sendest zurück",
+"er_sie": "sendet zurück",
+"wir": "senden zurück",
+"ihr": "sendet zurück",
+"sie": "senden zurück"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to return (by mail)",
+"bengali": "ফেরত পাঠানো",
+"example": "Bitte senden Sie das Formular zurück."
+}
+],
+"synonym": "zurückschicken",
+"starred": false
+},
+{
+"id": "b1_0978",
+"german": "zurücktreten",
+"word": "zurücktreten",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "zurück-",
+"meaning": "stepping back/resigning",
+"related": ["Rücktritt"]
+},
+"conjugation": {
+"present": "er tritt zurück",
+"past": "er trat zurück",
+"participle": "zurückgetreten",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": "e → i",
+"full_present": {
+"ich": "trete zurück",
+"du": "trittst zurück",
+"er_sie": "tritt zurück",
+"wir": "treten zurück",
+"ihr": "tretet zurück",
+"sie": "treten zurück"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to resign, step back",
+"bengali": "পদত্যাগ করা, পিছিয়ে আসা",
+"example": "Der Minister ist zurückgetreten."
+}
+],
+"synonym": "kündigen",
+"starred": false
+},
+{
+"id": "b1_0979",
+"german": "die Zusammenarbeit",
+"word": "Zusammenarbeit",
+"article": "die",
+"plural": "die Zusammenarbeiten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "collaboration, cooperation",
+"bengali": "সহযোগিতা",
+"example": "Danke für die gute Zusammenarbeit."
+}
+],
+"synonym": "die Kooperation",
+"starred": false
+},
+{
+"id": "b1_0980",
+"german": "zusammenarbeiten",
+"word": "zusammenarbeiten",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "zusammen-",
+"meaning": "collaborating",
+"related": ["Zusammenarbeit"]
+},
+"conjugation": {
+"present": "er arbeitet zusammen",
+"past": "er arbeitete zusammen",
+"participle": "zusammengearbeitet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "arbeite zusammen",
+"du": "arbeitest zusammen",
+"er_sie": "arbeitet zusammen",
+"wir": "arbeiten zusammen",
+"ihr": "arbeitet zusammen",
+"sie": "arbeiten zusammen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to collaborate",
+"bengali": "সহযোগিতা করা",
+"example": "Wir wollen in Zukunft zusammenarbeiten."
+}
+],
+"synonym": "kooperieren",
+"starred": false
+},
+{
+"id": "b1_0981",
+"german": "das Zusammenleben",
+"word": "Zusammenleben",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "coexistence",
+"bengali": "একসাথে বসবাস",
+"example": "Das Zusammenleben mit ihm ist einfach."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0982",
+"german": "zusammenstellen",
+"word": "zusammenstellen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "zusammen-",
+"meaning": "compiling",
+"related": ["Zusammenstellung"]
+},
+"conjugation": {
+"present": "er stellt zusammen",
+"past": "er stellte zusammen",
+"participle": "zusammengestellt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "stelle zusammen",
+"du": "stellst zusammen",
+"er_sie": "stellt zusammen",
+"wir": "stellen zusammen",
+"ihr": "stellt zusammen",
+"sie": "stellen zusammen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to compile, assemble",
+"bengali": "একত্রিত করা",
+"example": "Ich habe die Liste zusammengestellt."
+}
+],
+"synonym": "anordnen",
+"starred": false
+},
+{
+"id": "b1_0983",
+"german": "zusammenstoßen",
+"word": "zusammenstoßen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "zusammen-",
+"meaning": "colliding",
+"related": ["Zusammenstoß"]
+},
+"conjugation": {
+"present": "er stößt zusammen",
+"past": "er stieß zusammen",
+"participle": "zusammengestoßen",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": "o → ö",
+"full_present": {
+"ich": "stoße zusammen",
+"du": "stößt zusammen",
+"er_sie": "stößt zusammen",
+"wir": "stoßen zusammen",
+"ihr": "stoßt zusammen",
+"sie": "stoßen zusammen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to collide",
+"bengali": "সংঘর্ষ হওয়া",
+"example": "Zwei Autos sind zusammengestoßen."
+}
+],
+"synonym": "kollidieren",
+"starred": false
+},
+{
+"id": "b1_0984",
+"german": "zusätzlich",
+"word": "zusätzlich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "additional",
+"bengali": "অতিরিক্ত",
+"example": "Wir brauchen zusätzliche Informationen."
+}
+],
+"synonym": "außerdem",
+"starred": false
+},
+{
+"id": "b1_0985",
+"german": "die Zusatzqualifikation",
+"word": "Zusatzqualifikation",
+"article": "die",
+"plural": "die Zusatzqualifikationen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "additional qualification",
+"bengali": "অতিরিক্ত যোগ্যতা",
+"example": "Diese Zusatzqualifikation ist sehr gefragt."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0986",
+"german": "der Zusatzstoff",
+"word": "Zusatzstoff",
+"article": "der",
+"plural": "die Zusatzstoffe",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "additive",
+"bengali": "সংযোজক",
+"example": "Dieses Lebensmittel enthält keine Zusatzstoffe."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0987",
+"german": "die Zusatzversicherung",
+"word": "Zusatzversicherung",
+"article": "die",
+"plural": "die Zusatzversicherungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "supplementary insurance",
+"bengali": "অতিরিক্ত বিমা",
+"example": "Ich habe eine Zusatzversicherung für die Zähne."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0988",
+"german": "der/die Zuschauer/in",
+"word": "Zuschauer/in",
+"article": "der/die",
+"plural": "die Zuschauer/Zuschauerinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "spectator, viewer",
+"bengali": "দর্শক",
+"example": "Es waren viele Zuschauer im Stadion."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0989",
+"german": "der Zuschlag",
+"word": "Zuschlag",
+"article": "der",
+"plural": "die Zuschläge",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "surcharge",
+"bengali": "অতিরিক্ত মাশুল",
+"example": "Am Wochenende gibt es einen Zuschlag."
+}
+],
+"synonym": "der Aufpreis",
+"starred": false
+},
+{
+"id": "b1_0990",
+"german": "zustellen",
+"word": "zustellen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "zu-",
+"meaning": "delivering",
+"related": ["Zustellung"]
+},
+"conjugation": {
+"present": "er stellt zu",
+"past": "er stellte zu",
+"participle": "zugestellt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "stelle zu",
+"du": "stellst zu",
+"er_sie": "stellt zu",
+"wir": "stellen zu",
+"ihr": "stellt zu",
+"sie": "stellen zu"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to deliver",
+"bengali": "সরবরাহ করা, ডেলিভারি দেওয়া",
+"example": "Die Post wird heute zugestellt."
+}
+],
+"synonym": "liefern",
+"starred": false
+},
+{
+"id": "b1_0991",
+"german": "zustimmen",
+"word": "zustimmen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "zu-",
+"meaning": "agreeing",
+"related": ["Zustimmung"]
+},
+"conjugation": {
+"present": "er stimmt zu",
+"past": "er stimmte zu",
+"participle": "zugestimmt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "stimme zu",
+"du": "stimmst zu",
+"er_sie": "stimmt zu",
+"wir": "stimmen zu",
+"ihr": "stimmt zu",
+"sie": "stimmen zu"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to agree, approve",
+"bengali": "একমত হওয়া",
+"example": "Ich stimme Ihrem Vorschlag zu."
+}
+],
+"synonym": "einwilligen",
+"starred": false
+},
+{
+"id": "b1_0992",
+"german": "der Zutritt",
+"word": "Zutritt",
+"article": "der",
+"plural": "die Zutritte",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "access, entry",
+"bengali": "প্রবেশাধিকার",
+"example": "Der Zutritt ist nur für Mitarbeiter erlaubt."
+}
+],
+"synonym": "der Eintritt",
+"starred": false
+},
+{
+"id": "b1_0993",
+"german": "die Zuverlässigkeit",
+"word": "Zuverlässigkeit",
+"article": "die",
+"plural": "die Zuverlässigkeiten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "reliability",
+"bengali": "নির্ভরযোগ্যতা",
+"example": "Ihre Zuverlässigkeit ist sehr wichtig."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0994",
+"german": "der Zuspruch",
+"word": "Zuspruch",
+"article": "der",
+"plural": "die Zusprüche",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "encouragement",
+"bengali": "উৎসাহ",
+"example": "Sie braucht etwas Zuspruch."
+}
+],
+"synonym": "die Ermutigung",
+"starred": false
+},
+{
+"id": "b1_0995",
+"german": "zutreffen",
+"word": "zutreffen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "zu-",
+"meaning": "applying",
+"related": ["Zutreffen"]
+},
+"conjugation": {
+"present": "er trifft zu",
+"past": "er traf zu",
+"participle": "zugetroffen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "e → i",
+"full_present": {
+"ich": "treffe zu",
+"du": "triffst zu",
+"er_sie": "trifft zu",
+"wir": "treffen zu",
+"ihr": "trefft zu",
+"sie": "treffen zu"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to apply, to be true",
+"bengali": "প্রযোজ্য হওয়া",
+"example": "Das trifft auf mich nicht zu."
+}
+],
+"synonym": "gelten",
+"starred": false
+},
+{
+"id": "b1_0996",
+"german": "die Zusage",
+"word": "Zusage",
+"article": "die",
+"plural": "die Zusagen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "confirmation",
+"bengali": "স্বীকৃতি",
+"example": "Ich habe die Zusage erhalten."
+}
+],
+"synonym": "die Bestätigung",
+"starred": false
+},
+{
+"id": "b1_0997",
+"german": "zusammenfassen",
+"word": "zusammenfassen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": {
+"prefix": "zusammen-",
+"meaning": "summarizing",
+"related": ["Zusammenfassung"]
+},
+"conjugation": {
+"present": "er fasst zusammen",
+"past": "er fasste zusammen",
+"participle": "zusammengefasst",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "fasse zusammen",
+"du": "fasst zusammen",
+"er_sie": "fasst zusammen",
+"wir": "fassen zusammen",
+"ihr": "fasst zusammen",
+"sie": "fassen zusammen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to summarize",
+"bengali": "সারসংক্ষেপ করা",
+"example": "Können Sie das kurz zusammenfassen?"
+}
+],
+"synonym": "kurz sagen",
+"starred": false
+},
+{
+"id": "b1_0998",
+"german": "das Zusammenwirken",
+"word": "Zusammenwirken",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "interaction, cooperation",
+"bengali": "পারস্পরিক সহযোগিতা",
+"example": "Das Zusammenwirken der verschiedenen Kräfte ist entscheidend."
+}
+],
+"synonym": "das Zusammenspiel",
+"starred": false
+},
+{
+"id": "b1_0999",
+"german": "der Zusammenbruch",
+"word": "Zusammenbruch",
+"article": "der",
+"plural": "die Zusammenbrüche",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "collapse",
+"bengali": "পতন",
+"example": "Der Zusammenbruch des Systems war absehbar."
+}
+],
+"synonym": "der Absturz",
+"starred": false
+},
+{
+"id": "b1_1000",
+"german": "zuständig",
+"word": "zuständig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "responsible",
+"bengali": "দায়িত্বপ্রাপ্ত",
+"example": "Wer ist hierfür zuständig?"
+}
+],
+"synonym": "verantwortlich",
+"starred": false
+}
+]

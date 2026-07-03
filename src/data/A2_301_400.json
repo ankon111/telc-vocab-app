@@ -1,0 +1,2441 @@
+[
+{
+"id": "a2_0301",
+"german": "eröffnen",
+"word": "eröffnen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "er-",
+"meaning": "inseparable prefix",
+"related": ["öffnen"]
+},
+"conjugation": {
+"present": "er eröffnet",
+"past": "er öffnete",
+"participle": "eröffnet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "eröffne",
+"du": "eröffnest",
+"er_sie": "eröffnet",
+"wir": "eröffnen",
+"ihr": "eröffnet",
+"sie": "eröffnen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to open, inaugurate",
+"bengali": "উদ্বোধন করা, খোলা",
+"example": "Morgen eröffnet das neue Kaufhaus."
+}
+],
+"synonym": "aufmachen",
+"starred": false
+},
+{
+"id": "a2_0302",
+"german": "erreichen",
+"word": "erreichen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "er-",
+"meaning": "inseparable prefix",
+"related": []
+},
+"conjugation": {
+"present": "er erreicht",
+"past": "er erreichte",
+"participle": "erreicht",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "erreiche",
+"du": "erreichst",
+"er_sie": "erreicht",
+"wir": "erreichen",
+"ihr": "erreicht",
+"sie": "erreichen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to reach, achieve, catch",
+"bengali": "পৌঁছানো, অর্জন করা",
+"example": "Wir müssen rennen, um den Bus zu erreichen."
+}
+],
+"synonym": "ankommen",
+"starred": false
+},
+{
+"id": "a2_0303",
+"german": "erstatten",
+"word": "erstatten",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "er-",
+"meaning": "inseparable prefix",
+"related": []
+},
+"conjugation": {
+"present": "er erstattet",
+"past": "er erstattete",
+"participle": "erstattet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "erstatte",
+"du": "erstattest",
+"er_sie": "erstattet",
+"wir": "erstatten",
+"ihr": "erstattet",
+"sie": "erstatten"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to refund, reimburse",
+"bengali": "টাকা ফেরত দেওয়া",
+"example": "Die Versicherung wird die Kosten erstatten."
+}
+],
+"synonym": "zurückzahlen",
+"starred": false
+},
+{
+"id": "a2_0304",
+"german": "erwarten",
+"word": "erwarten",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "er-",
+"meaning": "inseparable prefix",
+"related": ["warten"]
+},
+"conjugation": {
+"present": "er erwartet",
+"past": "er erwartete",
+"participle": "erwartet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "erwarte",
+"du": "erwartest",
+"er_sie": "erwartet",
+"wir": "erwarten",
+"ihr": "erwartet",
+"sie": "erwarten"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to expect, await",
+"bengali": "আশা করা, অপেক্ষা করা",
+"example": "Ich erwarte heute Abend Besuch."
+}
+],
+"synonym": "hoffen",
+"starred": false
+},
+{
+"id": "a2_0305",
+"german": "erwischen",
+"word": "erwischen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "er-",
+"meaning": "inseparable prefix",
+"related": []
+},
+"conjugation": {
+"present": "er erwischt",
+"past": "er erwischte",
+"participle": "erwischt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "erwische",
+"du": "erwischst",
+"er_sie": "erwischt",
+"wir": "erwischen",
+"ihr": "erwischt",
+"sie": "erwischen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to catch (a train/thief), nab",
+"bengali": "ধরে ফেলা, পাকড়াও করা",
+"example": "Die Polizei konnte den Dieb erwischen."
+}
+],
+"synonym": "fangen",
+"starred": false
+},
+{
+"id": "a2_0306",
+"german": "etwa",
+"word": "etwa",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "approximately, about, for instance",
+"bengali": "প্রায়, যেমন",
+"example": "Der Weg dauert etwa zwanzig Minuten."
+}
+],
+"synonym": "ungefähr",
+"starred": false
+},
+{
+"id": "a2_0307",
+"german": "das Event",
+"word": "Event",
+"article": "das",
+"plural": "die Events",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "event",
+"bengali": "বিশেষ অনুষ্ঠান, ইভেন্ট",
+"example": "Das Konzert war ein tolles Event."
+}
+],
+"synonym": "die Veranstaltung",
+"starred": false
+},
+{
+"id": "a2_0308",
+"german": "das Fach",
+"word": "Fach",
+"article": "das",
+"plural": "die Fächer",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "subject (school), compartment",
+"bengali": "বিষয় বা ড্রয়ারের খোপ",
+"example": "Mathematik ist mein schwerstes Fach."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0309",
+"german": "die Fachhochschule",
+"word": "Fachhochschule",
+"article": "die",
+"plural": "die Fachhochschulen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "university of applied sciences",
+"bengali": "প্রযুক্তি ও ফলিত বিজ্ঞান বিশ্ববিদ্যালয়",
+"example": "Er studiert Informatik an einer Fachhochschule."
+}
+],
+"synonym": "die Hochschule",
+"starred": false
+},
+{
+"id": "a2_0310",
+"german": "die Fachhochschulreife",
+"word": "Fachhochschulreife",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "entrance qualification for a Fachhochschule",
+"bengali": "ফলিত বিজ্ঞান বিশ্ববিদ্যালয়ে ভর্তির যোগ্যতা",
+"example": "Mit der Fachhochschulreife kann man studieren."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0311",
+"german": "der Fahrkartenschalter",
+"word": "Fahrkartenschalter",
+"article": "der",
+"plural": "die Fahrkartenschalter",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "ticket counter",
+"bengali": "টিকেট কাউন্টার",
+"example": "Am Fahrkartenschalter gibt es eine lange Schlange."
+}
+],
+"synonym": "der Ticketschalter",
+"starred": false
+},
+{
+"id": "a2_0312",
+"german": "der Fahrplan",
+"word": "Fahrplan",
+"article": "der",
+"plural": "die Fahrpläne",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "timetable, schedule",
+"bengali": "সময়সূচী (গাড়ির/ট্রেনের)",
+"example": "Laut Fahrplan kommt der Zug um 14:30 Uhr."
+}
+],
+"synonym": "der Zeitplan",
+"starred": false
+},
+{
+"id": "a2_0313",
+"german": "der Fahrradhelm",
+"word": "Fahrradhelm",
+"article": "der",
+"plural": "die Fahrradhelme",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "bicycle helmet",
+"bengali": "সাইকেল চালানোর হেলমেট",
+"example": "Beim Radfahren sollte man immer einen Fahrradhelm tragen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0314",
+"german": "der Fahrradständer",
+"word": "Fahrradständer",
+"article": "der",
+"plural": "die Fahrradständer",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "bicycle rack/stand",
+"bengali": "সাইকেল রাখার স্ট্যান্ড",
+"example": "Stell dein Rad bitte in den Fahrradständer."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0315",
+"german": "das Familienbuch",
+"word": "Familienbuch",
+"article": "das",
+"plural": "die Familienbücher",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "family register book",
+"bengali": "পারিবারিক পারিবারিক তথ্যপঞ্জি বই",
+"example": "Die Eheschließung wird im Familienbuch eingetragen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0316",
+"german": "die Familienkasse",
+"word": "Familienkasse",
+"article": "die",
+"plural": "die Familienkassen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "family allowance office",
+"bengali": "পারিবারিক তহবিল অফিস (শিশু ভাতার জন্য)",
+"example": "Die Familienkasse zahlt das Kindergeld aus."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0317",
+"german": "das Familienmitglied",
+"word": "Familienmitglied",
+"article": "das",
+"plural": "die Familienmitglieder",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "family member",
+"bengali": "পরিবারের সদস্য",
+"example": "Ich habe viele Familienmitglieder eingeladen."
+}
+],
+"synonym": "der Angehörige",
+"starred": false
+},
+{
+"id": "a2_0318",
+"german": "fantastisch",
+"word": "fantastisch",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "fantastic, wonderful",
+"bengali": "চমৎকার, অসাধারণ",
+"example": "Das Wetter im Urlaub war einfach fantastisch."
+}
+],
+"synonym": "wunderbar",
+"starred": false
+},
+{
+"id": "a2_0319",
+"german": "das Fast Food",
+"word": "Fast Food",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "fast food",
+"bengali": "ফাস্ট ফুড, ঝটপট খাবার",
+"example": "Fast Food ist oft ungesund."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0320",
+"german": "fehlen",
+"word": "fehlen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er fehlt",
+"past": "er fehlte",
+"participle": "gefehlt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "fehle",
+"du": "fehlst",
+"er_sie": "fehlt",
+"wir": "fehlen",
+"ihr": "fehlt",
+"sie": "fehlen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to be missing, lack, miss",
+"bengali": "অনুপস্থিত থাকা, কমতি হওয়া",
+"example": "Zwei Schüler fehlen heute im Unterricht."
+}
+],
+"synonym": "mangeln",
+"starred": false
+},
+{
+"id": "a2_0321",
+"german": "der Fernbus",
+"word": "Fernbus",
+"article": "der",
+"plural": "die Fernbusse",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "long-distance bus",
+"bengali": "দূরপাল্লার বাস",
+"example": "Mit dem Fernbus kann man günstig reisen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0322",
+"german": "die Fernwärme",
+"word": "Fernwärme",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "district heating",
+"bengali": "দূরবর্তী উৎস থেকে সরবরাহকৃত তাপ ব্যবস্থা",
+"example": "Unsere Wohnung wird mit Fernwärme geheizt."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0323",
+"german": "der Feuerlöscher",
+"word": "Feuerlöscher",
+"article": "der",
+"plural": "die Feuerlöscher",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "fire extinguisher",
+"bengali": "অগ্নিনির্বাপক যন্ত্র",
+"example": "Im Flur hängt ein funktionierender Feuerlöscher."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0324",
+"german": "der Feuerzeug",
+"word": "Feuerzeug",
+"article": "das",
+"plural": "die Feuerzeuge",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "lighter",
+"bengali": "লাইটার, আগুন জ্বালানোর যন্ত্র",
+"example": "Hast du ein Feuerzeug für die Kerze?"
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0325",
+"german": "die Filiale",
+"word": "Filiale",
+"article": "die",
+"plural": "die Filialen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "branch, chain store",
+"bengali": "শাখা দোকান বা ব্যাংক শাখা",
+"example": "Die Bank hat eine Filiale in unserer Straße."
+}
+],
+"synonym": "die Zweigstelle",
+"starred": false
+},
+{
+"id": "a2_0326",
+"german": "das Finanzamt",
+"word": "Finanzamt",
+"article": "das",
+"plural": "die Finanzämter",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "tax office",
+"bengali": "কর বা রাজস্ব অফিস",
+"example": "Ich muss meine Steuererklärung beim Finanzamt abgeben."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0327",
+"german": "fit",
+"word": "fit",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "fit, healthy",
+"bengali": "সুস্থ, কর্মক্ষম, ফিট",
+"example": "Ich gehe joggen, um fit zu bleiben."
+}
+],
+"synonym": "gesund",
+"starred": false
+},
+{
+"id": "a2_0328",
+"german": "die Fitness",
+"word": "Fitness",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "fitness",
+"bengali": "শারীরিক সুস্থতা, ফিটনেস",
+"example": "Er macht viel für seine körperliche Fitness."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0329",
+"german": "die Flamme",
+"word": "Flamme",
+"article": "die",
+"plural": "die Flammen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "flame",
+"bengali": "আগুনের শিখা",
+"example": "Aus dem Kamin schlug eine große Flamme."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0330",
+"german": "fliegen",
+"word": "fliegen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er fliegt",
+"past": "er flog",
+"participle": "geflogen",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": "ie → o",
+"full_present": {
+"ich": "fliege",
+"du": "fliegst",
+"er_sie": "fliegt",
+"wir": "fliegen",
+"ihr": "fliegt",
+"sie": "fliegen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to fly",
+"bengali": "উড়ে যাওয়া, বিমানে ভ্রমণ করা",
+"example": "Wir fliegen im Sommer nach Spanien."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0331",
+"german": "fliehen",
+"word": "fliehen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er flieht",
+"past": "er floh",
+"participle": "geflohen",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": "ie → o",
+"full_present": {
+"ich": "fliehe",
+"du": "fliehst",
+"er_sie": "flieht",
+"wir": "fliehen",
+"ihr": "flieht",
+"sie": "fliehen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to flee, escape",
+"bengali": "পালিয়ে যাওয়া",
+"example": "Die Menschen mussten vor dem Krieg fliehen."
+}
+],
+"synonym": "flüchten",
+"starred": false
+},
+{
+"id": "a2_0332",
+"german": "die Flipflops",
+"word": "Flipflops",
+"article": "die",
+"plural": "die Flipflops",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "flip-flops",
+"bengali": "ফ্লিপ-ফ্লপ চটি জুতো",
+"example": "Am Strand trage ich am liebsten Flipflops."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0333",
+"german": "flirten",
+"word": "flirten",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er flirtet",
+"past": "er flirtete",
+"participle": "geflirtet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "flirte",
+"du": "flirtest",
+"er_sie": "flirtet",
+"wir": "flirten",
+"ihr": "flirtet",
+"sie": "flirten"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to flirt",
+"bengali": "প্রেমের আলাপ করা, ফ্লার্ট করা",
+"example": "Er versucht oft mit den Kolleginnen zu flirten."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0334",
+"german": "der Flohmarkt",
+"word": "Flohmarkt",
+"article": "der",
+"plural": "die Flohmärkte",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "flea market",
+"bengali": "পুরানো জিনিসের বাজার, ফ্লি মার্কেট",
+"example": "Auf dem Flohmarkt kann man billige Bücher kaufen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0335",
+"german": "das Flugzeug",
+"word": "Flugzeug",
+"article": "das",
+"plural": "die Flugzeuge",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "airplane",
+"bengali": "উড়োজাহাজ, বিমান",
+"example": "Das Flugzeug startet pünktlich um 10 Uhr."
+}
+],
+"synonym": "die Maschine",
+"starred": false
+},
+{
+"id": "a2_0336",
+"german": "der Fluss",
+"word": "Fluss",
+"article": "der",
+"plural": "die Flüsse",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "river",
+"bengali": "নদী",
+"example": "Die Elbe ist ein sehr langer Fluss."
+}
+],
+"synonym": "der Strom",
+"starred": false
+},
+{
+"id": "a2_0337",
+"german": "folgen",
+"word": "folgen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er folgt",
+"past": "er folgte",
+"participle": "gefolgt",
+"auxiliary": "ist",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "folge",
+"du": "folgst",
+"er_sie": "folgt",
+"wir": "folgen",
+"ihr": "folgt",
+"sie": "folgen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to follow",
+"bengali": "অনুসরণ করা, পিছে পিছে যাওয়া",
+"example": "Bitte folgen Sie mir zum Ausgang."
+}
+],
+"synonym": "nachgehen",
+"starred": false
+},
+{
+"id": "a2_0338",
+"german": "folgend",
+"word": "folgend",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "following, subsequent",
+"bengali": "নিম্নলিখিত, পরবর্তী",
+"example": "Bitte beantworten Sie folgende Fragen."
+}
+],
+"synonym": "nächste",
+"starred": false
+},
+{
+"id": "a2_0339",
+"german": "formell",
+"word": "formell",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "formal, official",
+"bengali": "আনুষ্ঠানিক, ফরমাল",
+"example": "Zu der Feier trägt man formelle Kleidung."
+}
+],
+"synonym": "offiziell",
+"starred": false
+},
+{
+"id": "a2_0340",
+"german": "formulieren",
+"word": "formulieren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er formuliert",
+"past": "er formulierte",
+"participle": "formuliert",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "formuliere",
+"du": "formulierst",
+"er_sie": "formuliert",
+"wir": "formulieren",
+"ihr": "formuliert",
+"sie": "formulieren"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to formulate, word",
+"bengali": "প্রকাশ করা, বাক্য গঠন করা",
+"example": "Kannst du den Satz bitte anders formulieren?"
+}
+],
+"synonym": "ausdrücken",
+"starred": false
+},
+{
+"id": "a2_0341",
+"german": "fortgeschritten",
+"word": "fortgeschritten",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "advanced",
+"bengali": "উন্নত, অগ্রসর",
+"example": "Dieser Kurs ist für fortgeschrittene Lerner."
+}
+],
+"synonym": "weiterentwickelt",
+"starred": false
+},
+{
+"id": "a2_0342",
+"german": "das Forum",
+"word": "Forum",
+"article": "das",
+"plural": "die Foren",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "forum",
+"bengali": "ফোরাম, মুক্ত আলোচনার স্থান",
+"example": "Ich lese oft Beiträge im Online-Forum."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0343",
+"german": "der/die Fotograf/in",
+"word": "Fotograf/in",
+"article": "der/die",
+"plural": "die Fotografen / die Fotografinnen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "photographer",
+"bengali": "আলোকচিত্রী, ফটোগ্রাফার",
+"example": "Der Fotograf macht schöne Bilder von der Hochzeit."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0344",
+"german": "freiwillig",
+"word": "freiwillig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "voluntary",
+"bengali": "স্বেচ্ছাসেবী, স্বেচ্ছায়",
+"example": "Die Teilnahme am Ausflug ist freiwillig."
+}
+],
+"synonym": "ehrenamtlich",
+"starred": false
+},
+{
+"id": "a2_0345",
+"german": "die Freizeit",
+"word": "Freizeit",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "free time, leisure",
+"bengali": "অবসর সময়",
+"example": "In meiner Freizeit spiele ich gerne Fußball."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0346",
+"german": "die Freizeitaktivität",
+"word": "Freizeitaktivität",
+"article": "die",
+"plural": "die Freizeitaktivitäten",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "leisure activity",
+"bengali": "অবসর বিনোদনমূলক কর্মকাণ্ড",
+"example": "Schwimmen ist eine gesunde Freizeitaktivität."
+}
+],
+"synonym": "das Hobby",
+"starred": false
+},
+{
+"id": "a2_0347",
+"german": "das Freizeitangebot",
+"word": "Freizeitangebot",
+"article": "das",
+"plural": "die Freizeitangebote",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "recreational facilities/options",
+"bengali": "অবসর যাপনের সুযোগ বা ব্যবস্থা",
+"example": "Die Stadt hat ein großes Freizeitangebot für Jugendliche."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0348",
+"german": "das Freizeitvergnügen",
+"word": "Freizeitvergnügen",
+"article": "das",
+"plural": "die Freizeitvergnügen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "leisure pastime, pleasure",
+"bengali": "অবসরের আনন্দপ্রমোদ",
+"example": "Radfahren ist für viele ein echtes Freizeitvergnügen."
+}
+],
+"synonym": "der Zeitvertreib",
+"starred": false
+},
+{
+"id": "a2_0349",
+"german": "der/die Frisör/in",
+"word": "Frisör/in",
+"article": "der/die",
+"plural": "die Frisöre / die Frisörinnen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "hairdresser, barber",
+"bengali": "নাপিত, হেয়ার ড্রেসার",
+"example": "Ich muss mir beim Frisör die Haare schneiden lassen."
+}
+],
+"synonym": "der Friseur",
+"starred": false
+},
+{
+"id": "a2_0350",
+"german": "frittieren",
+"word": "frittieren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er frittiert",
+"past": "er frittierte",
+"participle": "frittiert",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "frittiere",
+"du": "frittierst",
+"er_sie": "frittiert",
+"wir": "frittieren",
+"ihr": "frittiert",
+"sie": "frittieren"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to deep-fry",
+"bengali": "তেলে ডুবিয়ে ভাজা",
+"example": "Pommes werden in heißem Öl frittiert."
+}
+],
+"synonym": "ausbacken",
+"starred": false
+},
+{
+"id": "a2_0351",
+"german": "funktionieren",
+"word": "funktionieren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er funktioniert",
+"past": "er funktionierte",
+"participle": "funktioniert",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "funktioniere",
+"du": "funktionierst",
+"er_sie": "funktioniert",
+"wir": "funktionieren",
+"ihr": "funktioniert",
+"sie": "funktionieren"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to work, function",
+"bengali": "কাজ করা, সচল থাকা",
+"example": "Mein neues Handy funktioniert einwandfrei."
+}
+],
+"synonym": "klappen",
+"starred": false
+},
+{
+"id": "a2_0352",
+"german": "die Gabel",
+"word": "Gabel",
+"article": "die",
+"plural": "die Gabeln",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "fork",
+"bengali": "কাঁটাচামচ",
+"example": "Isst du den Kuchen mit einer Gabel?"
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0353",
+"german": "das Gas",
+"word": "Gas",
+"article": "das",
+"plural": "die Gase",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "gas",
+"bengali": "গ্যাস",
+"example": "Wir kochen zu Hause mit Gas."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0354",
+"german": "Gassi gehen",
+"word": "Gassi gehen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er geht Gassi",
+"past": "er ging Gassi",
+"participle": "Gassi gegangen",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": "e → i",
+"full_present": {
+"ich": "gehe Gassi",
+"du": "gehst Gassi",
+"er_sie": "geht Gassi",
+"wir": "gehen Gassi",
+"ihr": "geht Gassi",
+"sie": "gehen Gassi"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to walk the dog",
+"bengali": "কুকুরকে হাঁটাতে নিয়ে যাওয়া",
+"example": "Ich muss mit dem Hund Gassi gehen."
+}
+],
+"synonym": "ausführen",
+"starred": false
+},
+{
+"id": "a2_0355",
+"german": "die Gastronomie",
+"word": "Gastronomie",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "catering trade, gastronomy",
+"bengali": "রেস্তোরাঁ ও খাদ্য ব্যবসা শিল্প",
+"example": "Er arbeitet seit zehn Jahren in der Gastronomie."
+}
+],
+"synonym": "das Gastgewerbe",
+"starred": false
+},
+{
+"id": "a2_0356",
+"german": "gebraucht",
+"word": "gebraucht",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "used, second-hand",
+"bengali": "ব্যবহৃত, সেকেন্ড হ্যান্ড",
+"example": "Ich habe ein gebrauchtes Fahrrad gekauft."
+}
+],
+"synonym": "alt",
+"starred": false
+},
+{
+"id": "a2_0357",
+"german": "die Gebühr",
+"word": "Gebühr",
+"article": "die",
+"plural": "die Gebühren",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "fee, charge",
+"bengali": "ফি, মাশুল",
+"example": "Für das Visum muss man eine Gebühr bezahlen."
+}
+],
+"synonym": "die Kosten",
+"starred": false
+},
+{
+"id": "a2_0358",
+"german": "die Geburt",
+"word": "Geburt",
+"article": "die",
+"plural": "die Geburten",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "birth",
+"bengali": "জন্ম",
+"example": "Herzlichen Glückwunsch zur Geburt Ihres Kindes!"
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0359",
+"german": "das Geburtsdatum",
+"word": "Geburtsdatum",
+"article": "das",
+"plural": "die Geburtsdaten",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "date of birth",
+"bengali": "জন্মতারিখ",
+"example": "Tragen Sie bitte Ihr Geburtsdatum in das Formular ein."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0360",
+"german": "das Geburtsland",
+"word": "Geburtsland",
+"article": "das",
+"plural": "die Geburtsländer",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "country of birth",
+"bengali": "জন্মভূমি, জন্ম দেশ",
+"example": "Mein Geburtsland ist Bangladesch."
+}
+],
+"synonym": "die Heimat",
+"starred": false
+},
+{
+"id": "a2_0361",
+"german": "der Geburtsname",
+"word": "Geburtsname",
+"article": "der",
+"plural": "die Geburtsnamen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "maiden name, birth name",
+"bengali": "পৈত্রিক বংশনাম (বিয়ের আগের নাম)",
+"example": "Ihr Geburtsname war Müller, jetzt heißt sie Schmidt."
+}
+],
+"synonym": "der Mädchenname",
+"starred": false
+},
+{
+"id": "a2_0362",
+"german": "der Geburtsort",
+"word": "Geburtsort",
+"article": "der",
+"plural": "die Geburtsorte",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "place of birth",
+"bengali": "জন্মস্থান",
+"example": "Mein Geburtsort ist Dhaka."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0363",
+"german": "die Geburtsurkunde",
+"word": "Geburtsurkunde",
+"article": "die",
+"plural": "die Geburtsurkunden",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "birth certificate",
+"bengali": "জন্ম নিবন্ধন সনদ",
+"example": "Für die Anmeldung brauchen wir eine Geburtsurkunde."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0364",
+"german": "das Gedicht",
+"word": "Gedicht",
+"article": "das",
+"plural": "die Gedichte",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "poem",
+"bengali": "কবিতা",
+"example": "Das Kind lernt ein Gedicht für Weihnachten auswendig."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0365",
+"german": "gefährden",
+"word": "gefährden",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er gefährdet",
+"past": "er gefährdete",
+"participle": "gefährdet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "gefährde",
+"du": "gefährdest",
+"er_sie": "gefährdet",
+"wir": "gefährden",
+"ihr": "gefährdet",
+"sie": "gefährden"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to endanger, jeopardize",
+"bengali": "বিপন্ন করা, বিপদে ফেলা",
+"example": "Rauchen gefährdet die Gesundheit."
+}
+],
+"synonym": "bedrohen",
+"starred": false
+},
+{
+"id": "a2_0366",
+"german": "der Gegensatz",
+"word": "Gegensatz",
+"article": "der",
+"plural": "die Gegensätze",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "contrast, opposite",
+"bengali": "বিপরীত, বৈসাদৃশ্য",
+"example": "Im Gegensatz zu gestern ist es heute sehr kalt."
+}
+],
+"synonym": "das Gegenteil",
+"starred": false
+},
+{
+"id": "a2_0367",
+"german": "gehören",
+"word": "gehören",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": {
+"prefix": "ge-",
+"meaning": "inseparable prefix",
+"related": []
+},
+"conjugation": {
+"present": "er gehört",
+"past": "er gehörte",
+"participle": "gehört",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "gehöre",
+"du": "gehörst",
+"er_sie": "gehört",
+"wir": "gehören",
+"ihr": "gehört",
+"sie": "gehören"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to belong to",
+"bengali": "অধীন হওয়া, নিজের হওয়া",
+"example": "Das Buch gehört mir."
+}
+],
+"synonym": "besitzen",
+"starred": false
+},
+{
+"id": "a2_0368",
+"german": "der/die Geiger/in",
+"word": "Geiger/in",
+"article": "der/die",
+"plural": "die Geiger / die Geigerinnen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "violinist",
+"bengali": "বেহালাবাদক",
+"example": "Die Geigerin spielt ein Solo im Orchester."
+}
+],
+"synonym": "der Violinist",
+"starred": false
+},
+{
+"id": "a2_0369",
+"german": "der Geldautomat",
+"word": "Geldautomat",
+"article": "der",
+"plural": "die Geldautomaten",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "ATM, cash machine",
+"bengali": "এটিএম বুথ, টাকা তোলার মেশিন",
+"example": "Ich muss am Geldautomaten Bargeld abheben."
+}
+],
+"synonym": "der Bankautomat",
+"starred": false
+},
+{
+"id": "a2_0370",
+"german": "die Geldbörse",
+"word": "Geldbörse",
+"article": "die",
+"plural": "die Geldbörsen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "wallet, purse",
+"bengali": "টাকার ব্যাগ, মানিব্যাগ",
+"example": "Hast du meine Geldbörse auf dem Tisch gesehen?"
+}
+],
+"synonym": "das Portemonnaie",
+"starred": false
+},
+{
+"id": "a2_0371",
+"german": "das Geldstück",
+"word": "Geldstück",
+"article": "das",
+"plural": "die Geldstücke",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "coin",
+"bengali": "মুদ্রা, কয়েন",
+"example": "Ein Zwei-Euro-Geldstück liegt auf dem Boden."
+}
+],
+"synonym": "die Münze",
+"starred": false
+},
+{
+"id": "a2_0372",
+"german": "gemischt",
+"word": "gemischt",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "mixed",
+"bengali": "মিশ্র, মেশানো",
+"example": "Ich bestelle einen gemischten Salat."
+}
+],
+"synonym": "durcheinander",
+"starred": false
+},
+{
+"id": "a2_0373",
+"german": "die Gemüselasagne",
+"word": "Gemüselasagne",
+"article": "die",
+"plural": "die Gemüselasagnen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "vegetable lasagna",
+"bengali": "সবজি দিয়ে তৈরি লাজানিয়া",
+"example": "Die Gemüselasagne schmeckt fantastisch."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0374",
+"german": "genehmigen",
+"word": "genehmigen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er genehmigt",
+"past": "er genehmigte",
+"participle": "genehmigt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "genehmige",
+"du": "genehmigst",
+"er_sie": "genehmigt",
+"wir": "genehmigen",
+"ihr": "genehmigt",
+"sie": "genehmigen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to approve, authorize",
+"bengali": "অনুমোদন করা, মঞ্জুর করা",
+"example": "Der Chef muss meinen Urlaubsantrag genehmigen."
+}
+],
+"synonym": "erlauben",
+"starred": false
+},
+{
+"id": "a2_0375",
+"german": "genial",
+"word": "genial",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "brilliant, ingenious",
+"bengali": "অসাধারণ বুদ্ধিদীপ্ত, চমৎকার",
+"example": "Deine Idee ist einfach genial!"
+}
+],
+"synonym": "großartig",
+"starred": false
+},
+{
+"id": "a2_0376",
+"german": "genießen",
+"word": "genießen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er genießt",
+"past": "er genoss",
+"participle": "genossen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "ie → o",
+"full_present": {
+"ich": "genieße",
+"du": "genießt",
+"er_sie": "genießt",
+"wir": "genießen",
+"ihr": "genießt",
+"sie": "genießen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to enjoy",
+"bengali": "উপভোগ করা",
+"example": "Wir genießen das schöne Wochenende am See."
+}
+],
+"synonym": "freuen",
+"starred": false
+},
+{
+"id": "a2_0377",
+"german": "genug",
+"word": "genug",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "enough, sufficient",
+"bengali": "যথেষ্ট",
+"example": "Ich habe genug gegessen, danke."
+}
+],
+"synonym": "ausreichend",
+"starred": false
+},
+{
+"id": "a2_0378",
+"german": "gepunktet",
+"word": "gepunktet",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "dotted, polka-dotted",
+"bengali": "বিন্দুযুক্ত, বুটিদার",
+"example": "Sie trägt ein rot gepunktetes Kleid."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0379",
+"german": "das Gericht",
+"word": "Gericht",
+"article": "das",
+"plural": "die Gerichte",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "dish (food), court of law",
+"bengali": "খাবারের পদ অথবা আদালত",
+"example": "Dieses italienische Gericht schmeckt wunderbar."
+}
+],
+"synonym": "die Speise",
+"starred": false
+},
+{
+"id": "a2_0380",
+"german": "gesamt",
+"word": "gesamt",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "whole, entire, total",
+"bengali": "সমগ্র, মোট",
+"example": "Die gesamte Familie kam zur Feier."
+}
+],
+"synonym": "ganz",
+"starred": false
+},
+{
+"id": "a2_0381",
+"german": "die Gesamtschule",
+"word": "Gesamtschule",
+"article": "die",
+"plural": "die Gesamtschulen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "comprehensive school",
+"bengali": "সমন্বিত মাধ্যমিক বিদ্যালয়",
+"example": "In einer Gesamtschule lernen Kinder mit verschiedenen Stufen zusammen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0382",
+"german": "die Geschichte",
+"word": "Geschichte",
+"article": "die",
+"plural": "die Geschichten",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "history, story",
+"bengali": "ইতিহাস অথবা গল্প",
+"example": "Opa erzählt uns oft eine alte Geschichte."
+}
+],
+"synonym": "die Erzählung",
+"starred": false
+},
+{
+"id": "a2_0383",
+"german": "das Geschirr",
+"word": "Geschirr",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "dishes, tableware",
+"bengali": "থালাবাসন",
+"example": "Wer muss heute das Geschirr abwaschen?"
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0384",
+"german": "das Geschlecht",
+"word": "Geschlecht",
+"article": "das",
+"plural": "die Geschlechter",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "gender, sex",
+"bengali": "লিঙ্গ",
+"example": "Bitte kreuzen Sie Ihr Geschlecht an: männlich oder weiblich."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0385",
+"german": "gesondert",
+"word": "gesondert",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "separate, special",
+"bengali": "আলাদা, পৃথক",
+"example": "Sie erhalten dazu eine gesonderte Einladung."
+}
+],
+"synonym": "getrennt",
+"starred": false
+},
+{
+"id": "a2_0386",
+"german": "gestalten",
+"word": "gestalten",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er gestaltet",
+"past": "er gestaltete",
+"participle": "gestaltet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "gestalte",
+"du": "gestaltest",
+"er_sie": "gestaltet",
+"wir": "gestalten",
+"ihr": "gestaltet",
+"sie": "gestalten"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to design, shape, organize",
+"bengali": "নকশা করা, সাজানো",
+"example": "Wir möchten das Zimmer neu gestalten."
+}
+],
+"synonym": "formen",
+"starred": false
+},
+{
+"id": "a2_0387",
+"german": "gestreift",
+"word": "gestreift",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "striped",
+"bengali": "ডোরকাটা, স্ট্রাইপযুক্ত",
+"example": "Das Zebra ist ein gestreiftes Tier."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0388",
+"german": "gesund",
+"word": "gesund",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "healthy",
+"bengali": "সুস্থ, স্বাস্থ্যকর",
+"example": "Obst und Gemüse sind sehr gesund."
+}
+],
+"synonym": "fit",
+"starred": false
+},
+{
+"id": "a2_0389",
+"german": "gesundheitlich",
+"word": "gesundheitlich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "health-related",
+"bengali": "স্বাস্থ্যগত",
+"example": "Er hat gesundheitliche Probleme."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0390",
+"german": "gewinnen",
+"word": "gewinnen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er gewinnt",
+"past": "er gewann",
+"participle": "gewonnen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "i → a",
+"full_present": {
+"ich": "gewinne",
+"du": "gewinnst",
+"er_sie": "gewinnt",
+"wir": "gewinnen",
+"ihr": "gewinnt",
+"sie": "gewinnen"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to win",
+"bengali": "জেতা, জয়লাভ করা",
+"example": "Unsere Mannschaft will das Spiel gewinnen."
+}
+],
+"synonym": "siegen",
+"starred": false
+},
+{
+"id": "a2_0391",
+"german": "das Gipsbein",
+"word": "Gipsbein",
+"article": "das",
+"plural": "die Gipsbeine",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "leg in a plaster cast",
+"bengali": "প্লাস্টার করা পা",
+"example": "Nach dem Skiunfall hatte er ein Gipsbein."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0392",
+"german": "die Girocard",
+"word": "Girocard",
+"article": "die",
+"plural": "die Girocards",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "debit card, girocard",
+"bengali": "ডেবিট কার্ড, জিরোকার্ড",
+"example": "Kann ich hier mit der Girocard bezahlen?"
+}
+],
+"synonym": "die EC-Karte",
+"starred": false
+},
+{
+"id": "a2_0393",
+"german": "das Girokonto",
+"word": "Girokonto",
+"article": "das",
+"plural": "die Girokonten",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "current account, checking account",
+"bengali": "চলতি ব্যাংক হিসাব",
+"example": "Mein Gehalt wird auf mein Girokonto überwiesen."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0394",
+"german": "der Glascontainer",
+"word": "Glascontainer",
+"article": "der",
+"plural": "die Glascontainer",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "bottle bank, glass recycling bin",
+"bengali": "কাঁচের পাত্র ফেলার বড় ডাস্টবিন",
+"example": "Bringen Sie alte Flaschen bitte zum Glascontainer."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0395",
+"german": "glatt",
+"word": "glatt",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "smooth, slippery",
+"bengali": "মসৃণ, পিচ্ছিল",
+"example": "Vorsicht, die Straße ist wegen Eis sehr glatt."
+}
+],
+"synonym": "ebend",
+"starred": false
+},
+{
+"id": "a2_0396",
+"german": "die Glatze",
+"word": "Glatze",
+"article": "die",
+"plural": "die Glatzen",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "bald head",
+"bengali": "টাক মাথা",
+"example": "Er hat keine Haare mehr, er trägt eine Glatze."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0397",
+"german": "das Glück",
+"word": "Glück",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "luck, happiness",
+"bengali": "ভাগ্য, আনন্দ",
+"example": "Viel Glück für deine Prüfung!"
+}
+],
+"synonym": "der Erfolg",
+"starred": false
+},
+{
+"id": "a2_0398",
+"german": "der Glückspfennig",
+"word": "Glückspfennig",
+"article": "der",
+"plural": "die Glückspfennige",
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "lucky penny",
+"bengali": "সৌভাগ্যের মুদ্রা",
+"example": "Er hat einen alten Glückspfennig in seiner Tasche."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0399",
+"german": "das Gold",
+"word": "Gold",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["A2"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "gold",
+"bengali": "সোনা, স্বর্ণ",
+"example": "Der Ring ist aus reinem Gold gemacht."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "a2_0400",
+"german": "googeln",
+"word": "googeln",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["A2"],
+"prefix": null,
+"conjugation": {
+"present": "er googelt",
+"past": "er googelte",
+"participle": "gegoogelt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": {
+"ich": "googele",
+"du": "googelst",
+"er_sie": "googelt",
+"wir": "googeln",
+"ihr": "googelt",
+"sie": "googeln"
+}
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to google, search online",
+"bengali": "গুগল এ খোঁজা",
+"example": "Ich weiß die Adresse nicht, ich muss sie schnell googeln."
+}
+],
+"synonym": "suchen",
+"starred": false
+}
+]

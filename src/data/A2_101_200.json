@@ -1,0 +1,2629 @@
+[
+  {
+    "id": "a2_0101",
+    "german": "die Aussicht",
+    "word": "Aussicht",
+    "article": "die",
+    "plural": "die Aussichten",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "view, prospect",
+        "bengali": "দৃশ্য, সম্ভাবনা",
+        "example": "Von hier hat man eine schöne Aussicht."
+      }
+    ],
+    "synonym": "der Ausblick",
+    "starred": false
+  },
+  {
+    "id": "a2_0102",
+    "german": "aussteigen",
+    "word": "aussteigen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "aus-",
+      "meaning": "separable prefix (out of)",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er steigt aus",
+      "past": "er stieg aus",
+      "participle": "ausgestiegen",
+      "auxiliary": "ist",
+      "irregular": true,
+      "vowel_change": "ei → ie",
+      "full_present": {
+        "ich": "steige aus",
+        "du": "steigst aus",
+        "er_sie": "steigt aus",
+        "wir": "steigen aus",
+        "ihr": "steigt aus",
+        "sie": "steigen aus"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to get off, disembark",
+        "bengali": "যানবাহন থেকে নামা",
+        "example": "Wir müssen an der nächsten Station aussteigen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0103",
+    "german": "aussuchen",
+    "word": "aussuchen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "aus-",
+      "meaning": "separable prefix (out, select)",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er sucht aus",
+      "past": "er suchte aus",
+      "participle": "ausgesucht",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "suche aus",
+        "du": "suchst aus",
+        "er_sie": "sucht aus",
+        "wir": "suchen aus",
+        "ihr": "sucht aus",
+        "sie": "suchen aus"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to choose, select",
+        "bengali": "বেছে নেওয়া",
+        "example": "Du darfst dir ein Geschenk aussuchen."
+      }
+    ],
+    "synonym": "wählen",
+    "starred": false
+  },
+  {
+    "id": "a2_0104",
+    "german": "der Ausweis",
+    "word": "Ausweis",
+    "article": "der",
+    "plural": "die Ausweise",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "ID, identity card",
+        "bengali": "পরিচয়পত্র",
+        "example": "Bitte zeigen Sie Ihren Ausweis."
+      }
+    ],
+    "synonym": "das Dokument",
+    "starred": false
+  },
+  {
+    "id": "a2_0105",
+    "german": "ausziehen",
+    "word": "ausziehen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "aus-",
+      "meaning": "separable prefix (out, remove)",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er zieht aus",
+      "past": "er zog aus",
+      "participle": "ausgezogen",
+      "auxiliary": "hat/ist",
+      "irregular": true,
+      "vowel_change": "ie → o",
+      "full_present": {
+        "ich": "ziehe aus",
+        "du": "ziehst aus",
+        "er_sie": "zieht aus",
+        "wir": "ziehen aus",
+        "ihr": "zieht aus",
+        "sie": "ziehen aus"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to undress, move out",
+        "bengali": "পোশাক খোলা / বাসা বদলানো",
+        "example": "Er ist aus seiner Wohnung ausgezogen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0106",
+    "german": "die Auszubildende (Azubi)",
+    "word": "Auszubildende (Azubi)",
+    "article": "die",
+    "plural": "die Auszubildenden",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "apprentice, trainee",
+        "bengali": "শিক্ষানবিস",
+        "example": "Die Auszubildende lernt fleißig."
+      }
+    ],
+    "synonym": "der Lehrling",
+    "starred": false
+  },
+  {
+    "id": "a2_0107",
+    "german": "das Autofahren",
+    "word": "Autofahren",
+    "article": "das",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "car driving",
+        "bengali": "গাড়ি চালানো",
+        "example": "Das Autofahren macht mir Spaß."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0108",
+    "german": "der Automat",
+    "word": "Automat",
+    "article": "der",
+    "plural": "die Automaten",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "vending machine, ATM",
+        "bengali": "স্বয়ংক্রিয় বিক্রেতা যন্ত্র",
+        "example": "Ich hole Geld am Automaten."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0109",
+    "german": "der Autounfall",
+    "word": "Autounfall",
+    "article": "der",
+    "plural": "die Autounfälle",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "car accident",
+        "bengali": "গাড়ী দুর্ঘটনা",
+        "example": "Es gab einen schweren Autounfall."
+      }
+    ],
+    "synonym": "der Verkehrsunfall",
+    "starred": false
+  },
+  {
+    "id": "a2_0110",
+    "german": "der Babyartikel",
+    "word": "Babyartikel",
+    "article": "der",
+    "plural": "die Babyartikel",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "baby product",
+        "bengali": "শিশুর জিনিসপত্র",
+        "example": "Babyartikel sind im ersten Stock."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0111",
+    "german": "der/die Babysitter/in",
+    "word": "Babysitter/in",
+    "article": "der/die",
+    "plural": "die Babysitter / die Babysitterinnen",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "babysitter",
+        "bengali": "সুসংগঠিত শিশু দেখাশোনাকারী",
+        "example": "Unsere Babysitterin kommt heute Abend."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0112",
+    "german": "der/die Bäckereifachverkäufer/in",
+    "word": "Bäckereifachverkäufer/in",
+    "article": "der/die",
+    "plural": "die Bäckereifachverkäuferinnen",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "bakery sales assistant",
+        "bengali": "বেকারি বিক্রেতা",
+        "example": "Sie arbeitet als Bäckereifachverkäuferin."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0113",
+    "german": "die Badesachen",
+    "word": "Badesachen",
+    "article": "die",
+    "plural": "die Badesachen",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "swimwear",
+        "bengali": "সাঁতারের পোশাক",
+        "example": "Hast du deine Badesachen eingepackt?"
+      }
+    ],
+    "synonym": "die Badekleidung",
+    "starred": false
+  },
+  {
+    "id": "a2_0114",
+    "german": "das Bahnfahren",
+    "word": "Bahnfahren",
+    "article": "das",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "train travel",
+        "bengali": "ট্রেনে ভ্রমণ",
+        "example": "Bahnfahren ist gut für die Umwelt."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0115",
+    "german": "der Bahnsteig",
+    "word": "Bahnsteig",
+    "article": "der",
+    "plural": "die Bahnsteige",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "platform",
+        "bengali": "রেলওয়ে প্ল্যাটফর্ম",
+        "example": "Der Zug fährt an Bahnsteig 4 ab."
+      }
+    ],
+    "synonym": "der Peron",
+    "starred": false
+  },
+  {
+    "id": "a2_0116",
+    "german": "das Band",
+    "word": "Band",
+    "article": "das",
+    "plural": "die Bänder",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "ribbon, tape",
+        "bengali": "ফিতা",
+        "example": "Ein rotes Band hält das Paket."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0117",
+    "german": "die Bankkarte",
+    "word": "Bankkarte",
+    "article": "die",
+    "plural": "die Bankkarten",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "bank card, debit card",
+        "bengali": "ব্যাংক কার্ড",
+        "example": "Ich habe meine Bankkarte verloren."
+      }
+    ],
+    "synonym": "die EC-Karte",
+    "starred": false
+  },
+  {
+    "id": "a2_0118",
+    "german": "der/die Bankkaufmann/Bankkauffrau",
+    "word": "Bankkaufmann/Bankkauffrau",
+    "article": "der/die",
+    "plural": "die Bankkaufleute",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "bank clerk",
+        "bengali": "ব্যাংক কর্মকর্তা",
+        "example": "Er macht eine Ausbildung zum Bankkaufmann."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0119",
+    "german": "die Bankleitzahl",
+    "word": "Bankleitzahl",
+    "article": "die",
+    "plural": "die Bankleitzahlen",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "bank code",
+        "bengali": "ব্যাংক কোড",
+        "example": "Wie lautet Ihre Bankleitzahl?"
+      }
+    ],
+    "synonym": "BLZ",
+    "starred": false
+  },
+  {
+    "id": "a2_0120",
+    "german": "der Bankschalter",
+    "word": "Bankschalter",
+    "article": "der",
+    "plural": "die Bankschalter",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "bank counter",
+        "bengali": "ব্যাংকের কাউন্টার",
+        "example": "Bitte gehen Sie zum Bankschalter."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0121",
+    "german": "bar",
+    "word": "bar",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "cash, in cash",
+        "bengali": "নগদ",
+        "example": "Kann ich hier bar bezahlen?"
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0122",
+    "german": "das Bargeld",
+    "word": "Bargeld",
+    "article": "das",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "cash",
+        "bengali": "নগদ টাকা",
+        "example": "Ich habe kein Bargeld dabei."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0123",
+    "german": "bargeldlos",
+    "word": "bargeldlos",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "cashless",
+        "bengali": "নগদহীন / কার্ডের মাধ্যমে",
+        "example": "In diesem Geschäft kann man nur bargeldlos bezahlen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0124",
+    "german": "der Bart",
+    "word": "Bart",
+    "article": "der",
+    "plural": "die Bärte",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "beard",
+        "bengali": "দাড়ি",
+        "example": "Er trägt einen langen Bart."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0125",
+    "german": "die Basis",
+    "word": "Basis",
+    "article": "die",
+    "plural": "die Basen",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "basis, base",
+        "bengali": "ভিত্তি",
+        "example": "Das ist die Basis für unsere Arbeit."
+      }
+    ],
+    "synonym": "die Grundlage",
+    "starred": false
+  },
+  {
+    "id": "a2_0126",
+    "german": "der Basketball",
+    "word": "Basketball",
+    "article": "der",
+    "plural": "die Basketbälle",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "basketball",
+        "bengali": "বাস্কেটবল",
+        "example": "Wir spielen am Wochenende Basketball."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0127",
+    "german": "basteln",
+    "word": "basteln",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er bastelt",
+      "past": "er bastelte",
+      "participle": "gebastelt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "bastele",
+        "du": "bastelst",
+        "er_sie": "bastelt",
+        "wir": "basteln",
+        "ihr": "bastelt",
+        "sie": "basteln"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to do crafts, tinker",
+        "bengali": "হস্তশিল্প তৈরি করা",
+        "example": "Die Kinder basteln ein Geschenk."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0128",
+    "german": "beachten",
+    "word": "beachten",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "be-",
+      "meaning": "inseparable prefix",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er beachtet",
+      "past": "er beachtete",
+      "participle": "beachtet",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "beachte",
+        "du": "beachtest",
+        "er_sie": "beachtet",
+        "wir": "beachten",
+        "ihr": "beachtet",
+        "sie": "beachten"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to notice, pay attention to",
+        "bengali": "মনোযোগ দেওয়া / মেনে চলা",
+        "example": "Bitte beachten Sie die Regeln."
+      }
+    ],
+    "synonym": "respektieren",
+    "starred": false
+  },
+  {
+    "id": "a2_0129",
+    "german": "beantragen",
+    "word": "beantragen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "be-",
+      "meaning": "inseparable prefix",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er beantragt",
+      "past": "er beantragte",
+      "participle": "beantragt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "beantrage",
+        "du": "beantragst",
+        "er_sie": "beantragt",
+        "wir": "beantragen",
+        "ihr": "beantragt",
+        "sie": "beantragen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to apply for",
+        "bengali": "আবেদন করা",
+        "example": "Ich muss einen neuen Pass beantragen."
+      }
+    ],
+    "synonym": "fordern",
+    "starred": false
+  },
+  {
+    "id": "a2_0130",
+    "german": "bearbeiten",
+    "word": "bearbeiten",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "be-",
+      "meaning": "inseparable prefix",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er bearbeitet",
+      "past": "er bearbeitete",
+      "participle": "bearbeitet",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "bearbeite",
+        "du": "bearbeitest",
+        "er_sie": "bearbeitet",
+        "wir": "bearbeiten",
+        "ihr": "bearbeitet",
+        "sie": "bearbeiten"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to edit, process",
+        "bengali": "সম্পাদনা করা / প্রক্রিয়াজাত করা",
+        "example": "Ich muss diese E-Mail bearbeiten."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0131",
+    "german": "der/die Beauftragte",
+    "word": "Beauftragte",
+    "article": "der/die",
+    "plural": "die Beauftragten",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "representative, commissioner",
+        "bengali": "প্রতিনিধি",
+        "example": "Der Beauftragte hilft uns weiter."
+      }
+    ],
+    "synonym": "der Vertreter",
+    "starred": false
+  },
+  {
+    "id": "a2_0132",
+    "german": "bedanken",
+    "word": "bedanken",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "be-",
+      "meaning": "inseparable prefix",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er bedankt",
+      "past": "er bedankte",
+      "participle": "bedankt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "bedanke",
+        "du": "bedankst",
+        "er_sie": "bedankt",
+        "wir": "bedanken",
+        "ihr": "bedankt",
+        "sie": "bedanken"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to thank",
+        "bengali": "ধন্যবাদ জানানো",
+        "example": "Ich möchte mich bei Ihnen bedanken."
+      }
+    ],
+    "synonym": "danken",
+    "starred": false
+  },
+  {
+    "id": "a2_0133",
+    "german": "bedeuten",
+    "word": "bedeuten",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "be-",
+      "meaning": "inseparable prefix",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er bedeutet",
+      "past": "er bedeutete",
+      "participle": "bedeutet",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "bedeute",
+        "du": "bedeutest",
+        "er_sie": "bedeutet",
+        "wir": "bedeuten",
+        "ihr": "bedeutet",
+        "sie": "bedeuten"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to mean",
+        "bengali": "অর্থ প্রকাশ করা",
+        "example": "Was bedeutet dieses Wort?"
+      }
+    ],
+    "synonym": "heißen",
+    "starred": false
+  },
+  {
+    "id": "a2_0134",
+    "german": "bedienen",
+    "word": "bedienen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "be-",
+      "meaning": "inseparable prefix",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er bedient",
+      "past": "er bedienete",
+      "participle": "bedient",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "bediene",
+        "du": "bedienst",
+        "er_sie": "bedient",
+        "wir": "bedienen",
+        "ihr": "bedient",
+        "sie": "bedienen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to serve, operate",
+        "bengali": "সেবা করা / চালানো",
+        "example": "Der Kellner bedient die Gäste."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0135",
+    "german": "beeilen",
+    "word": "beeilen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "be-",
+      "meaning": "inseparable prefix",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er beeilt",
+      "past": "er beeilte",
+      "participle": "beeilt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "beeile",
+        "du": "beeilst",
+        "er_sie": "beeilt",
+        "wir": "beeilen",
+        "ihr": "beeilt",
+        "sie": "beeilen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to hurry",
+        "bengali": "তাড়াতাড়ি করা",
+        "example": "Wir müssen uns beeilen, der Zug kommt."
+      }
+    ],
+    "synonym": "sich sputen",
+    "starred": false
+  },
+  {
+    "id": "a2_0136",
+    "german": "beenden",
+    "word": "beenden",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "be-",
+      "meaning": "inseparable prefix",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er beendet",
+      "past": "er beendete",
+      "participle": "beendet",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "beende",
+        "du": "beendest",
+        "er_sie": "beendet",
+        "wir": "beenden",
+        "ihr": "beendet",
+        "sie": "beenden"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to finish, end",
+        "bengali": "শেষ করা",
+        "example": "Er hat das Studium beendet."
+      }
+    ],
+    "synonym": "abschließen",
+    "starred": false
+  },
+  {
+    "id": "a2_0137",
+    "german": "befriedigend",
+    "word": "befriedigend",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "satisfactory",
+        "bengali": "সন্তোষজনক",
+        "example": "Das Ergebnis ist befriedigend."
+      }
+    ],
+    "synonym": "akzeptabel",
+    "starred": false
+  },
+  {
+    "id": "a2_0138",
+    "german": "begleichen",
+    "word": "begleichen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "be-",
+      "meaning": "inseparable prefix",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er begleicht",
+      "past": "er begleichchte",
+      "participle": "beglichen",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "begleiche",
+        "du": "begleichst",
+        "er_sie": "begleicht",
+        "wir": "begleichen",
+        "ihr": "begleicht",
+        "sie": "begleichen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to settle, pay (bill)",
+        "bengali": "পরিশোধ করা",
+        "example": "Bitte begleichen Sie die Rechnung."
+      }
+    ],
+    "synonym": "bezahlen",
+    "starred": false
+  },
+  {
+    "id": "a2_0139",
+    "german": "begründen",
+    "word": "begründen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "be-",
+      "meaning": "inseparable prefix",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er begründet",
+      "past": "er begründete",
+      "participle": "begründet",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "begründe",
+        "du": "begründest",
+        "er_sie": "begründet",
+        "wir": "begründen",
+        "ihr": "begründet",
+        "sie": "begründen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to justify, give reasons",
+        "bengali": "कारण दर्शানো",
+        "example": "Können Sie Ihre Meinung begründen?"
+      }
+    ],
+    "synonym": "erklären",
+    "starred": false
+  },
+  {
+    "id": "a2_0140",
+    "german": "die Begrüßung",
+    "word": "Begrüßung",
+    "article": "die",
+    "plural": "die Begrüßungen",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "greeting, welcome",
+        "bengali": "অভিনন্দন / স্বাগত জানানো",
+        "example": "Die Begrüßung war sehr herzlich."
+      }
+    ],
+    "synonym": "der Empfang",
+    "starred": false
+  },
+  {
+    "id": "a2_0141",
+    "german": "die Behandlung",
+    "word": "Behandlung",
+    "article": "die",
+    "plural": "die Behandlungen",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "treatment",
+        "bengali": "চিকিৎসা",
+        "example": "Die medizinische Behandlung war erfolgreich."
+      }
+    ],
+    "synonym": "die Therapie",
+    "starred": false
+  },
+  {
+    "id": "a2_0142",
+    "german": "die Behörde",
+    "word": "Behörde",
+    "article": "die",
+    "plural": "die Behörden",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "authority, government office",
+        "bengali": "কর্তৃপক্ষ / সরকারি অফিস",
+        "example": "Sie müssen zur Behörde gehen."
+      }
+    ],
+    "synonym": "das Amt",
+    "starred": false
+  },
+  {
+    "id": "a2_0143",
+    "german": "der Beinbruch",
+    "word": "Beinbruch",
+    "article": "der",
+    "plural": "die Beinbrüche",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "broken leg",
+        "bengali": "পা ভেঙে যাওয়া",
+        "example": "Nach dem Beinbruch liegt er im Krankenhaus."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0144",
+    "german": "die Bekleidung",
+    "word": "Bekleidung",
+    "article": "die",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "clothing",
+        "bengali": "পোশাক",
+        "example": "Herrenbekleidung finden Sie im Erdgeschoss."
+      }
+    ],
+    "synonym": "die Kleidung",
+    "starred": false
+  },
+  {
+    "id": "a2_0145",
+    "german": "belegen",
+    "word": "belegen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "be-",
+      "meaning": "inseparable prefix",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er belegt",
+      "past": "er belegte",
+      "participle": "belegt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "belege",
+        "du": "belegst",
+        "er_sie": "belegt",
+        "wir": "belegen",
+        "ihr": "belegt",
+        "sie": "belegen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to occupy, take (a course)",
+        "bengali": "প্রমাণ করা / কোর্স করা",
+        "example": "Ich möchte einen Deutschkurs belegen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0146",
+    "german": "der Benutzername",
+    "word": "Benutzername",
+    "article": "der",
+    "plural": "die Benutzernamen",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "username",
+        "bengali": "ব্যবহারকারীর নাম",
+        "example": "Geben Sie Ihren Benutzernamen ein."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0147",
+    "german": "beraten",
+    "word": "beraten",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "be-",
+      "meaning": "inseparable prefix",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er berät",
+      "past": "er beriet",
+      "participle": "beraten",
+      "auxiliary": "hat",
+      "irregular": true,
+      "vowel_change": "a → ä",
+      "full_present": {
+        "ich": "berate",
+        "du": "berätst",
+        "er_sie": "berät",
+        "wir": "beraten",
+        "ihr": "beratet",
+        "sie": "beraten"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to advise, counsel",
+        "bengali": "পরামর্শ দেওয়া",
+        "example": "Der Arzt berät den Patienten."
+      }
+    ],
+    "synonym": "empfehlen",
+    "starred": false
+  },
+  {
+    "id": "a2_0148",
+    "german": "die Beratung",
+    "word": "Beratung",
+    "article": "die",
+    "plural": "die Beratungen",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "advice, consultation",
+        "bengali": "পরামর্শ",
+        "example": "Die Beratung im Geschäft war gut."
+      }
+    ],
+    "synonym": "die Unterstützung",
+    "starred": false
+  },
+  {
+    "id": "a2_0149",
+    "german": "das Beratungsgespräch",
+    "word": "Beratungsgespräch",
+    "article": "das",
+    "plural": "die Beratungsgespräche",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "consultation, advisory talk",
+        "bengali": "পরামর্শমূলক আলোচনা",
+        "example": "Morgen habe ich ein Beratungsgespräch."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0150",
+    "german": "berechnen",
+    "word": "berechnen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "be-",
+      "meaning": "inseparable prefix",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er berechnet",
+      "past": "er berechnete",
+      "participle": "berechnet",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "berechne",
+        "du": "berechnst",
+        "er_sie": "berechnet",
+        "wir": "berechnen",
+        "ihr": "berechnet",
+        "sie": "berechnen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to calculate, charge",
+        "bengali": "হিসাব করা",
+        "example": "Die Kosten werden berechnet."
+      }
+    ],
+    "synonym": "kalkulieren",
+    "starred": false
+  },
+  {
+    "id": "a2_0151",
+    "german": "der Bereich",
+    "word": "Bereich",
+    "article": "der",
+    "plural": "die Bereiche",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "area, field, sector",
+        "bengali": "এলাকা / ক্ষেত্র",
+        "example": "Das liegt nicht in meinem Bereich."
+      }
+    ],
+    "synonym": "die Abteilung",
+    "starred": false
+  },
+  {
+    "id": "a2_0152",
+    "german": "bereit",
+    "word": "bereit",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "ready, prepared",
+        "bengali": "প্রস্তুত",
+        "example": "Das Essen ist jetzt bereit."
+      }
+    ],
+    "synonym": "fertig",
+    "starred": false
+  },
+  {
+    "id": "a2_0153",
+    "german": "bereitstellen",
+    "word": "bereitstellen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "bereit-",
+      "meaning": "separable prefix part",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er stellt bereit",
+      "past": "er stellte bereit",
+      "participle": "bereitgestellt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "stelle bereit",
+        "du": "stellst bereit",
+        "er_sie": "stellt bereit",
+        "wir": "stellen bereit",
+        "ihr": "stellt bereit",
+        "sie": "stellen bereit"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to provide, make available",
+        "bengali": "সরবরাহ করা / প্রস্তুত রাখা",
+        "example": "Wir stellen die Dokumente bereit."
+      }
+    ],
+    "synonym": "liefern",
+    "starred": false
+  },
+  {
+    "id": "a2_0154",
+    "german": "der Bericht",
+    "word": "Bericht",
+    "article": "der",
+    "plural": "die Berichte",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "report",
+        "bengali": "প্রতিবেদন",
+        "example": "Schreiben Sie einen kurzen Bericht."
+      }
+    ],
+    "synonym": "die Reportage",
+    "starred": false
+  },
+  {
+    "id": "a2_0155",
+    "german": "die Berufsausbildung",
+    "word": "Berufsausbildung",
+    "article": "die",
+    "plural": "die Berufsausbildungen",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "vocational training",
+        "bengali": "পেশাগত প্রশিক্ষণ",
+        "example": "Eine gute Berufsausbildung ist wichtig."
+      }
+    ],
+    "synonym": "die Lehre",
+    "starred": false
+  },
+  {
+    "id": "a2_0156",
+    "german": "die Berufsberatung",
+    "word": "Berufsberatung",
+    "article": "die",
+    "plural": "die Berufsberatungen",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "career counseling",
+        "bengali": "পেশাগত পরামর্শ",
+        "example": "Die Berufsberatung half mir sehr."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "das Berufsfeld",
+    "german": "das Berufsfeld",
+    "word": "Berufsfeld",
+    "article": "das",
+    "plural": "die Berufsfelder",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "occupational field",
+        "bengali": "পেশাগত ক্ষেত্র",
+        "example": "Mein Berufsfeld ist die IT."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0158",
+    "german": "das Berufsinformationszentrum",
+    "word": "Berufsinformationszentrum",
+    "article": "das",
+    "plural": "die Berufsinformationszentren",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "career information center",
+        "bengali": "ক্যারিয়ার তথ্য কেন্দ্র",
+        "example": "Im Berufsinformationszentrum gibt es Broschüren."
+      }
+    ],
+    "synonym": "BIZ",
+    "starred": false
+  },
+  {
+    "id": "a2_0159",
+    "german": "das Berufskolleg",
+    "word": "Berufskolleg",
+    "article": "das",
+    "plural": "die Berufskollegs",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "vocational college",
+        "bengali": "ভোকেশনাল কলেজ",
+        "example": "Er besucht ein Berufskolleg."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0160",
+    "german": "die Berufsschule",
+    "word": "Berufsschule",
+    "article": "die",
+    "plural": "die Berufsschulen",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "vocational school",
+        "bengali": "পেশাভিত্তিক স্কুল",
+        "example": "Einmal pro Woche geht er zur Berufsschule."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0161",
+    "german": "berufstätig",
+    "word": "berufstätig",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "employed, working",
+        "bengali": "চাকুরীরত",
+        "example": "Beide Eltern sind berufstätig."
+      }
+    ],
+    "synonym": "arbeitend",
+    "starred": false
+  },
+  {
+    "id": "a2_0162",
+    "german": "der Berufswunsch",
+    "word": "Berufswunsch",
+    "article": "der",
+    "plural": "die Berufswünsche",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "career aspiration",
+        "bengali": "পেশাগত ইচ্ছা",
+        "example": "Mein Berufswunsch ist Arzt."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0163",
+    "german": "die Bescheinigung",
+    "word": "Bescheinigung",
+    "article": "die",
+    "plural": "die Bescheinigungen",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "certificate, attestation",
+        "bengali": "শংসাপত্র",
+        "example": "Ich brauche eine Bescheinigung vom Arzt."
+      }
+    ],
+    "synonym": "das Zertifikat",
+    "starred": false
+  },
+  {
+    "id": "a2_0164",
+    "german": "die Beschwerde",
+    "word": "Beschwerde",
+    "article": "die",
+    "plural": "die Beschwerden",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "complaint",
+        "bengali": "অভিযোগ",
+        "example": "Er reichte eine Beschwerde ein."
+      }
+    ],
+    "synonym": "die Reklamation",
+    "starred": false
+  },
+  {
+    "id": "a2_0165",
+    "german": "besichtigen",
+    "word": "besichtigen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "be-",
+      "meaning": "inseparable prefix",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er besichtigt",
+      "past": "er besichtigte",
+      "participle": "besichtigt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "besichtige",
+        "du": "besichtigst",
+        "er_sie": "besichtigt",
+        "wir": "besichtigen",
+        "ihr": "besichtigt",
+        "sie": "besichtigen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to visit, sightsee",
+        "bengali": "পরিদর্শন করা",
+        "example": "Wir besichtigen die Altstadt."
+      }
+    ],
+    "synonym": "besuchen",
+    "starred": false
+  },
+  {
+    "id": "a2_0166",
+    "german": "besonders",
+    "word": "besonders",
+    "article": null,
+    "plural": null,
+    "type": "Adverb",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adverb",
+        "english": "especially, particularly",
+        "bengali": "विशेषভাবে",
+        "example": "Das Essen schmeckt besonders gut."
+      }
+    ],
+    "synonym": "speziell",
+    "starred": false
+  },
+  {
+    "id": "a2_0167",
+    "german": "besprechen",
+    "word": "besprechen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "be-",
+      "meaning": "inseparable prefix",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er bespricht",
+      "past": "er besprach",
+      "participle": "besprochen",
+      "auxiliary": "hat",
+      "irregular": true,
+      "vowel_change": "e → i",
+      "full_present": {
+        "ich": "bespreche",
+        "du": "besprichst",
+        "er_sie": "bespricht",
+        "wir": "besprechen",
+        "ihr": "besprecht",
+        "sie": "besprechen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to discuss",
+        "bengali": "আলোচনা করা",
+        "example": "Wir müssen den Plan besprechen."
+      }
+    ],
+    "synonym": "diskutieren",
+    "starred": false
+  },
+  {
+    "id": "a2_0168",
+    "german": "die Besprechung",
+    "word": "Besprechung",
+    "article": "die",
+    "plural": "die Besprechungen",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "meeting, discussion",
+        "bengali": "মিটিং / আলোচনা",
+        "example": "Die Besprechung dauert eine Stunde."
+      }
+    ],
+    "synonym": "das Meeting",
+    "starred": false
+  },
+  {
+    "id": "a2_0169",
+    "german": "das Besteck",
+    "word": "Besteck",
+    "article": "das",
+    "plural": "die Bestecke",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "cutlery",
+        "bengali": "ছুরি-চামচ ইত্যাদি",
+        "example": "Leg das Besteck auf den Tisch."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0170",
+    "german": "bestellen",
+    "word": "bestellen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "be-",
+      "meaning": "inseparable prefix",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er bestellt",
+      "past": "er bestellte",
+      "participle": "bestellt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "bestelle",
+        "du": "bestellst",
+        "er_sie": "bestellt",
+        "wir": "bestellen",
+        "ihr": "bestellt",
+        "sie": "bestellen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to order",
+        "bengali": "অর্ডার করা",
+        "example": "Ich möchte ein Buch bestellen."
+      }
+    ],
+    "synonym": "fordern",
+    "starred": false
+  },
+  {
+    "id": "a2_0171",
+    "german": "die Bestellnummer",
+    "word": "Bestellnummer",
+    "article": "die",
+    "plural": "die Bestellnummern",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "order number",
+        "bengali": "অর্ডার নম্বর",
+        "example": "Wie lautet Ihre Bestellnummer?"
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0172",
+    "german": "die Bestellung",
+    "word": "Bestellung",
+    "article": "die",
+    "plural": "die Bestellungen",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "order",
+        "bengali": "অর্ডার",
+        "example": "Deine Bestellung ist angekommen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0173",
+    "german": "bestimmt",
+    "word": "bestimmt",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "certain, definite",
+        "bengali": "নির্দিষ্ট / অবশ্যই",
+        "example": "Das weiß ich ganz bestimmt."
+      }
+    ],
+    "synonym": "sicher",
+    "starred": false
+  },
+  {
+    "id": "a2_0174",
+    "german": "betätigen",
+    "word": "betätigen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er betätigt",
+      "past": "er betätigte",
+      "participle": "betätigt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "betätige",
+        "du": "betätigst",
+        "er_sie": "betätigt",
+        "wir": "betätigen",
+        "ihr": "betätigt",
+        "sie": "betätigen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to operate, press",
+        "bengali": "চালানো / বোতাম টেপা",
+        "example": "Drücken Sie den Knopf, um es zu betätigen."
+      }
+    ],
+    "synonym": "drücken",
+    "starred": false
+  },
+  {
+    "id": "a2_0175",
+    "german": "betreffen",
+    "word": "betreffen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "be-",
+      "meaning": "inseparable prefix",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er betrifft",
+      "past": "er betraf",
+      "participle": "betroffen",
+      "auxiliary": "hat",
+      "irregular": true,
+      "vowel_change": "e → i",
+      "full_present": {
+        "ich": "betreffe",
+        "du": "betriffst",
+        "er_sie": "betrifft",
+        "wir": "betreffen",
+        "ihr": "betrefft",
+        "sie": "betreffen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to concern, affect",
+        "bengali": "সম্পর্কিত হওয়া",
+        "example": "Das betrifft uns alle."
+      }
+    ],
+    "synonym": "angehen",
+    "starred": false
+  },
+  {
+    "id": "a2_0176",
+    "german": "bewahren",
+    "word": "bewahren",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "be-",
+      "meaning": "inseparable prefix",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er bewahrt",
+      "past": "er bewahrte",
+      "participle": "bewahrt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "bewahre",
+        "du": "bewahrst",
+        "er_sie": "bewahrt",
+        "wir": "bewahren",
+        "ihr": "bewahrt",
+        "sie": "bewahren"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to preserve, keep",
+        "bengali": "সংরক্ষণ করা",
+        "example": "Ruhe bewahren bitte!"
+      }
+    ],
+    "synonym": "schützen",
+    "starred": false
+  },
+  {
+    "id": "a2_0177",
+    "german": "bewegen",
+    "word": "bewegen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": {
+      "prefix": "be-",
+      "meaning": "inseparable prefix",
+      "related": []
+    },
+    "conjugation": {
+      "present": "er bewegt",
+      "past": "er bewegte",
+      "participle": "bewegt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "bewege",
+        "du": "bewegst",
+        "er_sie": "bewegt",
+        "wir": "bewegen",
+        "ihr": "bewegt",
+        "sie": "bewegen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to move",
+        "bengali": "নড়াচড়া করা",
+        "example": "Ich kann meinen Arm nicht bewegen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0178",
+    "german": "der/die Bewerber/in",
+    "word": "Bewerber/in",
+    "article": "der/die",
+    "plural": "die Bewerber / die Bewerberinnen",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "applicant",
+        "bengali": "আবেদনকারী",
+        "example": "Es gibt viele Bewerber für den Job."
+      }
+    ],
+    "synonym": "der Kandidat",
+    "starred": false
+  },
+  {
+    "id": "a2_0179",
+    "german": "der Bezirk",
+    "word": "Bezirk",
+    "article": "der",
+    "plural": "die Bezirke",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "district, borough",
+        "bengali": "জেলা / এলাকা",
+        "example": "Kreuzberg ist ein Bezirk in Berlin."
+      }
+    ],
+    "synonym": "die Region",
+    "starred": false
+  },
+  {
+    "id": "a2_0180",
+    "german": "der BIC",
+    "word": "BIC",
+    "article": "der",
+    "plural": "die BICs",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "BIC (bank code)",
+        "bengali": "বিআইসি কোড",
+        "example": "Geben Sie IBAN und BIC ein."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0181",
+    "german": "bieten",
+    "word": "bieten",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er bietet",
+      "past": "er bot",
+      "participle": "geboten",
+      "auxiliary": "hat",
+      "irregular": true,
+      "vowel_change": "ie → o",
+      "full_present": {
+        "ich": "biete",
+        "du": "bietest",
+        "er_sie": "bietet",
+        "wir": "bieten",
+        "ihr": "bietet",
+        "sie": "bieten"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to offer",
+        "bengali": "অফার করা / প্রদান করা",
+        "example": "Das Hotel bietet guten Service."
+      }
+    ],
+    "synonym": "anbieten",
+    "starred": false
+  },
+  {
+    "id": "a2_0182",
+    "german": "der Bildschirm",
+    "word": "Bildschirm",
+    "article": "der",
+    "plural": "die Bildschirme",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "screen, monitor",
+        "bengali": "পর্দা / মনিটর",
+        "example": "Der Bildschirm ist zu dunkel."
+      }
+    ],
+    "synonym": "der Monitor",
+    "starred": false
+  },
+  {
+    "id": "a2_0183",
+    "german": "der Bildungsweg",
+    "word": "Bildungsweg",
+    "article": "der",
+    "plural": "die Bildungswege",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "educational path",
+        "bengali": "শিক্ষাগত পথ",
+        "example": "Ihr Bildungsweg ist beeindruckend."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0184",
+    "german": "die Biologie",
+    "word": "Biologie",
+    "article": "die",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "biology",
+        "bengali": "জীববিজ্ঞান",
+        "example": "Biologie ist mein Lieblingsfach."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0185",
+    "german": "der Biomüll",
+    "word": "Biomüll",
+    "article": "der",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "organic waste",
+        "bengali": "জৈব আবর্জনা",
+        "example": "Werfen Sie Bananenschalen in den Biomüll."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0186",
+    "german": "die Biotonne",
+    "word": "Biotonne",
+    "article": "die",
+    "plural": "die Biotonnen",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "organic waste bin",
+        "bengali": "জৈব আবর্জনার পাত্র",
+        "example": "Die Biotonne wird morgen geleert."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0187",
+    "german": "bitten",
+    "word": "bitten",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er bittet",
+      "past": "er bat",
+      "participle": "gebeten",
+      "auxiliary": "hat",
+      "irregular": true,
+      "vowel_change": "i → a",
+      "full_present": {
+        "ich": "bitte",
+        "du": "bittest",
+        "er_sie": "bittet",
+        "wir": "bitten",
+        "ihr": "bittet",
+        "sie": "bitten"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to ask, request",
+        "bengali": "অনুরোধ করা",
+        "example": "Darf ich Sie um Hilfe bitten?"
+      }
+    ],
+    "synonym": "fragen",
+    "starred": false
+  },
+  {
+    "id": "a2_0188",
+    "german": "der Blick",
+    "word": "Blick",
+    "article": "der",
+    "plural": "die Blicke",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "look, glance, view",
+        "bengali": "দৃষ্টি",
+        "example": "Ein Blick aus dem Fenster genügt."
+      }
+    ],
+    "synonym": "die Aussicht",
+    "starred": false
+  },
+  {
+    "id": "a2_0189",
+    "german": "blond",
+    "word": "blond",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "blonde",
+        "bengali": "সোনালী রঙের চুল",
+        "example": "Sie hat blonde Haare."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0190",
+    "german": "der Boden",
+    "word": "Boden",
+    "article": "der",
+    "plural": "die Böden",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "floor, ground",
+        "bengali": "মেঝে / মাটি",
+        "example": "Das Buch liegt auf dem Boden."
+      }
+    ],
+    "synonym": "der Grund",
+    "starred": false
+  },
+  {
+    "id": "a2_0191",
+    "german": "der Brand",
+    "word": "Brand",
+    "article": "der",
+    "plural": "die Brände",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "fire",
+        "bengali": "আগুন / অগ্নিকাণ্ড",
+        "example": "Die Feuerwehr löschte den Brand."
+      }
+    ],
+    "synonym": "das Feuer",
+    "starred": false
+  },
+  {
+    "id": "a2_0192",
+    "german": "die Brandbekämpfung",
+    "word": "Brandbekämpfung",
+    "article": "die",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "firefighting",
+        "bengali": "অগ্নি নির্বাপণ",
+        "example": "Die Brandbekämpfung dauerte Stunden."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0193",
+    "german": "der Brandfall",
+    "word": "Brandfall",
+    "article": "der",
+    "plural": "die Brandfälle",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "case of fire",
+        "bengali": "অগ্নিকাণ্ডের ঘটনা",
+        "example": "Im Brandfall Aufzug nicht benutzen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0194",
+    "german": "der Brandmelder",
+    "word": "Brandmelder",
+    "article": "der",
+    "plural": "die Brandmelder",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "smoke detector, fire alarm",
+        "bengali": "ফায়ার অ্যালার্ম",
+        "example": "Der Brandmelder rettete Leben."
+      }
+    ],
+    "synonym": "der Rauchmelder",
+    "starred": false
+  },
+  {
+    "id": "a2_0195",
+    "german": "die Brandschutz",
+    "word": "Brandschutz",
+    "article": "die",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "fire protection",
+        "bengali": "অগ্নি নিরাপত্তা",
+        "example": "Brandschutz ist in Schulen wichtig."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0196",
+    "german": "braten",
+    "word": "braten",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er brät",
+      "past": "er briet",
+      "participle": "gebraten",
+      "auxiliary": "hat",
+      "irregular": true,
+      "vowel_change": "a → ä",
+      "full_present": {
+        "ich": "brate",
+        "du": "brätst",
+        "er_sie": "brät",
+        "wir": "braten",
+        "ihr": "braten",
+        "sie": "braten"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to fry, roast",
+        "bengali": "ভাজা",
+        "example": "Ich brate das Fleisch in der Pfanne."
+      }
+    ],
+    "synonym": "kochen",
+    "starred": false
+  },
+  {
+    "id": "a2_0197",
+    "german": "brennen",
+    "word": "brennen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er brennt",
+      "past": "er brannte",
+      "participle": "gebrannt",
+      "auxiliary": "hat",
+      "irregular": true,
+      "vowel_change": "e → a",
+      "full_present": {
+        "ich": "brenne",
+        "du": "brennst",
+        "er_sie": "brennt",
+        "wir": "brennen",
+        "ihr": "brennt",
+        "sie": "brennen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to burn",
+        "bengali": "জ্বলা",
+        "example": "Das Holz brennt gut."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0198",
+    "german": "das Brett",
+    "word": "Brett",
+    "article": "das",
+    "plural": "die Bretter",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "board, plank",
+        "bengali": "কাঠের তক্তা",
+        "example": "Schneiden Sie das Gemüse auf dem Brett."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "a2_0199",
+    "german": "der Briefkasten",
+    "word": "Briefkasten",
+    "article": "der",
+    "plural": "die Briefkästen",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "mailbox",
+        "bengali": "চিঠির বাক্স",
+        "example": "Ist Post im Briefkasten?"
+      }
+    ],
+    "synonym": "der Postkasten",
+    "starred": false
+  },
+  {
+    "id": "a2_0200",
+    "german": "die Broschüre",
+    "word": "Broschüre",
+    "article": "die",
+    "plural": "die Broschüren",
+    "type": "Nomen",
+    "level": ["A2"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "brochure, booklet",
+        "bengali": "পুস্তিকা",
+        "example": "Bitte lesen Sie diese Broschüre."
+      }
+    ],
+    "synonym": "das Prospekt",
+    "starred": false
+  }
+]

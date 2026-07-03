@@ -1,0 +1,2342 @@
+[
+{
+"id": "b1_0201",
+"german": "demokratisch",
+"word": "demokratisch",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "democratic",
+"bengali": "গণতান্ত্রিক",
+"example": "Wir leben in einem demokratischen Staat."
+}
+],
+"synonym": "freiheitlich",
+"starred": false
+},
+{
+"id": "b1_0202",
+"german": "die Demonstration",
+"word": "Demonstration",
+"article": "die",
+"plural": "die Demonstrationen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "demonstration, protest",
+"bengali": "বিক্ষোভ, মিছিল",
+"example": "Heute findet eine große Demonstration statt."
+}
+],
+"synonym": "die Demo",
+"starred": false
+},
+{
+"id": "b1_0203",
+"german": "deswegen",
+"word": "deswegen",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "therefore, because of that",
+"bengali": "তাই, সেই কারণে",
+"example": "Es regnet, deswegen bleibe ich zu Hause."
+}
+],
+"synonym": "darum",
+"starred": false
+},
+{
+"id": "b1_0204",
+"german": "die Detektivgeschichte",
+"word": "Detektivgeschichte",
+"article": "die",
+"plural": "die Detektivgeschichten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "detective story",
+"bengali": "গোয়েন্দা গল্প",
+"example": "Sie liest gerne Detektivgeschichten."
+}
+],
+"synonym": "der Krimi",
+"starred": false
+},
+{
+"id": "b1_0205",
+"german": "die Deutsche Demokratische Republik (DDR)",
+"word": "Deutsche Demokratische Republik (DDR)",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "German Democratic Republic (East Germany)",
+"bengali": "পূর্ব জার্মানি",
+"example": "Die DDR existierte bis 1990."
+}
+],
+"synonym": "Ostdeutschland",
+"starred": false
+},
+{
+"id": "b1_0206",
+"german": "der/die Diabetiker/in",
+"word": "Diabetiker/in",
+"article": "der/die",
+"plural": "die Diabetiker / die Diabetikerinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "diabetic",
+"bengali": "ডায়াবেটিস রোগী",
+"example": "Als Diabetiker muss er auf seine Ernährung achten."
+}
+],
+"synonym": "Zuckerkranker",
+"starred": false
+},
+{
+"id": "b1_0207",
+"german": "das Diagramm",
+"word": "Diagramm",
+"article": "das",
+"plural": "die Diagramme",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "diagram, chart",
+"bengali": "চিত্রলেখ, ডায়াগ্রাম",
+"example": "Das Diagramm zeigt die Entwicklung der Preise."
+}
+],
+"synonym": "die Grafik",
+"starred": false
+},
+{
+"id": "b1_0208",
+"german": "dicht",
+"word": "dicht",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "dense, tight, thick",
+"bengali": "ঘন, নিবিড়",
+"example": "Hier ist der Nebel sehr dicht."
+}
+],
+"synonym": "fest",
+"starred": false
+},
+{
+"id": "b1_0209",
+"german": "der Diebstahl",
+"word": "Diebstahl",
+"article": "der",
+"plural": "die Diebstähle",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "theft",
+"bengali": "চুরি",
+"example": "Der Diebstahl wurde bei der Polizei gemeldet."
+}
+],
+"synonym": "der Raub",
+"starred": false
+},
+{
+"id": "b1_0210",
+"german": "die Dienstleistung",
+"word": "Dienstleistung",
+"article": "die",
+"plural": "die Dienstleistungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "dienst-", "meaning": "work/service-related", "related": ["dienen", "Leistung"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "service",
+"bengali": "সেবা",
+"example": "Deutschland bietet viele Dienstleistungen an."
+}
+],
+"synonym": "der Service",
+"starred": false
+},
+{
+"id": "b1_0211",
+"german": "die Dienstreise",
+"word": "Dienstreise",
+"article": "die",
+"plural": "die Dienstreisen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "business trip",
+"bengali": "ব্যবসায়িক ভ্রমণ",
+"example": "Nächste Woche bin ich auf Dienstreise."
+}
+],
+"synonym": "die Geschäftsreise",
+"starred": false
+},
+{
+"id": "b1_0212",
+"german": "die Diskussion",
+"word": "Diskussion",
+"article": "die",
+"plural": "die Diskussionen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "discussion",
+"bengali": "আলোচনা",
+"example": "Wir hatten eine interessante Diskussion."
+}
+],
+"synonym": "das Gespräch",
+"starred": false
+},
+{
+"id": "b1_0213",
+"german": "die Dokumentation (Doku)",
+"word": "Dokumentation (Doku)",
+"article": "die",
+"plural": "die Dokumentationen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "documentation, documentary",
+"bengali": "নথিভুক্তকরণ, তথ্যচিত্র",
+"example": "Ich habe eine tolle Dokumentation über Tiere gesehen."
+}
+],
+"synonym": "der Dokumentarfilm",
+"starred": false
+},
+{
+"id": "b1_0214",
+"german": "der Döner",
+"word": "Döner",
+"article": "der",
+"plural": "die Döner",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "doner kebab",
+"bengali": "ডোনার কাবাব",
+"example": "Ich esse zum Mittag einen Döner."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0215",
+"german": "doof",
+"word": "doof",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "stupid, silly",
+"bengali": "বোকা, জঘন্য",
+"example": "Das ist eine total doofe Idee."
+}
+],
+"synonym": "dumm",
+"starred": false
+},
+{
+"id": "b1_0216",
+"german": "das Doppelbett",
+"word": "Doppelbett",
+"article": "das",
+"plural": "die Doppelbetten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "double bed",
+"bengali": "ডাবল বেড",
+"example": "Das Hotelzimmer hat ein großes Doppelbett."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0217",
+"german": "doppelt",
+"word": "doppelt",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "double",
+"bengali": "দ্বিগুণ",
+"example": "Das kostet doppelt so viel."
+}
+],
+"synonym": "zweifach",
+"starred": false
+},
+{
+"id": "b1_0218",
+"german": "das Doppelzimmer (DZ)",
+"word": "Doppelzimmer (DZ)",
+"article": "das",
+"plural": "die Doppelzimmer",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "double room",
+"bengali": "ডাবল রুম",
+"example": "Wir haben ein Doppelzimmer reserviert."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0219",
+"german": "das Dorf",
+"word": "Dorf",
+"article": "das",
+"plural": "die Dörfer",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "village",
+"bengali": "গ্রাম",
+"example": "Sie wohnen in einem kleinen Dorf."
+}
+],
+"synonym": "die Ortschaft",
+"starred": false
+},
+{
+"id": "b1_0220",
+"german": "dramatisch",
+"word": "dramatisch",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "dramatic",
+"bengali": "নাটকীয়, উদ্বেগজনক",
+"example": "Die Lage hat sich dramatisch verschlechtert."
+}
+],
+"synonym": "aufregend",
+"starred": false
+},
+{
+"id": "b1_0221",
+"german": "dran sein",
+"word": "dran sein",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er ist dran",
+"past": "er war dran",
+"participle": "dran gewesen",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": null,
+"full_present": { "ich": "bin dran", "du": "bist dran", "er_sie": "ist dran", "wir": "sind dran", "ihr": "seid dran", "sie": "sind dran" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to be one's turn",
+"bengali": "কারো পালা হওয়া",
+"example": "Jetzt bin ich dran."
+}
+],
+"synonym": "an der Reihe sein",
+"starred": false
+},
+{
+"id": "b1_0222",
+"german": "drinnen",
+"word": "drinnen",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "inside",
+"bengali": "ভিতরে",
+"example": "Es ist drinnen viel wärmer."
+}
+],
+"synonym": "im Inneren",
+"starred": false
+},
+{
+"id": "b1_0223",
+"german": "dumm",
+"word": "dumm",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "stupid",
+"bengali": "বোকা",
+"example": "Eine dumme Frage gibt es nicht."
+}
+],
+"synonym": "blöd",
+"starred": false
+},
+{
+"id": "b1_0224",
+"german": "durchlässig",
+"word": "durchlässig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": { "prefix": "durch-", "meaning": "allowing something through", "related": ["lassen"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "permeable, porous",
+"bengali": "ছিদ্রযুক্ত, প্রবেশযোগ্য",
+"example": "Die Wand ist nicht wasserdurchlässig."
+}
+],
+"synonym": "offen",
+"starred": false
+},
+{
+"id": "b1_0225",
+"german": "der Durchschnitt",
+"word": "Durchschnitt",
+"article": "der",
+"plural": "die Durchschnitte",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "average",
+"bengali": "গড়",
+"example": "Im Durchschnitt arbeite ich acht Stunden."
+}
+],
+"synonym": "der Mittelwert",
+"starred": false
+},
+{
+"id": "b1_0226",
+"german": "durchschnittlich",
+"word": "durchschnittlich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "average",
+"bengali": "গড়পরতা",
+"example": "Das ist ein durchschnittliches Gehalt."
+}
+],
+"synonym": "normal",
+"starred": false
+},
+{
+"id": "b1_0227",
+"german": "die DVD",
+"word": "DVD",
+"article": "die",
+"plural": "die DVDs",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "DVD",
+"bengali": "ডিভিডি",
+"example": "Hast du diese DVD schon gesehen?"
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0228",
+"german": "ebenso",
+"word": "ebenso",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "equally, likewise",
+"bengali": "একইভাবে",
+"example": "Er ist ebenso schnell wie sein Bruder."
+}
+],
+"synonym": "genauso",
+"starred": false
+},
+{
+"id": "b1_0229",
+"german": "ehemalig",
+"word": "ehemalig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "former",
+"bengali": "প্রাক্তন",
+"example": "Das ist mein ehemaliger Chef."
+}
+],
+"synonym": "früher",
+"starred": false
+},
+{
+"id": "b1_0230",
+"german": "eher",
+"word": "eher",
+"article": null,
+"plural": null,
+"type": "Adverb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adverb",
+"english": "sooner, rather",
+"bengali": "বরং, আগে",
+"example": "Ich komme eher nach Hause."
+}
+],
+"synonym": "lieber",
+"starred": false
+},
+{
+"id": "b1_0231",
+"german": "ehrlich",
+"word": "ehrlich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "honest",
+"bengali": "সৎ",
+"example": "Sei bitte ehrlich zu mir."
+}
+],
+"synonym": "aufrichtig",
+"starred": false
+},
+{
+"id": "b1_0232",
+"german": "der Eierkarton",
+"word": "Eierkarton",
+"article": "der",
+"plural": "die Eierkartons",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "egg carton",
+"bengali": "ডিমের কার্টন",
+"example": "Die Eier liegen im Eierkarton."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0233",
+"german": "die Eierschale",
+"word": "Eierschale",
+"article": "die",
+"plural": "die Eierschalen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "egg shell",
+"bengali": "ডিমের খোসা",
+"example": "Er hat die Eierschale entfernt."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0234",
+"german": "das Eigentum",
+"word": "Eigentum",
+"article": "das",
+"plural": "die Eigentümer",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "property, ownership",
+"bengali": "সম্পত্তি",
+"example": "Dieses Haus ist mein Eigentum."
+}
+],
+"synonym": "der Besitz",
+"starred": false
+},
+{
+"id": "b1_0235",
+"german": "eigenverantwortlich",
+"word": "eigenverantwortlich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": { "prefix": "eigen-", "meaning": "one's own responsibility", "related": ["eigen", "Verantwortung"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "self-responsible",
+"bengali": "স্ব-দায়িত্বশীল",
+"example": "Die Schüler lernen eigenverantwortlich."
+}
+],
+"synonym": "selbstständig",
+"starred": false
+},
+{
+"id": "b1_0236",
+"german": "eilig",
+"word": "eilig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "urgent",
+"bengali": "জরুরি",
+"example": "Ich habe es eilig."
+}
+],
+"synonym": "dringend",
+"starred": false
+},
+{
+"id": "b1_0237",
+"german": "einbrechen",
+"word": "einbrechen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ein-", "meaning": "breaking into", "related": ["brechen"] },
+"conjugation": {
+"present": "er bricht ein",
+"past": "er brach ein",
+"participle": "eingebrochen",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": "e → i",
+"full_present": { "ich": "breche ein", "du": "brichst ein", "er_sie": "bricht ein", "wir": "brechen ein", "ihr": "brecht ein", "sie": "brechen ein" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to break into",
+"bengali": "ভেঙে প্রবেশ করা",
+"example": "Diebe sind in das Haus eingebrochen."
+}
+],
+"synonym": "überfallen",
+"starred": false
+},
+{
+"id": "b1_0238",
+"german": "der/die Einbrecher/in",
+"word": "Einbrecher/in",
+"article": "der/die",
+"plural": "die Einbrecher / die Einbrecherinnen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "burglar",
+"bengali": "চোর",
+"example": "Der Einbrecher wurde gefasst."
+}
+],
+"synonym": "der Dieb",
+"starred": false
+},
+{
+"id": "b1_0239",
+"german": "der Einbruch",
+"word": "Einbruch",
+"article": "der",
+"plural": "die Einbrüche",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "burglary",
+"bengali": "চুরি, অনুপ্রবেশ",
+"example": "Nach dem Einbruch haben wir ein neues Schloss."
+}
+],
+"synonym": "der Diebstahl",
+"starred": false
+},
+{
+"id": "b1_0240",
+"german": "einchecken",
+"word": "einchecken",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ein-", "meaning": "checking in", "related": ["checken"] },
+"conjugation": {
+"present": "er checkt ein",
+"past": "er checkte ein",
+"participle": "eingecheckt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "checke ein", "du": "checkst ein", "er_sie": "checkt ein", "wir": "checken ein", "ihr": "checkt ein", "sie": "checken ein" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to check in",
+"bengali": "চেক-ইন করা",
+"example": "Wir müssen noch im Hotel einchecken."
+}
+],
+"synonym": "anmelden",
+"starred": false
+},
+{
+"id": "b1_0241",
+"german": "einfallen",
+"word": "einfallen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ein-", "meaning": "coming to mind", "related": ["fallen"] },
+"conjugation": {
+"present": "er fällt ein",
+"past": "er fiel ein",
+"participle": "eingefallen",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": "a → ä",
+"full_present": { "ich": "falle ein", "du": "fällst ein", "er_sie": "fällt ein", "wir": "fallen ein", "ihr": "fallt ein", "sie": "fallen ein" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to occur to someone",
+"bengali": "মনে পড়া",
+"example": "Mir fällt der Name nicht ein."
+}
+],
+"synonym": "sich erinnern",
+"starred": false
+},
+{
+"id": "b1_0242",
+"german": "einführen",
+"word": "einführen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ein-", "meaning": "introducing/importing", "related": ["führen"] },
+"conjugation": {
+"present": "er führt ein",
+"past": "er führte ein",
+"participle": "eingeführt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "führe ein", "du": "führst ein", "er_sie": "führt ein", "wir": "führen ein", "ihr": "führt ein", "sie": "führen ein" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to introduce, to import",
+"bengali": "প্রবর্তন করা, আমদানি করা",
+"example": "Die Firma führt ein neues System ein."
+}
+],
+"synonym": "starten",
+"starred": false
+},
+{
+"id": "b1_0243",
+"german": "eingehen",
+"word": "eingehen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ein-", "meaning": "going into/accepting", "related": ["gehen"] },
+"conjugation": {
+"present": "er geht ein",
+"past": "er ging ein",
+"participle": "eingegangen",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": null,
+"full_present": { "ich": "gehe ein", "du": "gehst ein", "er_sie": "geht ein", "wir": "gehen ein", "ihr": "geht ein", "sie": "gehen ein" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to go into, to enter, to accept",
+"bengali": "প্রবেশ করা, মেনে নেওয়া",
+"example": "Wir gehen auf Ihren Vorschlag ein."
+}
+],
+"synonym": "akzeptieren",
+"starred": false
+},
+{
+"id": "b1_0244",
+"german": "einhalten",
+"word": "einhalten",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ein-", "meaning": "keeping/complying with", "related": ["halten"] },
+"conjugation": {
+"present": "er hält ein",
+"past": "er hielt ein",
+"participle": "eingehalten",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "a → ä",
+"full_present": { "ich": "halte ein", "du": "hältst ein", "er_sie": "hält ein", "wir": "halten ein", "ihr": "haltet ein", "sie": "halten ein" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to keep, to comply with",
+"bengali": "মেনে চলা, পালন করা",
+"example": "Sie müssen die Regeln einhalten."
+}
+],
+"synonym": "befolgen",
+"starred": false
+},
+{
+"id": "b1_0245",
+"german": "das Einkommen",
+"word": "Einkommen",
+"article": "das",
+"plural": "die Einkommen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "ein-", "meaning": "money coming in", "related": ["kommen"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "income",
+"bengali": "আয়",
+"example": "Sie hat ein hohes Einkommen."
+}
+],
+"synonym": "der Verdienst",
+"starred": false
+},
+{
+"id": "b1_0246",
+"german": "einlegen",
+"word": "einlegen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ein-", "meaning": "inserting/pickling", "related": ["legen"] },
+"conjugation": {
+"present": "er legt ein",
+"past": "er legte ein",
+"participle": "eingelegt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "lege ein", "du": "legst ein", "er_sie": "legt ein", "wir": "legen ein", "ihr": "legt ein", "sie": "legen ein" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to insert, to pickle",
+"bengali": "সন্নিবেশ করা, আচার করা",
+"example": "Ich habe die Gurken eingelegt."
+}
+],
+"synonym": "hineinlegen",
+"starred": false
+},
+{
+"id": "b1_0247",
+"german": "einparken",
+"word": "einparken",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ein-", "meaning": "parking", "related": ["parken"] },
+"conjugation": {
+"present": "er parkt ein",
+"past": "er parkte ein",
+"participle": "eingeparkt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "parke ein", "du": "parkst ein", "er_sie": "parkt ein", "wir": "parken ein", "ihr": "parkt ein", "sie": "parken ein" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to park (the car)",
+"bengali": "গাড়ি পার্ক করা",
+"example": "Kannst du hier einparken?"
+}
+],
+"synonym": "parken",
+"starred": false
+},
+{
+"id": "b1_0248",
+"german": "einreichen",
+"word": "einreichen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ein-", "meaning": "submitting", "related": ["reichen"] },
+"conjugation": {
+"present": "er reicht ein",
+"past": "er reichte ein",
+"participle": "eingereicht",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "reiche ein", "du": "reichst ein", "er_sie": "reicht ein", "wir": "reichen ein", "ihr": "reicht ein", "sie": "reichen ein" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to submit (documents)",
+"bengali": "জমা দেওয়া",
+"example": "Ich habe die Unterlagen eingereicht."
+}
+],
+"synonym": "abgeben",
+"starred": false
+},
+{
+"id": "b1_0249",
+"german": "einschalten",
+"word": "einschalten",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ein-", "meaning": "switching on", "related": ["schalten"] },
+"conjugation": {
+"present": "er schaltet ein",
+"past": "er schaltete ein",
+"participle": "eingeschaltet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "schalte ein", "du": "schaltest ein", "er_sie": "schaltet ein", "wir": "schalten ein", "ihr": "schaltet ein", "sie": "schalten ein" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to switch on",
+"bengali": "চালু করা",
+"example": "Kannst du das Licht einschalten?"
+}
+],
+"synonym": "anschalten",
+"starred": false
+},
+{
+"id": "b1_0250",
+"german": "einschlafen",
+"word": "einschlafen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ein-", "meaning": "falling asleep", "related": ["schlafen"] },
+"conjugation": {
+"present": "er schläft ein",
+"past": "er schlief ein",
+"participle": "eingeschlafen",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": "a → ä",
+"full_present": { "ich": "schlafe ein", "du": "schläfst ein", "er_sie": "schläft ein", "wir": "schlafen ein", "ihr": "schlaft ein", "sie": "schlafen ein" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to fall asleep",
+"bengali": "ঘুমিয়ে পড়া",
+"example": "Er ist sofort eingeschlafen."
+}
+],
+"synonym": "einnicken",
+"starred": false
+},
+{
+"id": "b1_0251",
+"german": "einschreiben",
+"word": "einschreiben",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ein-", "meaning": "enrolling/registering", "related": ["schreiben"] },
+"conjugation": {
+"present": "er schreibt ein",
+"past": "er schrieb ein",
+"participle": "eingeschrieben",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "ei → ie",
+"full_present": { "ich": "schreibe ein", "du": "schreibst ein", "er_sie": "schreibt ein", "wir": "schreiben ein", "ihr": "schreibt ein", "sie": "schreiben ein" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to enroll, to register",
+"bengali": "নিবন্ধীকরণ করা",
+"example": "Ich muss mich an der Universität einschreiben."
+}
+],
+"synonym": "anmelden",
+"starred": false
+},
+{
+"id": "b1_0252",
+"german": "einseitig",
+"word": "einseitig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "one-sided",
+"bengali": "একতরফা",
+"example": "Das ist eine sehr einseitige Sichtweise."
+}
+],
+"synonym": "parteiisch",
+"starred": false
+},
+{
+"id": "b1_0253",
+"german": "einsetzen",
+"word": "einsetzen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ein-", "meaning": "inserting/employing", "related": ["setzen"] },
+"conjugation": {
+"present": "er setzt ein",
+"past": "er setzte ein",
+"participle": "eingesetzt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "setze ein", "du": "setzt ein", "er_sie": "setzt ein", "wir": "setzen ein", "ihr": "setzt ein", "sie": "setzen ein" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to use, to appoint",
+"bengali": "ব্যবহার করা, নিয়োগ করা",
+"example": "Wir setzen moderne Technik ein."
+}
+],
+"synonym": "verwenden",
+"starred": false
+},
+{
+"id": "b1_0254",
+"german": "einsperren",
+"word": "einsperren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ein-", "meaning": "locking up", "related": ["sperren"] },
+"conjugation": {
+"present": "er sperrt ein",
+"past": "er sperrte ein",
+"participle": "eingesperrt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "sperre ein", "du": "sperrst ein", "er_sie": "sperrt ein", "wir": "sperren ein", "ihr": "sperrt ein", "sie": "sperren ein" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to lock up",
+"bengali": "বন্দী করা",
+"example": "Er wurde ins Gefängnis eingesperrt."
+}
+],
+"synonym": "gefangen halten",
+"starred": false
+},
+{
+"id": "b1_0255",
+"german": "die Einsteigezeit",
+"word": "Einsteigezeit",
+"article": "die",
+"plural": "die Einsteigezeiten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "boarding time",
+"bengali": "বোর্ডিংয়ের সময়",
+"example": "Die Einsteigezeit hat begonnen."
+}
+],
+"synonym": "die Einstiegszeit",
+"starred": false
+},
+{
+"id": "b1_0256",
+"german": "einstellen",
+"word": "einstellen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ein-", "meaning": "hiring/adjusting", "related": ["stellen"] },
+"conjugation": {
+"present": "er stellt ein",
+"past": "er stellte ein",
+"participle": "eingestellt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "stelle ein", "du": "stellst ein", "er_sie": "stellt ein", "wir": "stellen ein", "ihr": "stellt ein", "sie": "stellen ein" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to hire, to adjust",
+"bengali": "নিয়োগ করা, সেট করা",
+"example": "Die Firma stellt neue Leute ein."
+}
+],
+"synonym": "anpassen",
+"starred": false
+},
+{
+"id": "b1_0257",
+"german": "das Eintrittsdatum",
+"word": "Eintrittsdatum",
+"article": "das",
+"plural": "die Eintrittsdaten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "start date",
+"bengali": "যোগদানের তারিখ",
+"example": "Wie ist das Eintrittsdatum?"
+}
+],
+"synonym": "das Startdatum",
+"starred": false
+},
+{
+"id": "b1_0258",
+"german": "die Einwanderung",
+"word": "Einwanderung",
+"article": "die",
+"plural": "die Einwanderungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "immigration",
+"bengali": "অভিবাসন",
+"example": "Die Einwanderung hat viele Vorteile."
+}
+],
+"synonym": "die Zuwanderung",
+"starred": false
+},
+{
+"id": "b1_0259",
+"german": "das Einzelzimmer (EZ)",
+"word": "Einzelzimmer (EZ)",
+"article": "das",
+"plural": "die Einzelzimmer",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "single room",
+"bengali": "সিঙ্গেল রুম",
+"example": "Haben Sie noch ein Einzelzimmer frei?"
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0260",
+"german": "das Eishockey",
+"word": "Eishockey",
+"article": "das",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "ice hockey",
+"bengali": "আইস হকি",
+"example": "Er spielt gerne Eishockey."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0261",
+"german": "der Eiskunstlauf",
+"word": "Eiskunstlauf",
+"article": "der",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "figure skating",
+"bengali": "ফিগার স্কেটিং",
+"example": "Sie liebt Eiskunstlauf."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0262",
+"german": "das Eiweiß",
+"word": "Eiweiß",
+"article": "das",
+"plural": "die Eiweiße",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "egg white, protein",
+"bengali": "ডিমের সাদা অংশ, প্রোটিন",
+"example": "Das ist wichtig für den Eiweißgehalt."
+}
+],
+"synonym": "das Protein",
+"starred": false
+},
+{
+"id": "b1_0263",
+"german": "das Elektroauto",
+"word": "Elektroauto",
+"article": "das",
+"plural": "die Elektroautos",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "electric car",
+"bengali": "বৈদ্যুতিক গাড়ি",
+"example": "Immer mehr Menschen fahren ein Elektroauto."
+}
+],
+"synonym": "das E-Auto",
+"starred": false
+},
+{
+"id": "b1_0264",
+"german": "emotional",
+"word": "emotional",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "emotional",
+"bengali": "আবেগপূর্ণ",
+"example": "Das war ein emotionaler Moment."
+}
+],
+"synonym": "gefühlvoll",
+"starred": false
+},
+{
+"id": "b1_0265",
+"german": "der Empfang",
+"word": "Empfang",
+"article": "der",
+"plural": "die Empfänge",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": { "prefix": "emp-", "meaning": "reception", "related": ["fangen"] },
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "reception",
+"bengali": "অভ্যর্থনা",
+"example": "Wir treffen uns am Empfang."
+}
+],
+"synonym": "die Rezeption",
+"starred": false
+},
+{
+"id": "b1_0266",
+"german": "empfangen",
+"word": "empfangen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "emp-", "meaning": "receiving", "related": ["fangen"] },
+"conjugation": {
+"present": "er empfängt",
+"past": "er empfing",
+"participle": "empfangen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "a → ä",
+"full_present": { "ich": "empfange", "du": "empfängst", "er_sie": "empfängt", "wir": "empfangen", "ihr": "empfangt", "sie": "empfangen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to receive",
+"bengali": "গ্রহণ করা",
+"example": "Ich habe die E-Mail empfangen."
+}
+],
+"synonym": "erhalten",
+"starred": false
+},
+{
+"id": "b1_0267",
+"german": "enden",
+"word": "enden",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": null,
+"conjugation": {
+"present": "er endet",
+"past": "er endete",
+"participle": "geendet",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "ende", "du": "endest", "er_sie": "endet", "wir": "enden", "ihr": "endet", "sie": "enden" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to end",
+"bengali": "শেষ হওয়া",
+"example": "Der Film endet traurig."
+}
+],
+"synonym": "aufhören",
+"starred": false
+},
+{
+"id": "b1_0268",
+"german": "die Energiekosten",
+"word": "Energiekosten",
+"article": "die",
+"plural": "die Energiekosten",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "energy costs",
+"bengali": "বিদ্যুৎ খরচ",
+"example": "Die Energiekosten sind zu hoch."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0269",
+"german": "das Energiesparhaus",
+"word": "Energiesparhaus",
+"article": "das",
+"plural": "die Energiesparhäuser",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "energy-saving house",
+"bengali": "জ্বালানি সাশ্রয়ী বাড়ি",
+"example": "Wir wohnen in einem Energiesparhaus."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0270",
+"german": "die Energiesparlampe",
+"word": "Energiesparlampe",
+"article": "die",
+"plural": "die Energiesparlampen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "energy-saving bulb",
+"bengali": "জ্বালানি সাশ্রয়ী বাল্ব",
+"example": "Ich habe alle Lampen gegen Energiesparlampen getauscht."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0271",
+"german": "die Energieverschwendung",
+"word": "Energieverschwendung",
+"article": "die",
+"plural": "die Energieverschwendungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "waste of energy",
+"bengali": "শক্তির অপচয়",
+"example": "Das ist reine Energieverschwendung."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0272",
+"german": "englischsprachig",
+"word": "englischsprachig",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "English-speaking",
+"bengali": "ইংরেজিভাষী",
+"example": "Wir brauchen einen englischsprachigen Mitarbeiter."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0273",
+"german": "entnehmen",
+"word": "entnehmen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ent-", "meaning": "taking from", "related": ["nehmen"] },
+"conjugation": {
+"present": "er entnimmt",
+"past": "er entnahm",
+"participle": "entnommen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "e → i",
+"full_present": { "ich": "entnehme", "du": "entnimmst", "er_sie": "entnimmt", "wir": "entnehmen", "ihr": "entnehmt", "sie": "entnehmen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to remove, to infer",
+"bengali": "অপসারণ করা, থেকে বোঝা",
+"example": "Man kann dem Text entnehmen, dass..."
+}
+],
+"synonym": "herausnehmen",
+"starred": false
+},
+{
+"id": "b1_0274",
+"german": "die Entscheidung",
+"word": "Entscheidung",
+"article": "die",
+"plural": "die Entscheidungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "decision",
+"bengali": "সিদ্ধান্ত",
+"example": "Ich habe eine Entscheidung getroffen."
+}
+],
+"synonym": "der Entschluss",
+"starred": false
+},
+{
+"id": "b1_0275",
+"german": "entspannend",
+"word": "entspannend",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "relaxing",
+"bengali": "আরামদায়ক",
+"example": "Das ist ein entspannender Urlaub."
+}
+],
+"synonym": "erholsam",
+"starred": false
+},
+{
+"id": "b1_0276",
+"german": "entsprechen",
+"word": "entsprechen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ent-", "meaning": "corresponding", "related": ["sprechen"] },
+"conjugation": {
+"present": "er entspricht",
+"past": "er entsprach",
+"participle": "entsprochen",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": "e → i",
+"full_present": { "ich": "entspreche", "du": "entsprichst", "er_sie": "entspricht", "wir": "entsprechen", "ihr": "entsprecht", "sie": "entsprechen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to correspond to",
+"bengali": "অনুরূপ হওয়া",
+"example": "Das entspricht nicht meinen Vorstellungen."
+}
+],
+"synonym": "erfüllen",
+"starred": false
+},
+{
+"id": "b1_0277",
+"german": "entstehen",
+"word": "entstehen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ent-", "meaning": "coming into being", "related": ["stehen"] },
+"conjugation": {
+"present": "er entsteht",
+"past": "er entstand",
+"participle": "entstanden",
+"auxiliary": "ist",
+"irregular": true,
+"vowel_change": null,
+"full_present": { "ich": "entstehe", "du": "entstehst", "er_sie": "entsteht", "wir": "entstehen", "ihr": "entsteht", "sie": "entstehen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to arise, to originate",
+"bengali": "সৃষ্টি হওয়া",
+"example": "Hier sind neue Probleme entstanden."
+}
+],
+"synonym": "aufkommen",
+"starred": false
+},
+{
+"id": "b1_0278",
+"german": "enttäuschen",
+"word": "enttäuschen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ent-", "meaning": "disappointing", "related": ["Täuschung"] },
+"conjugation": {
+"present": "er enttäuscht",
+"past": "er enttäuschte",
+"participle": "enttäuscht",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "enttäusche", "du": "enttäuschest", "er_sie": "enttäuscht", "wir": "enttäuschen", "ihr": "enttäuscht", "sie": "enttäuschen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to disappoint",
+"bengali": "হতাশ করা",
+"example": "Er will seine Eltern nicht enttäuschen."
+}
+],
+"synonym": "hintergehen",
+"starred": false
+},
+{
+"id": "b1_0279",
+"german": "die Enttäuschung",
+"word": "Enttäuschung",
+"article": "die",
+"plural": "die Enttäuschungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "disappointment",
+"bengali": "হতাশা",
+"example": "Die Niederlage war eine große Enttäuschung."
+}
+],
+"synonym": "der Frust",
+"starred": false
+},
+{
+"id": "b1_0280",
+"german": "entwickeln",
+"word": "entwickeln",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "ent-", "meaning": "developing", "related": ["Wickel"] },
+"conjugation": {
+"present": "er entwickelt",
+"past": "er entwickelte",
+"participle": "entwickelt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "entwickle", "du": "entwickelst", "er_sie": "entwickelt", "wir": "entwickeln", "ihr": "entwickelt", "sie": "entwickeln" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to develop",
+"bengali": "উন্নয়ন করা",
+"example": "Sie entwickeln eine neue Software."
+}
+],
+"synonym": "entwerfen",
+"starred": false
+},
+{
+"id": "b1_0281",
+"german": "das Erdbeben",
+"word": "Erdbeben",
+"article": "das",
+"plural": "die Erdbeben",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "earthquake",
+"bengali": "ভূমিকম্প",
+"example": "Das Erdbeben war sehr stark."
+}
+],
+"synonym": null,
+"starred": false
+},
+{
+"id": "b1_0282",
+"german": "die Erde",
+"word": "Erde",
+"article": "die",
+"plural": "die Erden",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "earth",
+"bengali": "পৃথিবী, মাটি",
+"example": "Die Erde dreht sich um die Sonne."
+}
+],
+"synonym": "der Boden",
+"starred": false
+},
+{
+"id": "b1_0283",
+"german": "die Erderwärmung",
+"word": "Erderwärmung",
+"article": "die",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "global warming",
+"bengali": "বৈশ্বিক উষ্ণায়ন",
+"example": "Die Erderwärmung ist ein ernstes Problem."
+}
+],
+"synonym": "der Klimawandel",
+"starred": false
+},
+{
+"id": "b1_0284",
+"german": "das Ereignis",
+"word": "Ereignis",
+"article": "das",
+"plural": "die Ereignisse",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "event",
+"bengali": "ঘটনা",
+"example": "Das war ein wichtiges Ereignis."
+}
+],
+"synonym": "das Erlebnis",
+"starred": false
+},
+{
+"id": "b1_0285",
+"german": "erfolgreich",
+"word": "erfolgreich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "successful",
+"bengali": "সফল",
+"example": "Sie sind ein erfolgreiches Team."
+}
+],
+"synonym": "gelungen",
+"starred": false
+},
+{
+"id": "b1_0286",
+"german": "die Ergänzung",
+"word": "Ergänzung",
+"article": "die",
+"plural": "die Ergänzungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "addition, supplement",
+"bengali": "পরিপূরক",
+"example": "Haben Sie noch eine Ergänzung?"
+}
+],
+"synonym": "der Zusatz",
+"starred": false
+},
+{
+"id": "b1_0287",
+"german": "das Ergebnis",
+"word": "Ergebnis",
+"article": "das",
+"plural": "die Ergebnisse",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "result",
+"bengali": "ফলাফল",
+"example": "Wie ist das Ergebnis der Prüfung?"
+}
+],
+"synonym": "das Resultat",
+"starred": false
+},
+{
+"id": "b1_0288",
+"german": "der Erhalt",
+"word": "Erhalt",
+"article": "der",
+"plural": null,
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "receipt, preservation",
+"bengali": "প্রাপ্তি, সংরক্ষণ",
+"example": "Bitte bestätigen Sie den Erhalt des Briefes."
+}
+],
+"synonym": "der Empfang",
+"starred": false
+},
+{
+"id": "b1_0289",
+"german": "erhältlich",
+"word": "erhältlich",
+"article": null,
+"plural": null,
+"type": "Adjektiv",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Adjektiv",
+"english": "available",
+"bengali": "পাওয়া যায় এমন",
+"example": "Das Medikament ist überall erhältlich."
+}
+],
+"synonym": "verfügbar",
+"starred": false
+},
+{
+"id": "b1_0290",
+"german": "erhöhen",
+"word": "erhöhen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "er-", "meaning": "increasing/raising", "related": ["hoch"] },
+"conjugation": {
+"present": "er erhöht",
+"past": "er erhöhte",
+"participle": "erhöht",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "erhöhe", "du": "erhöhst", "er_sie": "erhöht", "wir": "erhöhen", "ihr": "erhöht", "sie": "erhöhen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to increase, to raise",
+"bengali": "বাড়ানো",
+"example": "Wir müssen die Preise erhöhen."
+}
+],
+"synonym": "steigern",
+"starred": false
+},
+{
+"id": "b1_0291",
+"german": "erinnern",
+"word": "erinnern",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "er-", "meaning": "reminding", "related": ["inner"] },
+"conjugation": {
+"present": "er erinnert",
+"past": "er erinnerte",
+"participle": "erinnert",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "erinnere", "du": "erinnerst", "er_sie": "erinnert", "wir": "erinnern", "ihr": "erinnert", "sie": "erinnern" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to remind, to remember",
+"bengali": "মনে করানো, মনে রাখা",
+"example": "Erinnere mich bitte daran."
+}
+],
+"synonym": "denken an",
+"starred": false
+},
+{
+"id": "b1_0292",
+"german": "die Erinnerung",
+"word": "Erinnerung",
+"article": "die",
+"plural": "die Erinnerungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "memory",
+"bengali": "স্মৃতি",
+"example": "Ich habe gute Erinnerungen an den Urlaub."
+}
+],
+"synonym": "das Gedächtnis",
+"starred": false
+},
+{
+"id": "b1_0293",
+"german": "erkennen",
+"word": "erkennen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "er-", "meaning": "recognizing", "related": ["kennen"] },
+"conjugation": {
+"present": "er erkennt",
+"past": "er erkannte",
+"participle": "erkannt",
+"auxiliary": "hat",
+"irregular": true,
+"vowel_change": null,
+"full_present": { "ich": "erkenne", "du": "erkennst", "er_sie": "erkennt", "wir": "erkennen", "ihr": "erkennt", "sie": "erkennen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to recognize",
+"bengali": "চেনা, বোঝা",
+"example": "Ich habe ihn kaum erkannt."
+}
+],
+"synonym": "identifizieren",
+"starred": false
+},
+{
+"id": "b1_0294",
+"german": "die Erklärung",
+"word": "Erklärung",
+"article": "die",
+"plural": "die Erklärungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "explanation",
+"bengali": "ব্যাখ্যা",
+"example": "Das ist eine gute Erklärung."
+}
+],
+"synonym": "die Deutung",
+"starred": false
+},
+{
+"id": "b1_0295",
+"german": "erkundigen",
+"word": "erkundigen",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "er-", "meaning": "inquiring", "related": ["Kunde"] },
+"conjugation": {
+"present": "er erkundigt",
+"past": "er erkundigte",
+"participle": "erkundigt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "erkundige", "du": "erkundigst", "er_sie": "erkundigt", "wir": "erkundigen", "ihr": "erkundigt", "sie": "erkundigen" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to inquire (reflexive)",
+"bengali": "খোঁজ নেওয়া",
+"example": "Ich erkundige mich nach dem Weg."
+}
+],
+"synonym": "fragen nach",
+"starred": false
+},
+{
+"id": "b1_0296",
+"german": "die Erlaubnis",
+"word": "Erlaubnis",
+"article": "die",
+"plural": "die Erlaubnisse",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "permission",
+"bengali": "অনুমতি",
+"example": "Haben Sie eine Erlaubnis?"
+}
+],
+"synonym": "die Genehmigung",
+"starred": false
+},
+{
+"id": "b1_0297",
+"german": "erleben",
+"word": "erleben",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "er-", "meaning": "experiencing", "related": ["Leben"] },
+"conjugation": {
+"present": "er erlebt",
+"past": "er erlebte",
+"participle": "erlebt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "erlebe", "du": "erlebst", "er_sie": "erlebt", "wir": "erleben", "ihr": "erlebt", "sie": "erleben" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to experience",
+"bengali": "অভিজ্ঞতা লাভ করা",
+"example": "Ich habe viel in Berlin erlebt."
+}
+],
+"synonym": "durchmachen",
+"starred": false
+},
+{
+"id": "b1_0298",
+"german": "erleichtern",
+"word": "erleichtern",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "er-", "meaning": "making easier", "related": ["leicht"] },
+"conjugation": {
+"present": "er erleichtert",
+"past": "er erleichterte",
+"participle": "erleichtert",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "erleichtere", "du": "erleichterst", "er_sie": "erleichtert", "wir": "erleichtern", "ihr": "erleichtert", "sie": "erleichtern" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to make easier, to relieve",
+"bengali": "সহজ করা, উপশম করা",
+"example": "Das kann die Arbeit erleichtern."
+}
+],
+"synonym": "vereinfachen",
+"starred": false
+},
+{
+"id": "b1_0299",
+"german": "ernähren",
+"word": "ernähren",
+"article": null,
+"plural": null,
+"type": "Verb",
+"level": ["B1"],
+"prefix": { "prefix": "er-", "meaning": "nourishing", "related": ["Nahrung"] },
+"conjugation": {
+"present": "er ernährt",
+"past": "er ernährte",
+"participle": "ernährt",
+"auxiliary": "hat",
+"irregular": false,
+"vowel_change": null,
+"full_present": { "ich": "ernähre", "du": "ernährst", "er_sie": "ernährt", "wir": "ernähren", "ihr": "ernährt", "sie": "ernähren" }
+},
+"meanings": [
+{
+"pos": "Verb",
+"english": "to feed, to nourish (reflexive)",
+"bengali": "পুষ্টি জোগানো, খাওয়া",
+"example": "Er ernährt sich gesund."
+}
+],
+"synonym": "verpflegen",
+"starred": false
+},
+{
+"id": "b1_0300",
+"german": "die Ernährung",
+"word": "Ernährung",
+"article": "die",
+"plural": "die Ernährungen",
+"type": "Nomen",
+"level": ["B1"],
+"prefix": null,
+"conjugation": null,
+"meanings": [
+{
+"pos": "Nomen",
+"english": "diet, nutrition",
+"bengali": "পুষ্টি, খাদ্যভ্যাস",
+"example": "Die richtige Ernährung ist wichtig."
+}
+],
+"synonym": "die Verpflegung",
+"starred": false
+}
+]

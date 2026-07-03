@@ -1,0 +1,2711 @@
+[
+  {
+    "id": "b1_0801",
+    "german": "tropfen",
+    "word": "tropfen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er tropft",
+      "past": "er tropfte",
+      "participle": "getropft",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "tropfe",
+        "du": "tropfst",
+        "er_sie": "tropft",
+        "wir": "tropfen",
+        "ihr": "tropft",
+        "sie": "tropfen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to drip",
+        "bengali": "ফোঁটা ফোঁটা পড়া",
+        "example": "Der Wasserhahn tropft die ganze Nacht."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0802",
+    "german": "trüb",
+    "word": "trüb",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "cloudy, murky",
+        "bengali": "ঘোলাটে / মেঘলা",
+        "example": "Das Wetter heute ist sehr trüb."
+      }
+    ],
+    "synonym": "bewölkt",
+    "starred": false
+  },
+  {
+    "id": "b1_0803",
+    "german": "der Tsunami",
+    "word": "Tsunami",
+    "article": "der",
+    "plural": "die Tsunamis",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "tsunami",
+        "bengali": "সুনামি",
+        "example": "Ein Tsunami kann ganze Küstenregionen zerstören."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0804",
+    "german": "der Turm",
+    "word": "Turm",
+    "article": "der",
+    "plural": "die Türme",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "tower",
+        "bengali": "মিনার / টাওয়ার",
+        "example": "Der Eiffelturm ist das Wahrzeichen von Paris."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0805",
+    "german": "übereinstimmen",
+    "word": "übereinstimmen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": {
+      "prefix": "über-",
+      "meaning": "across/over",
+      "related": ["stimmen"]
+    },
+    "conjugation": {
+      "present": "er stimmt überein",
+      "past": "er stimmte überein",
+      "participle": "übereingestimmt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "stimme überein",
+        "du": "stimmst überein",
+        "er_sie": "stimmt überein",
+        "wir": "stimmen überein",
+        "ihr": "stimmt überein",
+        "sie": "stimmen überein"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to agree, to match",
+        "bengali": "একমত হওয়া / মিলে যাওয়া",
+        "example": "Unsere Meinungen stimmen in diesem Punkt überein."
+      }
+    ],
+    "synonym": "konkordieren",
+    "starred": false
+  },
+  {
+    "id": "b1_0806",
+    "german": "übergeben",
+    "word": "übergeben",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": {
+      "prefix": "über-",
+      "meaning": "over",
+      "related": ["geben"]
+    },
+    "conjugation": {
+      "present": "er übergibt",
+      "past": "er übergab",
+      "participle": "übergeben",
+      "auxiliary": "hat",
+      "irregular": true,
+      "vowel_change": "e → a",
+      "full_present": {
+        "ich": "übergebe",
+        "du": "übergibst",
+        "er_sie": "übergibt",
+        "wir": "übergeben",
+        "ihr": "übergebt",
+        "sie": "übergeben"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to hand over / to vomit",
+        "bengali": "হস্তান্তর করা / বমি করা",
+        "example": "Er übergibt dem Kunden die Unterlagen."
+      }
+    ],
+    "synonym": "aushändigen",
+    "starred": false
+  },
+  {
+    "id": "b1_0807",
+    "german": "überglücklich",
+    "word": "überglücklich",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "overjoyed, extremely happy",
+        "bengali": "অত্যন্ত সুখী",
+        "example": "Sie war überglücklich über die Nachricht."
+      }
+    ],
+    "synonym": "hochglücklich",
+    "starred": false
+  },
+  {
+    "id": "b1_0808",
+    "german": "überlegen",
+    "word": "überlegen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": {
+      "prefix": "über-",
+      "meaning": "over",
+      "related": ["legen"]
+    },
+    "conjugation": {
+      "present": "er überlegt",
+      "past": "er überlegte",
+      "participle": "überlegt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "überlege",
+        "du": "überlegst",
+        "er_sie": "überlegt",
+        "wir": "überlegen",
+        "ihr": "überlegt",
+        "sie": "überlegen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to think over, to reflect",
+        "bengali": "বিবেচনা করা / চিন্তা করা",
+        "example": "Ich muss mir das erst einmal überlegen."
+      }
+    ],
+    "synonym": "nachdenken",
+    "starred": false
+  },
+  {
+    "id": "b1_0809",
+    "german": "übernachten",
+    "word": "übernachten",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er übernachtet",
+      "past": "er übernachtete",
+      "participle": "übernachtet",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "übernachte",
+        "du": "übernachtest",
+        "er_sie": "übernachtet",
+        "wir": "übernachten",
+        "ihr": "übernachtet",
+        "sie": "übernachten"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to stay overnight",
+        "bengali": "রাত কাটানো",
+        "example": "Wir übernachten in einer kleinen Pension."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0810",
+    "german": "die Übernachtung",
+    "word": "Übernachtung",
+    "article": "die",
+    "plural": "die Übernachtungen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "overnight stay",
+        "bengali": "রাত যাপন / রাত থাকার ব্যবস্থা",
+        "example": "Die Übernachtung inklusive Frühstück kostet 80 Euro."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0811",
+    "german": "die Übernachtung mit Frühstück (ÜF)",
+    "word": "Übernachtung mit Frühstück (ÜF)",
+    "article": "die",
+    "plural": "die Übernachtungen mit Frühstück",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "bed and breakfast",
+        "bengali": "প্রাতরাশসহ রাত যাপন",
+        "example": "Ich habe eine ÜF in diesem Hotel gebucht."
+      }
+    ],
+    "synonym": "B&B",
+    "starred": false
+  },
+  {
+    "id": "b1_0812",
+    "german": "überraschen",
+    "word": "überraschen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er überrascht",
+      "past": "er überraschte",
+      "participle": "überrascht",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "überrasche",
+        "du": "überraschst",
+        "er_sie": "überrascht",
+        "wir": "überraschen",
+        "ihr": "überrascht",
+        "sie": "überraschen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to surprise",
+        "bengali": "অবাক করা / চমক দেওয়া",
+        "example": "Sie wollten mich mit einer Party überraschen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0813",
+    "german": "die Überschwemmung",
+    "word": "Überschwemmung",
+    "article": "die",
+    "plural": "die Überschwemmungen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "flood",
+        "bengali": "বন্যা / প্লাবন",
+        "example": "Nach dem starken Regen gab es eine Überschwemmung."
+      }
+    ],
+    "synonym": "das Hochwasser",
+    "starred": false
+  },
+  {
+    "id": "b1_0814",
+    "german": "übersetzen",
+    "word": "übersetzen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er übersetzt",
+      "past": "er übersetzte",
+      "participle": "übersetzt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "übersetze",
+        "du": "übersetzt",
+        "er_sie": "übersetzt",
+        "wir": "übersetzen",
+        "ihr": "übersetzt",
+        "sie": "übersetzen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to translate",
+        "bengali": "অনুবাদ করা",
+        "example": "Kannst du diesen Text ins Deutsche übersetzen?"
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0815",
+    "german": "die Übersetzung",
+    "word": "Übersetzung",
+    "article": "die",
+    "plural": "die Übersetzungen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "translation",
+        "bengali": "অনুবাদ",
+        "example": "Die Übersetzung des Buches ist sehr gut gelungen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0816",
+    "german": "das Übersetzungsbüro",
+    "word": "Übersetzungsbüro",
+    "article": "das",
+    "plural": "die Übersetzungsbüros",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "translation agency",
+        "bengali": "অনুবাদ সংস্থা",
+        "example": "Ich habe mein Diplom in ein Übersetzungsbüro gegeben."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0817",
+    "german": "die Überstunde",
+    "word": "Überstunde",
+    "article": "die",
+    "plural": "die Überstunden",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "overtime",
+        "bengali": "অতিরিক্ত কাজের সময়",
+        "example": "Diesen Monat muss ich viele Überstunden machen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0818",
+    "german": "die Übertragung",
+    "word": "Übertragung",
+    "article": "die",
+    "plural": "die Übertragungen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "transmission, broadcast",
+        "bengali": "সম্প্রচার / হস্তান্তর",
+        "example": "Die Live-Übertragung des Spiels war sehr spannend."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0819",
+    "german": "überzeugen",
+    "word": "überzeugen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er überzeugt",
+      "past": "er überzeugte",
+      "participle": "überzeugt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "überzeuge",
+        "du": "überzeugst",
+        "er_sie": "überzeugt",
+        "wir": "überzeugen",
+        "ihr": "überzeugt",
+        "sie": "überzeugen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to convince, to persuade",
+        "bengali": "প্ররোচিত করা / আশ্বস্ত করা",
+        "example": "Er konnte mich von seinem Plan überzeugen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0820",
+    "german": "üblich",
+    "word": "üblich",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "usual, customary",
+        "bengali": "সাধারণ / প্রচলিত",
+        "example": "In Deutschland ist es üblich, pünktlich zu sein."
+      }
+    ],
+    "synonym": "normal",
+    "starred": false
+  },
+  {
+    "id": "b1_0821",
+    "german": "umdrehen",
+    "word": "umdrehen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": {
+      "prefix": "um-",
+      "meaning": "around",
+      "related": ["drehen"]
+    },
+    "conjugation": {
+      "present": "er dreht um",
+      "past": "er drehte um",
+      "participle": "umgedreht",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "drehe um",
+        "du": "drehst um",
+        "er_sie": "dreht um",
+        "wir": "drehen um",
+        "ihr": "dreht um",
+        "sie": "drehen um"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to turn around",
+        "bengali": "ঘুরে তাকানো / উল্টানো",
+        "example": "Bitte drehen Sie das Blatt um."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0822",
+    "german": "umfallen",
+    "word": "umfallen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": {
+      "prefix": "um-",
+      "meaning": "over",
+      "related": ["fallen"]
+    },
+    "conjugation": {
+      "present": "er fällt um",
+      "past": "er fiel um",
+      "participle": "umgefallen",
+      "auxiliary": "ist",
+      "irregular": true,
+      "vowel_change": "a → ie",
+      "full_present": {
+        "ich": "falle um",
+        "du": "fällst um",
+        "er_sie": "fällt um",
+        "wir": "fallen um",
+        "ihr": "fallt um",
+        "sie": "fallen um"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to fall over",
+        "bengali": "ঢলে পড়া / পড়ে যাওয়া",
+        "example": "Die Vase ist umgefallen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0823",
+    "german": "der Umgang",
+    "word": "Umgang",
+    "article": "der",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "handling, interaction, company",
+        "bengali": "ব্যবহার / মেলামেশা",
+        "example": "Ein höflicher Umgang mit anderen ist wichtig."
+      }
+    ],
+    "synonym": "die Interaktion",
+    "starred": false
+  },
+  {
+    "id": "b1_0824",
+    "german": "die Umgebung",
+    "word": "Umgebung",
+    "article": "die",
+    "plural": "die Umgebungen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "environment, surroundings",
+        "bengali": "পারিপার্শ্বিক পরিবেশ",
+        "example": "Die Umgebung des Dorfes ist sehr ruhig."
+      }
+    ],
+    "synonym": "das Umfeld",
+    "starred": false
+  },
+  {
+    "id": "b1_0825",
+    "german": "umgehen",
+    "word": "umgehen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": {
+      "prefix": "um-",
+      "meaning": "around",
+      "related": ["gehen"]
+    },
+    "conjugation": {
+      "present": "er umgeht",
+      "past": "er umging",
+      "participle": "umgangen",
+      "auxiliary": "hat",
+      "irregular": true,
+      "vowel_change": "e → i",
+      "full_present": {
+        "ich": "umgehe",
+        "du": "umgehst",
+        "er_sie": "umgeht",
+        "wir": "umgehen",
+        "ihr": "umgeht",
+        "sie": "umgehen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to bypass / to handle",
+        "bengali": "এড়িয়ে চলা / পরিচালনা করা",
+        "example": "Wir müssen das Problem geschickt umgehen."
+      }
+    ],
+    "synonym": "vermeiden",
+    "starred": false
+  },
+  {
+    "id": "b1_0826",
+    "german": "umgehend",
+    "word": "umgehend",
+    "article": null,
+    "plural": null,
+    "type": "Adverb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adverb",
+        "english": "immediately",
+        "bengali": "তৎক্ষণাৎ",
+        "example": "Bitte antworten Sie umgehend auf meine E-Mail."
+      }
+    ],
+    "synonym": "sofort",
+    "starred": false
+  },
+  {
+    "id": "b1_0827",
+    "german": "die Umschulung",
+    "word": "Umschulung",
+    "article": "die",
+    "plural": "die Umschulungen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "retraining",
+        "bengali": "পুনঃপ্রশিক্ষণ",
+        "example": "Aufgrund seiner Krankheit muss er eine Umschulung machen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0828",
+    "german": "umso",
+    "word": "umso",
+    "article": null,
+    "plural": null,
+    "type": "Adverb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adverb",
+        "english": "all the more",
+        "bengali": "আরও বেশি করে",
+        "example": "Je früher wir anfangen, umso eher sind wir fertig."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0829",
+    "german": "umweltfreundlich",
+    "word": "umweltfreundlich",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "environmentally friendly",
+        "bengali": "পরিবেশবান্ধব",
+        "example": "Wir benutzen umweltfreundliche Verpackungen."
+      }
+    ],
+    "synonym": "ökologisch",
+    "starred": false
+  },
+  {
+    "id": "b1_0830",
+    "german": "der Umweltschutz",
+    "word": "Umweltschutz",
+    "article": "der",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "environmental protection",
+        "bengali": "পরিবেশ সংরক্ষণ",
+        "example": "Umweltschutz ist eine globale Aufgabe."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0831",
+    "german": "die Umweltverschmutzung",
+    "word": "Umweltverschmutzung",
+    "article": "die",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "environmental pollution",
+        "bengali": "পরিবেশ দূষণ",
+        "example": "Die Umweltverschmutzung durch Plastik nimmt zu."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0832",
+    "german": "unbefristet",
+    "word": "unbefristet",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "permanent, open-ended",
+        "bengali": "স্থায়ী / অনির্দিষ্টকালের জন্য",
+        "example": "Ich habe endlich einen unbefristeten Arbeitsvertrag."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0833",
+    "german": "unentschieden",
+    "word": "unentschieden",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "drawn, undecided",
+        "bengali": "অমীমাংসিত / ড্র",
+        "example": "Das Spiel endete unentschieden."
+      }
+    ],
+    "synonym": "gleichgestellt",
+    "starred": false
+  },
+  {
+    "id": "b1_0834",
+    "german": "der Unfall",
+    "word": "Unfall",
+    "article": "der",
+    "plural": "die Unfälle",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "accident",
+        "bengali": "দুর্ঘটনা",
+        "example": "Er hatte einen schweren Autounfall."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0835",
+    "german": "die Unfallgefahr",
+    "word": "Unfallgefahr",
+    "article": "die",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "danger of accident",
+        "bengali": "দুর্ঘটনার ঝুঁকি",
+        "example": "Bei Glatteis besteht eine hohe Unfallgefahr."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0836",
+    "german": "ungeduldig",
+    "word": "ungeduldig",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "impatient",
+        "bengali": "অধৈর্য",
+        "example": "Er ist sehr ungeduldig, wenn der Bus zu spät kommt."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0837",
+    "german": "ungesund",
+    "word": "ungesund",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "unhealthy",
+        "bengali": "অস্বাস্থ্যকর",
+        "example": "Zu viel Fast Food ist ungesund."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0838",
+    "german": "unglaublich",
+    "word": "unglaublich",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "unbelievable, incredible",
+        "bengali": "অবিশ্বাস্য",
+        "example": "Es ist unglaublich, wie schnell die Zeit vergeht."
+      }
+    ],
+    "synonym": "fabelhaft",
+    "starred": false
+  },
+  {
+    "id": "b1_0839",
+    "german": "unnötig",
+    "word": "unnötig",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "unnecessary",
+        "bengali": "অপ্রয়োজনীয়",
+        "example": "Diese Diskussion ist völlig unnötig."
+      }
+    ],
+    "synonym": "überflüssig",
+    "starred": false
+  },
+  {
+    "id": "b1_0840",
+    "german": "das Unrecht",
+    "word": "Unrecht",
+    "article": "das",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "injustice, wrong",
+        "bengali": "অবিচার",
+        "example": "Wir müssen gemeinsam gegen das Unrecht kämpfen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0841",
+    "german": "die Unterhaltung",
+    "word": "Unterhaltung",
+    "article": "die",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "conversation, entertainment",
+        "bengali": "কথোপকথন / বিনোদন",
+        "example": "Die Unterhaltung mit ihm war sehr angenehm."
+      }
+    ],
+    "synonym": "das Gespräch",
+    "starred": false
+  },
+  {
+    "id": "b1_0842",
+    "german": "das Unternehmen",
+    "word": "Unternehmen",
+    "article": "das",
+    "plural": "die Unternehmen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "company, enterprise",
+        "bengali": "কোম্পানি / উদ্যোগ",
+        "example": "Das Unternehmen plant, neue Mitarbeiter einzustellen."
+      }
+    ],
+    "synonym": "die Firma",
+    "starred": false
+  },
+  {
+    "id": "b1_0843",
+    "german": "unverbindlich",
+    "word": "unverbindlich",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "non-binding",
+        "bengali": "অবাধ / বাধ্যতামূলক নয়",
+        "example": "Das Angebot ist derzeit noch unverbindlich."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0844",
+    "german": "das Unwetter",
+    "word": "Unwetter",
+    "article": "das",
+    "plural": "die Unwetter",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "severe weather, storm",
+        "bengali": "তীব্র ঝড় / দুর্যোগপূর্ণ আবহাওয়া",
+        "example": "Das Unwetter verursachte viele Stromausfälle."
+      }
+    ],
+    "synonym": "der Sturm",
+    "starred": false
+  },
+  {
+    "id": "b1_0845",
+    "german": "der Urlaubstag",
+    "word": "Urlaubstag",
+    "article": "der",
+    "plural": "die Urlaubstage",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "vacation day",
+        "bengali": "ছুটির দিন",
+        "example": "Ich habe noch drei Urlaubstage übrig."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0846",
+    "german": "das Urteil",
+    "word": "Urteil",
+    "article": "das",
+    "plural": "die Urteile",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "judgment, verdict",
+        "bengali": "রায় / বিচার",
+        "example": "Das Urteil des Gerichts war überraschend."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0847",
+    "german": "vegan",
+    "word": "vegan",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "vegan",
+        "bengali": "ভেগান (প্রাণিজ পণ্যমুক্ত)",
+        "example": "Ich esse nur vegane Produkte."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0848",
+    "german": "der/die Veganer/in",
+    "word": "Veganer/in",
+    "article": "der/die",
+    "plural": "die Veganer",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "vegan",
+        "bengali": "ভেগান ব্যক্তি",
+        "example": "Sie ist seit zwei Jahren Veganerin."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0849",
+    "german": "verabreden",
+    "word": "verabreden",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er verabredet",
+      "past": "er verabredete",
+      "participle": "verabredet",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "verabrede",
+        "du": "verabredest",
+        "er_sie": "verabredet",
+        "wir": "verabreden",
+        "ihr": "verabredet",
+        "sie": "verabreden"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to arrange a meeting, to make an appointment",
+        "bengali": "সাক্ষাতের পরিকল্পনা করা",
+        "example": "Wir haben uns für morgen Abend verabredet."
+      }
+    ],
+    "synonym": "vereinbaren",
+    "starred": false
+  },
+  {
+    "id": "b1_0850",
+    "german": "verändern",
+    "word": "verändern",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er verändert",
+      "past": "er veränderte",
+      "participle": "verändert",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "verändere",
+        "du": "veränderst",
+        "er_sie": "verändert",
+        "wir": "verändern",
+        "ihr": "verändert",
+        "sie": "verändern"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to change, to alter",
+        "bengali": "পরিবর্তন করা",
+        "example": "Die Technik verändert unser Leben ständig."
+      }
+    ],
+    "synonym": "modifizieren",
+    "starred": false
+  },
+  {
+    "id": "b1_0851",
+    "german": "verärgert",
+    "word": "verärgert",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "annoyed, angry",
+        "bengali": "বিরক্ত / রাগান্বিত",
+        "example": "Er war sehr verärgert über die Verspätung."
+      }
+    ],
+    "synonym": "wütend",
+    "starred": false
+  },
+  {
+    "id": "b1_0852",
+    "german": "der Verbrauch",
+    "word": "Verbrauch",
+    "article": "der",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "consumption, usage",
+        "bengali": "ব্যবহার / খরচ",
+        "example": "Der Stromverbrauch ist im Winter höher."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0853",
+    "german": "der/die Verbraucher/in",
+    "word": "Verbraucher/in",
+    "article": "der/die",
+    "plural": "die Verbraucher",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "consumer",
+        "bengali": "ভোক্তা",
+        "example": "Verbraucher achten heute mehr auf Bio-Produkte."
+      }
+    ],
+    "synonym": "der Kunde",
+    "starred": false
+  },
+  {
+    "id": "b1_0854",
+    "german": "verdrängen",
+    "word": "verdrängen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er verdrängt",
+      "past": "er verdrängte",
+      "participle": "verdrängt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "verdränge",
+        "du": "verdrängst",
+        "er_sie": "verdrängt",
+        "wir": "verdrängen",
+        "ihr": "verdrängt",
+        "sie": "verdrängen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to displace, to push away",
+        "bengali": "সরে যাওয়া / সরিয়ে দেওয়া",
+        "example": "Digitale Medien verdrängen die gedruckten Zeitungen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0855",
+    "german": "vereinbar",
+    "word": "vereinbar",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "compatible, reconcilable",
+        "bengali": "সামঞ্জস্যপূর্ণ",
+        "example": "Beruf und Familie sind oft schwer vereinbar."
+      }
+    ],
+    "synonym": "kompatibel",
+    "starred": false
+  },
+  {
+    "id": "b1_0856",
+    "german": "vereinigen",
+    "word": "vereinigen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er vereinigt",
+      "past": "er vereinigte",
+      "participle": "vereinigt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "vereinige",
+        "du": "vereinigst",
+        "er_sie": "vereinigt",
+        "wir": "vereinigen",
+        "ihr": "vereinigt",
+        "sie": "vereinigen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to unite, to merge",
+        "bengali": "একত্রিত করা / একীভূত করা",
+        "example": "Die beiden Firmen haben sich vereinigt."
+      }
+    ],
+    "synonym": "zusammenführen",
+    "starred": false
+  },
+  {
+    "id": "b1_0857",
+    "german": "verfolgen",
+    "word": "verfolgen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er verfolgt",
+      "past": "er verfolgte",
+      "participle": "verfolgt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "verfolge",
+        "du": "verfolgst",
+        "er_sie": "verfolgt",
+        "wir": "verfolgen",
+        "ihr": "verfolgt",
+        "sie": "verfolgen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to pursue, to follow",
+        "bengali": "অনুসরণ করা / পিছু নেওয়া",
+        "example": "Die Polizei verfolgt den Dieb."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0858",
+    "german": "vergleichbar",
+    "word": "vergleichbar",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "comparable",
+        "bengali": "তুলনাযোগ্য",
+        "example": "Die beiden Städte sind in ihrer Größe vergleichbar."
+      }
+    ],
+    "synonym": "ähnlich",
+    "starred": false
+  },
+  {
+    "id": "b1_0859",
+    "german": "die Vergütung",
+    "word": "Vergütung",
+    "article": "die",
+    "plural": "die Vergütungen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "remuneration, payment",
+        "bengali": "পারিশ্রমিক / বেতন",
+        "example": "Die Vergütung für diese Arbeit ist sehr fair."
+      }
+    ],
+    "synonym": "die Bezahlung",
+    "starred": false
+  },
+  {
+    "id": "b1_0860",
+    "german": "verhaften",
+    "word": "verhaften",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er verhaftet",
+      "past": "er verhaftete",
+      "participle": "verhaftet",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "verhafte",
+        "du": "verhaftest",
+        "er_sie": "verhaftet",
+        "wir": "verhaften",
+        "ihr": "verhaftet",
+        "sie": "verhaften"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to arrest",
+        "bengali": "গ্রেফতার করা",
+        "example": "Die Polizei hat den Verdächtigen gestern verhaftet."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0861",
+    "german": "verlängern",
+    "word": "verlängern",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er verlängert",
+      "past": "er verlängerte",
+      "participle": "verlängert",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "verlängere",
+        "du": "verlängerst",
+        "er_sie": "verlängert",
+        "wir": "verlängern",
+        "ihr": "verlängert",
+        "sie": "verlängern"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to extend, to lengthen",
+        "bengali": "দীর্ঘায়িত করা / বাড়ানো",
+        "example": "Ich möchte meinen Pass verlängern."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0862",
+    "german": "verlassen",
+    "word": "verlassen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er verlässt",
+      "past": "er verließ",
+      "participle": "verlassen",
+      "auxiliary": "hat",
+      "irregular": true,
+      "vowel_change": "a → ie",
+      "full_present": {
+        "ich": "verlasse",
+        "du": "verlässt",
+        "er_sie": "verlässt",
+        "wir": "verlassen",
+        "ihr": "verlasst",
+        "sie": "verlassen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to leave / to rely on",
+        "bengali": "ত্যাগ করা / ভরসা করা",
+        "example": "Er hat das Haus um acht Uhr verlassen."
+      }
+    ],
+    "synonym": "weggehen",
+    "starred": false
+  },
+  {
+    "id": "b1_0863",
+    "german": "verlaufen",
+    "word": "verlaufen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er verläuft",
+      "past": "er verlief",
+      "participle": "verlaufen",
+      "auxiliary": "ist",
+      "irregular": true,
+      "vowel_change": "au → ie",
+      "full_present": {
+        "ich": "verlaufe",
+        "du": "verläufst",
+        "er_sie": "verläuft",
+        "wir": "verlaufen",
+        "ihr": "verlauft",
+        "sie": "verlaufen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to get lost / to proceed",
+        "bengali": "পথ হারিয়ে ফেলা / অগ্রসর হওয়া",
+        "example": "Ich habe mich in der fremden Stadt verlaufen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0864",
+    "german": "verletzen",
+    "word": "verletzen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er verletzt",
+      "past": "er verletzte",
+      "participle": "verletzt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "verletze",
+        "du": "verletzt",
+        "er_sie": "verletzt",
+        "wir": "verletzen",
+        "ihr": "verletzt",
+        "sie": "verletzen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to injure, to hurt",
+        "bengali": "আঘাত করা / আহত করা",
+        "example": "Er hat sich beim Sport am Knie verletzt."
+      }
+    ],
+    "synonym": "beschädigen",
+    "starred": false
+  },
+  {
+    "id": "b1_0865",
+    "german": "der/die Verlierer/in",
+    "word": "Verlierer/in",
+    "article": "der/die",
+    "plural": "die Verlierer",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "loser",
+        "bengali": "পরাজিদ ব্যক্তি",
+        "example": "Im Sport gibt es immer einen Sieger und einen Verlierer."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0866",
+    "german": "vermischen",
+    "word": "vermischen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er vermischt",
+      "past": "er vermischte",
+      "participle": "vermischt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "vermische",
+        "du": "vermischst",
+        "er_sie": "vermischt",
+        "wir": "vermischen",
+        "ihr": "vermischt",
+        "sie": "vermischen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to mix, to blend",
+        "bengali": "মিশ্রিত করা",
+        "example": "Man muss die Farben gut vermischen."
+      }
+    ],
+    "synonym": "mischen",
+    "starred": false
+  },
+  {
+    "id": "b1_0867",
+    "german": "vermissen",
+    "word": "vermissen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er vermisst",
+      "past": "er vermisste",
+      "participle": "vermisst",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "vermisse",
+        "du": "vermisst",
+        "er_sie": "vermisst",
+        "wir": "vermissen",
+        "ihr": "vermisst",
+        "sie": "vermissen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to miss someone/something",
+        "bengali": "মিস করা / অভাব অনুভব করা",
+        "example": "Ich vermisse meine Familie sehr."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0868",
+    "german": "verpacken",
+    "word": "verpacken",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er verpackt",
+      "past": "er verpackte",
+      "participle": "verpackt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "verpacke",
+        "du": "verpackst",
+        "er_sie": "verpackt",
+        "wir": "verpacken",
+        "ihr": "verpackt",
+        "sie": "verpacken"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to pack, to wrap",
+        "bengali": "প্যাক করা / প্যাকেট করা",
+        "example": "Die Waren werden sicher in Kartons verpackt."
+      }
+    ],
+    "synonym": "einpacken",
+    "starred": false
+  },
+  {
+    "id": "b1_0869",
+    "german": "verpflichten",
+    "word": "verpflichten",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er verpflichtet",
+      "past": "er verpflichtete",
+      "participle": "verpflichtet",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "verpflichte",
+        "du": "verpflichtest",
+        "er_sie": "verpflichtet",
+        "wir": "verpflichten",
+        "ihr": "verpflichtet",
+        "sie": "verpflichten"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to obligate, to commit",
+        "bengali": "বাধ্য করা / প্রতিশ্রুতিবদ্ধ করা",
+        "example": "Der Vertrag verpflichtet beide Parteien zur Geheimhaltung."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0870",
+    "german": "verreisen",
+    "word": "verreisen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er verreist",
+      "past": "er verreiste",
+      "participle": "verreist",
+      "auxiliary": "ist",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "verreise",
+        "du": "verreist",
+        "er_sie": "verreist",
+        "wir": "verreisen",
+        "ihr": "verreist",
+        "sie": "verreisen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to go on a trip, to travel",
+        "bengali": "ভ্রমণে যাওয়া",
+        "example": "Im Sommer verreisen viele Menschen ans Meer."
+      }
+    ],
+    "synonym": "wegfahren",
+    "starred": false
+  },
+  {
+    "id": "b1_0871",
+    "german": "der Versand",
+    "word": "Versand",
+    "article": "der",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "shipping, dispatch",
+        "bengali": "শিপিং / প্রেরণ",
+        "example": "Der Versand erfolgt innerhalb von drei Werktagen."
+      }
+    ],
+    "synonym": "die Lieferung",
+    "starred": false
+  },
+  {
+    "id": "b1_0872",
+    "german": "die Versandkosten",
+    "word": "Versandkosten (Pl.)",
+    "article": "die",
+    "plural": "die Versandkosten",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "shipping costs",
+        "bengali": "শিপিং খরচ",
+        "example": "Die Versandkosten betragen 4,90 Euro."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0873",
+    "german": "versandkostenfrei",
+    "word": "versandkostenfrei",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "free shipping",
+        "bengali": "শিপিং খরচ মুক্ত",
+        "example": "Ab einem Bestellwert von 50 Euro ist die Lieferung versandkostenfrei."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0874",
+    "german": "die Versandkostenpauschale",
+    "word": "Versandkostenpauschale",
+    "article": "die",
+    "plural": "die Versandkostenpauschalen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "flat-rate shipping fee",
+        "bengali": "শিপিংয়ের নির্ধারিত ফি",
+        "example": "Wir erheben eine Versandkostenpauschale von 5 Euro."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0875",
+    "german": "verschieben",
+    "word": "verschieben",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er verschiebt",
+      "past": "er verschob",
+      "participle": "verschoben",
+      "auxiliary": "hat",
+      "irregular": true,
+      "vowel_change": "ie → o",
+      "full_present": {
+        "ich": "verschiebe",
+        "du": "verschiebst",
+        "er_sie": "verschiebt",
+        "wir": "verschieben",
+        "ihr": "verschiebt",
+        "sie": "verschieben"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to postpone, to shift",
+        "bengali": "স্থগিত করা / সরানো",
+        "example": "Können wir den Termin auf nächste Woche verschieben?"
+      }
+    ],
+    "synonym": "vertagen",
+    "starred": false
+  },
+  {
+    "id": "b1_0876",
+    "german": "verschmutzen",
+    "word": "verschmutzen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er verschmutzt",
+      "past": "er verschmutzte",
+      "participle": "verschmutzt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "verschmutze",
+        "du": "verschmutzt",
+        "er_sie": "verschmutzt",
+        "wir": "verschmutzen",
+        "ihr": "verschmutzt",
+        "sie": "verschmutzen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to pollute, to dirty",
+        "bengali": "দূষিত করা",
+        "example": "Fabriken verschmutzen oft die Umwelt."
+      }
+    ],
+    "synonym": "verunreinigen",
+    "starred": false
+  },
+  {
+    "id": "b1_0877",
+    "german": "verschwenden",
+    "word": "verschwenden",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er verschwendet",
+      "past": "er verschwendete",
+      "participle": "verschwendet",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "verschwende",
+        "du": "verschwendest",
+        "er_sie": "verschwendet",
+        "wir": "verschwenden",
+        "ihr": "verschwendet",
+        "sie": "verschwenden"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to waste",
+        "bengali": "অপচয় করা",
+        "example": "Wir sollten kein Trinkwasser verschwenden."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0878",
+    "german": "die Verschwendung",
+    "word": "Verschwendung",
+    "article": "die",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "waste",
+        "bengali": "অপচয়",
+        "example": "Es ist eine Verschwendung von Zeit und Geld."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0879",
+    "german": "versehentlich",
+    "word": "versehentlich",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "accidentally, by mistake",
+        "bengali": "ভুলবশত",
+        "example": "Ich habe versehentlich die falsche Taste gedrückt."
+      }
+    ],
+    "synonym": "aus Versehen",
+    "starred": false
+  },
+  {
+    "id": "b1_0880",
+    "german": "versenden",
+    "word": "versenden",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er versendet",
+      "past": "er versendete",
+      "participle": "versendet",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "versende",
+        "du": "versendest",
+        "er_sie": "versendet",
+        "wir": "versenden",
+        "ihr": "versendet",
+        "sie": "versenden"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to send, to dispatch",
+        "bengali": "প্রেরণ করা",
+        "example": "Wir versenden die Ware per Express."
+      }
+    ],
+    "synonym": "verschicken",
+    "starred": false
+  },
+  {
+    "id": "b1_0881",
+    "german": "versichern",
+    "word": "versichern",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er versichert",
+      "past": "er versicherte",
+      "participle": "versichert",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "versichere",
+        "du": "versicherst",
+        "er_sie": "versichert",
+        "wir": "versichern",
+        "ihr": "versichert",
+        "sie": "versichern"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to insure / to assure",
+        "bengali": "বীমা করা / নিশ্চিত করা",
+        "example": "Ich muss mein neues Auto versichern."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0882",
+    "german": "der/die Versicherungsberater/in",
+    "word": "Versicherungsberater/in",
+    "article": "der/die",
+    "plural": "die Versicherungsberater",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "insurance advisor",
+        "bengali": "বীমা উপদেষ্টা",
+        "example": "Der Versicherungsberater hat mir verschiedene Tarife erklärt."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0883",
+    "german": "der Versicherungsschutz",
+    "word": "Versicherungsschutz",
+    "article": "der",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "insurance coverage",
+        "bengali": "বীমা সুরক্ষা / কভারেজ",
+        "example": "Prüfen Sie, ob Ihr Versicherungsschutz ausreichend ist."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0884",
+    "german": "versorgen",
+    "word": "versorgen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er versorgt",
+      "past": "er versorgte",
+      "participle": "versorgt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "versorge",
+        "du": "versorgst",
+        "er_sie": "versorgt",
+        "wir": "versorgen",
+        "ihr": "versorgt",
+        "sie": "versorgen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to provide for, to supply, to care for",
+        "bengali": "যত্ন নেওয়া / সরবরাহ করা",
+        "example": "Die Krankenschwester versorgt die Wunde."
+      }
+    ],
+    "synonym": "pflegen",
+    "starred": false
+  },
+  {
+    "id": "b1_0885",
+    "german": "versprechen",
+    "word": "versprechen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er verspricht",
+      "past": "er versprach",
+      "participle": "versprochen",
+      "auxiliary": "hat",
+      "irregular": true,
+      "vowel_change": "e → i",
+      "full_present": {
+        "ich": "verspreche",
+        "du": "versprichst",
+        "er_sie": "verspricht",
+        "wir": "versprechen",
+        "ihr": "versprecht",
+        "sie": "versprechen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to promise",
+        "bengali": "প্রতিশ্রুতি দেওয়া",
+        "example": "Ich verspreche dir, dass ich pünktlich bin."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0886",
+    "german": "das Verständnis",
+    "word": "Verständnis",
+    "article": "das",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "understanding, comprehension",
+        "bengali": "বোধগম্যতা / সহানুভূতি",
+        "example": "Vielen Dank für Ihr Verständnis."
+      }
+    ],
+    "synonym": "die Einsicht",
+    "starred": false
+  },
+  {
+    "id": "b1_0887",
+    "german": "die Verstärkung",
+    "word": "Verstärkung",
+    "article": "die",
+    "plural": "die Verstärkungen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "reinforcement, boost",
+        "bengali": "শক্তিকরণ / অতিরিক্ত সহায়তা",
+        "example": "Das Team braucht dringend Verstärkung."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0888",
+    "german": "der Verstoß",
+    "word": "Verstoß",
+    "article": "der",
+    "plural": "die Verstöße",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "violation, breach",
+        "bengali": "লঙ্ঘন",
+        "example": "Ein Verstoß gegen die Verkehrsregeln kann teuer werden."
+      }
+    ],
+    "synonym": "die Zuwiderhandlung",
+    "starred": false
+  },
+  {
+    "id": "b1_0889",
+    "german": "verstoßen",
+    "word": "verstoßen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er verstößt",
+      "past": "er verstieß",
+      "participle": "verstoßen",
+      "auxiliary": "hat",
+      "irregular": true,
+      "vowel_change": "o → ie",
+      "full_present": {
+        "ich": "verstoße",
+        "du": "verstößt",
+        "er_sie": "verstößt",
+        "wir": "verstoßen",
+        "ihr": "verstoßt",
+        "sie": "verstoßen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to violate, to disobey",
+        "bengali": "লঙ্ঘন করা",
+        "example": "Wer gegen die Regeln verstößt, muss eine Strafe zahlen."
+      }
+    ],
+    "synonym": "verletzen",
+    "starred": false
+  },
+  {
+    "id": "b1_0890",
+    "german": "vertragen",
+    "word": "vertragen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er verträgt",
+      "past": "er vertrug",
+      "participle": "vertragen",
+      "auxiliary": "hat",
+      "irregular": true,
+      "vowel_change": "a → ra",
+      "full_present": {
+        "ich": "vertrage",
+        "du": "verträgst",
+        "er_sie": "verträgt",
+        "wir": "vertragen",
+        "ihr": "vertragt",
+        "sie": "vertragen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to tolerate, to get along",
+        "bengali": "সহ্য করা / মানিয়ে নেওয়া",
+        "example": "Ich vertrage keine Milchprodukte."
+      }
+    ],
+    "synonym": "tolerieren",
+    "starred": false
+  },
+  {
+    "id": "b1_0891",
+    "german": "das Vertragsende",
+    "word": "Vertragsende",
+    "article": "das",
+    "plural": "die Vertragsenden",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "end of contract",
+        "bengali": "চুক্তির শেষ তারিখ",
+        "example": "Das Vertragsende ist am 31. Dezember."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0892",
+    "german": "die Vertragsnummer",
+    "word": "Vertragsnummer",
+    "article": "die",
+    "plural": "die Vertragsnummern",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "contract number",
+        "bengali": "চুক্তি নম্বর",
+        "example": "Bitte geben Sie Ihre Vertragsnummer an."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0893",
+    "german": "verursachen",
+    "word": "verursachen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er verursacht",
+      "past": "er verursachte",
+      "participle": "verursacht",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "verursache",
+        "du": "verursachst",
+        "er_sie": "verursacht",
+        "wir": "verursachen",
+        "ihr": "verursacht",
+        "sie": "verursachen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to cause",
+        "bengali": "ঘটানো / কারণ হওয়া",
+        "example": "Ein kleiner Fehler kann große Probleme verursachen."
+      }
+    ],
+    "synonym": "auslösen",
+    "starred": false
+  },
+  {
+    "id": "b1_0894",
+    "german": "verurteilen",
+    "word": "verurteilen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er verurteilt",
+      "past": "er verurteilte",
+      "participle": "verurteilt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "verurteile",
+        "du": "verurteilst",
+        "er_sie": "verurteilt",
+        "wir": "verurteilen",
+        "ihr": "verurteilt",
+        "sie": "verurteilen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to condemn, to sentence",
+        "bengali": "দণ্ড দেওয়া / নিন্দা করা",
+        "example": "Das Gericht hat den Täter zu einer Geldstrafe verurteilt."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0895",
+    "german": "verwerten",
+    "word": "verwerten",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er verwertet",
+      "past": "er verwertete",
+      "participle": "verwertet",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "verwerte",
+        "du": "verwertest",
+        "er_sie": "verwertet",
+        "wir": "verwerten",
+        "ihr": "verwertet",
+        "sie": "verwerten"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to utilize, to recycle",
+        "bengali": "কাজে লাগানো / পুনর্ব্যবহার করা",
+        "example": "Wir müssen alte Materialien besser verwerten."
+      }
+    ],
+    "synonym": "nutzen",
+    "starred": false
+  },
+  {
+    "id": "b1_0896",
+    "german": "der Verzehr",
+    "word": "Verzehr",
+    "article": "der",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "consumption (of food/drink)",
+        "bengali": "খাদ্য গ্রহণ",
+        "example": "Der Verzehr von zu viel Zucker ist ungesund."
+      }
+    ],
+    "synonym": "der Konsum",
+    "starred": false
+  },
+  {
+    "id": "b1_0897",
+    "german": "verzichten",
+    "word": "verzichten",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er verzichtet",
+      "past": "er verzichtete",
+      "participle": "verzichtet",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "verzichte",
+        "du": "verzichtest",
+        "er_sie": "verzichtet",
+        "wir": "verzichten",
+        "ihr": "verzichtet",
+        "sie": "verzichten"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to waive, to do without",
+        "bengali": "ত্যাগ করা / বর্জন করা",
+        "example": "Ich verzichte heute auf den Nachtisch."
+      }
+    ],
+    "synonym": "aufgeben",
+    "starred": false
+  },
+  {
+    "id": "b1_0898",
+    "german": "das Visum",
+    "word": "Visum",
+    "article": "das",
+    "plural": "die Visa",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "visa",
+        "bengali": "ভিসা",
+        "example": "Für die Reise in die USA brauche ich ein Visum."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0899",
+    "german": "völlig",
+    "word": "völlig",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "completely, total",
+        "bengali": "সম্পূর্ণ / পুরোপুরি",
+        "example": "Ich bin mir dessen völlig sicher."
+      }
+    ],
+    "synonym": "komplett",
+    "starred": false
+  },
+  {
+    "id": "b1_0900",
+    "german": "die Vollkaskoversicherung (Vollkasko)",
+    "word": "Vollkaskoversicherung (Vollkasko)",
+    "article": "die",
+    "plural": "die Vollkaskoversicherungen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "full casco insurance",
+        "bengali": "সম্পূর্ণ ক্যাসকো বীমা",
+        "example": "Eine Vollkasko bietet den umfassendsten Schutz für das Auto."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  }
+]

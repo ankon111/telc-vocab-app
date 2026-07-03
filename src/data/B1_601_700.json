@@ -1,0 +1,2318 @@
+[
+  {
+    "id": "b1_0601",
+    "german": "das Niveau",
+    "word": "Niveau",
+    "article": "das",
+    "plural": "die Niveaus",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "level, standard",
+        "bengali": "স্তর, মান",
+        "example": "Das Sprachniveau B1 ist ein wichtiger Meilenstein."
+      }
+    ],
+    "synonym": "die Ebene",
+    "starred": false
+  },
+  {
+    "id": "b1_0602",
+    "german": "die Notunterkunft",
+    "word": "Notunterkunft",
+    "article": "die",
+    "plural": "die Notunterkünfte",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "emergency shelter",
+        "bengali": "জরুরি আশ্রয়",
+        "example": "Obdachlose finden in der Notunterkunft einen Schlafplatz."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0603",
+    "german": "das Nummernschild",
+    "word": "Nummernschild",
+    "article": "das",
+    "plural": "die Nummernschilder",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "license plate",
+        "bengali": "গাড়ির নাম্বার প্লেট",
+        "example": "Das Nummernschild ist durch den Unfall beschädigt."
+      }
+    ],
+    "synonym": "das Kennzeichen",
+    "starred": false
+  },
+  {
+    "id": "b1_0604",
+    "german": "die Nuss",
+    "word": "Nuss",
+    "article": "die",
+    "plural": "die Nüsse",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "nut",
+        "bengali": "বাদাম",
+        "example": "Viele Menschen sind allergisch gegen Nüsse."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0605",
+    "german": "objektiv",
+    "word": "objektiv",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "objective, impartial",
+        "bengali": "নিরপেক্ষ, বস্তুনিষ্ঠ",
+        "example": "Ein Richter muss objektiv entscheiden."
+      }
+    ],
+    "synonym": "neutral",
+    "starred": false
+  },
+  {
+    "id": "b1_0606",
+    "german": "die Obstschale",
+    "word": "Obstschale",
+    "article": "die",
+    "plural": "die Obstschalen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "fruit bowl",
+        "bengali": "ফলের বাটি",
+        "example": "Auf dem Tisch steht eine frische Obstschale."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0607",
+    "german": "obwohl",
+    "word": "obwohl",
+    "article": null,
+    "plural": null,
+    "type": "Konjunktion",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Konjunktion",
+        "english": "although, even though",
+        "bengali": "যদিও",
+        "example": "Er geht spazieren, obwohl es regnet."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0608",
+    "german": "offen",
+    "word": "offen",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "open",
+        "bengali": "খোলা",
+        "example": "Das Geschäft ist heute bis 20 Uhr offen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0609",
+    "german": "offenbar",
+    "word": "offenbar",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "apparently, obviously",
+        "bengali": "স্পষ্টত, দৃশ্যত",
+        "example": "Er hat die Nachricht offenbar nicht gelesen."
+      }
+    ],
+    "synonym": "anscheinend",
+    "starred": false
+  },
+  {
+    "id": "b1_0610",
+    "german": "die Öffnung",
+    "word": "Öffnung",
+    "article": "die",
+    "plural": "die Öffnungen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "opening",
+        "bengali": "খোলা বা প্রবেশপথ",
+        "example": "Die Öffnung der Tür erfolgt automatisch."
+      }
+    ],
+    "synonym": "die Lücke",
+    "starred": false
+  },
+  {
+    "id": "b1_0611",
+    "german": "der Oldtimer",
+    "word": "Oldtimer",
+    "article": "der",
+    "plural": "die Oldtimer",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "classic car, vintage car",
+        "bengali": "পুরানো ক্লাসিক গাড়ি",
+        "example": "Mein Opa besitzt einen wunderschönen Oldtimer."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0612",
+    "german": "der Onlineeinkauf",
+    "word": "Onlineeinkauf",
+    "article": "der",
+    "plural": "die Onlineeinkäufe",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "online shopping (the act of buying)",
+        "bengali": "অনলাইন কেনাকাটা",
+        "example": "Der Onlineeinkauf spart viel Zeit."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0613",
+    "german": "der Onlineshop",
+    "word": "Onlineshop",
+    "article": "der",
+    "plural": "die Onlineshops",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "online shop",
+        "bengali": "অনলাইন দোকান",
+        "example": "Ich habe das Buch in einem Onlineshop bestellt."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0614",
+    "german": "das Onlineshopping",
+    "word": "Onlineshopping",
+    "article": "das",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "online shopping (the activity)",
+        "bengali": "অনলাইন শপিং",
+        "example": "Onlineshopping ist heutzutage sehr beliebt."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0615",
+    "german": "optimistisch",
+    "word": "optimistisch",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "optimistic",
+        "bengali": "আশাবাদী",
+        "example": "Ich bin optimistisch, dass wir das Projekt schaffen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0616",
+    "german": "das Original",
+    "word": "Original",
+    "article": "das",
+    "plural": "die Originale",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "original",
+        "bengali": "আসল বা মূল সংস্করণ",
+        "example": "Dies ist das Original und keine Kopie."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0617",
+    "german": "das Paket",
+    "word": "Paket",
+    "article": "das",
+    "plural": "die Pakete",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "package, parcel",
+        "bengali": "পার্সেল, প্যাকেট",
+        "example": "Das Paket wurde gestern geliefert."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0618",
+    "german": "der Paketbote",
+    "word": "Paketbote",
+    "article": "der",
+    "plural": "die Paketboten",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "parcel delivery man",
+        "bengali": "পার্সেল ডেলিভারি ম্যান",
+        "example": "Der Paketbote hat gerade geklingelt."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0619",
+    "german": "der Paketdienst",
+    "word": "Paketdienst",
+    "article": "der",
+    "plural": "die Paketdienste",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "parcel service",
+        "bengali": "পার্সেল পরিষেবা",
+        "example": "Welcher Paketdienst ist am zuverlässigsten?"
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0620",
+    "german": "der Papiermüll",
+    "word": "Papiermüll",
+    "article": "der",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "paper waste",
+        "bengali": "কাগজের বর্জ্য",
+        "example": "Bitte werfen Sie die Zeitungen in den Papiermüll."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0621",
+    "german": "die Pappe",
+    "word": "Pappe",
+    "article": "die",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "cardboard",
+        "bengali": "কার্ডবোর্ড, শক্ত কাগজ",
+        "example": "Die Kiste ist aus dicker Pappe."
+      }
+    ],
+    "synonym": "der Karton",
+    "starred": false
+  },
+  {
+    "id": "b1_0622",
+    "german": "das Paradies",
+    "word": "Paradies",
+    "article": "das",
+    "plural": "die Paradiese",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "paradise",
+        "bengali": "স্বর্গ",
+        "example": "Die Insel ist ein wahres Paradies."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0623",
+    "german": "parken",
+    "word": "parken",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er parkt",
+      "past": "er parkte",
+      "participle": "geparkt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "parke",
+        "du": "parkst",
+        "er_sie": "parkt",
+        "wir": "parken",
+        "ihr": "parkt",
+        "sie": "parken"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to park",
+        "bengali": "পার্ক করা",
+        "example": "Hier darf man nicht parken."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0624",
+    "german": "die Parklücke",
+    "word": "Parklücke",
+    "article": "die",
+    "plural": "die Parklücken",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "parking space/gap",
+        "bengali": "পার্কিংয়ের ফাঁকা জায়গা",
+        "example": "Ich habe glücklicherweise eine Parklücke gefunden."
+      }
+    ],
+    "synonym": "der Parkplatz",
+    "starred": false
+  },
+  {
+    "id": "b1_0625",
+    "german": "der/die Passagier/in",
+    "word": "Passagier/in",
+    "article": "der/die",
+    "plural": "die Passagiere",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "passenger",
+        "bengali": "যাত্রী",
+        "example": "Die Passagiere steigen in den Zug ein."
+      }
+    ],
+    "synonym": "der Fluggast",
+    "starred": false
+  },
+  {
+    "id": "b1_0626",
+    "german": "die Passkontrolle",
+    "word": "Passkontrolle",
+    "article": "die",
+    "plural": "die Passkontrollen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "passport control",
+        "bengali": "পাসপোর্ট নিয়ন্ত্রণ",
+        "example": "Die Passkontrolle am Flughafen dauerte lange."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0627",
+    "german": "der PC",
+    "word": "PC",
+    "article": "der",
+    "plural": "die PCs",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "PC, computer",
+        "bengali": "পিসি, কম্পিউটার",
+        "example": "Mein PC ist sehr langsam geworden."
+      }
+    ],
+    "synonym": "der Computer",
+    "starred": false
+  },
+  {
+    "id": "b1_0628",
+    "german": "der Personenschaden",
+    "word": "Personenschaden",
+    "article": "der",
+    "plural": "die Personenschäden",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "personal injury",
+        "bengali": "ব্যক্তিগত আঘাত বা ক্ষতি",
+        "example": "Bei dem Unfall gab es zum Glück keinen Personenschaden."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0629",
+    "german": "der/die Pflegehelfer/in",
+    "word": "Pflegehelfer/in",
+    "article": "der/die",
+    "plural": "die Pflegehelfer",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "nursing assistant",
+        "bengali": "নার্সিং সহকারী",
+        "example": "Der Pflegehelfer unterstützt die Krankenschwestern."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0630",
+    "german": "die Pflegekraft",
+    "word": "Pflegekraft",
+    "article": "die",
+    "plural": "die Pflegekräfte",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "care worker, nursing staff",
+        "bengali": "সেবা কর্মী",
+        "example": "Es fehlen viele qualifizierte Pflegekräfte."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0631",
+    "german": "die Phase",
+    "word": "Phase",
+    "article": "die",
+    "plural": "die Phasen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "phase, stage",
+        "bengali": "পর্যায়",
+        "example": "Das Projekt befindet sich in der ersten Phase."
+      }
+    ],
+    "synonym": "der Abschnitt",
+    "starred": false
+  },
+  {
+    "id": "b1_0632",
+    "german": "das Picknick",
+    "word": "Picknick",
+    "article": "das",
+    "plural": "die Picknicks",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "picnic",
+        "bengali": "পিকনিক",
+        "example": "Wir machen am Wochenende ein Picknick im Park."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0633",
+    "german": "der Pilotenstreik",
+    "word": "Pilotenstreik",
+    "article": "der",
+    "plural": "die Pilotenstreiks",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "pilots' strike",
+        "bengali": "পাইলটদের ধর্মঘট",
+        "example": "Wegen des Pilotenstreiks wurden viele Flüge gestrichen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0634",
+    "german": "der Planet",
+    "word": "Planet",
+    "article": "der",
+    "plural": "die Planeten",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "planet",
+        "bengali": "গ্রহ",
+        "example": "Die Erde ist der dritte Planet unseres Sonnensystems."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0635",
+    "german": "das Plastik",
+    "word": "Plastik",
+    "article": "das",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "plastic",
+        "bengali": "প্লাস্টিক",
+        "example": "Wir sollten weniger Plastik verwenden."
+      }
+    ],
+    "synonym": "der Kunststoff",
+    "starred": false
+  },
+  {
+    "id": "b1_0636",
+    "german": "politisch",
+    "word": "politisch",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "political",
+        "bengali": "রাজনৈতিক",
+        "example": "Sie interessiert sich sehr für politische Themen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0637",
+    "german": "der Pool",
+    "word": "Pool",
+    "article": "der",
+    "plural": "die Pools",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "pool, swimming pool",
+        "bengali": "সুইমিং পুল",
+        "example": "Das Hotel hat einen großen Pool."
+      }
+    ],
+    "synonym": "das Schwimmbecken",
+    "starred": false
+  },
+  {
+    "id": "b1_0638",
+    "german": "das Porto",
+    "word": "Porto",
+    "article": "das",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "postage",
+        "bengali": "ডাক খরচ",
+        "example": "Wie hoch ist das Porto für einen Brief nach Japan?"
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0639",
+    "german": "portofrei",
+    "word": "portofrei",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "postage-free",
+        "bengali": "ডাক খরচ মুক্ত",
+        "example": "Die Lieferung ist ab 50 Euro portofrei."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0640",
+    "german": "die Portokosten",
+    "word": "Portokosten (Pl.)",
+    "article": "die",
+    "plural": "die Portokosten",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "postage costs",
+        "bengali": "ডাক খরচ",
+        "example": "Die Portokosten trägt der Käufer."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0641",
+    "german": "der Posteingang",
+    "word": "Posteingang",
+    "article": "der",
+    "plural": "die Posteingänge",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "inbox",
+        "bengali": "ইনবক্স",
+        "example": "Ich habe noch zehn ungelesene E-Mails im Posteingang."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0642",
+    "german": "präsentieren",
+    "word": "präsentieren",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er präsentiert",
+      "past": "er präsentierte",
+      "participle": "präsentiert",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "präsentiere",
+        "du": "präsentierst",
+        "er_sie": "präsentiert",
+        "wir": "präsentieren",
+        "ihr": "präsentiert",
+        "sie": "präsentieren"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to present",
+        "bengali": "উপস্থাপন করা",
+        "example": "Morgen muss ich meine Ergebnisse präsentieren."
+      }
+    ],
+    "synonym": "vorstellen",
+    "starred": false
+  },
+  {
+    "id": "b1_0643",
+    "german": "die Privatnummer",
+    "word": "Privatnummer",
+    "article": "die",
+    "plural": "die Privatnummern",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "private phone number",
+        "bengali": "ব্যক্তিগত ফোন নম্বর",
+        "example": "Darf ich Sie unter Ihrer Privatnummer anrufen?"
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0644",
+    "german": "die Probezeit",
+    "word": "Probezeit",
+    "article": "die",
+    "plural": "die Probezeiten",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "probationary period",
+        "bengali": "শিক্ষানবিশকাল / ট্রায়াল পিরিয়ড",
+        "example": "Meine Probezeit dauert sechs Monate."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0645",
+    "german": "problemlos",
+    "word": "problemlos",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "problem-free, without trouble",
+        "bengali": "সমস্যাহীন",
+        "example": "Die Installation verlief absolut problemlos."
+      }
+    ],
+    "synonym": "reibungslos",
+    "starred": false
+  },
+  {
+    "id": "b1_0646",
+    "german": "produzieren",
+    "word": "produzieren",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er produziert",
+      "past": "er produzierte",
+      "participle": "produziert",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "produziere",
+        "du": "produzierst",
+        "er_sie": "produziert",
+        "wir": "produzieren",
+        "ihr": "produziert",
+        "sie": "produzieren"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to produce",
+        "bengali": "উৎপাদন করা",
+        "example": "Die Fabrik produziert Tausende Autos pro Monat."
+      }
+    ],
+    "synonym": "herstellen",
+    "starred": false
+  },
+  {
+    "id": "b1_0647",
+    "german": "der Protest",
+    "word": "Protest",
+    "article": "der",
+    "plural": "die Proteste",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "protest",
+        "bengali": "প্রতিবাদ",
+        "example": "Die Menschen demonstrierten als Protest gegen das Gesetz."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0648",
+    "german": "protestieren",
+    "word": "protestieren",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er protestiert",
+      "past": "er protestierte",
+      "participle": "protestiert",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "protestiere",
+        "du": "protestierst",
+        "er_sie": "protestiert",
+        "wir": "protestieren",
+        "ihr": "protestiert",
+        "sie": "protestieren"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to protest",
+        "bengali": "প্রতিবাদ করা",
+        "example": "Die Bürger protestierten gegen die Steuererhöhung."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0649",
+    "german": "das PS",
+    "word": "PS (=Pferdestärke)",
+    "article": "das",
+    "plural": "die PS",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "horsepower",
+        "bengali": "হর্সপাওয়ার",
+        "example": "Mein Auto hat 150 PS."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0650",
+    "german": "die Qualifikation",
+    "word": "Qualifikation",
+    "article": "die",
+    "plural": "die Qualifikationen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "qualification",
+        "bengali": "যোগ্যতা",
+        "example": "Sie hat die notwendigen Qualifikationen für den Job."
+      }
+    ],
+    "synonym": "die Eignung",
+    "starred": false
+  },
+  {
+    "id": "b1_0651",
+    "german": "die Qualität",
+    "word": "Qualität",
+    "article": "die",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "quality",
+        "bengali": "গুণমান",
+        "example": "Die Qualität dieser Produkte ist sehr hoch."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0652",
+    "german": "der Quark",
+    "word": "Quark",
+    "article": "der",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "quark (dairy product)",
+        "bengali": "কোয়ার্ক (এক ধরণের পনির)",
+        "example": "Ich esse gerne Quark mit Früchten."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0653",
+    "german": "quietschen",
+    "word": "quietschen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er quietscht",
+      "past": "er quietschte",
+      "participle": "gequietscht",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "quietsche",
+        "du": "quietschst",
+        "er_sie": "quietscht",
+        "wir": "quietschen",
+        "ihr": "quietscht",
+        "sie": "quietschen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to squeak",
+        "bengali": "চিল্কার করা বা তীক্ষ্ণ শব্দ করা",
+        "example": "Die Tür quietscht beim Öffnen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0654",
+    "german": "die Quizshow",
+    "word": "Quizshow",
+    "article": "die",
+    "plural": "die Quizshows",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "quiz show",
+        "bengali": "কুইজ শো",
+        "example": "Er nimmt nächste Woche an einer Quizshow teil."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0655",
+    "german": "das Radrennen",
+    "word": "Radrennen",
+    "article": "das",
+    "plural": "die Radrennen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "bicycle race",
+        "bengali": "সাইকেল রেস",
+        "example": "Am Sonntag findet das große Radrennen statt."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0656",
+    "german": "die Rangliste",
+    "word": "Rangliste",
+    "article": "die",
+    "plural": "die Ranglisten",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "ranking list",
+        "bengali": "র‍্যাংকিং তালিকা",
+        "example": "Wir stehen auf Platz eins der Rangliste."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0657",
+    "german": "rasieren",
+    "word": "rasieren",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er rasiert",
+      "past": "er rasierte",
+      "participle": "rasiert",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "rasiere",
+        "du": "rasierst",
+        "er_sie": "rasiert",
+        "wir": "rasieren",
+        "ihr": "rasiert",
+        "sie": "rasieren"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to shave",
+        "bengali": "কামানো (দাড়ি/গলা)",
+        "example": "Er rasiert sich jeden Morgen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0658",
+    "german": "das Rätsel",
+    "word": "Rätsel",
+    "article": "das",
+    "plural": "die Rätsel",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "puzzle, riddle",
+        "bengali": "ধাঁধাঁ বা রহস্য",
+        "example": "Können Sie dieses Rätsel lösen?"
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0659",
+    "german": "rechtzeitig",
+    "word": "rechtzeitig",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "on time, in time",
+        "bengali": "সময়মতো",
+        "example": "Wir müssen rechtzeitig am Flughafen sein."
+      }
+    ],
+    "synonym": "pünktlich",
+    "starred": false
+  },
+  {
+    "id": "b1_0660",
+    "german": "recyceln",
+    "word": "recyceln",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er recycelt",
+      "past": "er recycelte",
+      "participle": "recycelt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "recycle",
+        "du": "recycelst",
+        "er_sie": "recycelt",
+        "wir": "recyceln",
+        "ihr": "recycelt",
+        "sie": "recyceln"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to recycle",
+        "bengali": "পুনরুৎপাদন করা",
+        "example": "Wir sollten mehr Plastik und Papier recyceln."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0661",
+    "german": "reduzieren",
+    "word": "reduzieren",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er reduziert",
+      "past": "er reduzierte",
+      "participle": "reduziert",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "reduziere",
+        "du": "reduzierst",
+        "er_sie": "reduziert",
+        "wir": "reduzieren",
+        "ihr": "reduziert",
+        "sie": "reduzieren"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to reduce",
+        "bengali": "কমানো",
+        "example": "Wir müssen die Kosten reduzieren."
+      }
+    ],
+    "synonym": "verringern",
+    "starred": false
+  },
+  {
+    "id": "b1_0662",
+    "german": "regeln",
+    "word": "regeln",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er regelt",
+      "past": "er regelte",
+      "participle": "geregelt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "regle",
+        "du": "regelst",
+        "er_sie": "regelt",
+        "wir": "regeln",
+        "ihr": "regelt",
+        "sie": "regeln"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to regulate, to settle",
+        "bengali": "নিয়ন্ত্রণ করা বা সমাধান করা",
+        "example": "Wir müssen dieses Problem schnell regeln."
+      }
+    ],
+    "synonym": "klären",
+    "starred": false
+  },
+  {
+    "id": "b1_0663",
+    "german": "die Regierung",
+    "word": "Regierung",
+    "article": "die",
+    "plural": "die Regierungen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "government",
+        "bengali": "সরকার",
+        "example": "Die Regierung plant neue Klimafortschritte."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0664",
+    "german": "regulieren",
+    "word": "regulieren",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er reguliert",
+      "past": "er regulierte",
+      "participle": "reguliert",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "reguliere",
+        "du": "regulierst",
+        "er_sie": "reguliert",
+        "wir": "regulieren",
+        "ihr": "reguliert",
+        "sie": "regulieren"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to regulate, to adjust",
+        "bengali": "নিয়ন্ত্রণ করা",
+        "example": "Man kann die Temperatur an diesem Gerät regulieren."
+      }
+    ],
+    "synonym": "steuern",
+    "starred": false
+  },
+  {
+    "id": "b1_0665",
+    "german": "die Regulierung",
+    "word": "Regulierung",
+    "article": "die",
+    "plural": "die Regulierungen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "regulation",
+        "bengali": "নিয়ম নিয়ন্ত্রণ",
+        "example": "Die staatliche Regulierung des Marktes ist notwendig."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0666",
+    "german": "der Reifen",
+    "word": "Reifen",
+    "article": "der",
+    "plural": "die Reifen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "tire (wheel)",
+        "bengali": "টায়ার",
+        "example": "Ich muss meine Winterreifen wechseln."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0667",
+    "german": "die Reihe",
+    "word": "Reihe",
+    "article": "die",
+    "plural": "die Reihen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "row, series",
+        "bengali": "সারি",
+        "example": "Wir sitzen in der ersten Reihe."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0668",
+    "german": "die Reinigungsfirma",
+    "word": "Reinigungsfirma",
+    "article": "die",
+    "plural": "die Reinigungsfirmen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "cleaning company",
+        "bengali": "পরিচ্ছন্নতা সেবা প্রদানকারী কোম্পানি",
+        "example": "Die Reinigungsfirma kommt jeden Montag."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0669",
+    "german": "der Reinigungsvertrag",
+    "word": "Reinigungsvertrag",
+    "article": "der",
+    "plural": "die Reinigungsverträge",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "cleaning contract",
+        "bengali": "পরিচ্ছন্নতার চুক্তি",
+        "example": "Wir haben einen neuen Reinigungsvertrag abgeschlossen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0670",
+    "german": "das Reisebüro",
+    "word": "Reisebüro",
+    "article": "das",
+    "plural": "die Reisebüros",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "travel agency",
+        "bengali": "ট্রাভেল এজেন্সি",
+        "example": "Ich habe meinen Urlaub im Reisebüro gebucht."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0671",
+    "german": "der Reiseplan",
+    "word": "Reiseplan",
+    "article": "der",
+    "plural": "die Reisepläne",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "travel itinerary, travel plan",
+        "bengali": "ভ্রমণ পরিকল্পনা",
+        "example": "Unser Reiseplan ist sehr detailliert."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0672",
+    "german": "die Reiseplanung",
+    "word": "Reiseplanung",
+    "article": "die",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "travel planning",
+        "bengali": "ভ্রমণ পরিকল্পনা করা",
+        "example": "Die Reiseplanung dauert oft länger als die Reise selbst."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0673",
+    "german": "reiten",
+    "word": "reiten",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er reitet",
+      "past": "er ritt",
+      "participle": "geritten",
+      "auxiliary": "ist",
+      "irregular": true,
+      "vowel_change": "ei → i",
+      "full_present": {
+        "ich": "reite",
+        "du": "reitest",
+        "er_sie": "reitet",
+        "wir": "reiten",
+        "ihr": "reitet",
+        "sie": "reiten"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to ride (a horse)",
+        "bengali": "ঘোড়ায় চড়া",
+        "example": "Sie lernt seit einem Jahr reiten."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0674",
+    "german": "die Reklamation",
+    "word": "Reklamation",
+    "article": "die",
+    "plural": "die Reklamationen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "complaint, reclamation",
+        "bengali": "অভিযোগ বা দাবি",
+        "example": "Die Reklamation wurde schnell bearbeitet."
+      }
+    ],
+    "synonym": "die Beschwerde",
+    "starred": false
+  },
+  {
+    "id": "b1_0675",
+    "german": "die Reportage",
+    "word": "Reportage",
+    "article": "die",
+    "plural": "die Reportagen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "report, feature story",
+        "bengali": "প্রতিবেদন",
+        "example": "Ich habe eine interessante Reportage über den Amazonas gesehen."
+      }
+    ],
+    "synonym": "der Bericht",
+    "starred": false
+  },
+  {
+    "id": "b1_0676",
+    "german": "der/die Reporter/in",
+    "word": "Reporter/in",
+    "article": "der/die",
+    "plural": "die Reporter",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "reporter",
+        "bengali": "প্রতিবেদক",
+        "example": "Der Reporter stellt dem Politiker kritische Fragen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0677",
+    "german": "die Republik",
+    "word": "Republik",
+    "article": "die",
+    "plural": "die Republiken",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "republic",
+        "bengali": "প্রজাতন্ত্র",
+        "example": "Deutschland ist eine parlamentarische Republik."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0678",
+    "german": "die Retoure",
+    "word": "Retoure",
+    "article": "die",
+    "plural": "die Retouren",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "return (of goods)",
+        "bengali": "পণ্য ফেরত",
+        "example": "Die Retoure der Schuhe war kostenlos."
+      }
+    ],
+    "synonym": "die Rücksendung",
+    "starred": false
+  },
+  {
+    "id": "b1_0679",
+    "german": "der Retourenschein",
+    "word": "Retourenschein",
+    "article": "der",
+    "plural": "die Retourenscheine",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "return slip",
+        "bengali": "ফেরত রশিদ",
+        "example": "Legen Sie den Retourenschein in das Paket."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0680",
+    "german": "retten",
+    "word": "retten",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er rettet",
+      "past": "er rettete",
+      "participle": "gerettet",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "rette",
+        "du": "rettest",
+        "er_sie": "rettet",
+        "wir": "retten",
+        "ihr": "rettet",
+        "sie": "retten"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to rescue, to save",
+        "bengali": "রক্ষা করা",
+        "example": "Die Feuerwehr konnte die Katze aus dem Baum retten."
+      }
+    ],
+    "synonym": "bewahren",
+    "starred": false
+  },
+  {
+    "id": "b1_0681",
+    "german": "der/die Richter/in",
+    "word": "Richter/in",
+    "article": "der/die",
+    "plural": "die Richter",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "judge",
+        "bengali": "বিচারক",
+        "example": "Der Richter hat das Urteil verkündet."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0682",
+    "german": "romantisch",
+    "word": "romantisch",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "romantic",
+        "bengali": "রোমান্টিক",
+        "example": "Ein Abendessen bei Kerzenschein ist sehr romantisch."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0683",
+    "german": "das Rücklicht",
+    "word": "Rücklicht",
+    "article": "das",
+    "plural": "die Rücklichter",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "rear light, tail light",
+        "bengali": "পেছনের আলো",
+        "example": "Das eine Rücklicht meines Autos ist kaputt."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0684",
+    "german": "die Rückscheibe",
+    "word": "Rückscheibe",
+    "article": "die",
+    "plural": "die Rückscheiben",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "rear window",
+        "bengali": "পেছনের কাচ",
+        "example": "Die Rückscheibe wurde durch einen Stein beschädigt."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0685",
+    "german": "die Rücksendung",
+    "word": "Rücksendung",
+    "article": "die",
+    "plural": "die Rücksendungen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "return shipment",
+        "bengali": "ফেরত পাঠানো",
+        "example": "Die Rücksendung erfolgt per Post."
+      }
+    ],
+    "synonym": "die Retoure",
+    "starred": false
+  },
+  {
+    "id": "b1_0686",
+    "german": "die Rücksicht",
+    "word": "Rücksicht",
+    "article": "die",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "consideration, thoughtfulness",
+        "bengali": "বিবেচনা, সতর্কতা",
+        "example": "Man sollte Rücksicht auf die Nachbarn nehmen."
+      }
+    ],
+    "synonym": "die Achtsamkeit",
+    "starred": false
+  },
+  {
+    "id": "b1_0687",
+    "german": "rückwärts",
+    "word": "rückwärts",
+    "article": null,
+    "plural": null,
+    "type": "Adverb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adverb",
+        "english": "backwards",
+        "bengali": "পেছনের দিকে",
+        "example": "Er kann das Auto sehr gut rückwärts einparken."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0688",
+    "german": "die Ruhezeit",
+    "word": "Ruhezeit",
+    "article": "die",
+    "plural": "die Ruhezeiten",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "rest period, quiet time",
+        "bengali": "বিশ্রামের সময়",
+        "example": "Zwischen 22 und 6 Uhr ist gesetzliche Ruhezeit."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0689",
+    "german": "die Runde",
+    "word": "Runde",
+    "article": "die",
+    "plural": "die Runden",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "round, lap",
+        "bengali": "গোল পাক, রাউন্ড",
+        "example": "Wir laufen noch eine Runde um den See."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0690",
+    "german": "die Russlanddeutschen",
+    "word": "Russlanddeutsche",
+    "article": "die",
+    "plural": "die Russlanddeutschen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "Russian Germans",
+        "bengali": "রাশিয়ান জার্মান",
+        "example": "Viele Russlanddeutsche sind in den 90er Jahren nach Deutschland gekommen."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0691",
+    "german": "rutschen",
+    "word": "rutschen",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er rutscht",
+      "past": "er rutschte",
+      "participle": "gerutscht",
+      "auxiliary": "ist",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "rutsche",
+        "du": "rutschst",
+        "er_sie": "rutscht",
+        "wir": "rutschen",
+        "ihr": "rutscht",
+        "sie": "rutschen"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to slide, to slip",
+        "bengali": "পিছলে যাওয়া",
+        "example": "Vorsicht, auf dem Eis rutscht man leicht!"
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0692",
+    "german": "der/die Sachbearbeiter/in",
+    "word": "Sachbearbeiter/in",
+    "article": "der/die",
+    "plural": "die Sachbearbeiter",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "clerk, caseworker",
+        "bengali": "ক্লার্ক, কেস ওয়ার্কার",
+        "example": "Der Sachbearbeiter prüft Ihren Antrag."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0693",
+    "german": "der Sachschaden",
+    "word": "Sachschaden",
+    "article": "der",
+    "plural": "die Sachschäden",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "property damage",
+        "bengali": "মালামালের ক্ষতি",
+        "example": "Es entstand ein erheblicher Sachschaden am Gebäude."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0694",
+    "german": "der Sack",
+    "word": "Sack",
+    "article": "der",
+    "plural": "die Säcke",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "sack, bag",
+        "bengali": "বস্তা",
+        "example": "Ein Sack Kartoffeln wiegt 25 Kilogramm."
+      }
+    ],
+    "synonym": "der Beutel",
+    "starred": false
+  },
+  {
+    "id": "b1_0695",
+    "german": "der/die Sales Manager/in",
+    "word": "Sales Manager/in",
+    "article": "der/die",
+    "plural": "die Sales Manager",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "sales manager",
+        "bengali": "সেলস ম্যানেজার",
+        "example": "Der Sales Manager ist für den Umsatz verantwortlich."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0696",
+    "german": "sammeln",
+    "word": "sammeln",
+    "article": null,
+    "plural": null,
+    "type": "Verb",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": {
+      "present": "er sammelt",
+      "past": "er sammelte",
+      "participle": "gesammelt",
+      "auxiliary": "hat",
+      "irregular": false,
+      "vowel_change": null,
+      "full_present": {
+        "ich": "sammle",
+        "du": "sammelst",
+        "er_sie": "sammelt",
+        "wir": "sammeln",
+        "ihr": "sammelt",
+        "sie": "sammeln"
+      }
+    },
+    "meanings": [
+      {
+        "pos": "Verb",
+        "english": "to collect",
+        "bengali": "সংগ্রহ করা",
+        "example": "Mein Bruder sammelt alte Briefmarken."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0697",
+    "german": "die Sammelstelle",
+    "word": "Sammelstelle",
+    "article": "die",
+    "plural": "die Sammelstellen",
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "collection point",
+        "bengali": "সংগ্রহ কেন্দ্র",
+        "example": "Die Sammelstelle für Altglas ist in der nächsten Straße."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0698",
+    "german": "sauber",
+    "word": "sauber",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "clean",
+        "bengali": "পরিষ্কার",
+        "example": "Das Zimmer ist jetzt wieder sauber."
+      }
+    ],
+    "synonym": "rein",
+    "starred": false
+  },
+  {
+    "id": "b1_0699",
+    "german": "die Sauberkeit",
+    "word": "Sauberkeit",
+    "article": "die",
+    "plural": null,
+    "type": "Nomen",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Nomen",
+        "english": "cleanliness",
+        "bengali": "পরিচ্ছন্নতা",
+        "example": "In diesem Krankenhaus wird viel Wert auf Sauberkeit gelegt."
+      }
+    ],
+    "synonym": null,
+    "starred": false
+  },
+  {
+    "id": "b1_0700",
+    "german": "sauer",
+    "word": "sauer",
+    "article": null,
+    "plural": null,
+    "type": "Adjektiv",
+    "level": ["B1"],
+    "prefix": null,
+    "conjugation": null,
+    "meanings": [
+      {
+        "pos": "Adjektiv",
+        "english": "sour / angry",
+        "bengali": "টক / রাগান্বিত",
+        "example": "Die Zitrone schmeckt sehr sauer."
+      },
+      {
+        "pos": "Adjektiv",
+        "english": "angry",
+        "bengali": "রাগ করা",
+        "example": "Mein Chef ist sauer auf mich."
+      }
+    ],
+    "synonym": "wütend",
+    "starred": false
+  }
+]
