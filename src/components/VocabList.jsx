@@ -176,7 +176,7 @@ export default function VocabList({ words, onUpdate }) {
               {types.map(t => <option key={t} value={t}>{t === "all" ? "All types" : t}</option>)}
             </select>
             <button className="btn" onClick={() => setShuffled(s => !s)} title="Shuffle">
-              <i className="ti ti-arrows-shuffle" aria-hidden="true" />
+              <i className="ti ti-shuffle" aria-hidden="true" />
             </button>
           </div>
         </div>

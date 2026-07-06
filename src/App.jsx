@@ -20,9 +20,10 @@ function saveProgress(p) {
 }
 
 export default function App() {
-  const [tab, setTab] = useState("list")
+  const [tab, setTab] = useState("today")
   const [allWords, setAllWords] = useState([])
   const [progress, setProgress] = useState(loadProgress)
+  const [expandedCard, setExpandedCard] = useState(null)
   const [theme, setTheme] = useState(() => {
     try {
       const saved = localStorage.getItem(THEME_KEY)
@@ -63,6 +64,7 @@ export default function App() {
       srsScore: progress[w.id]?.srsScore ?? 0,
       reviewCount: progress[w.id]?.reviewCount ?? 0,
       lastReviewed: progress[w.id]?.lastReviewed ?? null,
+      difficulty: progress[w.id]?.difficulty ?? "new",
     }))
     setAllWords(words)
   }, [])
@@ -76,7 +78,78 @@ export default function App() {
     setAllWords(prev => prev.map(w => w.id === id ? { ...w, ...updates } : w))
   }, [])
 
+  const getTodaysDeck = useCallback(() => {
+    // Get date-based seed for consistent daily shuffle
+    const today = new Date().toISOString().split('T')[0]
+    const seed = parseInt(today.replace(/-/g, '')) % 1000
+    
+    const newWords = allWords.filter(w => w.difficulty === "new")
+    const reviewWords = allWords.filter(w => w.difficulty !== "new")
+    
+    // Shuffle with date seed for consistency
+    const seededRandom = (s) => {
+      const x = Math.sin(s) * 10000
+      return x - Math.floor(x)
+    }
+    
+    const shuffle = (arr, s) => {
+      const shuffled = [...arr]
+      let rng = s
+      for (let i = shuffled.length - 1; i > 0; i--) {
+        rng = (rng * 9301 + 49297) % 233280
+        const j = Math.floor((rng / 233280) * (i + 1))
+        ;[shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]
+      }
+      return shuffled
+    }
+    
+    const shuffledNew = shuffle(newWords, seed)
+    const todaysNew = shuffledNew.slice(0, 10)
+    
+    // Weight review words by difficulty using weighted random selection (no duplicates)
+    let rng = seed + 1
+    const selected = new Set()
+    const todaysReview = []
+    const availableReview = [...reviewWords]
+    
+    while (todaysReview.length < 20 && availableReview.length > 0) {
+      // Calculate total weight of available words
+      const weights = availableReview.map(w => {
+        const difficulty = w.difficulty
+        return difficulty === "hard" ? 4 : difficulty === "medium" ? 2 : 1
+      })
+      const totalWeight = weights.reduce((a, b) => a + b, 0)
+      
+      // Seeded random selection
+      rng = (rng * 9301 + 49297) % 233280
+      let rand = (rng / 233280) * totalWeight
+      
+      // Pick weighted random word
+      let idx = 0
+      let cumWeight = 0
+      for (let i = 0; i < availableReview.length; i++) {
+        cumWeight += weights[i]
+        if (rand < cumWeight) {
+          idx = i
+          break
+        }
+      }
+      
+      const word = availableReview[idx]
+      if (!selected.has(word.id)) {
+        selected.add(word.id)
+        todaysReview.push(word)
+      }
+      availableReview.splice(idx, 1)
+    }
+    
+    return [...todaysNew, ...todaysReview]
+  }, [allWords])
+
+  const todaysDeck = getTodaysDeck()
+
   const tabs = [
+    { id: "today", label: "Today", icon: "ti-calendar" },
     { id: "list", label: "Vocab list", icon: "ti-list" },
     { id: "flash", label: "Flashcards", icon: "ti-cards" },
     { id: "quiz", label: "Quiz", icon: "ti-help" },
@@ -119,9 +192,101 @@ export default function App() {
       </nav>
 
       <main className="app-main">
+        {tab === "today" && (
+          <div className="today-screen">
+            <div className="today-header">
+              <h2>Today's Learning</h2>
+              <p className="today-count">{todaysDeck.length} words • {todaysDeck.filter(w => w.difficulty === "new").length} new, {todaysDeck.filter(w => w.difficulty !== "new").length} review</p>
+            </div>
+            <div className="today-cards">
+              {todaysDeck.map(w => (
+                <div key={w.id} className={`today-card card diff-${w.difficulty}`} onClick={() => setExpandedCard(expandedCard === w.id ? null : w.id)}>
+                  <div className="tc-header">
+                    <div className="tc-badges">
+                      <span className={`badge badge-${w.level.includes("A2") && !w.level.includes("B1") ? "a2" : w.level.includes("B1") && !w.level.includes("A2") ? "b1" : "both"}`}>
+                        {w.level.join(" · ")}
+                      </span>
+                      <span className="badge badge-type">{w.type}</span>
+                      <span className={`diff-badge diff-${w.difficulty}`}>{w.difficulty}</span>
+                    </div>
+                    <div className="tc-expand-hint">tap to expand</div>
+                  </div>
+                  <div className="tc-word">{w.article ? `${w.article} ` : ""}{w.word}</div>
+                  <div className="tc-meaning">{w.meanings[0].english}</div>
+                  
+                  {expandedCard === w.id && (
+                    <>
+                      <hr className="divider" />
+                      {w.plural && <div className="meta-pill">Plural: <strong>{w.plural}</strong></div>}
+                      {w.synonym && <div className="meta-pill">Synonym: <strong>{w.synonym}</strong></div>}
+                      
+                      <div style={{ marginTop: "0.75rem" }}>
+                        {w.meanings.map((m, i) => (
+                          <div className="meaning-row" key={i}>
+                            {w.meanings.length > 1 && <div className="meaning-num">{i + 1}</div>}
+                            <div>
+                              <div className="meaning-en">{m.english}</div>
+                              <div className="meaning-bn">{m.bengali}</div>
+                              <div className="meaning-ex">{m.example}</div>
+                            </div>
+                          </div>
+                        ))}
+                      </div>
+                      
+                      {w.type === "Verb" && w.conjugation && (
+                        <div className="conj-section">
+                          <hr className="divider" />
+                          <div className="conj-label">Präsens</div>
+                          {w.conjugation.full_present ? (
+                            <>
+                              <div className="conj-grid">
+                                {Object.entries(w.conjugation.full_present).map(([pro, form]) => {
+                                  const isIrregular = w.conjugation.irregular && (pro === "du" || pro === "er_sie")
+                                  const label = { ich: "ich", du: "du", er_sie: "er/sie", wir: "wir", ihr: "ihr", sie: "sie/Sie" }[pro]
+                                  return (
+                                    <div className="conj-cell" key={pro}>
+                                      <span className="conj-pro">{label}</span>
+                                      <span className={`conj-form ${isIrregular ? "irregular" : ""}`}>{form}</span>
+                                    </div>
+                                  )
+                                })}
+                              </div>
+                              {w.conjugation.irregular && w.conjugation.vowel_change && (
+                                <div className="conj-warn">
+                                  <i className="ti ti-alert-triangle" aria-hidden="true" style={{ fontSize: "13px" }} />
+                                  Vowel change: {w.conjugation.vowel_change} (du and er/sie only)
+                                </div>
+                              )}
+                            </>
+                          ) : null}
+                          <hr className="divider" />
+                          <div className="conj-label">Perfekt &amp; Präteritum</div>
+                          <div className="conj-row">
+                            <div className="conj-item">
+                              <label>Perfekt</label>
+                              <span>
+                                <span className={w.conjugation.auxiliary === "hat" ? "aux-hat" : "aux-ist"}>
+                                  {w.conjugation.auxiliary}
+                                </span> {w.conjugation.participle}
+                              </span>
+                            </div>
+                            <div className="conj-item">
+                              <label>Präteritum</label>
+                              <span>{w.conjugation.past}</span>
+                            </div>
+                          </div>
+                        </div>
+                      )}
+                    </>
+                  )}
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
         {tab === "list" && <VocabList words={allWords} onUpdate={updateProgress} progress={progress} />}
-        {tab === "flash" && <Flashcard words={allWords} onUpdate={updateProgress} progress={progress} />}
-        {tab === "quiz" && <Quiz words={allWords} onUpdate={updateProgress} progress={progress} />}
+        {tab === "flash" && <Flashcard words={todaysDeck} onUpdate={updateProgress} progress={progress} />}
+        {tab === "quiz" && <Quiz words={todaysDeck} onUpdate={updateProgress} progress={progress} />}
         {tab === "stats" && <Stats words={allWords} progress={progress} reviewed={reviewed} mastered={mastered} />}
       </main>
     </div>

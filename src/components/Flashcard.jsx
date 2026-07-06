@@ -22,10 +22,12 @@ export default function Flashcard({ words, onUpdate }) {
 
   const rate = useCallback((score) => {
     if (!current) return
+    const difficultyMap = { 1: "hard", 2: "hard", 3: "medium", 4: "easy" }
     onUpdate(current.id, {
       srsScore: Math.min(5, (current.srsScore || 0) + (score >= 3 ? 1 : -1)),
       reviewCount: (current.reviewCount || 0) + 1,
       lastReviewed: Date.now(),
+      difficulty: difficultyMap[score] || "medium",
     })
     setSessionDone(prev => [...new Set([...prev, current.id])])
     setFlipped(false)
@@ -78,6 +80,7 @@ export default function Flashcard({ words, onUpdate }) {
                 <span key={l} className={`badge ${l === "A2" ? "badge-a2" : "badge-b1"}`}>{l}</span>
               ))}
               <span className="badge badge-type">{current.type}</span>
+              <span className={`badge badge-diff diff-${current.difficulty}`}>{current.difficulty}</span>
             </div>
 
             <div className="fc-front">

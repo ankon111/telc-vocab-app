@@ -77,10 +77,15 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; b
 .theme-toggle:hover { background: var(--surface2); color: var(--text); }
 
 .app-nav { background: var(--surface); border-bottom: 1px solid var(--border); display: flex; }
-.nav-btn { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 3px; padding: 0.6rem 0.5rem; font-size: 0.7rem; color: var(--text3); background: none; border: none; border-bottom: 2px solid transparent; cursor: pointer; transition: color 0.15s, border-color 0.15s; }
+.nav-btn { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 3px; padding: 0.6rem 0.5rem; font-size: 0.7rem; color: var(--text3); background: none; border: none; border-bottom: 2px solid transparent; cursor: pointer; transition: color 0.15s, border-color 0.15s; min-height: 60px; justify-content: center; }
 .nav-btn i { font-size: 1.1rem; }
+.nav-btn span { word-break: break-word; line-height: 1.2; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
 .nav-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
 .nav-btn:hover:not(.active) { color: var(--text2); }
+
+@media (max-width: 480px) {
+  .nav-btn { font-size: 0.65rem; padding: 0.5rem 0.3rem; }
+}
 
 .app-main { flex: 1; padding: 1rem; }
 
@@ -90,6 +95,13 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; b
 .badge-b1 { background: var(--accent-bg); color: var(--accent-text); border: 1px solid var(--accent-border); }
 .badge-both { background: var(--purple-bg); color: var(--purple-text); border: 1px solid var(--purple-border); }
 .badge-type { background: var(--surface2); color: var(--text2); border: 1px solid var(--border); font-size: 0.65rem; padding: 2px 7px; border-radius: 20px; }
+
+/* Badge Difficulty */
+.badge-diff { text-transform: capitalize; }
+.badge-diff.diff-new { background: var(--accent-bg); color: var(--accent-text); border: 1px solid var(--accent-border); }
+.badge-diff.diff-easy { background: var(--success-bg); color: var(--success-text); border: 1px solid var(--success-border); }
+.badge-diff.diff-medium { background: var(--warning-bg); color: var(--warning-text); border: 1px solid var(--warning-border); }
+.badge-diff.diff-hard { background: var(--danger-bg); color: var(--danger-text); border: 1px solid var(--danger-border); }
 
 /* Cards */
 .card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 1rem 1.125rem; }
@@ -230,3 +242,21 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; b
 .stat-sub { font-size: 0.68rem; color: var(--text3); }
 .type-breakdown { display: flex; flex-direction: column; gap: 8px; }
 .type-row { display: flex; align-items: center; gap: 8px; }
+
+/* Today's Learning */
+.today-screen { display: flex; flex-direction: column; gap: 0.75rem; }
+.today-header { margin-bottom: 0.5rem; }
+.today-header h2 { font-size: 1.1rem; font-weight: 700; color: var(--text); margin-bottom: 2px; }
+.today-count { font-size: 0.8rem; color: var(--text3); }
+.today-cards { display: flex; flex-direction: column; gap: 8px; }
+.today-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 0.75rem; cursor: pointer; transition: border-color 0.15s, transform 0.15s, box-shadow 0.15s; }
+.today-card:hover { border-color: var(--accent); transform: translateY(-1px); box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); }
+.today-card.diff-new { border-left: 3px solid var(--accent); }
+.today-card.diff-easy { border-left: 3px solid var(--success); }
+.today-card.diff-medium { border-left: 3px solid var(--warning); }
+.today-card.diff-hard { border-left: 3px solid var(--danger); }
+.tc-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+.tc-badges { display: flex; gap: 6px; flex-wrap: wrap; }
+.tc-expand-hint { font-size: 0.65rem; color: var(--text3); white-space: nowrap; }
+.tc-word { font-size: 1rem; font-weight: 600; color: var(--text); margin-bottom: 4px; }
+.tc-meaning { font-size: 0.82rem; color: var(--text2); }
