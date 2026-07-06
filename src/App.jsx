@@ -19,6 +19,34 @@ function saveProgress(p) {
   try { localStorage.setItem(STORAGE_KEY, JSON.stringify(p)) } catch {}
 }
 
+const TAB_ICONS = {
+  today: (
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/>
+    </svg>
+  ),
+  list: (
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><circle cx="3" cy="6" r="1" fill="currentColor"/><circle cx="3" cy="12" r="1" fill="currentColor"/><circle cx="3" cy="18" r="1" fill="currentColor"/>
+    </svg>
+  ),
+  flash: (
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <rect x="2" y="5" width="20" height="14" rx="2"/><line x1="12" y1="5" x2="12" y2="19"/>
+    </svg>
+  ),
+  quiz: (
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17" strokeWidth="3" strokeLinecap="round"/>
+    </svg>
+  ),
+  stats: (
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/><line x1="2" y1="20" x2="22" y2="20"/>
+    </svg>
+  ),
+}
+
 export default function App() {
   const [tab, setTab] = useState("today")
   const [allWords, setAllWords] = useState([])
@@ -149,11 +177,11 @@ export default function App() {
   const todaysDeck = getTodaysDeck()
 
   const tabs = [
-    { id: "today", label: "Today", icon: "ti-calendar" },
-    { id: "list", label: "Vocab list", icon: "ti-list" },
-    { id: "flash", label: "Flashcards", icon: "ti-cards" },
-    { id: "quiz", label: "Quiz", icon: "ti-help" },
-    { id: "stats", label: "Stats", icon: "ti-chart-bar" },
+    { id: "today", label: "Today", icon: TAB_ICONS.today },
+    { id: "list", label: "Vocab", icon: TAB_ICONS.list },
+    { id: "flash", label: "Flash", icon: TAB_ICONS.flash },
+    { id: "quiz", label: "Quiz", icon: TAB_ICONS.quiz },
+    { id: "stats", label: "Stats", icon: TAB_ICONS.stats },
   ]
 
   const mastered = allWords.filter(w => (progress[w.id]?.srsScore ?? 0) >= 4).length
@@ -171,8 +199,8 @@ export default function App() {
             <span>{allWords.length} words</span>
             <span className="dot">·</span>
             <span>{mastered} mastered</span>
-            <button className="theme-toggle" onClick={toggleTheme} aria-label="Toggle theme">
-              <i className={`ti ${theme === "dark" ? "ti-sun" : "ti-moon"}`} aria-hidden="true" />
+            <button className="theme-toggle" onClick={toggleTheme} aria-label="Toggle theme" title={`Switch to ${theme === 'dark' ? 'light' : 'dark'} mode`}>
+              {theme === "dark" ? "☀️" : "🌙"}
             </button>
           </div>
         </div>
@@ -185,8 +213,8 @@ export default function App() {
             className={`nav-btn ${tab === t.id ? "active" : ""}`}
             onClick={() => setTab(t.id)}
           >
-            <i className={`ti ${t.icon}`} aria-hidden="true" />
-            <span>{t.label}</span>
+            <span className="nav-icon">{t.icon}</span>
+            <span className="nav-label">{t.label}</span>
           </button>
         ))}
       </nav>

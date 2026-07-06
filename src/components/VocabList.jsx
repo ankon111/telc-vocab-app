@@ -1,4 +1,6 @@
-import { useState, useMemo } from "react"
+import { useState, useMemo, useEffect } from "react"
+
+const PAGE_SIZE = 200
 
 const TYPE_COLORS = {
   Nomen: "badge-type",
@@ -135,6 +137,7 @@ export default function VocabList({ words, onUpdate }) {
   const [typeFilter, setTypeFilter] = useState("all")
   const [starredOnly, setStarredOnly] = useState(false)
   const [shuffled, setShuffled] = useState(false)
+  const [page, setPage] = useState(1)
 
   const types = useMemo(() => {
     const s = new Set(words.map(w => w.type))
@@ -150,6 +153,12 @@ export default function VocabList({ words, onUpdate }) {
     if (shuffled) ws = [...ws].sort(() => Math.random() - 0.5)
     return ws
   }, [words, search, levelFilter, typeFilter, starredOnly, shuffled])
+
+  // Reset to page 1 whenever filters change
+  useEffect(() => { setPage(1) }, [search, levelFilter, typeFilter, starredOnly, shuffled])
+
+  const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE))
+  const paginated = filtered.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE)
 
   return (
     <div>
@@ -175,21 +184,31 @@ export default function VocabList({ words, onUpdate }) {
             <select className="type-select" value={typeFilter} onChange={e => setTypeFilter(e.target.value)}>
               {types.map(t => <option key={t} value={t}>{t === "all" ? "All types" : t}</option>)}
             </select>
-            <button className="btn" onClick={() => setShuffled(s => !s)} title="Shuffle">
-              <i className="ti ti-shuffle" aria-hidden="true" />
+            <button className="btn" onClick={() => setShuffled(s => !s)} title="Shuffle" style={{ fontSize: '1.1rem' }}>
+              🔀
             </button>
           </div>
         </div>
       </div>
 
-      <div className="list-count">{filtered.length} words</div>
+      <div className="list-count">{filtered.length} words{totalPages > 1 ? ` · page ${page} of ${totalPages}` : ""}</div>
 
       <div className="word-list">
-        {filtered.map(w => <WordCard key={w.id} word={w} onUpdate={onUpdate} />)}
+        {paginated.map(w => <WordCard key={w.id} word={w} onUpdate={onUpdate} />)}
       </div>
 
       {filtered.length === 0 && (
         <div className="empty-state">No words found. Try a different search or filter.</div>
+      )}
+
+      {totalPages > 1 && (
+        <div className="pagination">
+          <button className="page-btn" onClick={() => setPage(1)} disabled={page === 1}>«</button>
+          <button className="page-btn" onClick={() => setPage(p => Math.max(1, p - 1))} disabled={page === 1}>‹ Prev</button>
+          <span className="page-info">{page} / {totalPages}</span>
+          <button className="page-btn" onClick={() => setPage(p => Math.min(totalPages, p + 1))} disabled={page === totalPages}>Next ›</button>
+          <button className="page-btn" onClick={() => setPage(totalPages)} disabled={page === totalPages}>»</button>
+        </div>
       )}
     </div>
   )

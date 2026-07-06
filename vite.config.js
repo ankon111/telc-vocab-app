@@ -16,8 +16,15 @@ export default defineConfig({
         display: 'standalone',
         scope: '/telc-vocab-app/',
         start_url: '/telc-vocab-app/',
+        orientation: 'portrait-primary',
+        categories: ['education', 'productivity'],
+        screenshots: [
+          { src: '/favicon.svg', sizes: '192x192', form_factor: 'narrow', type: 'image/svg+xml' },
+          { src: '/favicon.svg', sizes: '512x512', form_factor: 'wide', type: 'image/svg+xml' }
+        ],
         icons: [
-          { src: '/favicon.svg', sizes: 'any', type: 'image/svg+xml' }
+          { src: '/favicon.svg', sizes: '192x192', type: 'image/svg+xml', purpose: 'any' },
+          { src: '/favicon.svg', sizes: '512x512', type: 'image/svg+xml', purpose: 'any' }
         ]
       },
       workbox: {
