@@ -1,6 +1,7 @@
 import { useState, useMemo, useEffect } from "react"
 
 const PAGE_SIZE = 200
+const VOCAB_SEED = 42
 
 const TYPE_COLORS = {
   Nomen: "badge-type",
@@ -10,6 +11,17 @@ const TYPE_COLORS = {
   Konjunktion: "badge-type",
   Präposition: "badge-type",
   Pronomen: "badge-type",
+}
+
+function seededShuffle(arr, seed) {
+  const shuffled = [...arr]
+  let rng = seed
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    rng = (rng * 9301 + 49297) % 233280
+    const j = Math.floor((rng / 233280) * (i + 1))
+    ;[shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]
+  }
+  return shuffled
 }
 
 function LevelBadge({ level }) {
@@ -150,7 +162,7 @@ export default function VocabList({ words, onUpdate }) {
     if (levelFilter !== "all") ws = ws.filter(w => w.level.includes(levelFilter))
     if (typeFilter !== "all") ws = ws.filter(w => w.type === typeFilter)
     if (starredOnly) ws = ws.filter(w => w.starred)
-    if (shuffled) ws = [...ws].sort(() => Math.random() - 0.5)
+    if (shuffled) ws = seededShuffle(ws, VOCAB_SEED)
     return ws
   }, [words, search, levelFilter, typeFilter, starredOnly, shuffled])
 

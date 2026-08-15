@@ -3,10 +3,13 @@ import VocabList from "./components/VocabList"
 import Flashcard from "./components/Flashcard"
 import Quiz from "./components/Quiz"
 import Stats from "./components/Stats"
+import { auth, signInWithGoogle, saveProgressToFirebase, loadProgressFromFirebase } from "./firebase"
+import { onAuthStateChanged, signOut } from "firebase/auth"
 import "./App.css"
 
 const STORAGE_KEY = "telc_vocab_progress"
 const THEME_KEY = "telc_theme"
+const AUTH_MODE_KEY = "telc_auth_mode_set"
 
 function loadProgress() {
   try {
@@ -17,6 +20,9 @@ function loadProgress() {
 
 function saveProgress(p) {
   try { localStorage.setItem(STORAGE_KEY, JSON.stringify(p)) } catch {}
+  if (auth.currentUser) {
+    saveProgressToFirebase(p).catch(console.error)
+  }
 }
 
 const TAB_ICONS = {
@@ -52,6 +58,9 @@ export default function App() {
   const [allWords, setAllWords] = useState([])
   const [progress, setProgress] = useState(loadProgress)
   const [expandedCard, setExpandedCard] = useState(null)
+  const [user, setUser] = useState(null)
+  const [authLoading, setAuthLoading] = useState(true)
+  const [authMode, setAuthMode] = useState(null)
   const [theme, setTheme] = useState(() => {
     try {
       const saved = localStorage.getItem(THEME_KEY)
@@ -64,6 +73,30 @@ export default function App() {
     document.documentElement.setAttribute("data-theme", theme)
     try { localStorage.setItem(THEME_KEY, theme) } catch {}
   }, [theme])
+
+  useEffect(() => {
+    const unsubscribe = onAuthStateChanged(auth, async (currentUser) => {
+      setUser(currentUser)
+      const hasChosenBefore = localStorage.getItem(AUTH_MODE_KEY)
+
+      if (currentUser) {
+        setAuthMode("signin")
+        const firebaseProgress = await loadProgressFromFirebase()
+        if (firebaseProgress) {
+          setProgress(firebaseProgress)
+        }
+        localStorage.setItem(AUTH_MODE_KEY, "true")
+      } else {
+        if (hasChosenBefore) {
+          setAuthMode("guest")
+        } else {
+          setAuthMode(null)
+        }
+      }
+      setAuthLoading(false)
+    })
+    return unsubscribe
+  }, [])
 
   const toggleTheme = () => setTheme(t => t === "dark" ? "light" : "dark")
 
@@ -187,6 +220,86 @@ export default function App() {
   const mastered = allWords.filter(w => (progress[w.id]?.srsScore ?? 0) >= 4).length
   const reviewed = allWords.filter(w => progress[w.id]?.reviewCount > 0).length
 
+  const handleSignIn = async () => {
+    try {
+      await signInWithGoogle()
+    } catch (error) {
+      alert("Sign-in failed. Please try again.")
+    }
+  }
+
+  const handleSignOut = async () => {
+    try {
+      await signOut(auth)
+      setUser(null)
+      setAuthMode("guest")
+    } catch (error) {
+      alert("Sign-out failed. Please try again.")
+    }
+  }
+
+  if (authLoading || authMode === null) {
+    return (
+      <div className="app" style={{ display: "flex", alignItems: "center", justifyContent: "center", minHeight: "100vh" }}>
+        <div style={{
+          background: "var(--surface)",
+          border: "1px solid var(--border)",
+          borderRadius: "var(--radius-lg)",
+          padding: "2rem",
+          maxWidth: "400px",
+          textAlign: "center"
+        }}>
+          <h2 style={{ marginBottom: "0.5rem", color: "var(--text)" }}>Telc Vocabulary Trainer</h2>
+          <p style={{ color: "var(--text2)", marginBottom: "2rem", fontSize: "0.9rem" }}>
+            Sign in to sync your progress across devices, or continue as a guest
+          </p>
+
+          <button
+            onClick={handleSignIn}
+            style={{
+              width: "100%",
+              padding: "0.75rem",
+              marginBottom: "1rem",
+              background: "var(--accent)",
+              color: "white",
+              border: "none",
+              borderRadius: "var(--radius)",
+              cursor: "pointer",
+              fontSize: "0.95rem",
+              fontWeight: 600
+            }}
+          >
+            🔐 Sign in with Google
+          </button>
+
+          <button
+            onClick={() => {
+              localStorage.setItem(AUTH_MODE_KEY, "true")
+              setAuthMode("guest")
+            }}
+            style={{
+              width: "100%",
+              padding: "0.75rem",
+              background: "var(--surface2)",
+              color: "var(--text)",
+              border: "1px solid var(--border)",
+              borderRadius: "var(--radius)",
+              cursor: "pointer",
+              fontSize: "0.95rem",
+              fontWeight: 600
+            }}
+          >
+            👤 Continue as Guest
+          </button>
+
+          <p style={{ marginTop: "1rem", fontSize: "0.75rem", color: "var(--text3)" }}>
+            Guest: Local progress only · Signed in: Cross-device sync
+          </p>
+        </div>
+      </div>
+    )
+  }
+
   return (
     <div className="app">
       <header className="app-header">
@@ -199,6 +312,27 @@ export default function App() {
             <span>{allWords.length} words</span>
             <span className="dot">·</span>
             <span>{mastered} mastered</span>
+            <span className="dot">·</span>
+            {user ? (
+              <>
+                <span style={{ fontSize: "0.85rem", color: "var(--text2)" }}>{user.email}</span>
+                <span className="dot">·</span>
+              </>
+            ) : (
+              <>
+                <span style={{ fontSize: "0.85rem", color: "var(--text3)" }}>👤 Guest (local only)</span>
+                <span className="dot">·</span>
+              </>
+            )}
+            {!user ? (
+              <button className="auth-btn" onClick={handleSignIn} title="Sign in to sync across devices">
+                🔐 Sign in
+              </button>
+            ) : (
+              <button className="auth-btn" onClick={handleSignOut} title="Sign out">
+                🚪 Sign out
+              </button>
+            )}
             <button className="theme-toggle" onClick={toggleTheme} aria-label="Toggle theme" title={`Switch to ${theme === 'dark' ? 'light' : 'dark'} mode`}>
               {theme === "dark" ? "☀️" : "🌙"}
             </button>
@@ -241,13 +375,13 @@ export default function App() {
                   </div>
                   <div className="tc-word">{w.article ? `${w.article} ` : ""}{w.word}</div>
                   <div className="tc-meaning">{w.meanings[0].english}</div>
-                  
+
                   {expandedCard === w.id && (
                     <>
                       <hr className="divider" />
                       {w.plural && <div className="meta-pill">Plural: <strong>{w.plural}</strong></div>}
                       {w.synonym && <div className="meta-pill">Synonym: <strong>{w.synonym}</strong></div>}
-                      
+
                       <div style={{ marginTop: "0.75rem" }}>
                         {w.meanings.map((m, i) => (
                           <div className="meaning-row" key={i}>
@@ -260,7 +394,7 @@ export default function App() {
                           </div>
                         ))}
                       </div>
-                      
+
                       {w.type === "Verb" && w.conjugation && (
                         <div className="conj-section">
                           <hr className="divider" />
@@ -313,7 +447,7 @@ export default function App() {
           </div>
         )}
         {tab === "list" && <VocabList words={allWords} onUpdate={updateProgress} progress={progress} />}
-        {tab === "flash" && <Flashcard words={todaysDeck} onUpdate={updateProgress} progress={progress} />}
+        {tab === "flash" && <Flashcard words={allWords} todaysDeck={todaysDeck} onUpdate={updateProgress} progress={progress} />}
         {tab === "quiz" && <Quiz words={todaysDeck} onUpdate={updateProgress} progress={progress} />}
         {tab === "stats" && <Stats words={allWords} progress={progress} reviewed={reviewed} mastered={mastered} />}
       </main>
