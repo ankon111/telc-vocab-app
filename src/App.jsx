@@ -9,7 +9,6 @@ import "./App.css"
 
 const STORAGE_KEY = "telc_vocab_progress"
 const THEME_KEY = "telc_theme"
-const AUTH_MODE_KEY = "telc_auth_mode_set"
 
 function loadProgress() {
   try {
@@ -77,7 +76,6 @@ export default function App() {
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, async (currentUser) => {
       setUser(currentUser)
-      const hasChosenBefore = localStorage.getItem(AUTH_MODE_KEY)
 
       if (currentUser) {
         setAuthMode("signin")
@@ -85,13 +83,8 @@ export default function App() {
         if (firebaseProgress) {
           setProgress(firebaseProgress)
         }
-        localStorage.setItem(AUTH_MODE_KEY, "true")
       } else {
-        if (hasChosenBefore) {
-          setAuthMode("guest")
-        } else {
-          setAuthMode(null)
-        }
+        setAuthMode(null)
       }
       setAuthLoading(false)
     })
@@ -274,7 +267,6 @@ export default function App() {
 
           <button
             onClick={() => {
-              localStorage.setItem(AUTH_MODE_KEY, "true")
               setAuthMode("guest")
             }}
             style={{
