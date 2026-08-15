@@ -231,7 +231,11 @@ export default function App() {
     }
   }
 
-  if (authLoading || authMode === null) {
+  if (authLoading) {
+    return <div className="app" style={{ display: "flex", alignItems: "center", justifyContent: "center", minHeight: "100vh", background: "var(--bg)" }} />
+  }
+
+  if (!user && authMode === null) {
     return (
       <div className="app" style={{ display: "flex", alignItems: "center", justifyContent: "center", minHeight: "100vh" }}>
         <div style={{
