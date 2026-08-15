@@ -2,7 +2,7 @@ import { useState, useMemo, useCallback } from "react"
 
 const SRS_INTERVALS = { 1: 0, 2: 1, 3: 3, 4: 10 }
 
-export default function Flashcard({ words, onUpdate }) {
+export default function Flashcard({ words, todaysDeck, onUpdate }) {
   const [levelFilter, setLevelFilter] = useState("all")
   const [deckType, setDeckType] = useState("all")
   const [flipped, setFlipped] = useState(false)
@@ -10,12 +10,12 @@ export default function Flashcard({ words, onUpdate }) {
   const [sessionDone, setSessionDone] = useState([])
 
   const deck = useMemo(() => {
-    let ws = words
+    let ws = deckType === "today" ? todaysDeck : words
     if (levelFilter !== "all") ws = ws.filter(w => w.level.includes(levelFilter))
     if (deckType === "starred") ws = ws.filter(w => w.starred)
     if (deckType === "new") ws = ws.filter(w => !w.reviewCount || w.reviewCount === 0)
     return ws.length ? ws : words
-  }, [words, levelFilter, deckType])
+  }, [words, todaysDeck, levelFilter, deckType])
 
   const current = deck[index % deck.length]
   const progress = Math.round((sessionDone.length / Math.max(deck.length, 1)) * 100)
@@ -52,6 +52,7 @@ export default function Flashcard({ words, onUpdate }) {
         </div>
         <select className="type-select" value={deckType} onChange={e => { setDeckType(e.target.value); setIndex(0); setFlipped(false); setSessionDone([]); }}>
           <option value="all">All cards</option>
+          <option value="today">Today</option>
           <option value="new">New only</option>
           <option value="starred">Starred</option>
         </select>

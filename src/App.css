@@ -76,6 +76,9 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; b
 .theme-toggle { background: none; border: 1px solid var(--border); border-radius: var(--radius); padding: 4px 8px; cursor: pointer; color: var(--text2); font-size: 1.2rem; line-height: 1; margin-left: 6px; transition: background 0.15s, color 0.15s; display: flex; align-items: center; justify-content: center; }
 .theme-toggle:hover { background: var(--surface2); }
 
+.auth-btn { background: none; border: 1px solid var(--border); border-radius: var(--radius); padding: 4px 10px; cursor: pointer; color: var(--text2); font-size: 0.8rem; line-height: 1; margin-left: 6px; transition: background 0.15s, color 0.15s; display: flex; align-items: center; justify-content: center; gap: 4px; white-space: nowrap; }
+.auth-btn:hover { background: var(--surface2); color: var(--text); }
+
 .app-nav { background: var(--surface); border-bottom: 1px solid var(--border); display: flex; }
 .nav-btn { flex: 1 1 0; min-width: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px; padding: 0.6rem 4px; color: var(--text3); background: none; border: none; border-bottom: 2px solid transparent; cursor: pointer; transition: color 0.15s, border-color 0.15s; min-height: 64px; text-align: center; }
 .nav-icon { display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
