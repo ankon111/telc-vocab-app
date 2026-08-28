@@ -186,7 +186,7 @@
 }
 ],
 "synonym": "die Ursache",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "time"]
 },
 {
 "id": "a2_0410",
@@ -522,7 +522,7 @@
 }
 ],
 "synonym": null,
-"starred": false
+"starred": false,"tags":["core700", "housing", "tier3"]
 },
 {
 "id": "a2_0426",
@@ -688,7 +688,7 @@
 }
 ],
 "synonym": "entdecken",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0433",
@@ -831,7 +831,7 @@
 }
 ],
 "synonym": "downloaden",
-"starred": false
+"starred": false,"tags":["core700", "media", "tier3"]
 },
 {
 "id": "a2_0438",
@@ -1117,7 +1117,7 @@
 }
 ],
 "synonym": "uploaden",
-"starred": false
+"starred": false,"tags":["core700", "media", "tier3"]
 },
 {
 "id": "a2_0448",
@@ -1214,7 +1214,7 @@
 }
 ],
 "synonym": "erwarten",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0451",
@@ -1256,7 +1256,7 @@
 }
 ],
 "synonym": "freundlich",
-"starred": false
+"starred": false,"tags":["core700", "feelings", "tier3"]
 },
 {
 "id": "a2_0453",
@@ -1397,7 +1397,7 @@
 }
 ],
 "synonym": "umwegig",
-"starred": false
+"starred": false,"tags":["core700", "description", "tier4"]
 },
 {
 "id": "a2_0459",
@@ -1454,7 +1454,7 @@
 }
 ],
 "synonym": "mitteilen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0461",
@@ -1475,7 +1475,7 @@
 }
 ],
 "synonym": "das Zentrum",
-"starred": false
+"starred": false,"tags":["core700", "housing", "tier3"]
 },
 {
 "id": "a2_0462",
@@ -1574,7 +1574,7 @@
 }
 ],
 "synonym": null,
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0466",

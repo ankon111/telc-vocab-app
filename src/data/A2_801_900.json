@@ -39,7 +39,7 @@
 }
 ],
 "synonym": "dauernd",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "time"]
 },
 {
 "id": "a2_0803",
@@ -153,7 +153,7 @@
 }
 ],
 "synonym": "die Haltestelle",
-"starred": false
+"starred": false,"tags":["core700", "health", "tier3"]
 },
 {
 "id": "a2_0807",
@@ -324,7 +324,7 @@
 }
 ],
 "synonym": "klettern",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0813",
@@ -345,7 +345,7 @@
 }
 ],
 "synonym": "der Platz",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "work"]
 },
 {
 "id": "a2_0814",
@@ -570,7 +570,7 @@
 }
 ],
 "synonym": "die Route",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "travel"]
 },
 {
 "id": "a2_0824",
@@ -591,7 +591,7 @@
 }
 ],
 "synonym": "hart",
-"starred": false
+"starred": false,"tags":["core700", "family", "tier3"]
 },
 {
 "id": "a2_0825",
@@ -1102,7 +1102,7 @@
 }
 ],
 "synonym": null,
-"starred": false
+"starred": false,"tags":["core700", "tier3", "work"]
 },
 {
 "id": "a2_0847",
@@ -1630,7 +1630,7 @@
 }
 ],
 "synonym": null,
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0870",
@@ -1651,7 +1651,7 @@
 }
 ],
 "synonym": "betrübt",
-"starred": false
+"starred": false,"tags":["core700", "feelings", "tier3"]
 },
 {
 "id": "a2_0871",
@@ -1744,7 +1744,7 @@
 }
 ],
 "synonym": "scheiden",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0874",
@@ -1828,7 +1828,7 @@
 }
 ],
 "synonym": "dennoch",
-"starred": false
+"starred": false,"tags":["connectors", "core700", "tier1"]
 },
 {
 "id": "a2_0878",
@@ -2083,7 +2083,7 @@
 }
 ],
 "synonym": "antreten",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0886",
@@ -2247,7 +2247,7 @@
 }
 ],
 "synonym": "transferieren",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0892",
@@ -2268,7 +2268,7 @@
 }
 ],
 "synonym": null,
-"starred": false
+"starred": false,"tags":["core700", "shopping", "tier3"]
 },
 {
 "id": "a2_0893",
@@ -2310,7 +2310,7 @@
 }
 ],
 "synonym": "nebenbei",
-"starred": false
+"starred": false,"tags":["connectors", "core700", "tier1"]
 },
 {
 "id": "a2_0895",
@@ -2493,6 +2493,6 @@
 }
 ],
 "synonym": "wechseln",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "travel"],"tags":["core700", "tier3", "travel"]
 }
 ]

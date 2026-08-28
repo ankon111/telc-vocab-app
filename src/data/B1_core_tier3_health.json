@@ -1,0 +1,850 @@
+[
+ {
+  "id": "b1_1245",
+  "german": "die Gesundheit",
+  "word": "Gesundheit",
+  "article": "die",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "health",
+    "bengali": "স্বাস্থ্য",
+    "example": "Gesundheit ist das Wichtigste."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1246",
+  "german": "die Krankheit",
+  "word": "Krankheit",
+  "article": "die",
+  "plural": "die Krankheiten",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "illness",
+    "bengali": "অসুখ",
+    "example": "Er hat eine schwere Krankheit."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1247",
+  "german": "der Arzt",
+  "word": "Arzt",
+  "article": "der",
+  "plural": "die Ärzte",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "doctor",
+    "bengali": "ডাক্তার",
+    "example": "Ich habe morgen einen Termin beim Arzt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1248",
+  "german": "der Termin",
+  "word": "Termin",
+  "article": "der",
+  "plural": "die Termine",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "appointment",
+    "bengali": "অ্যাপয়েন্টমেন্ট",
+    "example": "Ich habe einen Termin um zehn Uhr."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1249",
+  "german": "das Rezept",
+  "word": "Rezept",
+  "article": "das",
+  "plural": "die Rezepte",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "prescription, recipe",
+    "bengali": "প্রেসক্রিপশন",
+    "example": "Der Arzt gibt mir ein Rezept."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1250",
+  "german": "die Apotheke",
+  "word": "Apotheke",
+  "article": "die",
+  "plural": "die Apotheken",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "pharmacy",
+    "bengali": "ফার্মেসি",
+    "example": "Die Apotheke ist gleich um die Ecke."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1251",
+  "german": "das Medikament",
+  "word": "Medikament",
+  "article": "das",
+  "plural": "die Medikamente",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "medication",
+    "bengali": "ওষুধ",
+    "example": "Nimm das Medikament dreimal täglich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1252",
+  "german": "das Symptom",
+  "word": "Symptom",
+  "article": "das",
+  "plural": "die Symptome",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "symptom",
+    "bengali": "লক্ষণ",
+    "example": "Welche Symptome hast du?"
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1253",
+  "german": "der Schmerz",
+  "word": "Schmerz",
+  "article": "der",
+  "plural": "die Schmerzen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "pain",
+    "bengali": "ব্যথা",
+    "example": "Ich habe starke Schmerzen im Rücken."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1254",
+  "german": "die Erkältung",
+  "word": "Erkältung",
+  "article": "die",
+  "plural": "die Erkältungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "cold (illness)",
+    "bengali": "সর্দি",
+    "example": "Ich habe eine leichte Erkältung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1255",
+  "german": "das Fieber",
+  "word": "Fieber",
+  "article": "das",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "fever",
+    "bengali": "জ্বর",
+    "example": "Das Kind hat hohes Fieber."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1256",
+  "german": "die Untersuchung",
+  "word": "Untersuchung",
+  "article": "die",
+  "plural": "die Untersuchungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "examination",
+    "bengali": "পরীক্ষা",
+    "example": "Die Untersuchung dauert nicht lange."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1257",
+  "german": "die Krankenversicherung",
+  "word": "Krankenversicherung",
+  "article": "die",
+  "plural": "die Krankenversicherungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "health insurance",
+    "bengali": "স্বাস্থ্য বীমা",
+    "example": "Jeder braucht eine Krankenversicherung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1258",
+  "german": "die Krankenkasse",
+  "word": "Krankenkasse",
+  "article": "die",
+  "plural": "die Krankenkassen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "health insurance fund",
+    "bengali": "স্বাস্থ্য বীমা তহবিল",
+    "example": "Meine Krankenkasse übernimmt die Kosten."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1259",
+  "german": "krankschreiben",
+  "word": "krankschreiben",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "krank-",
+   "meaning": "sick, compound with schreiben",
+   "related": [
+    "schreiben",
+    "krank"
+   ]
+  },
+  "conjugation": {
+   "present": "der Arzt schreibt ihn krank",
+   "past": "der Arzt schrieb ihn krank",
+   "participle": "krankgeschrieben",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "schreibe krank",
+    "du": "schreibst krank",
+    "er_sie": "schreibt krank",
+    "wir": "schreiben krank",
+    "ihr": "schreibt krank",
+    "sie": "schreiben krank"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to sign off sick",
+    "bengali": "অসুস্থতার ছুটি দেওয়া",
+    "example": "Der Arzt hat mich krankgeschrieben."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1260",
+  "german": "krank",
+  "word": "krank",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "sick",
+    "bengali": "অসুস্থ",
+    "example": "Sie ist heute krank."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1261",
+  "german": "müde",
+  "word": "müde",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "tired",
+    "bengali": "ক্লান্ত",
+    "example": "Ich bin heute sehr müde."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1262",
+  "german": "erschöpft",
+  "word": "erschöpft",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "exhausted",
+    "bengali": "পরিশ্রান্ত",
+    "example": "Nach der Arbeit war er erschöpft."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1263",
+  "german": "schwach",
+  "word": "schwach",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "weak",
+    "bengali": "দুর্বল",
+    "example": "Nach der Krankheit fühlt er sich schwach."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1264",
+  "german": "verletzt",
+  "word": "verletzt",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "injured",
+    "bengali": "আহত",
+    "example": "Er ist beim Fußball verletzt worden."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1265",
+  "german": "der Notfall",
+  "word": "Notfall",
+  "article": "der",
+  "plural": "die Notfälle",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "emergency",
+    "bengali": "জরুরি অবস্থা",
+    "example": "Im Notfall rufen Sie die 112 an."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1266",
+  "german": "das Krankenhaus",
+  "word": "Krankenhaus",
+  "article": "das",
+  "plural": "die Krankenhäuser",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "hospital",
+    "bengali": "হাসপাতাল",
+    "example": "Sie liegt im Krankenhaus."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1267",
+  "german": "die Operation",
+  "word": "Operation",
+  "article": "die",
+  "plural": "die Operationen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "operation, surgery",
+    "bengali": "অস্ত্রোপচার",
+    "example": "Die Operation verlief gut."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1268",
+  "german": "impfen",
+  "word": "impfen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er impft",
+   "past": "er impfte",
+   "participle": "geimpft",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "impfe",
+    "du": "impfst",
+    "er_sie": "impft",
+    "wir": "impfen",
+    "ihr": "impft",
+    "sie": "impfen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to vaccinate",
+    "bengali": "টিকা দেওয়া",
+    "example": "Ich lasse mich gegen Grippe impfen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1269",
+  "german": "erholen",
+  "word": "erholen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "er-",
+   "meaning": "inseparable prefix",
+   "related": []
+  },
+  "conjugation": {
+   "present": "er erholt",
+   "past": "er erholte",
+   "participle": "erholt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "erhole",
+    "du": "erholst",
+    "er_sie": "erholt",
+    "wir": "erholen",
+    "ihr": "erholt",
+    "sie": "erholen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to recover, rest",
+    "bengali": "সুস্থ হয়ে ওঠা",
+    "example": "Er muss sich noch erholen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1270",
+  "german": "fühlen",
+  "word": "fühlen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er fühlt",
+   "past": "er fühlte",
+   "participle": "gefühlt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "fühle",
+    "du": "fühlst",
+    "er_sie": "fühlt",
+    "wir": "fühlen",
+    "ihr": "fühlt",
+    "sie": "fühlen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to feel",
+    "bengali": "অনুভব করা",
+    "example": "Wie fühlst du dich heute?"
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ },
+ {
+  "id": "b1_1271",
+  "german": "vorbeugen",
+  "word": "vorbeugen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "vor-",
+   "meaning": "in advance, before",
+   "related": [
+    "beugen"
+   ]
+  },
+  "conjugation": {
+   "present": "er beugt vor",
+   "past": "er beugte vor",
+   "participle": "vorgebeugt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "beuge vor",
+    "du": "beugst vor",
+    "er_sie": "beugt vor",
+    "wir": "beugen vor",
+    "ihr": "beugt vor",
+    "sie": "beugen vor"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to prevent",
+    "bengali": "প্রতিরোধ করা",
+    "example": "Sport kann vielen Krankheiten vorbeugen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "health"
+  ]
+ }
+]

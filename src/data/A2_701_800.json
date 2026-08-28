@@ -75,7 +75,7 @@
 }
 ],
 "synonym": "wandern",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0704",
@@ -231,7 +231,7 @@
 }
 ],
 "synonym": "buchen",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "travel"],"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0710",
@@ -548,7 +548,7 @@
 }
 ],
 "synonym": "erreichen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0724",
@@ -942,7 +942,7 @@
 }
 ],
 "synonym": "endlich",
-"starred": false
+"starred": false,"tags":["connectors", "core700", "tier1"]
 },
 {
 "id": "a2_0739",
@@ -1417,7 +1417,7 @@
 }
 ],
 "synonym": "schwer",
-"starred": false
+"starred": false,"tags":["core700", "description", "tier4"]
 },
 {
 "id": "a2_0760",
@@ -1777,7 +1777,7 @@
 }
 ],
 "synonym": "fallen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0775",
@@ -1861,7 +1861,7 @@
 }
 ],
 "synonym": "selbst",
-"starred": false
+"starred": false,"tags":["connectors", "core700", "tier1"]
 },
 {
 "id": "a2_0779",
@@ -1918,7 +1918,7 @@
 }
 ],
 "synonym": "kümmern",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0781",
@@ -1996,7 +1996,7 @@
 }
 ],
 "synonym": "aufbewahren",
-"starred": false
+"starred": false,"tags":["core700", "environment", "tier3"],"tags":["core700", "shopping", "tier3"],"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0784",
@@ -2116,7 +2116,7 @@
 }
 ],
 "synonym": "sichern",
-"starred": false
+"starred": false,"tags":["core700", "media", "tier3"]
 },
 {
 "id": "a2_0789",

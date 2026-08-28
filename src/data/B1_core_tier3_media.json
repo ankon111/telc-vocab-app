@@ -1,0 +1,430 @@
+[
+ {
+  "id": "b1_1327",
+  "german": "die Meldung",
+  "word": "Meldung",
+  "article": "die",
+  "plural": "die Meldungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "announcement, report",
+    "bengali": "ঘোষণা",
+    "example": "Es gab eine wichtige Meldung im Radio."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "media"
+  ]
+ },
+ {
+  "id": "b1_1328",
+  "german": "die Werbung",
+  "word": "Werbung",
+  "article": "die",
+  "plural": "die Werbungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "advertisement",
+    "bengali": "বিজ্ঞাপন",
+    "example": "Diese Werbung läuft ständig im Fernsehen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "media"
+  ]
+ },
+ {
+  "id": "b1_1329",
+  "german": "die Anzeige",
+  "word": "Anzeige",
+  "article": "die",
+  "plural": "die Anzeigen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "advertisement, listing",
+    "bengali": "বিজ্ঞাপন",
+    "example": "Ich habe die Wohnung durch eine Anzeige gefunden."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "media"
+  ]
+ },
+ {
+  "id": "b1_1330",
+  "german": "die Zeitung",
+  "word": "Zeitung",
+  "article": "die",
+  "plural": "die Zeitungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "newspaper",
+    "bengali": "সংবাদপত্র",
+    "example": "Er liest jeden Morgen die Zeitung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "media"
+  ]
+ },
+ {
+  "id": "b1_1331",
+  "german": "die Internetseite",
+  "word": "Internetseite",
+  "article": "die",
+  "plural": "die Internetseiten",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "website",
+    "bengali": "ওয়েবসাইট",
+    "example": "Die Internetseite ist leicht zu bedienen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "media"
+  ]
+ },
+ {
+  "id": "b1_1332",
+  "german": "das Passwort",
+  "word": "Passwort",
+  "article": "das",
+  "plural": "die Passwörter",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "password",
+    "bengali": "পাসওয়ার্ড",
+    "example": "Ich habe mein Passwort vergessen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "media"
+  ]
+ },
+ {
+  "id": "b1_1333",
+  "german": "das Gerät",
+  "word": "Gerät",
+  "article": "das",
+  "plural": "die Geräte",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "device",
+    "bengali": "যন্ত্র",
+    "example": "Das Gerät ist sehr praktisch."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "media"
+  ]
+ },
+ {
+  "id": "b1_1334",
+  "german": "die Anwendung",
+  "word": "Anwendung",
+  "article": "die",
+  "plural": "die Anwendungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "application, use",
+    "bengali": "প্রয়োগ",
+    "example": "Die Anwendung ist kostenlos."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "media"
+  ]
+ },
+ {
+  "id": "b1_1335",
+  "german": "veröffentlichen",
+  "word": "veröffentlichen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "ver-",
+   "meaning": "inseparable prefix",
+   "related": [
+    "öffentlich"
+   ]
+  },
+  "conjugation": {
+   "present": "er veröffentlicht",
+   "past": "er veröffentlichte",
+   "participle": "veröffentlicht",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "veröffentliche",
+    "du": "veröffentlichst",
+    "er_sie": "veröffentlicht",
+    "wir": "veröffentlichen",
+    "ihr": "veröffentlicht",
+    "sie": "veröffentlichen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to publish",
+    "bengali": "প্রকাশ করা",
+    "example": "Sie veröffentlicht den Artikel morgen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "media"
+  ]
+ },
+ {
+  "id": "b1_1336",
+  "german": "recherchieren",
+  "word": "recherchieren",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er recherchiert",
+   "past": "er recherchierte",
+   "participle": "recherchiert",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "recherchiere",
+    "du": "recherchierst",
+    "er_sie": "recherchiert",
+    "wir": "recherchieren",
+    "ihr": "recherchiert",
+    "sie": "recherchieren"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to research",
+    "bengali": "অনুসন্ধান করা",
+    "example": "Ich recherchiere für meinen Bericht."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "media"
+  ]
+ },
+ {
+  "id": "b1_1337",
+  "german": "digital",
+  "word": "digital",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "digital",
+    "bengali": "ডিজিটাল",
+    "example": "Wir arbeiten jetzt digital."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "media"
+  ]
+ },
+ {
+  "id": "b1_1338",
+  "german": "online",
+  "word": "online",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "online",
+    "bengali": "অনলাইন",
+    "example": "Der Kurs findet online statt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "media"
+  ]
+ },
+ {
+  "id": "b1_1339",
+  "german": "praktisch",
+  "word": "praktisch",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "practical",
+    "bengali": "ব্যবহারিক",
+    "example": "Die App ist sehr praktisch."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "media"
+  ]
+ },
+ {
+  "id": "b1_1340",
+  "german": "benutzerfreundlich",
+  "word": "benutzerfreundlich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "user-friendly",
+    "bengali": "ব্যবহারবান্ধব",
+    "example": "Die Webseite ist benutzerfreundlich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "media"
+  ]
+ }
+]

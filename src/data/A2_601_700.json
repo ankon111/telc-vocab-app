@@ -310,7 +310,7 @@
 }
 ],
 "synonym": "die Umgebung",
-"starred": false
+"starred": false,"tags":["core700", "housing", "tier3"]
 },
 {
 "id": "a2_0615",
@@ -398,7 +398,7 @@
 }
 ],
 "synonym": "die Mitteilung",
-"starred": false
+"starred": false,"tags":["core700", "media", "tier3"]
 },
 {
 "id": "a2_0619",
@@ -558,7 +558,7 @@
 }
 ],
 "synonym": "denn",
-"starred": false
+"starred": false,"tags":["connectors", "core700", "tier1"]
 },
 {
 "id": "a2_0625",
@@ -621,7 +621,7 @@
 }
 ],
 "synonym": null,
-"starred": false
+"starred": false,"tags":["core700", "health", "tier3"]
 },
 {
 "id": "a2_0628",
@@ -678,7 +678,7 @@
 }
 ],
 "synonym": "bezeichnen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0630",
@@ -699,7 +699,7 @@
 }
 ],
 "synonym": "unruhig",
-"starred": false
+"starred": false,"tags":["core700", "feelings", "tier3"]
 },
 {
 "id": "a2_0631",
@@ -960,7 +960,7 @@
 }
 ],
 "synonym": "benutzen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0642",
@@ -1647,7 +1647,7 @@
 }
 ],
 "synonym": "günstig",
-"starred": false
+"starred": false,"tags":["core700", "shopping", "tier3"]
 },
 {
 "id": "a2_0674",
@@ -1689,7 +1689,7 @@
 }
 ],
 "synonym": "persönlich",
-"starred": false
+"starred": false,"tags":["core700", "description", "tier4"]
 },
 {
 "id": "a2_0676",
@@ -1731,7 +1731,7 @@
 }
 ],
 "synonym": "der Plan",
-"starred": false
+"starred": false,"tags":["core700", "media", "tier3"]
 },
 {
 "id": "a2_0678",
@@ -1935,7 +1935,7 @@
 }
 ],
 "synonym": "antworten",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0687",
@@ -1998,7 +1998,7 @@
 }
 ],
 "synonym": null,
-"starred": false
+"starred": false,"tags":["core700", "shopping", "tier3"]
 },
 {
 "id": "a2_0690",

@@ -1,0 +1,611 @@
+[
+ {
+  "id": "b1_1295",
+  "german": "die Quittung",
+  "word": "Quittung",
+  "article": "die",
+  "plural": "die Quittungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "receipt",
+    "bengali": "রসিদ",
+    "example": "Bitte heben Sie die Quittung auf."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "shopping"
+  ]
+ },
+ {
+  "id": "b1_1296",
+  "german": "der Rabatt",
+  "word": "Rabatt",
+  "article": "der",
+  "plural": "die Rabatte",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "discount",
+    "bengali": "ছাড়",
+    "example": "Wir geben zehn Prozent Rabatt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "shopping"
+  ]
+ },
+ {
+  "id": "b1_1297",
+  "german": "das Angebot",
+  "word": "Angebot",
+  "article": "das",
+  "plural": "die Angebote",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "offer, deal",
+    "bengali": "অফার",
+    "example": "Das ist ein gutes Angebot."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "shopping"
+  ]
+ },
+ {
+  "id": "b1_1298",
+  "german": "die Kasse",
+  "word": "Kasse",
+  "article": "die",
+  "plural": "die Kassen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "cash register, checkout",
+    "bengali": "ক্যাশ কাউন্টার",
+    "example": "Bitte gehen Sie zur Kasse."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "shopping"
+  ]
+ },
+ {
+  "id": "b1_1299",
+  "german": "der Umtausch",
+  "word": "Umtausch",
+  "article": "der",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "exchange (goods)",
+    "bengali": "বিনিময়",
+    "example": "Der Umtausch ist innerhalb 14 Tagen möglich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "shopping"
+  ]
+ },
+ {
+  "id": "b1_1300",
+  "german": "die Garantie",
+  "word": "Garantie",
+  "article": "die",
+  "plural": "die Garantien",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "warranty, guarantee",
+    "bengali": "গ্যারান্টি",
+    "example": "Das Gerät hat zwei Jahre Garantie."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "shopping"
+  ]
+ },
+ {
+  "id": "b1_1301",
+  "german": "der Kunde",
+  "word": "Kunde",
+  "article": "der",
+  "plural": "die Kunden",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "customer (male)",
+    "bengali": "গ্রাহক",
+    "example": "Der Kunde ist immer im Recht."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "shopping"
+  ]
+ },
+ {
+  "id": "b1_1302",
+  "german": "der Preis",
+  "word": "Preis",
+  "article": "der",
+  "plural": "die Preise",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "price",
+    "bengali": "দাম",
+    "example": "Der Preis ist sehr hoch."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "shopping"
+  ]
+ },
+ {
+  "id": "b1_1303",
+  "german": "die Kosten",
+  "word": "Kosten",
+  "article": "die",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "costs",
+    "bengali": "খরচ",
+    "example": "Die Kosten sind gestiegen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "shopping"
+  ]
+ },
+ {
+  "id": "b1_1304",
+  "german": "die Ausgabe",
+  "word": "Ausgabe",
+  "article": "die",
+  "plural": "die Ausgaben",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "expense",
+    "bengali": "ব্যয়",
+    "example": "Wir müssen unsere Ausgaben reduzieren."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "shopping"
+  ]
+ },
+ {
+  "id": "b1_1305",
+  "german": "die Ersparnis",
+  "word": "Ersparnis",
+  "article": "die",
+  "plural": "die Ersparnisse",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "savings",
+    "bengali": "সঞ্চয়",
+    "example": "Sie hat ihre Ersparnisse investiert."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "shopping"
+  ]
+ },
+ {
+  "id": "b1_1306",
+  "german": "die Rate",
+  "word": "Rate",
+  "article": "die",
+  "plural": "die Raten",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "installment",
+    "bengali": "কিস্তি",
+    "example": "Wir zahlen in monatlichen Raten."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "shopping"
+  ]
+ },
+ {
+  "id": "b1_1307",
+  "german": "der Kredit",
+  "word": "Kredit",
+  "article": "der",
+  "plural": "die Kredite",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "loan, credit",
+    "bengali": "ঋণ",
+    "example": "Sie hat einen Kredit aufgenommen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "shopping"
+  ]
+ },
+ {
+  "id": "b1_1308",
+  "german": "die Schulden",
+  "word": "Schulden",
+  "article": "die",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "debts",
+    "bengali": "ঋণ",
+    "example": "Er hat hohe Schulden."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "shopping"
+  ]
+ },
+ {
+  "id": "b1_1309",
+  "german": "das Budget",
+  "word": "Budget",
+  "article": "das",
+  "plural": "die Budgets",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "budget",
+    "bengali": "বাজেট",
+    "example": "Wir haben ein festes Budget."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "shopping"
+  ]
+ },
+ {
+  "id": "b1_1310",
+  "german": "günstig",
+  "word": "günstig",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "cheap, favorable",
+    "bengali": "সুলভ",
+    "example": "Das ist ein günstiges Angebot."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "shopping"
+  ]
+ },
+ {
+  "id": "b1_1311",
+  "german": "teuer",
+  "word": "teuer",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "expensive",
+    "bengali": "দামি",
+    "example": "Die Miete ist sehr teuer."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "shopping"
+  ]
+ },
+ {
+  "id": "b1_1312",
+  "german": "bezahlbar",
+  "word": "bezahlbar",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "affordable",
+    "bengali": "সাধ্যের মধ্যে",
+    "example": "Wir suchen eine bezahlbare Wohnung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "shopping"
+  ]
+ },
+ {
+  "id": "b1_1313",
+  "german": "neuwertig",
+  "word": "neuwertig",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "as good as new",
+    "bengali": "প্রায় নতুন",
+    "example": "Das Sofa ist neuwertig."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "shopping"
+  ]
+ },
+ {
+  "id": "b1_1314",
+  "german": "reduziert",
+  "word": "reduziert",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "reduced, on sale",
+    "bengali": "হ্রাসকৃত",
+    "example": "Die Jacke ist stark reduziert."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "shopping"
+  ]
+ },
+ {
+  "id": "b1_1315",
+  "german": "umtauschen",
+  "word": "umtauschen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "um-",
+   "meaning": "around (exchange)",
+   "related": [
+    "tauschen"
+   ]
+  },
+  "conjugation": {
+   "present": "er tauscht um",
+   "past": "er tauschte um",
+   "participle": "umgetauscht",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "tausche um",
+    "du": "tauschst um",
+    "er_sie": "tauscht um",
+    "wir": "tauschen um",
+    "ihr": "tauscht um",
+    "sie": "tauschen um"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to exchange (goods)",
+    "bengali": "বিনিময় করা",
+    "example": "Ich möchte das Hemd umtauschen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "shopping"
+  ]
+ }
+]

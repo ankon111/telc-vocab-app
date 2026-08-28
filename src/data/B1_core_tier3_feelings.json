@@ -1,0 +1,926 @@
+[
+ {
+  "id": "b1_1349",
+  "german": "die Wut",
+  "word": "Wut",
+  "article": "die",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "anger",
+    "bengali": "রাগ",
+    "example": "Seine Wut war deutlich zu sehen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1350",
+  "german": "die Erleichterung",
+  "word": "Erleichterung",
+  "article": "die",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "relief",
+    "bengali": "স্বস্তি",
+    "example": "Nach der Prüfung fühlte sie Erleichterung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1351",
+  "german": "der Stolz",
+  "word": "Stolz",
+  "article": "der",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "pride",
+    "bengali": "গর্ব",
+    "example": "Er erzählt mit Stolz von seinem Sohn."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1352",
+  "german": "die Scham",
+  "word": "Scham",
+  "article": "die",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "shame",
+    "bengali": "লজ্জা",
+    "example": "Sie errötete vor Scham."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1353",
+  "german": "die Eifersucht",
+  "word": "Eifersucht",
+  "article": "die",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "jealousy",
+    "bengali": "ঈর্ষা",
+    "example": "Eifersucht kann Beziehungen zerstören."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1354",
+  "german": "die Neugier",
+  "word": "Neugier",
+  "article": "die",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "curiosity",
+    "bengali": "কৌতূহল",
+    "example": "Neugier trieb ihn zum Fragen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1355",
+  "german": "die Ansicht",
+  "word": "Ansicht",
+  "article": "die",
+  "plural": "die Ansichten",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "view, opinion",
+    "bengali": "দৃষ্টিভঙ্গি",
+    "example": "Meiner Ansicht nach ist das falsch."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1356",
+  "german": "die Einstellung",
+  "word": "Einstellung",
+  "article": "die",
+  "plural": "die Einstellungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "attitude",
+    "bengali": "মনোভাব",
+    "example": "Er hat eine positive Einstellung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1357",
+  "german": "die Kritik",
+  "word": "Kritik",
+  "article": "die",
+  "plural": "die Kritiken",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "criticism",
+    "bengali": "সমালোচনা",
+    "example": "Er nimmt Kritik gut an."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1358",
+  "german": "die Zustimmung",
+  "word": "Zustimmung",
+  "article": "die",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "agreement, approval",
+    "bengali": "সম্মতি",
+    "example": "Sie gaben ihre Zustimmung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1359",
+  "german": "die Ablehnung",
+  "word": "Ablehnung",
+  "article": "die",
+  "plural": "die Ablehnungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "rejection",
+    "bengali": "প্রত্যাখ্যান",
+    "example": "Die Ablehnung kam überraschend."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1360",
+  "german": "die Überzeugung",
+  "word": "Überzeugung",
+  "article": "die",
+  "plural": "die Überzeugungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "conviction, belief",
+    "bengali": "দৃঢ় বিশ্বাস",
+    "example": "Er handelt aus Überzeugung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1361",
+  "german": "glücklich",
+  "word": "glücklich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "happy",
+    "bengali": "সুখী",
+    "example": "Sie ist sehr glücklich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1362",
+  "german": "enttäuscht",
+  "word": "enttäuscht",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "disappointed",
+    "bengali": "হতাশ",
+    "example": "Ich bin von dir enttäuscht."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1363",
+  "german": "überrascht",
+  "word": "überrascht",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "surprised",
+    "bengali": "অবাক",
+    "example": "Er war sehr überrascht."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1364",
+  "german": "gelassen",
+  "word": "gelassen",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "calm, relaxed",
+    "bengali": "শান্ত",
+    "example": "Er blieb ganz gelassen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1365",
+  "german": "gespannt",
+  "word": "gespannt",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "curious, excited (anticipation)",
+    "bengali": "উৎসুক",
+    "example": "Ich bin gespannt auf das Ergebnis."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1366",
+  "german": "gelangweilt",
+  "word": "gelangweilt",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "bored",
+    "bengali": "বিরক্ত",
+    "example": "Die Kinder waren gelangweilt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1367",
+  "german": "überzeugt",
+  "word": "überzeugt",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "convinced",
+    "bengali": "দৃঢ়প্রত্যয়ী",
+    "example": "Ich bin davon überzeugt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1368",
+  "german": "unsicher",
+  "word": "unsicher",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "unsure, insecure",
+    "bengali": "অনিশ্চিত",
+    "example": "Er fühlt sich unsicher."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1369",
+  "german": "sicher",
+  "word": "sicher",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "sure, safe",
+    "bengali": "নিশ্চিত",
+    "example": "Ich bin mir sicher."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1370",
+  "german": "freundlich",
+  "word": "freundlich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "friendly",
+    "bengali": "বন্ধুত্বপূর্ণ",
+    "example": "Die Verkäuferin war sehr freundlich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1371",
+  "german": "unfreundlich",
+  "word": "unfreundlich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "unfriendly",
+    "bengali": "বন্ধুত্বহীন",
+    "example": "Der Kellner war ziemlich unfreundlich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1372",
+  "german": "unhöflich",
+  "word": "unhöflich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "impolite",
+    "bengali": "অভদ্র",
+    "example": "Das war ziemlich unhöflich von ihm."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1373",
+  "german": "verschlossen",
+  "word": "verschlossen",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "reserved, closed off",
+    "bengali": "অন্তর্মুখী",
+    "example": "Er wirkt manchmal etwas verschlossen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1374",
+  "german": "großzügig",
+  "word": "großzügig",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "generous",
+    "bengali": "উদার",
+    "example": "Er ist sehr großzügig."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1375",
+  "german": "egoistisch",
+  "word": "egoistisch",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "selfish",
+    "bengali": "স্বার্থপর",
+    "example": "Sein Verhalten war egoistisch."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1376",
+  "german": "ernst",
+  "word": "ernst",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "serious",
+    "bengali": "গম্ভীর",
+    "example": "Das Thema ist sehr ernst."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1377",
+  "german": "humorvoll",
+  "word": "humorvoll",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "humorous",
+    "bengali": "রসিক",
+    "example": "Er ist ein humorvoller Mensch."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1378",
+  "german": "schüchtern",
+  "word": "schüchtern",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "shy",
+    "bengali": "লাজুক",
+    "example": "Sie war als Kind sehr schüchtern."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1379",
+  "german": "selbstbewusst",
+  "word": "selbstbewusst",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "self-confident",
+    "bengali": "আত্মবিশ্বাসী",
+    "example": "Er wirkt sehr selbstbewusst."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1380",
+  "german": "sensibel",
+  "word": "sensibel",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "sensitive",
+    "bengali": "সংবেদনশীল",
+    "example": "Sie ist ein sehr sensibler Mensch."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ },
+ {
+  "id": "b1_1381",
+  "german": "entspannt",
+  "word": "entspannt",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "relaxed",
+    "bengali": "প্রশান্ত",
+    "example": "Nach dem Urlaub fühlte er sich entspannt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "feelings"
+  ]
+ }
+]

@@ -101,6 +101,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; b
 .badge-a2 { background: var(--warning-bg); color: var(--warning-text); border: 1px solid var(--warning-border); }
 .badge-b1 { background: var(--accent-bg); color: var(--accent-text); border: 1px solid var(--accent-border); }
 .badge-both { background: var(--purple-bg); color: var(--purple-text); border: 1px solid var(--purple-border); }
+.badge-core700 { background: transparent; border: none; padding: 0 2px; font-size: 0.8rem; }
 .badge-type { background: var(--surface2); color: var(--text2); border: 1px solid var(--border); font-size: 0.65rem; padding: 2px 7px; border-radius: 20px; }
 
 /* Badge Difficulty */

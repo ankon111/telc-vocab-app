@@ -33,7 +33,7 @@
 }
 ],
 "synonym": "reservieren",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "travel"]
 },
 {
 "id": "a2_0202",
@@ -357,7 +357,7 @@
 }
 ],
 "synonym": "anwesend",
-"starred": false
+"starred": false,"tags":["connectors", "core700", "tier1"]
 },
 {
 "id": "a2_0216",
@@ -378,7 +378,7 @@
 }
 ],
 "synonym": "wider",
-"starred": false
+"starred": false,"tags":["connectors", "core700", "tier1"]
 },
 {
 "id": "a2_0217",
@@ -687,7 +687,7 @@
 }
 ],
 "synonym": "darum",
-"starred": false
+"starred": false,"tags":["connectors", "core700", "tier1"]
 },
 {
 "id": "a2_0231",
@@ -708,7 +708,7 @@
 }
 ],
 "synonym": "klar",
-"starred": false
+"starred": false,"tags":["core700", "description", "tier4"]
 },
 {
 "id": "a2_0232",
@@ -948,7 +948,7 @@
 }
 ],
 "synonym": "wenden",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0242",
@@ -1005,7 +1005,7 @@
 }
 ],
 "synonym": "ausdrucken",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0244",
@@ -1041,7 +1041,7 @@
 }
 ],
 "synonym": "betätigen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0245",
@@ -1484,7 +1484,7 @@
 }
 ],
 "synonym": "möblieren",
-"starred": false
+"starred": false,"tags":["core700", "housing", "tier3"],"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0263",
@@ -1959,7 +1959,7 @@
 }
 ],
 "synonym": "die Kraft",
-"starred": false
+"starred": false,"tags":["core700", "environment", "tier3"]
 },
 {
 "id": "a2_0282",
@@ -2058,7 +2058,7 @@
 }
 ],
 "synonym": "der Enkel",
-"starred": false
+"starred": false,"tags":["core700", "family", "tier3"]
 },
 {
 "id": "a2_0286",
@@ -2098,7 +2098,7 @@
 }
 ],
 "synonym": "beinhalten",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0287",
@@ -2159,7 +2159,7 @@
 }
 ],
 "synonym": "beschließen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0289",
@@ -2199,7 +2199,7 @@
 }
 ],
 "synonym": "verzeihen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0290",
@@ -2382,7 +2382,7 @@
 }
 ],
 "synonym": "hören",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "work"],"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0296",
@@ -2443,7 +2443,7 @@
 }
 ],
 "synonym": "notwendig",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "time"]
 },
 {
 "id": "a2_0298",
@@ -2483,7 +2483,7 @@
 }
 ],
 "synonym": "bekommen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0299",
@@ -2523,7 +2523,7 @@
 }
 ],
 "synonym": "gestatten",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0300",
@@ -2563,6 +2563,6 @@
 }
 ],
 "synonym": "machen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 }
 ]

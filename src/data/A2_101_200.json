@@ -857,7 +857,7 @@
       }
     ],
     "synonym": "heißen",
-    "starred": false
+    "starred": false,"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "a2_0134",
@@ -1120,7 +1120,7 @@
       }
     ],
     "synonym": "die Therapie",
-    "starred": false
+    "starred": false,"tags":["core700", "health", "tier3"]
   },
   {
     "id": "a2_0142",
@@ -1284,7 +1284,7 @@
       }
     ],
     "synonym": "empfehlen",
-    "starred": false
+    "starred": false,"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "a2_0148",
@@ -1469,7 +1469,7 @@
       }
     ],
     "synonym": "die Reportage",
-    "starred": false
+    "starred": false,"tags":["core700", "media", "tier3"]
   },
   {
     "id": "a2_0155",
@@ -1679,7 +1679,7 @@
       }
     ],
     "synonym": "die Reklamation",
-    "starred": false
+    "starred": false,"tags":["core700", "health", "tier3"]
   },
   {
     "id": "a2_0165",
@@ -1719,7 +1719,7 @@
       }
     ],
     "synonym": "besuchen",
-    "starred": false
+    "starred": false,"tags":["core700", "tier3", "travel"]
   },
   {
     "id": "a2_0166",
@@ -1740,7 +1740,7 @@
       }
     ],
     "synonym": "speziell",
-    "starred": false
+    "starred": false,"tags":["core700", "tier3", "time"]
   },
   {
     "id": "a2_0167",
@@ -1862,7 +1862,7 @@
       }
     ],
     "synonym": "fordern",
-    "starred": false
+    "starred": false,"tags":["core700", "shopping", "tier3"],"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "a2_0171",
@@ -1904,7 +1904,7 @@
       }
     ],
     "synonym": null,
-    "starred": false
+    "starred": false,"tags":["core700", "shopping", "tier3"]
   },
   {
     "id": "a2_0173",
@@ -2001,7 +2001,7 @@
       }
     ],
     "synonym": "angehen",
-    "starred": false
+    "starred": false,"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "a2_0176",
@@ -2081,7 +2081,7 @@
       }
     ],
     "synonym": null,
-    "starred": false
+    "starred": false,"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "a2_0178",
@@ -2180,7 +2180,7 @@
       }
     ],
     "synonym": "anbieten",
-    "starred": false
+    "starred": false,"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "a2_0182",
@@ -2321,7 +2321,7 @@
       }
     ],
     "synonym": "fragen",
-    "starred": false
+    "starred": false,"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "a2_0188",

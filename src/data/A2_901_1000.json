@@ -18,7 +18,7 @@
 }
 ],
 "synonym": "die Natur",
-"starred": false
+"starred": false,"tags":["core700", "environment", "tier3"]
 },
 {
 "id": "a2_0902",
@@ -58,7 +58,7 @@
 }
 ],
 "synonym": "wechseln",
-"starred": false
+"starred": false,"tags":["core700", "housing", "tier3"],"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0903",
@@ -79,7 +79,7 @@
 }
 ],
 "synonym": "die Übersiedlung",
-"starred": false
+"starred": false,"tags":["core700", "housing", "tier3"]
 },
 {
 "id": "a2_0904",
@@ -308,7 +308,7 @@
 }
 ],
 "synonym": "reden",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0914",
@@ -369,7 +369,7 @@
 }
 ],
 "synonym": "machen",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "work"],"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0916",
@@ -430,7 +430,7 @@
 }
 ],
 "synonym": "signieren",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0918",
@@ -470,7 +470,7 @@
 }
 ],
 "synonym": "helfen",
-"starred": false
+"starred": false,"tags":["core700", "family", "tier3"],"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0919",
@@ -512,7 +512,7 @@
 }
 ],
 "synonym": "auf Achse",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "travel"]
 },
 {
 "id": "a2_0921",
@@ -533,7 +533,7 @@
 }
 ],
 "synonym": "verärgert",
-"starred": false
+"starred": false,"tags":["core700", "feelings", "tier3"]
 },
 {
 "id": "a2_0922",
@@ -884,7 +884,7 @@
 }
 ],
 "synonym": "optimieren",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0936",
@@ -905,7 +905,7 @@
 }
 ],
 "synonym": "der Kontakt",
-"starred": false
+"starred": false,"tags":["core700", "media", "tier3"]
 },
 {
 "id": "a2_0937",
@@ -926,7 +926,7 @@
 }
 ],
 "synonym": "unzulässig",
-"starred": false
+"starred": false,"tags":["core700", "description", "tier4"]
 },
 {
 "id": "a2_0938",
@@ -987,7 +987,7 @@
 }
 ],
 "synonym": "aufwenden",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0940",
@@ -1048,7 +1048,7 @@
 }
 ],
 "synonym": "abmachen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0942",
@@ -1069,7 +1069,7 @@
 }
 ],
 "synonym": "die Vorzeit",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "time"]
 },
 {
 "id": "a2_0943",
@@ -1090,7 +1090,7 @@
 }
 ],
 "synonym": "das Benehmen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0944",
@@ -1206,7 +1206,7 @@
 }
 ],
 "synonym": "einbüßen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0947",
@@ -1246,7 +1246,7 @@
 }
 ],
 "synonym": "meiden",
-"starred": false
+"starred": false,"tags":["core700", "environment", "tier3"],"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0948",
@@ -1385,7 +1385,7 @@
 }
 ],
 "synonym": "die Hülle",
-"starred": false
+"starred": false,"tags":["core700", "environment", "tier3"]
 },
 {
 "id": "a2_0953",
@@ -1425,7 +1425,7 @@
 }
 ],
 "synonym": "versäumen",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "travel"],"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0954",
@@ -1631,7 +1631,7 @@
 }
 ],
 "synonym": "versäumt",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "travel"]
 },
 {
 "id": "a2_0962",
@@ -1652,7 +1652,7 @@
 }
 ],
 "synonym": "die Verzögerung",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "travel"]
 },
 {
 "id": "a2_0963",
@@ -1774,7 +1774,7 @@
 }
 ],
 "synonym": "benutzen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0967",
@@ -1900,7 +1900,7 @@
 }
 ],
 "synonym": null,
-"starred": false
+"starred": false,"tags":["core700", "tier3", "work"]
 },
 {
 "id": "a2_0973",
@@ -1942,7 +1942,7 @@
 }
 ],
 "synonym": "die Bedingung",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "time"]
 },
 {
 "id": "a2_0975",
@@ -2022,7 +2022,7 @@
 }
 ],
 "synonym": "planen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0977",
@@ -2148,7 +2148,7 @@
 }
 ],
 "synonym": "die Empfehlung",
-"starred": false
+"starred": false,"tags":["core700", "feelings", "tier3"]
 },
 {
 "id": "a2_0983",
@@ -2211,7 +2211,7 @@
 }
 ],
 "synonym": "das Bewerbungsgespräch",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "work"]
 },
 {
 "id": "a2_0986",

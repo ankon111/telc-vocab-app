@@ -1,0 +1,4931 @@
+[
+ {
+  "id": "b1_1080",
+  "german": "anfangen",
+  "word": "anfangen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "an-",
+   "meaning": "beginning/starting",
+   "related": [
+    "fangen"
+   ]
+  },
+  "conjugation": {
+   "present": "er fängt an",
+   "past": "er fing an",
+   "participle": "angefangen",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": "a → ä",
+   "full_present": {
+    "ich": "fange an",
+    "du": "fängst an",
+    "er_sie": "fängt an",
+    "wir": "fangen an",
+    "ihr": "fangt an",
+    "sie": "fangen an"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to begin, start",
+    "bengali": "শুরু করা",
+    "example": "Der Unterricht fängt um acht an."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1081",
+  "german": "anmelden",
+  "word": "anmelden",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "an-",
+   "meaning": "registering",
+   "related": [
+    "melden"
+   ]
+  },
+  "conjugation": {
+   "present": "er meldet an",
+   "past": "er meldete an",
+   "participle": "angemeldet",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "melde an",
+    "du": "meldest an",
+    "er_sie": "meldet an",
+    "wir": "melden an",
+    "ihr": "meldet an",
+    "sie": "melden an"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to register, sign up",
+    "bengali": "নিবন্ধন করা",
+    "example": "Ich möchte mich für den Kurs anmelden."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1082",
+  "german": "anrufen",
+  "word": "anrufen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "an-",
+   "meaning": "calling (by phone)",
+   "related": [
+    "rufen"
+   ]
+  },
+  "conjugation": {
+   "present": "er ruft an",
+   "past": "er rief an",
+   "participle": "angerufen",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "rufe an",
+    "du": "rufst an",
+    "er_sie": "ruft an",
+    "wir": "rufen an",
+    "ihr": "ruft an",
+    "sie": "rufen an"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to call (phone)",
+    "bengali": "ফোন করা",
+    "example": "Ich rufe dich später an."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1083",
+  "german": "anziehen",
+  "word": "anziehen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "an-",
+   "meaning": "putting on (clothing)",
+   "related": [
+    "ziehen"
+   ]
+  },
+  "conjugation": {
+   "present": "er zieht an",
+   "past": "er zog an",
+   "participle": "angezogen",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": "ie → o",
+   "full_present": {
+    "ich": "ziehe an",
+    "du": "ziehst an",
+    "er_sie": "zieht an",
+    "wir": "ziehen an",
+    "ihr": "zieht an",
+    "sie": "ziehen an"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to put on (clothes)",
+    "bengali": "পরিধান করা",
+    "example": "Zieh dir eine Jacke an, es ist kalt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1084",
+  "german": "aufregen",
+  "word": "aufregen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "auf-",
+   "meaning": "exciting/upsetting",
+   "related": [
+    "regen"
+   ]
+  },
+  "conjugation": {
+   "present": "er regt auf",
+   "past": "er regte auf",
+   "participle": "aufgeregt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "rege auf",
+    "du": "regst auf",
+    "er_sie": "regt auf",
+    "wir": "regen auf",
+    "ihr": "regt auf",
+    "sie": "regen auf"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to get upset, excite",
+    "bengali": "উত্তেজিত হওয়া",
+    "example": "Reg dich nicht so auf."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1085",
+  "german": "aufwachen",
+  "word": "aufwachen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "auf-",
+   "meaning": "waking up",
+   "related": [
+    "wachen"
+   ]
+  },
+  "conjugation": {
+   "present": "er wacht auf",
+   "past": "er wachte auf",
+   "participle": "aufgewacht",
+   "auxiliary": "ist",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "wache auf",
+    "du": "wachst auf",
+    "er_sie": "wacht auf",
+    "wir": "wachen auf",
+    "ihr": "wacht auf",
+    "sie": "wachen auf"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to wake up",
+    "bengali": "জেগে ওঠা",
+    "example": "Ich bin heute früh aufgewacht."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1086",
+  "german": "ausdrücken",
+  "word": "ausdrücken",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "aus-",
+   "meaning": "expressing",
+   "related": [
+    "drücken"
+   ]
+  },
+  "conjugation": {
+   "present": "er drückt aus",
+   "past": "er drückte aus",
+   "participle": "ausgedrückt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "drücke aus",
+    "du": "drückst aus",
+    "er_sie": "drückt aus",
+    "wir": "drücken aus",
+    "ihr": "drückt aus",
+    "sie": "drücken aus"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to express",
+    "bengali": "প্রকাশ করা",
+    "example": "Er kann seine Gefühle gut ausdrücken."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1087",
+  "german": "ausfüllen",
+  "word": "ausfüllen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "aus-",
+   "meaning": "filling out",
+   "related": [
+    "füllen"
+   ]
+  },
+  "conjugation": {
+   "present": "er füllt aus",
+   "past": "er füllte aus",
+   "participle": "ausgefüllt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "fülle aus",
+    "du": "füllst aus",
+    "er_sie": "füllt aus",
+    "wir": "füllen aus",
+    "ihr": "füllt aus",
+    "sie": "füllen aus"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to fill out",
+    "bengali": "পূরণ করা",
+    "example": "Bitte füllen Sie das Formular aus."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1088",
+  "german": "ausruhen",
+  "word": "ausruhen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "aus-",
+   "meaning": "resting",
+   "related": [
+    "ruhen"
+   ]
+  },
+  "conjugation": {
+   "present": "er ruht aus",
+   "past": "er ruhte aus",
+   "participle": "ausgeruht",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "ruhe aus",
+    "du": "ruhst aus",
+    "er_sie": "ruht aus",
+    "wir": "ruhen aus",
+    "ihr": "ruht aus",
+    "sie": "ruhen aus"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to rest",
+    "bengali": "বিশ্রাম নেওয়া",
+    "example": "Ich muss mich ein bisschen ausruhen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1089",
+  "german": "beeindrucken",
+  "word": "beeindrucken",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "be-",
+   "meaning": "inseparable prefix",
+   "related": [
+    "Eindruck"
+   ]
+  },
+  "conjugation": {
+   "present": "er beeindruckt",
+   "past": "er beeindruckte",
+   "participle": "beeindruckt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "beeindrucke",
+    "du": "beeindruckst",
+    "er_sie": "beeindruckt",
+    "wir": "beeindrucken",
+    "ihr": "beeindruckt",
+    "sie": "beeindrucken"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to impress",
+    "bengali": "প্রভাবিত করা",
+    "example": "Der Vortrag hat mich beeindruckt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1090",
+  "german": "befinden",
+  "word": "befinden",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "be-",
+   "meaning": "inseparable prefix",
+   "related": [
+    "finden"
+   ]
+  },
+  "conjugation": {
+   "present": "er befindet",
+   "past": "er befand",
+   "participle": "befunden",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "befinde",
+    "du": "befindest",
+    "er_sie": "befindet",
+    "wir": "befinden",
+    "ihr": "befindet",
+    "sie": "befinden"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to be located, feel",
+    "bengali": "অবস্থিত হওয়া",
+    "example": "Das Büro befindet sich im zweiten Stock."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1091",
+  "german": "beginnen",
+  "word": "beginnen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "be-",
+   "meaning": "inseparable prefix",
+   "related": []
+  },
+  "conjugation": {
+   "present": "er beginnt",
+   "past": "er begann",
+   "participle": "begonnen",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "beginne",
+    "du": "beginnst",
+    "er_sie": "beginnt",
+    "wir": "beginnen",
+    "ihr": "beginnt",
+    "sie": "beginnen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to begin",
+    "bengali": "শুরু হওয়া",
+    "example": "Der Film beginnt um sieben."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1092",
+  "german": "beklagen",
+  "word": "beklagen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "be-",
+   "meaning": "inseparable prefix",
+   "related": [
+    "klagen"
+   ]
+  },
+  "conjugation": {
+   "present": "er beklagt",
+   "past": "er beklagte",
+   "participle": "beklagt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "beklage",
+    "du": "beklagst",
+    "er_sie": "beklagt",
+    "wir": "beklagen",
+    "ihr": "beklagt",
+    "sie": "beklagen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to complain",
+    "bengali": "অভিযোগ করা",
+    "example": "Er beklagt sich über den Lärm."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1093",
+  "german": "bemerken",
+  "word": "bemerken",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "be-",
+   "meaning": "inseparable prefix",
+   "related": [
+    "merken"
+   ]
+  },
+  "conjugation": {
+   "present": "er bemerkt",
+   "past": "er bemerkte",
+   "participle": "bemerkt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "bemerke",
+    "du": "bemerkst",
+    "er_sie": "bemerkt",
+    "wir": "bemerken",
+    "ihr": "bemerkt",
+    "sie": "bemerken"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to notice",
+    "bengali": "লক্ষ্য করা",
+    "example": "Sie bemerkte den Fehler sofort."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1094",
+  "german": "benutzen",
+  "word": "benutzen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "be-",
+   "meaning": "inseparable prefix",
+   "related": [
+    "nutzen"
+   ]
+  },
+  "conjugation": {
+   "present": "er benutzt",
+   "past": "er benutzte",
+   "participle": "benutzt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "benutze",
+    "du": "benutzt",
+    "er_sie": "benutzt",
+    "wir": "benutzen",
+    "ihr": "benutzt",
+    "sie": "benutzen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to use",
+    "bengali": "ব্যবহার করা",
+    "example": "Darf ich dein Telefon benutzen?"
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1095",
+  "german": "berichten",
+  "word": "berichten",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "be-",
+   "meaning": "inseparable prefix",
+   "related": [
+    "richten"
+   ]
+  },
+  "conjugation": {
+   "present": "er berichtet",
+   "past": "er berichtete",
+   "participle": "berichtet",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "berichte",
+    "du": "berichtest",
+    "er_sie": "berichtet",
+    "wir": "berichten",
+    "ihr": "berichtet",
+    "sie": "berichten"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to report",
+    "bengali": "প্রতিবেদন করা",
+    "example": "Sie berichtete über den Unfall."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1096",
+  "german": "beschäftigen",
+  "word": "beschäftigen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "be-",
+   "meaning": "inseparable prefix",
+   "related": []
+  },
+  "conjugation": {
+   "present": "er beschäftigt",
+   "past": "er beschäftigte",
+   "participle": "beschäftigt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "beschäftige",
+    "du": "beschäftigst",
+    "er_sie": "beschäftigt",
+    "wir": "beschäftigen",
+    "ihr": "beschäftigt",
+    "sie": "beschäftigen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to occupy, employ",
+    "bengali": "নিযুক্ত করা",
+    "example": "Die Firma beschäftigt fünfzig Mitarbeiter."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1097",
+  "german": "beschließen",
+  "word": "beschließen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "be-",
+   "meaning": "inseparable prefix",
+   "related": [
+    "schließen"
+   ]
+  },
+  "conjugation": {
+   "present": "er beschließt",
+   "past": "er beschloss",
+   "participle": "beschlossen",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "beschließe",
+    "du": "beschließt",
+    "er_sie": "beschließt",
+    "wir": "beschließen",
+    "ihr": "beschließt",
+    "sie": "beschließen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to decide",
+    "bengali": "সিদ্ধান্ত নেওয়া",
+    "example": "Wir haben beschlossen umzuziehen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1098",
+  "german": "beschreiben",
+  "word": "beschreiben",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "be-",
+   "meaning": "inseparable prefix",
+   "related": [
+    "schreiben"
+   ]
+  },
+  "conjugation": {
+   "present": "er beschreibt",
+   "past": "er beschrieb",
+   "participle": "beschrieben",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "beschreibe",
+    "du": "beschreibst",
+    "er_sie": "beschreibt",
+    "wir": "beschreiben",
+    "ihr": "beschreibt",
+    "sie": "beschreiben"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to describe",
+    "bengali": "বর্ণনা করা",
+    "example": "Kannst du das Problem genauer beschreiben?"
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1099",
+  "german": "besorgen",
+  "word": "besorgen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "be-",
+   "meaning": "inseparable prefix",
+   "related": [
+    "sorgen"
+   ]
+  },
+  "conjugation": {
+   "present": "er besorgt",
+   "past": "er besorgte",
+   "participle": "besorgt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "besorge",
+    "du": "besorgst",
+    "er_sie": "besorgt",
+    "wir": "besorgen",
+    "ihr": "besorgt",
+    "sie": "besorgen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to get, obtain",
+    "bengali": "সংগ্রহ করা",
+    "example": "Ich muss noch Brot besorgen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1100",
+  "german": "bestehen",
+  "word": "bestehen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "be-",
+   "meaning": "inseparable prefix",
+   "related": [
+    "stehen"
+   ]
+  },
+  "conjugation": {
+   "present": "er besteht",
+   "past": "er bestand",
+   "participle": "bestanden",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "bestehe",
+    "du": "bestehst",
+    "er_sie": "besteht",
+    "wir": "bestehen",
+    "ihr": "besteht",
+    "sie": "bestehen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to pass (exam), exist, insist",
+    "bengali": "উত্তীর্ণ হওয়া, বিদ্যমান থাকা",
+    "example": "Sie hat die Prüfung bestanden."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1101",
+  "german": "betragen",
+  "word": "betragen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "be-",
+   "meaning": "inseparable prefix",
+   "related": [
+    "tragen"
+   ]
+  },
+  "conjugation": {
+   "present": "er beträgt",
+   "past": "er betrug",
+   "participle": "betragen",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": "a → ä",
+   "full_present": {
+    "ich": "betrage",
+    "du": "beträgst",
+    "er_sie": "beträgt",
+    "wir": "betragen",
+    "ihr": "betragt",
+    "sie": "betragen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to amount to",
+    "bengali": "পরিমাণ হওয়া",
+    "example": "Die Kosten betragen hundert Euro."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1102",
+  "german": "beweisen",
+  "word": "beweisen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "be-",
+   "meaning": "inseparable prefix",
+   "related": [
+    "weisen"
+   ]
+  },
+  "conjugation": {
+   "present": "er beweist",
+   "past": "er bewies",
+   "participle": "bewiesen",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "beweise",
+    "du": "beweist",
+    "er_sie": "beweist",
+    "wir": "beweisen",
+    "ihr": "beweist",
+    "sie": "beweisen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to prove",
+    "bengali": "প্রমাণ করা",
+    "example": "Das beweist nichts."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1103",
+  "german": "bezahlen",
+  "word": "bezahlen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "be-",
+   "meaning": "inseparable prefix",
+   "related": [
+    "zahlen"
+   ]
+  },
+  "conjugation": {
+   "present": "er bezahlt",
+   "past": "er bezahlte",
+   "participle": "bezahlt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "bezahle",
+    "du": "bezahlst",
+    "er_sie": "bezahlt",
+    "wir": "bezahlen",
+    "ihr": "bezahlt",
+    "sie": "bezahlen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to pay",
+    "bengali": "টাকা দেওয়া",
+    "example": "Ich bezahle mit Karte."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1104",
+  "german": "brauchen",
+  "word": "brauchen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er braucht",
+   "past": "er brauchte",
+   "participle": "gebraucht",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "brauche",
+    "du": "brauchst",
+    "er_sie": "braucht",
+    "wir": "brauchen",
+    "ihr": "braucht",
+    "sie": "brauchen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to need",
+    "bengali": "প্রয়োজন হওয়া",
+    "example": "Wir brauchen mehr Zeit."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1105",
+  "german": "bringen",
+  "word": "bringen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er bringt",
+   "past": "er brachte",
+   "participle": "gebracht",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "bringe",
+    "du": "bringst",
+    "er_sie": "bringt",
+    "wir": "bringen",
+    "ihr": "bringt",
+    "sie": "bringen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to bring",
+    "bengali": "আনা",
+    "example": "Bring mir bitte ein Glas Wasser."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1106",
+  "german": "dauern",
+  "word": "dauern",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er dauert",
+   "past": "er dauerte",
+   "participle": "gedauert",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "dauere",
+    "du": "dauerst",
+    "er_sie": "dauert",
+    "wir": "dauern",
+    "ihr": "dauert",
+    "sie": "dauern"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to last, take (time)",
+    "bengali": "সময় নেওয়া",
+    "example": "Der Film dauert zwei Stunden."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1107",
+  "german": "denken",
+  "word": "denken",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er denkt",
+   "past": "er dachte",
+   "participle": "gedacht",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "denke",
+    "du": "denkst",
+    "er_sie": "denkt",
+    "wir": "denken",
+    "ihr": "denkt",
+    "sie": "denken"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to think",
+    "bengali": "চিন্তা করা",
+    "example": "Ich denke oft an dich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1108",
+  "german": "dienen",
+  "word": "dienen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er dient",
+   "past": "er diente",
+   "participle": "gedient",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "diene",
+    "du": "dienst",
+    "er_sie": "dient",
+    "wir": "dienen",
+    "ihr": "dient",
+    "sie": "dienen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to serve",
+    "bengali": "সেবা করা",
+    "example": "Diese Regel dient der Sicherheit."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1109",
+  "german": "einigen",
+  "word": "einigen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er einigt",
+   "past": "er einigte",
+   "participle": "geeinigt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "einige",
+    "du": "einigst",
+    "er_sie": "einigt",
+    "wir": "einigen",
+    "ihr": "einigt",
+    "sie": "einigen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to agree, come to an agreement",
+    "bengali": "একমত হওয়া",
+    "example": "Wir haben uns auf einen Preis geeinigt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1110",
+  "german": "einkaufen",
+  "word": "einkaufen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "ein-",
+   "meaning": "shopping/buying",
+   "related": [
+    "kaufen"
+   ]
+  },
+  "conjugation": {
+   "present": "er kauft ein",
+   "past": "er kaufte ein",
+   "participle": "eingekauft",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "kaufe ein",
+    "du": "kaufst ein",
+    "er_sie": "kauft ein",
+    "wir": "kaufen ein",
+    "ihr": "kauft ein",
+    "sie": "kaufen ein"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to shop",
+    "bengali": "কেনাকাটা করা",
+    "example": "Ich gehe heute einkaufen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1111",
+  "german": "einladen",
+  "word": "einladen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "ein-",
+   "meaning": "inviting",
+   "related": [
+    "laden"
+   ]
+  },
+  "conjugation": {
+   "present": "er lädt ein",
+   "past": "er lud ein",
+   "participle": "eingeladen",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": "a → ä",
+   "full_present": {
+    "ich": "lade ein",
+    "du": "lädst ein",
+    "er_sie": "lädt ein",
+    "wir": "laden ein",
+    "ihr": "ladet ein",
+    "sie": "laden ein"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to invite",
+    "bengali": "আমন্ত্রণ জানানো",
+    "example": "Wir laden euch zur Party ein."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1112",
+  "german": "entdecken",
+  "word": "entdecken",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "ent-",
+   "meaning": "inseparable prefix",
+   "related": [
+    "decken"
+   ]
+  },
+  "conjugation": {
+   "present": "er entdeckt",
+   "past": "er entdeckte",
+   "participle": "entdeckt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "entdecke",
+    "du": "entdeckst",
+    "er_sie": "entdeckt",
+    "wir": "entdecken",
+    "ihr": "entdeckt",
+    "sie": "entdecken"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to discover",
+    "bengali": "আবিষ্কার করা",
+    "example": "Forscher haben eine neue Art entdeckt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1113",
+  "german": "entfernen",
+  "word": "entfernen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "ent-",
+   "meaning": "inseparable prefix",
+   "related": [
+    "fern"
+   ]
+  },
+  "conjugation": {
+   "present": "er entfernt",
+   "past": "er entfernte",
+   "participle": "entfernt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "entferne",
+    "du": "entfernst",
+    "er_sie": "entfernt",
+    "wir": "entfernen",
+    "ihr": "entfernt",
+    "sie": "entfernen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to remove",
+    "bengali": "সরিয়ে ফেলা",
+    "example": "Bitte entfernen Sie die Verpackung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1114",
+  "german": "erfinden",
+  "word": "erfinden",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "er-",
+   "meaning": "inseparable prefix",
+   "related": [
+    "finden"
+   ]
+  },
+  "conjugation": {
+   "present": "er erfindet",
+   "past": "er erfand",
+   "participle": "erfunden",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "erfinde",
+    "du": "erfindest",
+    "er_sie": "erfindet",
+    "wir": "erfinden",
+    "ihr": "erfindet",
+    "sie": "erfinden"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to invent",
+    "bengali": "উদ্ভাবন করা",
+    "example": "Wer hat das Telefon erfunden?"
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1115",
+  "german": "erfüllen",
+  "word": "erfüllen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "er-",
+   "meaning": "fulfilling",
+   "related": [
+    "füllen"
+   ]
+  },
+  "conjugation": {
+   "present": "er erfüllt",
+   "past": "er erfüllte",
+   "participle": "erfüllt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "erfülle",
+    "du": "erfüllst",
+    "er_sie": "erfüllt",
+    "wir": "erfüllen",
+    "ihr": "erfüllt",
+    "sie": "erfüllen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to fulfill",
+    "bengali": "পূরণ করা",
+    "example": "Er hat seinen Traum erfüllt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1116",
+  "german": "ergänzen",
+  "word": "ergänzen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "er-",
+   "meaning": "completing",
+   "related": [
+    "ganz"
+   ]
+  },
+  "conjugation": {
+   "present": "er ergänzt",
+   "past": "er ergänzte",
+   "participle": "ergänzt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "ergänze",
+    "du": "ergänzt",
+    "er_sie": "ergänzt",
+    "wir": "ergänzen",
+    "ihr": "ergänzt",
+    "sie": "ergänzen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to complete, add to",
+    "bengali": "সম্পূরক করা",
+    "example": "Bitte ergänzen Sie den Satz."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1117",
+  "german": "erklären",
+  "word": "erklären",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "er-",
+   "meaning": "explaining",
+   "related": [
+    "klären"
+   ]
+  },
+  "conjugation": {
+   "present": "er erklärt",
+   "past": "er erklärte",
+   "participle": "erklärt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "erkläre",
+    "du": "erklärst",
+    "er_sie": "erklärt",
+    "wir": "erklären",
+    "ihr": "erklärt",
+    "sie": "erklären"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to explain",
+    "bengali": "ব্যাখ্যা করা",
+    "example": "Kannst du mir das erklären?"
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1118",
+  "german": "ermöglichen",
+  "word": "ermöglichen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "er-",
+   "meaning": "enabling",
+   "related": [
+    "möglich"
+   ]
+  },
+  "conjugation": {
+   "present": "er ermöglicht",
+   "past": "er ermöglichte",
+   "participle": "ermöglicht",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "ermögliche",
+    "du": "ermöglichst",
+    "er_sie": "ermöglicht",
+    "wir": "ermöglichen",
+    "ihr": "ermöglicht",
+    "sie": "ermöglichen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to enable, make possible",
+    "bengali": "সম্ভব করা",
+    "example": "Das Stipendium ermöglicht ihm zu studieren."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1119",
+  "german": "erscheinen",
+  "word": "erscheinen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "er-",
+   "meaning": "appearing",
+   "related": [
+    "scheinen"
+   ]
+  },
+  "conjugation": {
+   "present": "er erscheint",
+   "past": "er erschien",
+   "participle": "erschienen",
+   "auxiliary": "ist",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "erscheine",
+    "du": "erscheinst",
+    "er_sie": "erscheint",
+    "wir": "erscheinen",
+    "ihr": "erscheint",
+    "sie": "erscheinen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to appear, be published",
+    "bengali": "প্রকাশিত হওয়া",
+    "example": "Das Buch erscheint nächsten Monat."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1120",
+  "german": "erschrecken",
+  "word": "erschrecken",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "er-",
+   "meaning": "becoming frightened",
+   "related": [
+    "schrecken"
+   ]
+  },
+  "conjugation": {
+   "present": "er erschrickt",
+   "past": "er erschrak",
+   "participle": "erschrocken",
+   "auxiliary": "ist",
+   "irregular": true,
+   "vowel_change": "e → i",
+   "full_present": {
+    "ich": "erschrecke",
+    "du": "erschrickst",
+    "er_sie": "erschrickt",
+    "wir": "erschrecken",
+    "ihr": "erschreckt",
+    "sie": "erschrecken"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to be frightened, startle",
+    "bengali": "ভয় পাওয়া",
+    "example": "Ich bin sehr erschrocken."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1121",
+  "german": "ersetzen",
+  "word": "ersetzen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "er-",
+   "meaning": "replacing",
+   "related": [
+    "setzen"
+   ]
+  },
+  "conjugation": {
+   "present": "er ersetzt",
+   "past": "er ersetzte",
+   "participle": "ersetzt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "ersetze",
+    "du": "ersetzt",
+    "er_sie": "ersetzt",
+    "wir": "ersetzen",
+    "ihr": "ersetzt",
+    "sie": "ersetzen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to replace",
+    "bengali": "প্রতিস্থাপন করা",
+    "example": "Wir müssen das kaputte Teil ersetzen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1122",
+  "german": "erzählen",
+  "word": "erzählen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "er-",
+   "meaning": "narrating",
+   "related": [
+    "zählen"
+   ]
+  },
+  "conjugation": {
+   "present": "er erzählt",
+   "past": "er erzählte",
+   "participle": "erzählt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "erzähle",
+    "du": "erzählst",
+    "er_sie": "erzählt",
+    "wir": "erzählen",
+    "ihr": "erzählt",
+    "sie": "erzählen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to tell (a story)",
+    "bengali": "গল্প বলা",
+    "example": "Erzähl mir, was passiert ist."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1123",
+  "german": "erzeugen",
+  "word": "erzeugen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "er-",
+   "meaning": "producing",
+   "related": [
+    "zeugen"
+   ]
+  },
+  "conjugation": {
+   "present": "er erzeugt",
+   "past": "er erzeugte",
+   "participle": "erzeugt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "erzeuge",
+    "du": "erzeugst",
+    "er_sie": "erzeugt",
+    "wir": "erzeugen",
+    "ihr": "erzeugt",
+    "sie": "erzeugen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to produce, generate",
+    "bengali": "উৎপাদন করা",
+    "example": "Die Anlage erzeugt Strom."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1124",
+  "german": "feststellen",
+  "word": "feststellen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "fest-",
+   "meaning": "firmly, determining",
+   "related": [
+    "stellen"
+   ]
+  },
+  "conjugation": {
+   "present": "er stellt fest",
+   "past": "er stellte fest",
+   "participle": "festgestellt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "stelle fest",
+    "du": "stellst fest",
+    "er_sie": "stellt fest",
+    "wir": "stellen fest",
+    "ihr": "stellt fest",
+    "sie": "stellen fest"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to determine, notice",
+    "bengali": "নির্ধারণ করা",
+    "example": "Der Arzt stellte keine Krankheit fest."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1125",
+  "german": "fortsetzen",
+  "word": "fortsetzen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "fort-",
+   "meaning": "onward, continuing",
+   "related": [
+    "setzen"
+   ]
+  },
+  "conjugation": {
+   "present": "er setzt fort",
+   "past": "er setzte fort",
+   "participle": "fortgesetzt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "setze fort",
+    "du": "setzt fort",
+    "er_sie": "setzt fort",
+    "wir": "setzen fort",
+    "ihr": "setzt fort",
+    "sie": "setzen fort"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to continue",
+    "bengali": "চালিয়ে যাওয়া",
+    "example": "Wir setzen die Arbeit morgen fort."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1126",
+  "german": "gelingen",
+  "word": "gelingen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "es gelingt",
+   "past": "es gelang",
+   "participle": "gelungen",
+   "auxiliary": "ist",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "gelinge",
+    "du": "gelingst",
+    "er_sie": "gelingt",
+    "wir": "gelingen",
+    "ihr": "gelingt",
+    "sie": "gelingen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to succeed",
+    "bengali": "সফল হওয়া",
+    "example": "Der Plan ist uns gelungen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1127",
+  "german": "geschehen",
+  "word": "geschehen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "es geschieht",
+   "past": "es geschah",
+   "participle": "geschehen",
+   "auxiliary": "ist",
+   "irregular": true,
+   "vowel_change": "e → ie",
+   "full_present": {
+    "ich": "geschehe",
+    "du": "geschiehst",
+    "er_sie": "geschieht",
+    "wir": "geschehen",
+    "ihr": "geschieht",
+    "sie": "geschehen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to happen",
+    "bengali": "ঘটা",
+    "example": "Was ist geschehen?"
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1128",
+  "german": "glauben",
+  "word": "glauben",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er glaubt",
+   "past": "er glaubte",
+   "participle": "geglaubt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "glaube",
+    "du": "glaubst",
+    "er_sie": "glaubt",
+    "wir": "glauben",
+    "ihr": "glaubt",
+    "sie": "glauben"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to believe, think",
+    "bengali": "বিশ্বাস করা",
+    "example": "Ich glaube, das stimmt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1129",
+  "german": "gratulieren",
+  "word": "gratulieren",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er gratuliert",
+   "past": "er gratulierte",
+   "participle": "gratuliert",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "gratuliere",
+    "du": "gratulierst",
+    "er_sie": "gratuliert",
+    "wir": "gratulieren",
+    "ihr": "gratuliert",
+    "sie": "gratulieren"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to congratulate",
+    "bengali": "অভিনন্দন জানানো",
+    "example": "Ich gratuliere dir zum Erfolg."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1130",
+  "german": "handeln",
+  "word": "handeln",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er handelt",
+   "past": "er handelte",
+   "participle": "gehandelt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "handle",
+    "du": "handelst",
+    "er_sie": "handelt",
+    "wir": "handeln",
+    "ihr": "handelt",
+    "sie": "handeln"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to act, trade, be about",
+    "bengali": "কাজ করা, লেনদেন করা",
+    "example": "Wir müssen jetzt handeln."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1131",
+  "german": "hinweisen",
+  "word": "hinweisen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "hin-",
+   "meaning": "pointing there",
+   "related": [
+    "weisen"
+   ]
+  },
+  "conjugation": {
+   "present": "er weist hin",
+   "past": "er wies hin",
+   "participle": "hingewiesen",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "weise hin",
+    "du": "weist hin",
+    "er_sie": "weist hin",
+    "wir": "weisen hin",
+    "ihr": "weist hin",
+    "sie": "weisen hin"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to point out",
+    "bengali": "নির্দেশ করা",
+    "example": "Er wies auf das Problem hin."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1132",
+  "german": "kämpfen",
+  "word": "kämpfen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er kämpft",
+   "past": "er kämpfte",
+   "participle": "gekämpft",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "kämpfe",
+    "du": "kämpfst",
+    "er_sie": "kämpft",
+    "wir": "kämpfen",
+    "ihr": "kämpft",
+    "sie": "kämpfen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to fight, struggle",
+    "bengali": "লড়াই করা",
+    "example": "Sie kämpft für ihre Rechte."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1133",
+  "german": "klingen",
+  "word": "klingen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er klingt",
+   "past": "er klang",
+   "participle": "geklungen",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "klinge",
+    "du": "klingst",
+    "er_sie": "klingt",
+    "wir": "klingen",
+    "ihr": "klingt",
+    "sie": "klingen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to sound",
+    "bengali": "শোনানো",
+    "example": "Das klingt gut."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1134",
+  "german": "kritisieren",
+  "word": "kritisieren",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er kritisiert",
+   "past": "er kritisierte",
+   "participle": "kritisiert",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "kritisiere",
+    "du": "kritisierst",
+    "er_sie": "kritisiert",
+    "wir": "kritisieren",
+    "ihr": "kritisiert",
+    "sie": "kritisieren"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to criticize",
+    "bengali": "সমালোচনা করা",
+    "example": "Er kritisiert die Entscheidung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1135",
+  "german": "lachen",
+  "word": "lachen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er lacht",
+   "past": "er lachte",
+   "participle": "gelacht",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "lache",
+    "du": "lachst",
+    "er_sie": "lacht",
+    "wir": "lachen",
+    "ihr": "lacht",
+    "sie": "lachen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to laugh",
+    "bengali": "হাসা",
+    "example": "Wir haben viel gelacht."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1136",
+  "german": "lassen",
+  "word": "lassen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er lässt",
+   "past": "er ließ",
+   "participle": "gelassen",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": "a → ä",
+   "full_present": {
+    "ich": "lasse",
+    "du": "lässt",
+    "er_sie": "lässt",
+    "wir": "lassen",
+    "ihr": "lasst",
+    "sie": "lassen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to let, leave",
+    "bengali": "থাকতে দেওয়া, ছেড়ে দেওয়া",
+    "example": "Lass mich in Ruhe."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1137",
+  "german": "leisten",
+  "word": "leisten",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er leistet",
+   "past": "er leistete",
+   "participle": "geleistet",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "leiste",
+    "du": "leistest",
+    "er_sie": "leistet",
+    "wir": "leisten",
+    "ihr": "leistet",
+    "sie": "leisten"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to achieve, afford",
+    "bengali": "সম্পাদন করা, বহন করা",
+    "example": "Wir können uns das nicht leisten."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1138",
+  "german": "meinen",
+  "word": "meinen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er meint",
+   "past": "er meinte",
+   "participle": "gemeint",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "meine",
+    "du": "meinst",
+    "er_sie": "meint",
+    "wir": "meinen",
+    "ihr": "meint",
+    "sie": "meinen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to mean, think",
+    "bengali": "মনে করা",
+    "example": "Was meinst du dazu?"
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1139",
+  "german": "mieten",
+  "word": "mieten",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er mietet",
+   "past": "er mietete",
+   "participle": "gemietet",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "miete",
+    "du": "mietest",
+    "er_sie": "mietet",
+    "wir": "mieten",
+    "ihr": "mietet",
+    "sie": "mieten"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to rent",
+    "bengali": "ভাড়া নেওয়া",
+    "example": "Wir mieten eine Wohnung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1140",
+  "german": "mitteilen",
+  "word": "mitteilen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "mit-",
+   "meaning": "communicating along",
+   "related": [
+    "teilen"
+   ]
+  },
+  "conjugation": {
+   "present": "er teilt mit",
+   "past": "er teilte mit",
+   "participle": "mitgeteilt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "teile mit",
+    "du": "teilst mit",
+    "er_sie": "teilt mit",
+    "wir": "teilen mit",
+    "ihr": "teilt mit",
+    "sie": "teilen mit"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to inform, communicate",
+    "bengali": "জানানো",
+    "example": "Bitte teilen Sie uns Ihre Entscheidung mit."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1141",
+  "german": "organisieren",
+  "word": "organisieren",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er organisiert",
+   "past": "er organisierte",
+   "participle": "organisiert",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "organisiere",
+    "du": "organisierst",
+    "er_sie": "organisiert",
+    "wir": "organisieren",
+    "ihr": "organisiert",
+    "sie": "organisieren"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to organize",
+    "bengali": "সংগঠিত করা",
+    "example": "Sie organisiert die Konferenz."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1142",
+  "german": "planen",
+  "word": "planen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er plant",
+   "past": "er plante",
+   "participle": "geplant",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "plane",
+    "du": "planst",
+    "er_sie": "plant",
+    "wir": "planen",
+    "ihr": "plant",
+    "sie": "planen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to plan",
+    "bengali": "পরিকল্পনা করা",
+    "example": "Wir planen eine Reise."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1143",
+  "german": "prüfen",
+  "word": "prüfen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er prüft",
+   "past": "er prüfte",
+   "participle": "geprüft",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "prüfe",
+    "du": "prüfst",
+    "er_sie": "prüft",
+    "wir": "prüfen",
+    "ihr": "prüft",
+    "sie": "prüfen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to check, examine",
+    "bengali": "পরীক্ষা করা",
+    "example": "Bitte prüfen Sie Ihre Angaben."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1144",
+  "german": "raten",
+  "word": "raten",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er rät",
+   "past": "er riet",
+   "participle": "geraten",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": "a → ä",
+   "full_present": {
+    "ich": "rate",
+    "du": "rätst",
+    "er_sie": "rät",
+    "wir": "raten",
+    "ihr": "ratet",
+    "sie": "raten"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to advise, guess",
+    "bengali": "পরামর্শ দেওয়া, অনুমান করা",
+    "example": "Ich rate dir zur Vorsicht."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1145",
+  "german": "rechnen",
+  "word": "rechnen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er rechnet",
+   "past": "er rechnete",
+   "participle": "gerechnet",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "rechne",
+    "du": "rechnest",
+    "er_sie": "rechnet",
+    "wir": "rechnen",
+    "ihr": "rechnet",
+    "sie": "rechnen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to calculate, expect",
+    "bengali": "গণনা করা",
+    "example": "Wir rechnen mit Regen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1146",
+  "german": "reichen",
+  "word": "reichen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er reicht",
+   "past": "er reichte",
+   "participle": "gereicht",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "reiche",
+    "du": "reichst",
+    "er_sie": "reicht",
+    "wir": "reichen",
+    "ihr": "reicht",
+    "sie": "reichen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to be enough, hand",
+    "bengali": "যথেষ্ট হওয়া",
+    "example": "Das Geld reicht nicht."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1147",
+  "german": "scheinen",
+  "word": "scheinen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er scheint",
+   "past": "er schien",
+   "participle": "geschienen",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "scheine",
+    "du": "scheinst",
+    "er_sie": "scheint",
+    "wir": "scheinen",
+    "ihr": "scheint",
+    "sie": "scheinen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to seem, shine",
+    "bengali": "মনে হওয়া, আলো দেওয়া",
+    "example": "Die Sonne scheint heute."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1148",
+  "german": "schicken",
+  "word": "schicken",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er schickt",
+   "past": "er schickte",
+   "participle": "geschickt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "schicke",
+    "du": "schickst",
+    "er_sie": "schickt",
+    "wir": "schicken",
+    "ihr": "schickt",
+    "sie": "schicken"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to send",
+    "bengali": "পাঠানো",
+    "example": "Ich schicke dir die Datei."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1149",
+  "german": "schließen",
+  "word": "schließen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er schließt",
+   "past": "er schloss",
+   "participle": "geschlossen",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "schließe",
+    "du": "schließt",
+    "er_sie": "schließt",
+    "wir": "schließen",
+    "ihr": "schließt",
+    "sie": "schließen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to close",
+    "bengali": "বন্ধ করা",
+    "example": "Bitte schließ die Tür."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1150",
+  "german": "sichern",
+  "word": "sichern",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er sichert",
+   "past": "er sicherte",
+   "participle": "gesichert",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "sichere",
+    "du": "sicherst",
+    "er_sie": "sichert",
+    "wir": "sichern",
+    "ihr": "sichert",
+    "sie": "sichern"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to secure",
+    "bengali": "নিরাপদ করা",
+    "example": "Bitte sichern Sie Ihre Daten."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1151",
+  "german": "spielen",
+  "word": "spielen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er spielt",
+   "past": "er spielte",
+   "participle": "gespielt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "spiele",
+    "du": "spielst",
+    "er_sie": "spielt",
+    "wir": "spielen",
+    "ihr": "spielt",
+    "sie": "spielen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to play",
+    "bengali": "খেলা করা",
+    "example": "Die Kinder spielen im Park."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1152",
+  "german": "stellen",
+  "word": "stellen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er stellt",
+   "past": "er stellte",
+   "participle": "gestellt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "stelle",
+    "du": "stellst",
+    "er_sie": "stellt",
+    "wir": "stellen",
+    "ihr": "stellt",
+    "sie": "stellen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to put, place",
+    "bengali": "রাখা",
+    "example": "Stell die Vase auf den Tisch."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1153",
+  "german": "teilen",
+  "word": "teilen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er teilt",
+   "past": "er teilte",
+   "participle": "geteilt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "teile",
+    "du": "teilst",
+    "er_sie": "teilt",
+    "wir": "teilen",
+    "ihr": "teilt",
+    "sie": "teilen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to share, divide",
+    "bengali": "ভাগ করা",
+    "example": "Wir teilen uns die Kosten."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1154",
+  "german": "telefonieren",
+  "word": "telefonieren",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er telefoniert",
+   "past": "er telefonierte",
+   "participle": "telefoniert",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "telefoniere",
+    "du": "telefonierst",
+    "er_sie": "telefoniert",
+    "wir": "telefonieren",
+    "ihr": "telefoniert",
+    "sie": "telefonieren"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to talk on the phone",
+    "bengali": "ফোনে কথা বলা",
+    "example": "Ich telefoniere gerade mit meiner Mutter."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1155",
+  "german": "überprüfen",
+  "word": "überprüfen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "über-",
+   "meaning": "inseparable prefix (thoroughly/over)",
+   "related": [
+    "prüfen"
+   ]
+  },
+  "conjugation": {
+   "present": "er überprüft",
+   "past": "er überprüfte",
+   "participle": "überprüft",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "überprüfe",
+    "du": "überprüfst",
+    "er_sie": "überprüft",
+    "wir": "überprüfen",
+    "ihr": "überprüft",
+    "sie": "überprüfen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to check, verify",
+    "bengali": "যাচাই করা",
+    "example": "Bitte überprüfen Sie die Angaben."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1156",
+  "german": "unterbrechen",
+  "word": "unterbrechen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "unter-",
+   "meaning": "inseparable prefix (interrupt)",
+   "related": [
+    "brechen"
+   ]
+  },
+  "conjugation": {
+   "present": "er unterbricht",
+   "past": "er unterbrach",
+   "participle": "unterbrochen",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": "e → i",
+   "full_present": {
+    "ich": "unterbreche",
+    "du": "unterbrichst",
+    "er_sie": "unterbricht",
+    "wir": "unterbrechen",
+    "ihr": "unterbrecht",
+    "sie": "unterbrechen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to interrupt",
+    "bengali": "বাধা দেওয়া",
+    "example": "Entschuldige, dass ich dich unterbreche."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1157",
+  "german": "untersuchen",
+  "word": "untersuchen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "unter-",
+   "meaning": "inseparable prefix (examine)",
+   "related": [
+    "suchen"
+   ]
+  },
+  "conjugation": {
+   "present": "er untersucht",
+   "past": "er untersuchte",
+   "participle": "untersucht",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "untersuche",
+    "du": "untersuchst",
+    "er_sie": "untersucht",
+    "wir": "untersuchen",
+    "ihr": "untersucht",
+    "sie": "untersuchen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to examine, investigate",
+    "bengali": "পরীক্ষা করা",
+    "example": "Der Arzt untersucht den Patienten."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1158",
+  "german": "urteilen",
+  "word": "urteilen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er urteilt",
+   "past": "er urteilte",
+   "participle": "geurteilt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "urteile",
+    "du": "urteilst",
+    "er_sie": "urteilt",
+    "wir": "urteilen",
+    "ihr": "urteilt",
+    "sie": "urteilen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to judge",
+    "bengali": "বিচার করা",
+    "example": "Man sollte nicht vorschnell urteilen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1159",
+  "german": "verbieten",
+  "word": "verbieten",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "ver-",
+   "meaning": "inseparable prefix (forbid)",
+   "related": [
+    "bieten"
+   ]
+  },
+  "conjugation": {
+   "present": "er verbietet",
+   "past": "er verbot",
+   "participle": "verboten",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "verbiete",
+    "du": "verbietest",
+    "er_sie": "verbietet",
+    "wir": "verbieten",
+    "ihr": "verbietet",
+    "sie": "verbieten"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to forbid",
+    "bengali": "নিষেধ করা",
+    "example": "Rauchen ist hier verboten."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1160",
+  "german": "verbinden",
+  "word": "verbinden",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "ver-",
+   "meaning": "inseparable prefix (connect)",
+   "related": [
+    "binden"
+   ]
+  },
+  "conjugation": {
+   "present": "er verbindet",
+   "past": "er verband",
+   "participle": "verbunden",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "verbinde",
+    "du": "verbindest",
+    "er_sie": "verbindet",
+    "wir": "verbinden",
+    "ihr": "verbindet",
+    "sie": "verbinden"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to connect",
+    "bengali": "সংযুক্ত করা",
+    "example": "Diese Brücke verbindet zwei Städte."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1161",
+  "german": "verfügen",
+  "word": "verfügen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "ver-",
+   "meaning": "inseparable prefix (have available)",
+   "related": []
+  },
+  "conjugation": {
+   "present": "er verfügt",
+   "past": "er verfügte",
+   "participle": "verfügt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "verfüge",
+    "du": "verfügst",
+    "er_sie": "verfügt",
+    "wir": "verfügen",
+    "ihr": "verfügt",
+    "sie": "verfügen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to have at one's disposal",
+    "bengali": "অধিকারী হওয়া",
+    "example": "Er verfügt über viel Erfahrung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1162",
+  "german": "vergessen",
+  "word": "vergessen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "ver-",
+   "meaning": "inseparable prefix (forget)",
+   "related": []
+  },
+  "conjugation": {
+   "present": "er vergisst",
+   "past": "er vergaß",
+   "participle": "vergessen",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": "e → i",
+   "full_present": {
+    "ich": "vergesse",
+    "du": "vergisst",
+    "er_sie": "vergisst",
+    "wir": "vergessen",
+    "ihr": "vergesst",
+    "sie": "vergessen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to forget",
+    "bengali": "ভুলে যাওয়া",
+    "example": "Ich habe meinen Schlüssel vergessen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1163",
+  "german": "vergleichen",
+  "word": "vergleichen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "ver-",
+   "meaning": "inseparable prefix (compare)",
+   "related": [
+    "gleichen",
+    "gleich"
+   ]
+  },
+  "conjugation": {
+   "present": "er vergleicht",
+   "past": "er verglich",
+   "participle": "verglichen",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "vergleiche",
+    "du": "vergleichst",
+    "er_sie": "vergleicht",
+    "wir": "vergleichen",
+    "ihr": "vergleicht",
+    "sie": "vergleichen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to compare",
+    "bengali": "তুলনা করা",
+    "example": "Man kann die beiden nicht vergleichen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1164",
+  "german": "verhindern",
+  "word": "verhindern",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "ver-",
+   "meaning": "inseparable prefix (prevent)",
+   "related": [
+    "hindern"
+   ]
+  },
+  "conjugation": {
+   "present": "er verhindert",
+   "past": "er verhinderte",
+   "participle": "verhindert",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "verhindere",
+    "du": "verhinderst",
+    "er_sie": "verhindert",
+    "wir": "verhindern",
+    "ihr": "verhindert",
+    "sie": "verhindern"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to prevent",
+    "bengali": "প্রতিরোধ করা",
+    "example": "Wir konnten den Unfall nicht verhindern."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1165",
+  "german": "verlangen",
+  "word": "verlangen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "ver-",
+   "meaning": "inseparable prefix (demand)",
+   "related": [
+    "lang"
+   ]
+  },
+  "conjugation": {
+   "present": "er verlangt",
+   "past": "er verlangte",
+   "participle": "verlangt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "verlange",
+    "du": "verlangst",
+    "er_sie": "verlangt",
+    "wir": "verlangen",
+    "ihr": "verlangt",
+    "sie": "verlangen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to demand, require",
+    "bengali": "দাবি করা",
+    "example": "Der Job verlangt viel Erfahrung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1166",
+  "german": "vermuten",
+  "word": "vermuten",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "ver-",
+   "meaning": "inseparable prefix (assume, suspect)",
+   "related": [
+    "Mut"
+   ]
+  },
+  "conjugation": {
+   "present": "er vermutet",
+   "past": "er vermutete",
+   "participle": "vermutet",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "vermute",
+    "du": "vermutest",
+    "er_sie": "vermutet",
+    "wir": "vermuten",
+    "ihr": "vermutet",
+    "sie": "vermuten"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to suspect, assume",
+    "bengali": "অনুমান করা",
+    "example": "Ich vermute, er kommt nicht."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1167",
+  "german": "veröffentlichen",
+  "word": "veröffentlichen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "ver-",
+   "meaning": "inseparable prefix (make public)",
+   "related": [
+    "öffentlich"
+   ]
+  },
+  "conjugation": {
+   "present": "er veröffentlicht",
+   "past": "er veröffentlichte",
+   "participle": "veröffentlicht",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "veröffentliche",
+    "du": "veröffentlichst",
+    "er_sie": "veröffentlicht",
+    "wir": "veröffentlichen",
+    "ihr": "veröffentlicht",
+    "sie": "veröffentlichen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to publish",
+    "bengali": "প্রকাশ করা",
+    "example": "Sie veröffentlicht ein neues Buch."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1168",
+  "german": "verschwinden",
+  "word": "verschwinden",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "ver-",
+   "meaning": "inseparable prefix (disappear)",
+   "related": [
+    "schwinden"
+   ]
+  },
+  "conjugation": {
+   "present": "er verschwindet",
+   "past": "er verschwand",
+   "participle": "verschwunden",
+   "auxiliary": "ist",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "verschwinde",
+    "du": "verschwindest",
+    "er_sie": "verschwindet",
+    "wir": "verschwinden",
+    "ihr": "verschwindet",
+    "sie": "verschwinden"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to disappear",
+    "bengali": "অদৃশ্য হওয়া",
+    "example": "Das Geld ist einfach verschwunden."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1169",
+  "german": "verstehen",
+  "word": "verstehen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "ver-",
+   "meaning": "inseparable prefix (understand)",
+   "related": [
+    "stehen"
+   ]
+  },
+  "conjugation": {
+   "present": "er versteht",
+   "past": "er verstand",
+   "participle": "verstanden",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "verstehe",
+    "du": "verstehst",
+    "er_sie": "versteht",
+    "wir": "verstehen",
+    "ihr": "versteht",
+    "sie": "verstehen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to understand",
+    "bengali": "বোঝা",
+    "example": "Ich verstehe das Problem."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1170",
+  "german": "versuchen",
+  "word": "versuchen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "ver-",
+   "meaning": "inseparable prefix (try, attempt)",
+   "related": [
+    "suchen"
+   ]
+  },
+  "conjugation": {
+   "present": "er versucht",
+   "past": "er versuchte",
+   "participle": "versucht",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "versuche",
+    "du": "versuchst",
+    "er_sie": "versucht",
+    "wir": "versuchen",
+    "ihr": "versucht",
+    "sie": "versuchen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to try",
+    "bengali": "চেষ্টা করা",
+    "example": "Ich versuche es noch einmal."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1171",
+  "german": "vertreten",
+  "word": "vertreten",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "ver-",
+   "meaning": "inseparable prefix (represent, substitute)",
+   "related": [
+    "treten"
+   ]
+  },
+  "conjugation": {
+   "present": "er vertritt",
+   "past": "er vertrat",
+   "participle": "vertreten",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": "e → i",
+   "full_present": {
+    "ich": "vertrete",
+    "du": "vertrittst",
+    "er_sie": "vertritt",
+    "wir": "vertreten",
+    "ihr": "vertretet",
+    "sie": "vertreten"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to represent",
+    "bengali": "প্রতিনিধিত্ব করা",
+    "example": "Er vertritt die Firma bei der Messe."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1172",
+  "german": "vorkommen",
+  "word": "vorkommen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "vor-",
+   "meaning": "occur, happen",
+   "related": [
+    "kommen"
+   ]
+  },
+  "conjugation": {
+   "present": "er kommt vor",
+   "past": "er kam vor",
+   "participle": "vorgekommen",
+   "auxiliary": "ist",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "komme vor",
+    "du": "kommst vor",
+    "er_sie": "kommt vor",
+    "wir": "kommen vor",
+    "ihr": "kommt vor",
+    "sie": "kommen vor"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to occur, happen",
+    "bengali": "ঘটা",
+    "example": "So etwas kommt öfter vor."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1173",
+  "german": "vorschlagen",
+  "word": "vorschlagen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "vor-",
+   "meaning": "suggest, propose",
+   "related": [
+    "schlagen"
+   ]
+  },
+  "conjugation": {
+   "present": "er schlägt vor",
+   "past": "er schlug vor",
+   "participle": "vorgeschlagen",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": "a → ä",
+   "full_present": {
+    "ich": "schlage vor",
+    "du": "schlägst vor",
+    "er_sie": "schlägt vor",
+    "wir": "schlagen vor",
+    "ihr": "schlagt vor",
+    "sie": "schlagen vor"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to suggest",
+    "bengali": "প্রস্তাব করা",
+    "example": "Ich schlage einen anderen Termin vor."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1174",
+  "german": "vorstellen",
+  "word": "vorstellen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "vor-",
+   "meaning": "introduce, present",
+   "related": [
+    "stellen"
+   ]
+  },
+  "conjugation": {
+   "present": "er stellt vor",
+   "past": "er stellte vor",
+   "participle": "vorgestellt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "stelle vor",
+    "du": "stellst vor",
+    "er_sie": "stellt vor",
+    "wir": "stellen vor",
+    "ihr": "stellt vor",
+    "sie": "stellen vor"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to introduce, imagine",
+    "bengali": "পরিচয় করানো, কল্পনা করা",
+    "example": "Darf ich mich vorstellen?"
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1175",
+  "german": "wachsen",
+  "word": "wachsen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er wächst",
+   "past": "er wuchs",
+   "participle": "gewachsen",
+   "auxiliary": "ist",
+   "irregular": true,
+   "vowel_change": "a → ä",
+   "full_present": {
+    "ich": "wachse",
+    "du": "wächst",
+    "er_sie": "wächst",
+    "wir": "wachsen",
+    "ihr": "wachst",
+    "sie": "wachsen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to grow",
+    "bengali": "বৃদ্ধি পাওয়া",
+    "example": "Die Kinder wachsen schnell."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1176",
+  "german": "wählen",
+  "word": "wählen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er wählt",
+   "past": "er wählte",
+   "participle": "gewählt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "wähle",
+    "du": "wählst",
+    "er_sie": "wählt",
+    "wir": "wählen",
+    "ihr": "wählt",
+    "sie": "wählen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to choose, vote, dial",
+    "bengali": "নির্বাচন করা",
+    "example": "Wir wählen ein neues Restaurant."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1177",
+  "german": "warnen",
+  "word": "warnen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er warnt",
+   "past": "er warnte",
+   "participle": "gewarnt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "warne",
+    "du": "warnst",
+    "er_sie": "warnt",
+    "wir": "warnen",
+    "ihr": "warnt",
+    "sie": "warnen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to warn",
+    "bengali": "সতর্ক করা",
+    "example": "Der Wetterdienst warnt vor Sturm."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1178",
+  "german": "wechseln",
+  "word": "wechseln",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er wechselt",
+   "past": "er wechselte",
+   "participle": "gewechselt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "wechsle",
+    "du": "wechselst",
+    "er_sie": "wechselt",
+    "wir": "wechseln",
+    "ihr": "wechselt",
+    "sie": "wechseln"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to change, exchange",
+    "bengali": "পরিবর্তন করা",
+    "example": "Ich möchte Geld wechseln."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1179",
+  "german": "widersprechen",
+  "word": "widersprechen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "wider-",
+   "meaning": "inseparable prefix (contradict)",
+   "related": [
+    "sprechen"
+   ]
+  },
+  "conjugation": {
+   "present": "er widerspricht",
+   "past": "er widersprach",
+   "participle": "widersprochen",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": "e → i",
+   "full_present": {
+    "ich": "widerspreche",
+    "du": "widersprichst",
+    "er_sie": "widerspricht",
+    "wir": "widersprechen",
+    "ihr": "widersprecht",
+    "sie": "widersprechen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to contradict",
+    "bengali": "প্রতিবাদ করা",
+    "example": "Ich muss dir widersprechen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1180",
+  "german": "wirken",
+  "word": "wirken",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er wirkt",
+   "past": "er wirkte",
+   "participle": "gewirkt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "wirke",
+    "du": "wirkst",
+    "er_sie": "wirkt",
+    "wir": "wirken",
+    "ihr": "wirkt",
+    "sie": "wirken"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to seem, have an effect",
+    "bengali": "মনে হওয়া, প্রভাব ফেলা",
+    "example": "Er wirkt sehr müde."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1181",
+  "german": "wünschen",
+  "word": "wünschen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er wünscht",
+   "past": "er wünschte",
+   "participle": "gewünscht",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "wünsche",
+    "du": "wünschst",
+    "er_sie": "wünscht",
+    "wir": "wünschen",
+    "ihr": "wünscht",
+    "sie": "wünschen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to wish",
+    "bengali": "কামনা করা",
+    "example": "Ich wünsche dir alles Gute."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1182",
+  "german": "zahlen",
+  "word": "zahlen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er zahlt",
+   "past": "er zahlte",
+   "participle": "gezahlt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "zahle",
+    "du": "zahlst",
+    "er_sie": "zahlt",
+    "wir": "zahlen",
+    "ihr": "zahlt",
+    "sie": "zahlen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to pay",
+    "bengali": "টাকা দেওয়া",
+    "example": "Wir zahlen zusammen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1183",
+  "german": "zeigen",
+  "word": "zeigen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er zeigt",
+   "past": "er zeigte",
+   "participle": "gezeigt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "zeige",
+    "du": "zeigst",
+    "er_sie": "zeigt",
+    "wir": "zeigen",
+    "ihr": "zeigt",
+    "sie": "zeigen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to show",
+    "bengali": "দেখানো",
+    "example": "Zeig mir bitte den Weg."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1184",
+  "german": "ziehen",
+  "word": "ziehen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": {
+   "present": "er zieht",
+   "past": "er zog",
+   "participle": "gezogen",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "ziehe",
+    "du": "ziehst",
+    "er_sie": "zieht",
+    "wir": "ziehen",
+    "ihr": "zieht",
+    "sie": "ziehen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to pull, move",
+    "bengali": "টানা, স্থানান্তরিত হওয়া",
+    "example": "Wir ziehen nächste Woche in die neue Wohnung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ },
+ {
+  "id": "b1_1185",
+  "german": "zurückkommen",
+  "word": "zurückkommen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "zurück-",
+   "meaning": "come back, return",
+   "related": [
+    "kommen"
+   ]
+  },
+  "conjugation": {
+   "present": "er kommt zurück",
+   "past": "er kam zurück",
+   "participle": "zurückgekommen",
+   "auxiliary": "ist",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "komme zurück",
+    "du": "kommst zurück",
+    "er_sie": "kommt zurück",
+    "wir": "kommen zurück",
+    "ihr": "kommt zurück",
+    "sie": "kommen zurück"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to come back",
+    "bengali": "ফিরে আসা",
+    "example": "Wann kommst du zurück?"
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier2",
+   "verbs"
+  ]
+ }
+]

@@ -60,7 +60,7 @@
 }
 ],
 "synonym": "darum",
-"starred": false
+"starred": false,"tags":["connectors", "core700", "tier1"]
 },
 {
 "id": "b1_0204",
@@ -530,7 +530,7 @@
 }
 ],
 "synonym": "der Mittelwert",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "time"]
 },
 {
 "id": "b1_0226",
@@ -551,7 +551,7 @@
 }
 ],
 "synonym": "normal",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "time"]
 },
 {
 "id": "b1_0227",
@@ -656,7 +656,7 @@
 }
 ],
 "synonym": "aufrichtig",
-"starred": false
+"starred": false,"tags":["core700", "feelings", "tier3"]
 },
 {
 "id": "b1_0232",
@@ -890,7 +890,7 @@
 }
 ],
 "synonym": "sich erinnern",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "b1_0242",
@@ -1114,7 +1114,7 @@
 }
 ],
 "synonym": "anschalten",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "b1_0250",
@@ -1782,7 +1782,7 @@
 }
 ],
 "synonym": "aufkommen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "b1_0278",
@@ -1832,7 +1832,7 @@
 }
 ],
 "synonym": "der Frust",
-"starred": false
+"starred": false,"tags":["core700", "feelings", "tier3"]
 },
 {
 "id": "b1_0280",
@@ -1861,7 +1861,7 @@
 }
 ],
 "synonym": "entwerfen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "b1_0281",
@@ -1924,7 +1924,7 @@
 }
 ],
 "synonym": "der Klimawandel",
-"starred": false
+"starred": false,"tags":["core700", "environment", "tier3"]
 },
 {
 "id": "b1_0284",
@@ -2008,7 +2008,7 @@
 }
 ],
 "synonym": "das Resultat",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "time"]
 },
 {
 "id": "b1_0288",
@@ -2079,7 +2079,7 @@
 }
 ],
 "synonym": "steigern",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "b1_0291",
@@ -2108,7 +2108,7 @@
 }
 ],
 "synonym": "denken an",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "b1_0292",
@@ -2158,7 +2158,7 @@
 }
 ],
 "synonym": "identifizieren",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "b1_0294",
@@ -2258,7 +2258,7 @@
 }
 ],
 "synonym": "durchmachen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "b1_0298",
@@ -2316,7 +2316,7 @@
 }
 ],
 "synonym": "verpflegen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "b1_0300",

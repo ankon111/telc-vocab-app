@@ -573,7 +573,7 @@
 }
 ],
 "synonym": "jedoch",
-"starred": false
+"starred": false,"tags":["connectors", "core700", "tier1"]
 },
 {
 "id": "b1_0025",
@@ -594,7 +594,7 @@
 }
 ],
 "synonym": "die Überempfindlichkeit",
-"starred": false
+"starred": false,"tags":["core700", "health", "tier3"]
 },
 {
 "id": "b1_0026",
@@ -1283,7 +1283,7 @@
 }
 ],
 "synonym": "ansehen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "b1_0055",
@@ -1312,7 +1312,7 @@
 }
 ],
 "synonym": "betrachten",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "b1_0056",
@@ -1446,7 +1446,7 @@
 }
 ],
 "synonym": "mühsam",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "travel"]
 },
 {
 "id": "b1_0062",
@@ -1572,7 +1572,7 @@
 }
 ],
 "synonym": "Dienstzeit",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "work"]
 },
 {
 "id": "b1_0068",

@@ -1,0 +1,814 @@
+[
+ {
+  "id": "b1_1411",
+  "german": "gefährlich",
+  "word": "gefährlich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "dangerous",
+    "bengali": "বিপজ্জনক",
+    "example": "Die Straße ist bei Nacht gefährlich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1412",
+  "german": "sicher",
+  "word": "sicher",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "safe, certain",
+    "bengali": "নিরাপদ",
+    "example": "Das ist der sicherste Weg."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1413",
+  "german": "riskant",
+  "word": "riskant",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "risky",
+    "bengali": "ঝুঁকিপূর্ণ",
+    "example": "Diese Investition ist riskant."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1415",
+  "german": "einfach",
+  "word": "einfach",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "simple, easy",
+    "bengali": "সহজ",
+    "example": "Die Aufgabe ist ganz einfach."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1416",
+  "german": "verständlich",
+  "word": "verständlich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "understandable",
+    "bengali": "বোধগম্য",
+    "example": "Die Erklärung war verständlich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1417",
+  "german": "unverständlich",
+  "word": "unverständlich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "incomprehensible",
+    "bengali": "দুর্বোধ্য",
+    "example": "Der Text ist völlig unverständlich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1418",
+  "german": "hervorragend",
+  "word": "hervorragend",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "excellent",
+    "bengali": "অসাধারণ",
+    "example": "Das Essen war hervorragend."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1419",
+  "german": "mittelmäßig",
+  "word": "mittelmäßig",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "mediocre",
+    "bengali": "মাঝারি মানের",
+    "example": "Der Film war eher mittelmäßig."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1420",
+  "german": "undeutlich",
+  "word": "undeutlich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "unclear, indistinct",
+    "bengali": "অস্পষ্ট",
+    "example": "Seine Handschrift ist undeutlich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1421",
+  "german": "klar",
+  "word": "klar",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "clear",
+    "bengali": "স্পষ্ট",
+    "example": "Das ist völlig klar."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1422",
+  "german": "unklar",
+  "word": "unklar",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "unclear",
+    "bengali": "অস্পষ্ট",
+    "example": "Die Regel ist mir unklar."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1424",
+  "german": "verpflichtend",
+  "word": "verpflichtend",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "mandatory",
+    "bengali": "বাধ্যতামূলক",
+    "example": "Der Kurs ist verpflichtend."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1425",
+  "german": "erlaubt",
+  "word": "erlaubt",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "allowed",
+    "bengali": "অনুমোদিত",
+    "example": "Parken ist hier erlaubt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1426",
+  "german": "ungewöhnlich",
+  "word": "ungewöhnlich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "unusual",
+    "bengali": "অস্বাভাবিক",
+    "example": "Das Wetter ist ungewöhnlich warm."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1427",
+  "german": "selten",
+  "word": "selten",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "rare",
+    "bengali": "বিরল",
+    "example": "Solche Fehler sind selten."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1428",
+  "german": "gering",
+  "word": "gering",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "slight, small",
+    "bengali": "সামান্য",
+    "example": "Der Unterschied ist gering."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1429",
+  "german": "erheblich",
+  "word": "erheblich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "considerable, significant",
+    "bengali": "উল্লেখযোগ্য",
+    "example": "Der Schaden war erheblich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1430",
+  "german": "spürbar",
+  "word": "spürbar",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "noticeable",
+    "bengali": "অনুভবযোগ্য",
+    "example": "Der Unterschied ist spürbar."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1431",
+  "german": "unterschiedlich",
+  "word": "unterschiedlich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "different, varying",
+    "bengali": "বিভিন্ন",
+    "example": "Die Meinungen sind sehr unterschiedlich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1432",
+  "german": "gleich",
+  "word": "gleich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "same, equal",
+    "bengali": "একই",
+    "example": "Wir haben die gleiche Meinung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1433",
+  "german": "verschieden",
+  "word": "verschieden",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "different",
+    "bengali": "আলাদা",
+    "example": "Die beiden sind sehr verschieden."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1434",
+  "german": "typisch",
+  "word": "typisch",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "typical",
+    "bengali": "সাধারণ, বৈশিষ্ট্যপূর্ণ",
+    "example": "Das ist typisch für ihn."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1435",
+  "german": "gemeinsam",
+  "word": "gemeinsam",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "joint, shared",
+    "bengali": "যৌথ",
+    "example": "Wir haben ein gemeinsames Ziel."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1436",
+  "german": "getrennt",
+  "word": "getrennt",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "separate",
+    "bengali": "আলাদা",
+    "example": "Wir bezahlen getrennt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1437",
+  "german": "öffentlich",
+  "word": "öffentlich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "public",
+    "bengali": "সর্বজনীন",
+    "example": "Das ist ein öffentlicher Platz."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1438",
+  "german": "offiziell",
+  "word": "offiziell",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "official",
+    "bengali": "আনুষ্ঠানিক",
+    "example": "Das ist eine offizielle Erklärung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1439",
+  "german": "inoffiziell",
+  "word": "inoffiziell",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "unofficial",
+    "bengali": "অনানুষ্ঠানিক",
+    "example": "Das war nur eine inoffizielle Aussage."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1440",
+  "german": "angemessen",
+  "word": "angemessen",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "appropriate, reasonable",
+    "bengali": "যথাযথ",
+    "example": "Das Verhalten war nicht angemessen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ },
+ {
+  "id": "b1_1441",
+  "german": "unangemessen",
+  "word": "unangemessen",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "inappropriate",
+    "bengali": "অনুপযুক্ত",
+    "example": "Seine Bemerkung war unangemessen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier4",
+   "description"
+  ]
+ }
+]

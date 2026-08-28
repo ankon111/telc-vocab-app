@@ -199,7 +199,7 @@
 }
 ],
 "synonym": "sagen noch einmal",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_1009",
@@ -493,7 +493,7 @@
 }
 ],
 "synonym": "das Magazin",
-"starred": false
+"starred": false,"tags":["core700", "media", "tier3"]
 },
 {
 "id": "a2_1023",
@@ -598,7 +598,7 @@
 }
 ],
 "synonym": "das Diplom",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "work"]
 },
 {
 "id": "a2_1028",
@@ -701,7 +701,7 @@
 }
 ],
 "synonym": "glücklich",
-"starred": false
+"starred": false,"tags":["core700", "feelings", "tier3"]
 },
 {
 "id": "a2_1032",
@@ -844,7 +844,7 @@
 }
 ],
 "synonym": "erstatten",
-"starred": false
+"starred": false,"tags":["core700", "shopping", "tier3"]
 },
 {
 "id": "a2_1037",
@@ -926,7 +926,7 @@
 }
 ],
 "synonym": "sicher",
-"starred": false
+"starred": false,"tags":["core700", "media", "tier3"],"tags":["core700", "tier3", "work"]
 },
 {
 "id": "a2_1040",

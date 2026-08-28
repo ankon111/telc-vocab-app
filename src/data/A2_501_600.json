@@ -201,7 +201,7 @@
 }
 ],
 "synonym": "schwierig",
-"starred": false
+"starred": false,"tags":["core700", "description", "tier4"]
 },
 {
 "id": "a2_0510",
@@ -222,7 +222,7 @@
 }
 ],
 "synonym": "das Bankkonto",
-"starred": false
+"starred": false,"tags":["core700", "media", "tier3"],"tags":["core700", "shopping", "tier3"]
 },
 {
 "id": "a2_0511",
@@ -561,7 +561,7 @@
 }
 ],
 "synonym": "kostenfrei",
-"starred": false
+"starred": false,"tags":["core700", "shopping", "tier3"]
 },
 {
 "id": "a2_0525",
@@ -1104,7 +1104,7 @@
 }
 ],
 "synonym": null,
-"starred": false
+"starred": false,"tags":["core700", "tier3", "work"]
 },
 {
 "id": "a2_0548",
@@ -1321,7 +1321,7 @@
 }
 ],
 "synonym": "borgen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0556",
@@ -1483,7 +1483,7 @@
 }
 ],
 "synonym": "zustellen",
-"starred": false
+"starred": false,"tags":["core700", "shopping", "tier3"]
 },
 {
 "id": "a2_0563",
@@ -1561,7 +1561,7 @@
 }
 ],
 "synonym": "entfernen",
-"starred": false
+"starred": false,"tags":["core700", "media", "tier3"]
 },
 {
 "id": "a2_0566",
@@ -1597,7 +1597,7 @@
 }
 ],
 "synonym": "aufklären",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0567",
@@ -1856,7 +1856,7 @@
 }
 ],
 "synonym": "ungenügend",
-"starred": false
+"starred": false,"tags":["core700", "description", "tier4"]
 },
 {
 "id": "a2_0577",
@@ -2081,7 +2081,7 @@
 }
 ],
 "synonym": "die Ansicht",
-"starred": false
+"starred": false,"tags":["core700", "feelings", "tier3"]
 },
 {
 "id": "a2_0587",
@@ -2138,7 +2138,7 @@
 }
 ],
 "synonym": "informieren",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0589",
@@ -2159,7 +2159,7 @@
 }
 ],
 "synonym": "die Anzahl",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "time"]
 },
 {
 "id": "a2_0590",

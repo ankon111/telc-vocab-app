@@ -257,7 +257,7 @@
 }
 ],
 "synonym": "oft",
-"starred": false
+"starred": false,"tags":["core700", "description", "tier4"]
 },
 {
 "id": "b1_0413",
@@ -320,7 +320,7 @@
 }
 ],
 "synonym": null,
-"starred": false
+"starred": false,"tags":["core700", "housing", "tier3"]
 },
 {
 "id": "b1_0416",
@@ -512,7 +512,7 @@
 }
 ],
 "synonym": "produzieren",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "b1_0424",
@@ -806,7 +806,7 @@
 }
 ],
 "synonym": null,
-"starred": false
+"starred": false,"tags":["connectors", "core700", "tier1"]
 },
 {
 "id": "b1_0438",
@@ -827,7 +827,7 @@
 }
 ],
 "synonym": "persönlich",
-"starred": false
+"starred": false,"tags":["core700", "description", "tier4"]
 },
 {
 "id": "b1_0439",
@@ -1142,7 +1142,7 @@
 }
 ],
 "synonym": null,
-"starred": false
+"starred": false,"tags":["core700", "tier3", "time"]
 },
 {
 "id": "b1_0454",
@@ -1163,7 +1163,7 @@
 }
 ],
 "synonym": null,
-"starred": false
+"starred": false,"tags":["core700", "tier3", "time"]
 },
 {
 "id": "b1_0455",
@@ -1478,7 +1478,7 @@
 }
 ],
 "synonym": null,
-"starred": false
+"starred": false,"tags":["core700", "family", "tier3"]
 },
 {
 "id": "b1_0470",
@@ -1557,7 +1557,7 @@
 }
 ],
 "synonym": null,
-"starred": false
+"starred": false,"tags":["core700", "environment", "tier3"]
 },
 {
 "id": "b1_0473",
@@ -1578,7 +1578,7 @@
 }
 ],
 "synonym": null,
-"starred": false
+"starred": false,"tags":["core700", "environment", "tier3"]
 },
 {
 "id": "b1_0474",
@@ -1662,7 +1662,7 @@
 }
 ],
 "synonym": "bequem",
-"starred": false
+"starred": false,"tags":["core700", "description", "tier4"]
 },
 {
 "id": "b1_0478",
@@ -2161,6 +2161,6 @@
 }
 ],
 "synonym": "sich sorgen",
-"starred": false
+"starred": false,"tags":["core700", "family", "tier3"],"tags":["core700", "tier2", "verbs"]
 }
 ]
