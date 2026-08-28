@@ -1,0 +1,1066 @@
+[
+ {
+  "id": "b1_1042",
+  "german": "außerdem",
+  "word": "außerdem",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "besides, in addition",
+    "bengali": "এছাড়াও, অধিকন্তু",
+    "example": "Er ist müde, außerdem hat er Kopfschmerzen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1043",
+  "german": "daher",
+  "word": "daher",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "therefore, from there",
+    "bengali": "সেজন্য, অতএব",
+    "example": "Es regnet, daher bleiben wir zu Hause."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1044",
+  "german": "dadurch",
+  "word": "dadurch",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "through this, as a result",
+    "bengali": "এর ফলে, এর মাধ্যমে",
+    "example": "Sie übt jeden Tag, dadurch wird sie besser."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1045",
+  "german": "einerseits",
+  "word": "einerseits",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "on the one hand",
+    "bengali": "একদিকে",
+    "example": "Einerseits will ich reisen, andererseits fehlt mir das Geld."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1046",
+  "german": "andererseits",
+  "word": "andererseits",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "on the other hand",
+    "bengali": "অন্যদিকে",
+    "example": "Andererseits kann ich auch zu Hause bleiben."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1047",
+  "german": "ebenfalls",
+  "word": "ebenfalls",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "likewise, also",
+    "bengali": "একইভাবে, তেমনি",
+    "example": "Ich freue mich ebenfalls auf das Fest."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1048",
+  "german": "folglich",
+  "word": "folglich",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "consequently",
+    "bengali": "ফলস্বরূপ",
+    "example": "Er hat nicht gelernt, folglich fiel er durch."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1049",
+  "german": "hingegen",
+  "word": "hingegen",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "whereas, however",
+    "bengali": "পক্ষান্তরে",
+    "example": "Er ist ruhig, sie hingegen ist sehr lebhaft."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1050",
+  "german": "immerhin",
+  "word": "immerhin",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "at least, after all",
+    "bengali": "অন্তত, তা সত্ত্বেও",
+    "example": "Es hat geregnet, immerhin scheint jetzt die Sonne."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1051",
+  "german": "infolgedessen",
+  "word": "infolgedessen",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "as a result",
+    "bengali": "এর ফলস্বরূপ",
+    "example": "Die Preise stiegen, infolgedessen kauften weniger Leute ein."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1052",
+  "german": "insgesamt",
+  "word": "insgesamt",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "altogether, in total",
+    "bengali": "সর্বমোট",
+    "example": "Insgesamt waren zwanzig Personen anwesend."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1053",
+  "german": "jedoch",
+  "word": "jedoch",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "however",
+    "bengali": "তথাপি, কিন্তু",
+    "example": "Er ist reich, jedoch nicht glücklich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1054",
+  "german": "keineswegs",
+  "word": "keineswegs",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "by no means",
+    "bengali": "কোনোভাবেই না",
+    "example": "Das ist keineswegs sicher."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1055",
+  "german": "letztendlich",
+  "word": "letztendlich",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "ultimately, in the end",
+    "bengali": "শেষ পর্যন্ত",
+    "example": "Letztendlich hat sie sich für den neuen Job entschieden."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1056",
+  "german": "obendrein",
+  "word": "obendrein",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "on top of that",
+    "bengali": "তার উপরে, অধিকন্তু",
+    "example": "Er kam zu spät, obendrein hatte er nichts dabei."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1057",
+  "german": "sodass",
+  "word": "sodass",
+  "article": null,
+  "plural": null,
+  "type": "Konjunktion",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Konjunktion",
+    "english": "so that",
+    "bengali": "যাতে করে",
+    "example": "Er sprach laut, sodass alle ihn hören konnten."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1058",
+  "german": "sofern",
+  "word": "sofern",
+  "article": null,
+  "plural": null,
+  "type": "Konjunktion",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Konjunktion",
+    "english": "provided that, as long as",
+    "bengali": "যদি, শর্তে যে",
+    "example": "Wir kommen, sofern das Wetter gut ist."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1059",
+  "german": "somit",
+  "word": "somit",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "thus, therefore",
+    "bengali": "এভাবে, ফলে",
+    "example": "Sie hat bestanden und ist somit fertig mit dem Kurs."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1060",
+  "german": "sowie",
+  "word": "sowie",
+  "article": null,
+  "plural": null,
+  "type": "Konjunktion",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Konjunktion",
+    "english": "as well as",
+    "bengali": "পাশাপাশি, তেমনি",
+    "example": "Wir bieten Kurse für Anfänger sowie für Fortgeschrittene an."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1061",
+  "german": "überdies",
+  "word": "überdies",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "moreover",
+    "bengali": "তদুপরি",
+    "example": "Er ist klug, überdies auch sehr fleißig."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1062",
+  "german": "vielmehr",
+  "word": "vielmehr",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "rather",
+    "bengali": "বরং",
+    "example": "Er ist nicht faul, vielmehr überlastet."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1063",
+  "german": "wobei",
+  "word": "wobei",
+  "article": null,
+  "plural": null,
+  "type": "Konjunktion",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Konjunktion",
+    "english": "whereby, while",
+    "bengali": "যেখানে, এক্ষেত্রে",
+    "example": "Er kochte, wobei er sich schnitt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1064",
+  "german": "zudem",
+  "word": "zudem",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "moreover, in addition",
+    "bengali": "তদুপরি, এছাড়াও",
+    "example": "Zudem sollten wir früh losfahren."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1065",
+  "german": "zumal",
+  "word": "zumal",
+  "article": null,
+  "plural": null,
+  "type": "Konjunktion",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Konjunktion",
+    "english": "especially since",
+    "bengali": "বিশেষত যেহেতু",
+    "example": "Wir sollten gehen, zumal es schon spät ist."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1066",
+  "german": "zumindest",
+  "word": "zumindest",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "at least",
+    "bengali": "অন্তত",
+    "example": "Zumindest hat er es versucht."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1067",
+  "german": "zunächst",
+  "word": "zunächst",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "first of all, initially",
+    "bengali": "প্রথমত, শুরুতে",
+    "example": "Zunächst müssen wir die Unterlagen prüfen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1068",
+  "german": "insbesondere",
+  "word": "insbesondere",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "in particular",
+    "bengali": "বিশেষ করে",
+    "example": "Insbesondere im Winter ist Vitamin D wichtig."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1069",
+  "german": "dennoch",
+  "word": "dennoch",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "nevertheless",
+    "bengali": "তবুও",
+    "example": "Er war müde, dennoch arbeitete er weiter."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1070",
+  "german": "angesichts",
+  "word": "angesichts",
+  "article": null,
+  "plural": null,
+  "type": "Präposition",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Präposition",
+    "english": "in view of",
+    "bengali": "বিবেচনায়",
+    "example": "Angesichts der Lage müssen wir handeln."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1071",
+  "german": "bezüglich",
+  "word": "bezüglich",
+  "article": null,
+  "plural": null,
+  "type": "Präposition",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Präposition",
+    "english": "regarding",
+    "bengali": "সম্পর্কে",
+    "example": "Bezüglich Ihrer Anfrage können wir Ihnen leider nicht helfen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1072",
+  "german": "hinsichtlich",
+  "word": "hinsichtlich",
+  "article": null,
+  "plural": null,
+  "type": "Präposition",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Präposition",
+    "english": "with regard to",
+    "bengali": "সম্পর্কিত বিষয়ে",
+    "example": "Hinsichtlich der Kosten gibt es noch Fragen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1073",
+  "german": "nichtsdestotrotz",
+  "word": "nichtsdestotrotz",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "nonetheless",
+    "bengali": "তা সত্ত্বেও",
+    "example": "Es war schwierig, nichtsdestotrotz haben wir es geschafft."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1074",
+  "german": "gleichwohl",
+  "word": "gleichwohl",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "nevertheless",
+    "bengali": "তবুও, তা সত্ত্বেও",
+    "example": "Er war krank, gleichwohl kam er zur Arbeit."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1075",
+  "german": "demnach",
+  "word": "demnach",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "accordingly",
+    "bengali": "তদনুসারে",
+    "example": "Demnach müssen wir den Termin verschieben."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1076",
+  "german": "demzufolge",
+  "word": "demzufolge",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "consequently",
+    "bengali": "সেই অনুযায়ী",
+    "example": "Demzufolge ist die Bewerbung abgelehnt worden."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1077",
+  "german": "mithin",
+  "word": "mithin",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "therefore",
+    "bengali": "সুতরাং",
+    "example": "Er hat gelogen, mithin ist ihm nicht zu trauen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1078",
+  "german": "ohnehin",
+  "word": "ohnehin",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "anyway",
+    "bengali": "যাই হোক না কেন",
+    "example": "Ich wollte ohnehin früher gehen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ },
+ {
+  "id": "b1_1079",
+  "german": "sowieso",
+  "word": "sowieso",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "anyway",
+    "bengali": "এমনিতেই",
+    "example": "Es ist sowieso zu spät."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier1",
+   "connectors"
+  ]
+ }
+]

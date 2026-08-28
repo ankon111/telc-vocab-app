@@ -1,0 +1,247 @@
+[
+ {
+  "id": "b1_1341",
+  "german": "der Müll",
+  "word": "Müll",
+  "article": "der",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "waste, garbage",
+    "bengali": "আবর্জনা",
+    "example": "Wir trennen unseren Müll."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "environment"
+  ]
+ },
+ {
+  "id": "b1_1342",
+  "german": "die Ressource",
+  "word": "Ressource",
+  "article": "die",
+  "plural": "die Ressourcen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "resource",
+    "bengali": "সম্পদ",
+    "example": "Wir müssen Ressourcen sparen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "environment"
+  ]
+ },
+ {
+  "id": "b1_1343",
+  "german": "das Wetter",
+  "word": "Wetter",
+  "article": "das",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "weather",
+    "bengali": "আবহাওয়া",
+    "example": "Das Wetter ist heute schön."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "environment"
+  ]
+ },
+ {
+  "id": "b1_1344",
+  "german": "die Nachhaltigkeit",
+  "word": "Nachhaltigkeit",
+  "article": "die",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "sustainability",
+    "bengali": "স্থায়িত্ব",
+    "example": "Nachhaltigkeit wird immer wichtiger."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "environment"
+  ]
+ },
+ {
+  "id": "b1_1345",
+  "german": "umweltschädlich",
+  "word": "umweltschädlich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "harmful to the environment",
+    "bengali": "পরিবেশের জন্য ক্ষতিকর",
+    "example": "Plastik ist umweltschädlich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "environment"
+  ]
+ },
+ {
+  "id": "b1_1346",
+  "german": "nachhaltig",
+  "word": "nachhaltig",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "sustainable",
+    "bengali": "টেকসই",
+    "example": "Wir leben nachhaltiger."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "environment"
+  ]
+ },
+ {
+  "id": "b1_1347",
+  "german": "erneuerbar",
+  "word": "erneuerbar",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "renewable",
+    "bengali": "নবায়নযোগ্য",
+    "example": "Wir nutzen erneuerbare Energien."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "environment"
+  ]
+ },
+ {
+  "id": "b1_1348",
+  "german": "wiederverwenden",
+  "word": "wiederverwenden",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "wieder-",
+   "meaning": "again",
+   "related": [
+    "verwenden"
+   ]
+  },
+  "conjugation": {
+   "present": "er verwendet wieder",
+   "past": "er verwendete wieder",
+   "participle": "wiederverwendet",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "verwende wieder",
+    "du": "verwendest wieder",
+    "er_sie": "verwendet wieder",
+    "wir": "verwenden wieder",
+    "ihr": "verwendet wieder",
+    "sie": "verwenden wieder"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to reuse",
+    "bengali": "পুনরায় ব্যবহার করা",
+    "example": "Wir sollten Dinge öfter wiederverwenden."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "environment"
+  ]
+ }
+]

@@ -60,7 +60,7 @@
 }
 ],
 "synonym": "die Entlassung",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "work"]
 },
 {
 "id": "b1_0504",
@@ -420,7 +420,7 @@
 }
 ],
 "synonym": "erdulden",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "b1_0519",
@@ -639,7 +639,7 @@
 }
 ],
 "synonym": "der Versand",
-"starred": false
+"starred": false,"tags":["core700", "shopping", "tier3"]
 },
 {
 "id": "b1_0528",
@@ -675,7 +675,7 @@
 }
 ],
 "synonym": "sich bezahlt machen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "b1_0529",
@@ -1218,7 +1218,7 @@
 }
 ],
 "synonym": "bemerken",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "b1_0552",
@@ -1737,7 +1737,7 @@
 }
 ],
 "synonym": "engagiert",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "work"]
 },
 {
 "id": "b1_0574",
@@ -1842,7 +1842,7 @@
 }
 ],
 "synonym": null,
-"starred": false
+"starred": false,"tags":["core700", "environment", "tier3"]
 },
 {
 "id": "b1_0579",
@@ -1945,7 +1945,7 @@
 }
 ],
 "synonym": "überlegen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "b1_0583",
@@ -2210,7 +2210,7 @@
 }
 ],
 "synonym": null,
-"starred": false
+"starred": false,"tags":["core700", "environment", "tier3"]
 },
 {
 "id": "b1_0594",
@@ -2315,7 +2315,7 @@
 }
 ],
 "synonym": "wissbegierig",
-"starred": false
+"starred": false,"tags":["core700", "feelings", "tier3"]
 },
 {
 "id": "b1_0599",

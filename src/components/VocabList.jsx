@@ -51,6 +51,7 @@ function WordCard({ word, onUpdate }) {
           <span className="vc-word">{word.word}</span>
           <span className="badge-type badge">{word.type}</span>
           <LevelBadge level={word.level} />
+          {word.tags?.includes("core700") && <span className="badge badge-core700" title="Must-know high-frequency word">🎯</span>}
         </div>
         <button className={`star-btn ${word.starred ? "active" : ""}`} onClick={toggleStar} aria-label="star">
           {word.starred ? "★" : "☆"}
@@ -148,11 +149,21 @@ export default function VocabList({ words, onUpdate }) {
   const [levelFilter, setLevelFilter] = useState("all")
   const [typeFilter, setTypeFilter] = useState("all")
   const [starredOnly, setStarredOnly] = useState(false)
+  const [core700Only, setCore700Only] = useState(false)
+  const [tagFilter, setTagFilter] = useState("all")
   const [shuffled, setShuffled] = useState(false)
   const [page, setPage] = useState(1)
 
   const types = useMemo(() => {
     const s = new Set(words.map(w => w.type))
+    return ["all", ...Array.from(s).sort()]
+  }, [words])
+
+  // Tags come from the optional `tags` field (e.g. ["core700","tier1","connectors"]).
+  // We surface everything except the "core700" marker itself, which has its own toggle.
+  const tags = useMemo(() => {
+    const s = new Set()
+    words.forEach(w => (w.tags || []).forEach(t => { if (t !== "core700") s.add(t) }))
     return ["all", ...Array.from(s).sort()]
   }, [words])
 
@@ -162,12 +173,14 @@ export default function VocabList({ words, onUpdate }) {
     if (levelFilter !== "all") ws = ws.filter(w => w.level.includes(levelFilter))
     if (typeFilter !== "all") ws = ws.filter(w => w.type === typeFilter)
     if (starredOnly) ws = ws.filter(w => w.starred)
+    if (core700Only) ws = ws.filter(w => w.tags?.includes("core700"))
+    if (tagFilter !== "all") ws = ws.filter(w => w.tags?.includes(tagFilter))
     if (shuffled) ws = seededShuffle(ws, VOCAB_SEED)
     return ws
-  }, [words, search, levelFilter, typeFilter, starredOnly, shuffled])
+  }, [words, search, levelFilter, typeFilter, starredOnly, core700Only, tagFilter, shuffled])
 
   // Reset to page 1 whenever filters change
-  useEffect(() => { setPage(1) }, [search, levelFilter, typeFilter, starredOnly, shuffled])
+  useEffect(() => { setPage(1) }, [search, levelFilter, typeFilter, starredOnly, core700Only, tagFilter, shuffled])
 
   const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE))
   const paginated = filtered.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE)
@@ -191,11 +204,19 @@ export default function VocabList({ words, onUpdate }) {
             <button className={`level-tab ${starredOnly ? "active starred" : ""}`} onClick={() => setStarredOnly(s => !s)}>
               ★ Starred
             </button>
+            <button className={`level-tab ${core700Only ? "active" : ""}`} onClick={() => setCore700Only(c => !c)} title="Must-know high-frequency B1 words">
+              🎯 Core 700
+            </button>
           </div>
           <div style={{ display: "flex", gap: "6px", alignItems: "center" }}>
             <select className="type-select" value={typeFilter} onChange={e => setTypeFilter(e.target.value)}>
               {types.map(t => <option key={t} value={t}>{t === "all" ? "All types" : t}</option>)}
             </select>
+            {tags.length > 1 && (
+              <select className="type-select" value={tagFilter} onChange={e => setTagFilter(e.target.value)}>
+                {tags.map(t => <option key={t} value={t}>{t === "all" ? "All tags" : t}</option>)}
+              </select>
+            )}
             <button className="btn" onClick={() => setShuffled(s => !s)} title="Shuffle" style={{ fontSize: '1.1rem' }}>
               🔀
             </button>

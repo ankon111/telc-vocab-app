@@ -1,0 +1,310 @@
+[
+ {
+  "id": "b1_1316",
+  "german": "die Reise",
+  "word": "Reise",
+  "article": "die",
+  "plural": "die Reisen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "trip, journey",
+    "bengali": "ভ্রমণ",
+    "example": "Die Reise nach Italien war wunderschön."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "travel"
+  ]
+ },
+ {
+  "id": "b1_1317",
+  "german": "das Ticket",
+  "word": "Ticket",
+  "article": "das",
+  "plural": "die Tickets",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "ticket",
+    "bengali": "টিকিট",
+    "example": "Ich habe das Ticket online gekauft."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "travel"
+  ]
+ },
+ {
+  "id": "b1_1318",
+  "german": "die Fahrkarte",
+  "word": "Fahrkarte",
+  "article": "die",
+  "plural": "die Fahrkarten",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "(travel) ticket",
+    "bengali": "যাত্রার টিকিট",
+    "example": "Die Fahrkarte gilt für einen Tag."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "travel"
+  ]
+ },
+ {
+  "id": "b1_1319",
+  "german": "die Unterkunft",
+  "word": "Unterkunft",
+  "article": "die",
+  "plural": "die Unterkünfte",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "accommodation",
+    "bengali": "থাকার ব্যবস্থা",
+    "example": "Wir haben eine günstige Unterkunft gefunden."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "travel"
+  ]
+ },
+ {
+  "id": "b1_1320",
+  "german": "die Sehenswürdigkeit",
+  "word": "Sehenswürdigkeit",
+  "article": "die",
+  "plural": "die Sehenswürdigkeiten",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "tourist attraction",
+    "bengali": "দর্শনীয় স্থান",
+    "example": "Diese Stadt hat viele Sehenswürdigkeiten."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "travel"
+  ]
+ },
+ {
+  "id": "b1_1321",
+  "german": "der Stau",
+  "word": "Stau",
+  "article": "der",
+  "plural": "die Staus",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "traffic jam",
+    "bengali": "যানজট",
+    "example": "Wir standen zwei Stunden im Stau."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "travel"
+  ]
+ },
+ {
+  "id": "b1_1322",
+  "german": "der Verkehr",
+  "word": "Verkehr",
+  "article": "der",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "traffic",
+    "bengali": "যানবাহন চলাচল",
+    "example": "Der Verkehr ist heute sehr stark."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "travel"
+  ]
+ },
+ {
+  "id": "b1_1323",
+  "german": "das Fahrzeug",
+  "word": "Fahrzeug",
+  "article": "das",
+  "plural": "die Fahrzeuge",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "vehicle",
+    "bengali": "যানবাহন",
+    "example": "Das Fahrzeug ist sehr sparsam."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "travel"
+  ]
+ },
+ {
+  "id": "b1_1324",
+  "german": "pünktlich",
+  "word": "pünktlich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "punctual, on time",
+    "bengali": "সময়নিষ্ঠ",
+    "example": "Der Zug war pünktlich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "travel"
+  ]
+ },
+ {
+  "id": "b1_1325",
+  "german": "direkt",
+  "word": "direkt",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "direct",
+    "bengali": "সরাসরি",
+    "example": "Es gibt einen direkten Zug."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "travel"
+  ]
+ },
+ {
+  "id": "b1_1326",
+  "german": "bequem",
+  "word": "bequem",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "comfortable",
+    "bengali": "আরামদায়ক",
+    "example": "Der Sitz ist sehr bequem."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "travel"
+  ]
+ }
+]

@@ -37,7 +37,7 @@
 }
 ],
 "synonym": "aufmachen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0302",
@@ -77,7 +77,7 @@
 }
 ],
 "synonym": "ankommen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0303",
@@ -157,7 +157,7 @@
 }
 ],
 "synonym": "hoffen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0305",
@@ -218,7 +218,7 @@
 }
 ],
 "synonym": "ungefähr",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "time"]
 },
 {
 "id": "a2_0307",
@@ -344,7 +344,7 @@
 }
 ],
 "synonym": "der Zeitplan",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "travel"]
 },
 {
 "id": "a2_0313",
@@ -527,7 +527,7 @@
 }
 ],
 "synonym": "mangeln",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0321",
@@ -674,7 +674,7 @@
 }
 ],
 "synonym": "gesund",
-"starred": false
+"starred": false,"tags":["core700", "health", "tier3"]
 },
 {
 "id": "a2_0328",
@@ -944,7 +944,7 @@
 }
 ],
 "synonym": "nachgehen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0338",
@@ -1106,7 +1106,7 @@
 }
 ],
 "synonym": "ehrenamtlich",
-"starred": false
+"starred": false,"tags":["core700", "description", "tier4"]
 },
 {
 "id": "a2_0345",
@@ -1283,7 +1283,7 @@
 }
 ],
 "synonym": "klappen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0352",
@@ -1403,7 +1403,7 @@
 }
 ],
 "synonym": "alt",
-"starred": false
+"starred": false,"tags":["core700", "shopping", "tier3"]
 },
 {
 "id": "a2_0357",
@@ -1445,7 +1445,7 @@
 }
 ],
 "synonym": null,
-"starred": false
+"starred": false,"tags":["core700", "family", "tier3"]
 },
 {
 "id": "a2_0359",
@@ -1668,7 +1668,7 @@
 }
 ],
 "synonym": "besitzen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0368",
@@ -1887,7 +1887,7 @@
 }
 ],
 "synonym": "freuen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0377",
@@ -2112,7 +2112,7 @@
 }
 ],
 "synonym": "formen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0387",
@@ -2154,7 +2154,7 @@
 }
 ],
 "synonym": "fit",
-"starred": false
+"starred": false,"tags":["core700", "health", "tier3"]
 },
 {
 "id": "a2_0389",
@@ -2211,7 +2211,7 @@
 }
 ],
 "synonym": "siegen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "a2_0391",

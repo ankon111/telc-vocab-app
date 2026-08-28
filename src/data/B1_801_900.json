@@ -237,7 +237,7 @@
       }
     ],
     "synonym": "nachdenken",
-    "starred": false
+    "starred": false,"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "b1_0809",
@@ -273,7 +273,7 @@
       }
     ],
     "synonym": null,
-    "starred": false
+    "starred": false,"tags":["core700", "tier3", "travel"]
   },
   {
     "id": "b1_0810",
@@ -351,7 +351,7 @@
       }
     ],
     "synonym": null,
-    "starred": false
+    "starred": false,"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "b1_0813",
@@ -408,7 +408,7 @@
       }
     ],
     "synonym": null,
-    "starred": false
+    "starred": false,"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "b1_0815",
@@ -471,7 +471,7 @@
       }
     ],
     "synonym": null,
-    "starred": false
+    "starred": false,"tags":["core700", "tier3", "work"]
   },
   {
     "id": "b1_0818",
@@ -528,7 +528,7 @@
       }
     ],
     "synonym": null,
-    "starred": false
+    "starred": false,"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "b1_0820",
@@ -549,7 +549,7 @@
       }
     ],
     "synonym": "normal",
-    "starred": false
+    "starred": false,"tags":["core700", "description", "tier4"]
   },
   {
     "id": "b1_0821",
@@ -671,7 +671,7 @@
       }
     ],
     "synonym": "das Umfeld",
-    "starred": false
+    "starred": false,"tags":["core700", "housing", "tier3"]
   },
   {
     "id": "b1_0825",
@@ -795,7 +795,7 @@
       }
     ],
     "synonym": "ökologisch",
-    "starred": false
+    "starred": false,"tags":["core700", "environment", "tier3"]
   },
   {
     "id": "b1_0830",
@@ -816,7 +816,7 @@
       }
     ],
     "synonym": null,
-    "starred": false
+    "starred": false,"tags":["core700", "environment", "tier3"]
   },
   {
     "id": "b1_0831",
@@ -858,7 +858,7 @@
       }
     ],
     "synonym": null,
-    "starred": false
+    "starred": false,"tags":["core700", "tier3", "work"]
   },
   {
     "id": "b1_0833",
@@ -900,7 +900,7 @@
       }
     ],
     "synonym": null,
-    "starred": false
+    "starred": false,"tags":["core700", "health", "tier3"]
   },
   {
     "id": "b1_0835",
@@ -942,7 +942,7 @@
       }
     ],
     "synonym": null,
-    "starred": false
+    "starred": false,"tags":["core700", "feelings", "tier3"]
   },
   {
     "id": "b1_0837",
@@ -1266,7 +1266,7 @@
       }
     ],
     "synonym": "modifizieren",
-    "starred": false
+    "starred": false,"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "b1_0851",
@@ -1479,7 +1479,7 @@
       }
     ],
     "synonym": "ähnlich",
-    "starred": false
+    "starred": false,"tags":["core700", "description", "tier4"]
   },
   {
     "id": "b1_0859",
@@ -1608,7 +1608,7 @@
       }
     ],
     "synonym": "weggehen",
-    "starred": false
+    "starred": false,"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "b1_0863",
@@ -1680,7 +1680,7 @@
       }
     ],
     "synonym": "beschädigen",
-    "starred": false
+    "starred": false,"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "b1_0865",
@@ -1902,7 +1902,7 @@
       }
     ],
     "synonym": "die Lieferung",
-    "starred": false
+    "starred": false,"tags":["core700", "shopping", "tier3"]
   },
   {
     "id": "b1_0872",
@@ -2037,7 +2037,7 @@
       }
     ],
     "synonym": "verunreinigen",
-    "starred": false
+    "starred": false,"tags":["core700", "environment", "tier3"]
   },
   {
     "id": "b1_0877",
@@ -2073,7 +2073,7 @@
       }
     ],
     "synonym": null,
-    "starred": false
+    "starred": false,"tags":["core700", "environment", "tier3"]
   },
   {
     "id": "b1_0878",
@@ -2187,7 +2187,7 @@
       }
     ],
     "synonym": null,
-    "starred": false
+    "starred": false,"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "b1_0882",
@@ -2436,7 +2436,7 @@
       }
     ],
     "synonym": "tolerieren",
-    "starred": false
+    "starred": false,"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "b1_0891",
@@ -2514,7 +2514,7 @@
       }
     ],
     "synonym": "auslösen",
-    "starred": false
+    "starred": false,"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "b1_0894",
@@ -2643,7 +2643,7 @@
       }
     ],
     "synonym": "aufgeben",
-    "starred": false
+    "starred": false,"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "b1_0898",

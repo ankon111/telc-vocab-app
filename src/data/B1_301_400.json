@@ -54,7 +54,7 @@
       }
     ],
     "synonym": "nennen",
-    "starred": false
+    "starred": false,"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "b1_0303",
@@ -237,7 +237,7 @@
       }
     ],
     "synonym": "die Kompetenz",
-    "starred": false
+    "starred": false,"tags":["core700", "tier3", "work"]
   },
   {
     "id": "b1_0311",
@@ -851,7 +851,7 @@
       }
     ],
     "synonym": "verlangen",
-    "starred": false
+    "starred": false,"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "b1_0337",
@@ -1080,7 +1080,7 @@
       }
     ],
     "synonym": "das Vergnügen",
-    "starred": false
+    "starred": false,"tags":["core700", "feelings", "tier3"]
   },
   {
     "id": "b1_0347",
@@ -1164,7 +1164,7 @@
       }
     ],
     "synonym": "die Deadline",
-    "starred": false
+    "starred": false,"tags":["core700", "tier3", "time"]
   },
   {
     "id": "b1_0351",
@@ -1305,7 +1305,7 @@
       }
     ],
     "synonym": "leiten",
-    "starred": false
+    "starred": false,"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "b1_0357",
@@ -1587,7 +1587,7 @@
       }
     ],
     "synonym": null,
-    "starred": false
+    "starred": false,"tags":["core700", "feelings", "tier3"]
   },
   {
     "id": "b1_0369",
@@ -1692,7 +1692,7 @@
       }
     ],
     "synonym": "der Lohn",
-    "starred": false
+    "starred": false,"tags":["core700", "tier3", "work"]
   },
   {
     "id": "b1_0374",
@@ -1797,7 +1797,7 @@
       }
     ],
     "synonym": null,
-    "starred": false
+    "starred": false,"tags":["core700", "tier3", "travel"]
   },
   {
     "id": "b1_0379",
@@ -2142,7 +2142,7 @@
       }
     ],
     "synonym": "simultan",
-    "starred": false
+    "starred": false,"tags":["connectors", "core700", "tier1"]
   },
   {
     "id": "b1_0394",
@@ -2205,7 +2205,7 @@
       }
     ],
     "synonym": "die Limitierung",
-    "starred": false
+    "starred": false,"tags":["core700", "tier3", "travel"]
   },
   {
     "id": "b1_0397",

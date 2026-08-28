@@ -1,0 +1,870 @@
+[
+ {
+  "id": "b1_1186",
+  "german": "der Arbeitgeber",
+  "word": "Arbeitgeber",
+  "article": "der",
+  "plural": "die Arbeitgeber",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "employer",
+    "bengali": "নিয়োগকর্তা",
+    "example": "Mein Arbeitgeber ist sehr fair."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1187",
+  "german": "der Arbeitnehmer",
+  "word": "Arbeitnehmer",
+  "article": "der",
+  "plural": "die Arbeitnehmer",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "employee",
+    "bengali": "কর্মচারী",
+    "example": "Die Arbeitnehmer bekommen mehr Urlaub."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1188",
+  "german": "die Ausbildung",
+  "word": "Ausbildung",
+  "article": "die",
+  "plural": "die Ausbildungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "vocational training",
+    "bengali": "প্রশিক্ষণ",
+    "example": "Er macht eine Ausbildung als Elektriker."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1189",
+  "german": "die Bewerbung",
+  "word": "Bewerbung",
+  "article": "die",
+  "plural": "die Bewerbungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "application",
+    "bengali": "আবেদন",
+    "example": "Ich habe meine Bewerbung abgeschickt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1190",
+  "german": "das Bewerbungsgespräch",
+  "word": "Bewerbungsgespräch",
+  "article": "das",
+  "plural": "die Bewerbungsgespräche",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "job interview",
+    "bengali": "চাকরির সাক্ষাৎকার",
+    "example": "Das Bewerbungsgespräch war erfolgreich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1191",
+  "german": "der Chef",
+  "word": "Chef",
+  "article": "der",
+  "plural": "die Chefs",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "boss",
+    "bengali": "বস",
+    "example": "Mein Chef ist sehr freundlich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1192",
+  "german": "die Erfahrung",
+  "word": "Erfahrung",
+  "article": "die",
+  "plural": "die Erfahrungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "experience",
+    "bengali": "অভিজ্ঞতা",
+    "example": "Er hat viel Erfahrung im Vertrieb."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1193",
+  "german": "die Karriere",
+  "word": "Karriere",
+  "article": "die",
+  "plural": "die Karrieren",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "career",
+    "bengali": "কর্মজীবন",
+    "example": "Sie macht schnell Karriere."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1194",
+  "german": "der Kollege",
+  "word": "Kollege",
+  "article": "der",
+  "plural": "die Kollegen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "colleague (male)",
+    "bengali": "সহকর্মী",
+    "example": "Mein Kollege hilft mir oft."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1195",
+  "german": "der Lohn",
+  "word": "Lohn",
+  "article": "der",
+  "plural": "die Löhne",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "wage",
+    "bengali": "মজুরি",
+    "example": "Der Lohn wird monatlich ausgezahlt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1196",
+  "german": "das Praktikum",
+  "word": "Praktikum",
+  "article": "das",
+  "plural": "die Praktika",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "internship",
+    "bengali": "ইন্টার্নশিপ",
+    "example": "Sie macht ein Praktikum bei einer Bank."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1197",
+  "german": "die Teamarbeit",
+  "word": "Teamarbeit",
+  "article": "die",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "teamwork",
+    "bengali": "দলগত কাজ",
+    "example": "Teamarbeit ist bei uns sehr wichtig."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1198",
+  "german": "der Urlaub",
+  "word": "Urlaub",
+  "article": "der",
+  "plural": "die Urlaube",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "vacation, leave",
+    "bengali": "ছুটি",
+    "example": "Wir nehmen zwei Wochen Urlaub."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1199",
+  "german": "der Vertrag",
+  "word": "Vertrag",
+  "article": "der",
+  "plural": "die Verträge",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "contract",
+    "bengali": "চুক্তি",
+    "example": "Ich habe den Vertrag unterschrieben."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1200",
+  "german": "beruflich",
+  "word": "beruflich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "professional, work-related",
+    "bengali": "পেশাগত",
+    "example": "Sie ist beruflich sehr erfolgreich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1201",
+  "german": "geeignet",
+  "word": "geeignet",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "suitable",
+    "bengali": "উপযুক্ত",
+    "example": "Sie ist gut für diese Stelle geeignet."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1202",
+  "german": "qualifiziert",
+  "word": "qualifiziert",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "qualified",
+    "bengali": "যোগ্য",
+    "example": "Wir suchen qualifizierte Bewerber."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1203",
+  "german": "selbstständig",
+  "word": "selbstständig",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "self-employed, independent",
+    "bengali": "স্বনির্ভর",
+    "example": "Er arbeitet selbstständig."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1204",
+  "german": "fleißig",
+  "word": "fleißig",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "hardworking",
+    "bengali": "পরিশ্রমী",
+    "example": "Er ist sehr fleißig."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1205",
+  "german": "engagiert",
+  "word": "engagiert",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "committed, engaged",
+    "bengali": "নিবেদিতপ্রাণ",
+    "example": "Sie ist sehr engagiert im Job."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1206",
+  "german": "verantwortlich",
+  "word": "verantwortlich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "responsible",
+    "bengali": "দায়িত্বশীল",
+    "example": "Er ist verantwortlich für das Projekt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1207",
+  "german": "flexibel",
+  "word": "flexibel",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "flexible",
+    "bengali": "নমনীয়",
+    "example": "Meine Arbeitszeiten sind flexibel."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1208",
+  "german": "pünktlich",
+  "word": "pünktlich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "punctual",
+    "bengali": "সময়নিষ্ঠ",
+    "example": "Er kommt immer pünktlich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1209",
+  "german": "kompetent",
+  "word": "kompetent",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "competent",
+    "bengali": "দক্ষ",
+    "example": "Sie ist eine kompetente Beraterin."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1210",
+  "german": "angestellt",
+  "word": "angestellt",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "employed",
+    "bengali": "নিযুক্ত",
+    "example": "Er ist fest angestellt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1211",
+  "german": "arbeitslos",
+  "word": "arbeitslos",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "unemployed",
+    "bengali": "বেকার",
+    "example": "Er ist seit einem Jahr arbeitslos."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1212",
+  "german": "befristet",
+  "word": "befristet",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "temporary, fixed-term",
+    "bengali": "সাময়িক",
+    "example": "Der Vertrag ist befristet."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1213",
+  "german": "freiberuflich",
+  "word": "freiberuflich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "freelance",
+    "bengali": "স্বাধীন পেশাজীবী",
+    "example": "Er arbeitet freiberuflich als Designer."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1214",
+  "german": "die Gehaltserhöhung",
+  "word": "Gehaltserhöhung",
+  "article": "die",
+  "plural": "die Gehaltserhöhungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "pay raise",
+    "bengali": "বেতন বৃদ্ধি",
+    "example": "Sie hat um eine Gehaltserhöhung gebeten."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1215",
+  "german": "der Betrieb",
+  "word": "Betrieb",
+  "article": "der",
+  "plural": "die Betriebe",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "company, operation",
+    "bengali": "প্রতিষ্ঠান",
+    "example": "Er arbeitet in einem großen Betrieb."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ },
+ {
+  "id": "b1_1216",
+  "german": "die Firma",
+  "word": "Firma",
+  "article": "die",
+  "plural": "die Firmen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "company",
+    "bengali": "কোম্পানি",
+    "example": "Die Firma wächst schnell."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "work"
+  ]
+ }
+]

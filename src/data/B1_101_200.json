@@ -312,7 +312,7 @@
 }
 ],
 "synonym": "die Voraussetzung",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "time"]
 },
 {
 "id": "b1_0116",
@@ -499,7 +499,7 @@
 }
 ],
 "synonym": "aufbewahren",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "b1_0123",
@@ -828,7 +828,7 @@
 }
 ],
 "synonym": "zuschauen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "b1_0136",
@@ -1162,7 +1162,7 @@
 }
 ],
 "synonym": "klagen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "b1_0150",
@@ -2210,7 +2210,7 @@
 }
 ],
 "synonym": null,
-"starred": false
+"starred": false,"tags":["core700", "media", "tier3"]
 },
 {
 "id": "b1_0198",

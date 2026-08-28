@@ -1,0 +1,814 @@
+[
+ {
+  "id": "b1_1382",
+  "german": "das Zeitalter",
+  "word": "Zeitalter",
+  "article": "das",
+  "plural": "die Zeitalter",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "era, age",
+    "bengali": "যুগ",
+    "example": "Wir leben im digitalen Zeitalter."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "time"
+  ]
+ },
+ {
+  "id": "b1_1383",
+  "german": "die Zukunft",
+  "word": "Zukunft",
+  "article": "die",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "future",
+    "bengali": "ভবিষ্যৎ",
+    "example": "Niemand kennt die Zukunft."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "time"
+  ]
+ },
+ {
+  "id": "b1_1384",
+  "german": "die Gegenwart",
+  "word": "Gegenwart",
+  "article": "die",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "present",
+    "bengali": "বর্তমান",
+    "example": "Wir leben in der Gegenwart."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "time"
+  ]
+ },
+ {
+  "id": "b1_1385",
+  "german": "der Zeitplan",
+  "word": "Zeitplan",
+  "article": "der",
+  "plural": "die Zeitpläne",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "schedule",
+    "bengali": "সময়সূচি",
+    "example": "Wir haben einen engen Zeitplan."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "time"
+  ]
+ },
+ {
+  "id": "b1_1386",
+  "german": "der Termin",
+  "word": "Termin",
+  "article": "der",
+  "plural": "die Termine",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "appointment, date",
+    "bengali": "নির্ধারিত সময়",
+    "example": "Ich habe einen wichtigen Termin."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "time"
+  ]
+ },
+ {
+  "id": "b1_1387",
+  "german": "der Vorgang",
+  "word": "Vorgang",
+  "article": "der",
+  "plural": "die Vorgänge",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "process, procedure",
+    "bengali": "প্রক্রিয়া",
+    "example": "Der Vorgang dauert einige Tage."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "general"
+  ]
+ },
+ {
+  "id": "b1_1388",
+  "german": "die Wirkung",
+  "word": "Wirkung",
+  "article": "die",
+  "plural": "die Wirkungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "effect",
+    "bengali": "প্রভাব",
+    "example": "Die Wirkung war sofort spürbar."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "general"
+  ]
+ },
+ {
+  "id": "b1_1389",
+  "german": "die Ursache",
+  "word": "Ursache",
+  "article": "die",
+  "plural": "die Ursachen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "cause",
+    "bengali": "কারণ",
+    "example": "Die Ursache ist noch unbekannt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "general"
+  ]
+ },
+ {
+  "id": "b1_1390",
+  "german": "die Möglichkeit",
+  "word": "Möglichkeit",
+  "article": "die",
+  "plural": "die Möglichkeiten",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "possibility",
+    "bengali": "সম্ভাবনা",
+    "example": "Es gibt mehrere Möglichkeiten."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "general"
+  ]
+ },
+ {
+  "id": "b1_1391",
+  "german": "die Anzahl",
+  "word": "Anzahl",
+  "article": "die",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "number, quantity",
+    "bengali": "সংখ্যা",
+    "example": "Die Anzahl der Teilnehmer ist begrenzt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "general"
+  ]
+ },
+ {
+  "id": "b1_1392",
+  "german": "der Anteil",
+  "word": "Anteil",
+  "article": "der",
+  "plural": "die Anteile",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "share, proportion",
+    "bengali": "অংশ",
+    "example": "Ein großer Anteil sind Studenten."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "general"
+  ]
+ },
+ {
+  "id": "b1_1393",
+  "german": "ungefähr",
+  "word": "ungefähr",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "approximately",
+    "bengali": "প্রায়",
+    "example": "Es dauert ungefähr eine Stunde."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "general"
+  ]
+ },
+ {
+  "id": "b1_1394",
+  "german": "mindestens",
+  "word": "mindestens",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "at least",
+    "bengali": "অন্তত",
+    "example": "Du brauchst mindestens zwei Stunden."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "general"
+  ]
+ },
+ {
+  "id": "b1_1395",
+  "german": "höchstens",
+  "word": "höchstens",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "at most",
+    "bengali": "সর্বোচ্চ",
+    "example": "Es dauert höchstens eine Woche."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "general"
+  ]
+ },
+ {
+  "id": "b1_1396",
+  "german": "vermutlich",
+  "word": "vermutlich",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "presumably",
+    "bengali": "সম্ভবত",
+    "example": "Sie ist vermutlich schon zu Hause."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "general"
+  ]
+ },
+ {
+  "id": "b1_1397",
+  "german": "unbedingt",
+  "word": "unbedingt",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "absolutely, definitely",
+    "bengali": "অবশ্যই",
+    "example": "Du musst das unbedingt sehen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "general"
+  ]
+ },
+ {
+  "id": "b1_1398",
+  "german": "eigentlich",
+  "word": "eigentlich",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "actually, originally",
+    "bengali": "আসলে",
+    "example": "Eigentlich wollte ich früher kommen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "general"
+  ]
+ },
+ {
+  "id": "b1_1399",
+  "german": "angeblich",
+  "word": "angeblich",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "allegedly",
+    "bengali": "কথিত",
+    "example": "Er ist angeblich krank."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "general"
+  ]
+ },
+ {
+  "id": "b1_1400",
+  "german": "ausdrücklich",
+  "word": "ausdrücklich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "explicit",
+    "bengali": "সুস্পষ্ট",
+    "example": "Das wurde ausdrücklich verboten."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "general"
+  ]
+ },
+ {
+  "id": "b1_1401",
+  "german": "ausführlich",
+  "word": "ausführlich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "detailed",
+    "bengali": "বিস্তারিত",
+    "example": "Er hat es ausführlich erklärt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "general"
+  ]
+ },
+ {
+  "id": "b1_1402",
+  "german": "allgemein",
+  "word": "allgemein",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "general",
+    "bengali": "সাধারণ",
+    "example": "Das ist eine allgemeine Regel."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "general"
+  ]
+ },
+ {
+  "id": "b1_1403",
+  "german": "gelegentlich",
+  "word": "gelegentlich",
+  "article": null,
+  "plural": null,
+  "type": "Adverb",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adverb",
+    "english": "occasionally",
+    "bengali": "মাঝে মাঝে",
+    "example": "Er raucht nur gelegentlich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "time"
+  ]
+ },
+ {
+  "id": "b1_1404",
+  "german": "regelmäßig",
+  "word": "regelmäßig",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "regular",
+    "bengali": "নিয়মিত",
+    "example": "Sie treibt regelmäßig Sport."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "time"
+  ]
+ },
+ {
+  "id": "b1_1405",
+  "german": "dauerhaft",
+  "word": "dauerhaft",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "permanent, lasting",
+    "bengali": "স্থায়ী",
+    "example": "Wir suchen eine dauerhafte Lösung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "time"
+  ]
+ },
+ {
+  "id": "b1_1406",
+  "german": "vorübergehend",
+  "word": "vorübergehend",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "temporary",
+    "bengali": "সাময়িক",
+    "example": "Das ist nur eine vorübergehende Lösung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "time"
+  ]
+ },
+ {
+  "id": "b1_1407",
+  "german": "gültig",
+  "word": "gültig",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "valid",
+    "bengali": "বৈধ",
+    "example": "Das Ticket ist einen Tag gültig."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "general"
+  ]
+ },
+ {
+  "id": "b1_1408",
+  "german": "wichtig",
+  "word": "wichtig",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "important",
+    "bengali": "গুরুত্বপূর্ণ",
+    "example": "Das ist sehr wichtig für mich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "general"
+  ]
+ },
+ {
+  "id": "b1_1409",
+  "german": "wesentlich",
+  "word": "wesentlich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "essential, significant",
+    "bengali": "মৌলিক",
+    "example": "Das ist ein wesentlicher Unterschied."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "general"
+  ]
+ },
+ {
+  "id": "b1_1410",
+  "german": "notwendig",
+  "word": "notwendig",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "necessary",
+    "bengali": "প্রয়োজনীয়",
+    "example": "Das ist notwendig für den Erfolg."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "general"
+  ]
+ }
+]

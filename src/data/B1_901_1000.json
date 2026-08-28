@@ -222,7 +222,7 @@
 }
 ],
 "synonym": "vermutlich",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "time"]
 },
 {
 "id": "b1_0909",
@@ -1195,7 +1195,7 @@
 }
 ],
 "synonym": "zornig",
-"starred": false
+"starred": false,"tags":["core700", "feelings", "tier3"]
 },
 {
 "id": "b1_0947",
@@ -1372,7 +1372,7 @@
 }
 ],
 "synonym": "der Moment",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "time"]
 },
 {
 "id": "b1_0954",
@@ -1393,7 +1393,7 @@
 }
 ],
 "synonym": "die Zeitspanne",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "time"]
 },
 {
 "id": "b1_0955",
@@ -1578,7 +1578,7 @@
 }
 ],
 "synonym": "die Absicht",
-"starred": false
+"starred": false,"tags":["core700", "tier3", "travel"]
 },
 {
 "id": "b1_0962",
@@ -1662,7 +1662,7 @@
 }
 ],
 "synonym": null,
-"starred": false
+"starred": false,"tags":["core700", "tier3", "travel"]
 },
 {
 "id": "b1_0966",
@@ -1904,7 +1904,7 @@
 }
 ],
 "synonym": "wachsen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "b1_0973",
@@ -2205,7 +2205,7 @@
 }
 ],
 "synonym": "kooperieren",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "b1_0981",
@@ -2512,7 +2512,7 @@
 }
 ],
 "synonym": "einwilligen",
-"starred": false
+"starred": false,"tags":["core700", "tier2", "verbs"]
 },
 {
 "id": "b1_0992",

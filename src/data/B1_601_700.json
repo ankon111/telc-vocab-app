@@ -144,7 +144,7 @@
       }
     ],
     "synonym": null,
-    "starred": false
+    "starred": false,"tags":["connectors", "core700", "tier1"]
   },
   {
     "id": "b1_0608",
@@ -165,7 +165,7 @@
       }
     ],
     "synonym": null,
-    "starred": false
+    "starred": false,"tags":["core700", "feelings", "tier3"]
   },
   {
     "id": "b1_0609",
@@ -951,7 +951,7 @@
       }
     ],
     "synonym": null,
-    "starred": false
+    "starred": false,"tags":["core700", "tier3", "work"]
   },
   {
     "id": "b1_0645",
@@ -1107,7 +1107,7 @@
       }
     ],
     "synonym": "die Eignung",
-    "starred": false
+    "starred": false,"tags":["core700", "tier3", "work"]
   },
   {
     "id": "b1_0651",
@@ -1362,7 +1362,7 @@
       }
     ],
     "synonym": null,
-    "starred": false
+    "starred": false,"tags":["core700", "environment", "tier3"]
   },
   {
     "id": "b1_0661",
@@ -1398,7 +1398,7 @@
       }
     ],
     "synonym": "verringern",
-    "starred": false
+    "starred": false,"tags":["core700", "environment", "tier3"],"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "b1_0662",
@@ -1857,7 +1857,7 @@
       }
     ],
     "synonym": "bewahren",
-    "starred": false
+    "starred": false,"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "b1_0681",
@@ -2223,7 +2223,7 @@
       }
     ],
     "synonym": null,
-    "starred": false
+    "starred": false,"tags":["core700", "tier2", "verbs"]
   },
   {
     "id": "b1_0697",
@@ -2286,7 +2286,7 @@
       }
     ],
     "synonym": null,
-    "starred": false
+    "starred": false,"tags":["core700", "housing", "tier3"]
   },
   {
     "id": "b1_0700",

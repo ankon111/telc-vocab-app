@@ -1,0 +1,786 @@
+[
+ {
+  "id": "b1_1217",
+  "german": "die Wohnung",
+  "word": "Wohnung",
+  "article": "die",
+  "plural": "die Wohnungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "apartment",
+    "bengali": "বাসস্থান, ফ্ল্যাট",
+    "example": "Wir suchen eine neue Wohnung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1218",
+  "german": "die Miete",
+  "word": "Miete",
+  "article": "die",
+  "plural": "die Mieten",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "rent",
+    "bengali": "ভাড়া",
+    "example": "Die Miete steigt jedes Jahr."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1219",
+  "german": "der Mieter",
+  "word": "Mieter",
+  "article": "der",
+  "plural": "die Mieter",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "tenant",
+    "bengali": "ভাড়াটে",
+    "example": "Der Mieter zahlt pünktlich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1220",
+  "german": "der Vermieter",
+  "word": "Vermieter",
+  "article": "der",
+  "plural": "die Vermieter",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "landlord",
+    "bengali": "বাড়িওয়ালা",
+    "example": "Der Vermieter hat die Heizung repariert."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1221",
+  "german": "die Nebenkosten",
+  "word": "Nebenkosten",
+  "article": "die",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "utility costs, extra charges",
+    "bengali": "অতিরিক্ত খরচ",
+    "example": "Die Nebenkosten sind hoch."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1222",
+  "german": "die Kaution",
+  "word": "Kaution",
+  "article": "die",
+  "plural": "die Kautionen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "deposit",
+    "bengali": "জামানত",
+    "example": "Wir haben eine Kaution bezahlt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1223",
+  "german": "die Möbel",
+  "word": "Möbel",
+  "article": "die",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "furniture",
+    "bengali": "আসবাবপত্র",
+    "example": "Wir kaufen neue Möbel."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1224",
+  "german": "der Nachbar",
+  "word": "Nachbar",
+  "article": "der",
+  "plural": "die Nachbarn",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "neighbor",
+    "bengali": "প্রতিবেশী",
+    "example": "Unser Nachbar ist sehr nett."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1225",
+  "german": "die Kündigungsfrist",
+  "word": "Kündigungsfrist",
+  "article": "die",
+  "plural": "die Kündigungsfristen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "notice period",
+    "bengali": "নোটিশ সময়কাল",
+    "example": "Die Kündigungsfrist beträgt drei Monate."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1226",
+  "german": "die Renovierung",
+  "word": "Renovierung",
+  "article": "die",
+  "plural": "die Renovierungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "renovation",
+    "bengali": "সংস্কার",
+    "example": "Die Renovierung dauert zwei Wochen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1227",
+  "german": "der Balkon",
+  "word": "Balkon",
+  "article": "der",
+  "plural": "die Balkone",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "balcony",
+    "bengali": "বারান্দা",
+    "example": "Die Wohnung hat einen schönen Balkon."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1228",
+  "german": "der Keller",
+  "word": "Keller",
+  "article": "der",
+  "plural": "die Keller",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "basement, cellar",
+    "bengali": "বেসমেন্ট",
+    "example": "Wir lagern Sachen im Keller."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1229",
+  "german": "der Dachboden",
+  "word": "Dachboden",
+  "article": "der",
+  "plural": "die Dachböden",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "attic",
+    "bengali": "চিলেকোঠা",
+    "example": "Auf dem Dachboden ist viel Platz."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1230",
+  "german": "die Heizung",
+  "word": "Heizung",
+  "article": "die",
+  "plural": "die Heizungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "heating",
+    "bengali": "হিটার",
+    "example": "Die Heizung funktioniert nicht richtig."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1231",
+  "german": "das Wasser",
+  "word": "Wasser",
+  "article": "das",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "water",
+    "bengali": "পানি",
+    "example": "Das Wasser ist im Preis enthalten."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1232",
+  "german": "gemütlich",
+  "word": "gemütlich",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "cozy",
+    "bengali": "আরামদায়ক",
+    "example": "Die Wohnung ist sehr gemütlich."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1233",
+  "german": "hell",
+  "word": "hell",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "bright",
+    "bengali": "উজ্জ্বল",
+    "example": "Das Zimmer ist schön hell."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1234",
+  "german": "ruhig",
+  "word": "ruhig",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "quiet",
+    "bengali": "শান্ত",
+    "example": "Die Straße ist ruhig."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1235",
+  "german": "laut",
+  "word": "laut",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "loud, noisy",
+    "bengali": "কোলাহলপূর্ণ",
+    "example": "Die Wohnung liegt an einer lauten Straße."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1236",
+  "german": "geräumig",
+  "word": "geräumig",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "spacious",
+    "bengali": "প্রশস্ত",
+    "example": "Die Küche ist sehr geräumig."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1237",
+  "german": "möbliert",
+  "word": "möbliert",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "furnished",
+    "bengali": "আসবাবযুক্ত",
+    "example": "Die Wohnung ist möbliert."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1238",
+  "german": "unmöbliert",
+  "word": "unmöbliert",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "unfurnished",
+    "bengali": "আসবাববিহীন",
+    "example": "Wir suchen eine unmöblierte Wohnung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1239",
+  "german": "zentral",
+  "word": "zentral",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "central",
+    "bengali": "কেন্দ্রীয়",
+    "example": "Die Lage ist sehr zentral."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1240",
+  "german": "der Vorort",
+  "word": "Vorort",
+  "article": "der",
+  "plural": "die Vororte",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "suburb",
+    "bengali": "শহরতলি",
+    "example": "Sie wohnen in einem ruhigen Vorort."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1241",
+  "german": "die Reinigung",
+  "word": "Reinigung",
+  "article": "die",
+  "plural": "die Reinigungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "cleaning",
+    "bengali": "পরিষ্কার",
+    "example": "Die Reinigung der Wohnung dauert lange."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1242",
+  "german": "die Ordnung",
+  "word": "Ordnung",
+  "article": "die",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "order, tidiness",
+    "bengali": "শৃঙ্খলা",
+    "example": "Bitte halte dein Zimmer in Ordnung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1243",
+  "german": "das Miteigentum",
+  "word": "Miteigentum",
+  "article": "das",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "joint ownership, condominium",
+    "bengali": "যৌথ মালিকানা",
+    "example": "Das Haus ist Miteigentum mehrerer Familien."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ },
+ {
+  "id": "b1_1244",
+  "german": "die Reparatur",
+  "word": "Reparatur",
+  "article": "die",
+  "plural": "die Reparaturen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "repair",
+    "bengali": "মেরামত",
+    "example": "Die Reparatur der Heizung war teuer."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "housing"
+  ]
+ }
+]

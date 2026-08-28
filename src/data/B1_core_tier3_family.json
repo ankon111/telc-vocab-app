@@ -1,0 +1,707 @@
+[
+ {
+  "id": "b1_1272",
+  "german": "der Ehepartner",
+  "word": "Ehepartner",
+  "article": "der",
+  "plural": "die Ehepartner",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "spouse",
+    "bengali": "জীবনসঙ্গী",
+    "example": "Mein Ehepartner arbeitet in einer Bank."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ },
+ {
+  "id": "b1_1273",
+  "german": "der/die Verwandte",
+  "word": "Verwandte",
+  "article": "der/die",
+  "plural": "die Verwandten",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "relative",
+    "bengali": "আত্মীয়",
+    "example": "Wir besuchen unsere Verwandten."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ },
+ {
+  "id": "b1_1274",
+  "german": "die Geschwister",
+  "word": "Geschwister",
+  "article": "die",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "siblings",
+    "bengali": "ভাইবোন",
+    "example": "Ich habe zwei Geschwister."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ },
+ {
+  "id": "b1_1275",
+  "german": "die Beziehung",
+  "word": "Beziehung",
+  "article": "die",
+  "plural": "die Beziehungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "relationship",
+    "bengali": "সম্পর্ক",
+    "example": "Sie haben eine gute Beziehung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ },
+ {
+  "id": "b1_1276",
+  "german": "die Freundschaft",
+  "word": "Freundschaft",
+  "article": "die",
+  "plural": "die Freundschaften",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "friendship",
+    "bengali": "বন্ধুত্ব",
+    "example": "Unsere Freundschaft dauert schon zehn Jahre."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ },
+ {
+  "id": "b1_1277",
+  "german": "das Vertrauen",
+  "word": "Vertrauen",
+  "article": "das",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "trust",
+    "bengali": "বিশ্বাস",
+    "example": "Vertrauen ist wichtig in einer Beziehung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ },
+ {
+  "id": "b1_1278",
+  "german": "die Erziehung",
+  "word": "Erziehung",
+  "article": "die",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "upbringing, education",
+    "bengali": "শিক্ষা-দীক্ষা",
+    "example": "Die Erziehung der Kinder braucht Geduld."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ },
+ {
+  "id": "b1_1279",
+  "german": "die Jugend",
+  "word": "Jugend",
+  "article": "die",
+  "plural": null,
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "youth",
+    "bengali": "যৌবন",
+    "example": "Sie verbrachte ihre Jugend auf dem Land."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ },
+ {
+  "id": "b1_1280",
+  "german": "der Rentner",
+  "word": "Rentner",
+  "article": "der",
+  "plural": "die Rentner",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "pensioner, retiree",
+    "bengali": "অবসরপ্রাপ্ত ব্যক্তি",
+    "example": "Mein Großvater ist Rentner."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ },
+ {
+  "id": "b1_1281",
+  "german": "der/die Alleinerziehende",
+  "word": "Alleinerziehende",
+  "article": "der/die",
+  "plural": "die Alleinerziehenden",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "single parent",
+    "bengali": "একক অভিভাবক",
+    "example": "Sie ist alleinerziehende Mutter."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ },
+ {
+  "id": "b1_1282",
+  "german": "das Elternteil",
+  "word": "Elternteil",
+  "article": "das",
+  "plural": "die Elternteile",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "parent (one)",
+    "bengali": "অভিভাবক",
+    "example": "Jedes Elternteil hat Pflichten."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ },
+ {
+  "id": "b1_1283",
+  "german": "die Partnerschaft",
+  "word": "Partnerschaft",
+  "article": "die",
+  "plural": "die Partnerschaften",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "partnership",
+    "bengali": "অংশীদারিত্ব",
+    "example": "Sie leben in einer festen Partnerschaft."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ },
+ {
+  "id": "b1_1284",
+  "german": "die Trennung",
+  "word": "Trennung",
+  "article": "die",
+  "plural": "die Trennungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "separation",
+    "bengali": "বিচ্ছেদ",
+    "example": "Die Trennung war schwer für beide."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ },
+ {
+  "id": "b1_1285",
+  "german": "die Scheidung",
+  "word": "Scheidung",
+  "article": "die",
+  "plural": "die Scheidungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "divorce",
+    "bengali": "তালাক",
+    "example": "Nach der Scheidung zog sie um."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ },
+ {
+  "id": "b1_1286",
+  "german": "die Hochzeit",
+  "word": "Hochzeit",
+  "article": "die",
+  "plural": "die Hochzeiten",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "wedding",
+    "bengali": "বিয়ে",
+    "example": "Die Hochzeit findet im Sommer statt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ },
+ {
+  "id": "b1_1287",
+  "german": "die Verlobung",
+  "word": "Verlobung",
+  "article": "die",
+  "plural": "die Verlobungen",
+  "type": "Nomen",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Nomen",
+    "english": "engagement",
+    "bengali": "বাগদান",
+    "example": "Wir feiern ihre Verlobung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ },
+ {
+  "id": "b1_1288",
+  "german": "gemeinsam",
+  "word": "gemeinsam",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "joint, together",
+    "bengali": "একসাথে",
+    "example": "Wir haben gemeinsame Interessen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ },
+ {
+  "id": "b1_1289",
+  "german": "eng",
+  "word": "eng",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "close, tight",
+    "bengali": "ঘনিষ্ঠ",
+    "example": "Sie haben eine enge Beziehung."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ },
+ {
+  "id": "b1_1290",
+  "german": "vertraut",
+  "word": "vertraut",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "familiar, close",
+    "bengali": "পরিচিত",
+    "example": "Er ist mir sehr vertraut."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ },
+ {
+  "id": "b1_1291",
+  "german": "liebevoll",
+  "word": "liebevoll",
+  "article": null,
+  "plural": null,
+  "type": "Adjektiv",
+  "level": [
+   "B1"
+  ],
+  "prefix": null,
+  "conjugation": null,
+  "meanings": [
+   {
+    "pos": "Adjektiv",
+    "english": "loving, affectionate",
+    "bengali": "স্নেহময়",
+    "example": "Sie ist eine liebevolle Mutter."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ },
+ {
+  "id": "b1_1292",
+  "german": "versöhnen",
+  "word": "versöhnen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "ver-",
+   "meaning": "inseparable prefix",
+   "related": []
+  },
+  "conjugation": {
+   "present": "er versöhnt",
+   "past": "er versöhnte",
+   "participle": "versöhnt",
+   "auxiliary": "hat",
+   "irregular": false,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "versöhne",
+    "du": "versöhnst",
+    "er_sie": "versöhnt",
+    "wir": "versöhnen",
+    "ihr": "versöhnt",
+    "sie": "versöhnen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to reconcile",
+    "bengali": "মীমাংসা করা",
+    "example": "Sie haben sich wieder versöhnt."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ },
+ {
+  "id": "b1_1293",
+  "german": "aufwachsen",
+  "word": "aufwachsen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "auf-",
+   "meaning": "up",
+   "related": [
+    "wachsen"
+   ]
+  },
+  "conjugation": {
+   "present": "er wächst auf",
+   "past": "er wuchs auf",
+   "participle": "aufgewachsen",
+   "auxiliary": "ist",
+   "irregular": true,
+   "vowel_change": "a → ä",
+   "full_present": {
+    "ich": "wachse auf",
+    "du": "wächst auf",
+    "er_sie": "wächst auf",
+    "wir": "wachsen auf",
+    "ihr": "wachst auf",
+    "sie": "wachsen auf"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to grow up",
+    "bengali": "বেড়ে ওঠা",
+    "example": "Er ist auf dem Land aufgewachsen."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ },
+ {
+  "id": "b1_1294",
+  "german": "erziehen",
+  "word": "erziehen",
+  "article": null,
+  "plural": null,
+  "type": "Verb",
+  "level": [
+   "B1"
+  ],
+  "prefix": {
+   "prefix": "er-",
+   "meaning": "inseparable prefix",
+   "related": [
+    "ziehen"
+   ]
+  },
+  "conjugation": {
+   "present": "er erzieht",
+   "past": "er erzog",
+   "participle": "erzogen",
+   "auxiliary": "hat",
+   "irregular": true,
+   "vowel_change": null,
+   "full_present": {
+    "ich": "erziehe",
+    "du": "erziehst",
+    "er_sie": "erzieht",
+    "wir": "erziehen",
+    "ihr": "erzieht",
+    "sie": "erziehen"
+   }
+  },
+  "meanings": [
+   {
+    "pos": "Verb",
+    "english": "to raise, educate",
+    "bengali": "লালন-পালন করা",
+    "example": "Sie erziehen ihre Kinder liebevoll."
+   }
+  ],
+  "synonym": null,
+  "starred": false,
+  "tags": [
+   "core700",
+   "tier3",
+   "family"
+  ]
+ }
+]
