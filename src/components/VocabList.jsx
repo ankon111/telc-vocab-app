@@ -13,6 +13,18 @@ const TYPE_COLORS = {
   Pronomen: "badge-type",
 }
 
+function speakGerman(text) {
+  if (!("speechSynthesis" in window)) return
+  window.speechSynthesis.cancel()
+  const utter = new SpeechSynthesisUtterance(text)
+  utter.lang = "de-DE"
+  utter.rate = 0.9
+  const voices = window.speechSynthesis.getVoices()
+  const deVoice = voices.find(v => v.lang === "de-DE") || voices.find(v => v.lang?.startsWith("de"))
+  if (deVoice) utter.voice = deVoice
+  window.speechSynthesis.speak(utter)
+}
+
 function seededShuffle(arr, seed) {
   const shuffled = [...arr]
   let rng = seed
@@ -40,6 +52,11 @@ function WordCard({ word, onUpdate }) {
     onUpdate(word.id, { starred: !word.starred })
   }
 
+  const speak = (e) => {
+    e.stopPropagation()
+    speakGerman(word.word)
+  }
+
   const showConj = word.type === "Verb" && word.conjugation
   const showPrefix = word.prefix
 
@@ -52,6 +69,9 @@ function WordCard({ word, onUpdate }) {
           <span className="badge-type badge">{word.type}</span>
           <LevelBadge level={word.level} />
           {word.tags?.includes("core700") && <span className="badge badge-core700" title="Must-know high-frequency word">🎯</span>}
+          <button className="speak-btn" onClick={speak} aria-label="pronounce" title="Hear pronunciation">
+            🔊
+          </button>
         </div>
         <button className={`star-btn ${word.starred ? "active" : ""}`} onClick={toggleStar} aria-label="star">
           {word.starred ? "★" : "☆"}
