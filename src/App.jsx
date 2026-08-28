@@ -308,18 +308,6 @@ export default function App() {
             <span>{allWords.length} words</span>
             <span className="dot">·</span>
             <span>{mastered} mastered</span>
-            <span className="dot">·</span>
-            {user ? (
-              <>
-                <span style={{ fontSize: "0.85rem", color: "var(--text2)" }}>{user.email}</span>
-                <span className="dot">·</span>
-              </>
-            ) : (
-              <>
-                <span style={{ fontSize: "0.85rem", color: "var(--text3)" }}>👤 Guest (local only)</span>
-                <span className="dot">·</span>
-              </>
-            )}
             {!user ? (
               <button className="auth-btn" onClick={handleSignIn} title="Sign in to sync across devices">
                 🔐 Sign in
@@ -333,6 +321,13 @@ export default function App() {
               {theme === "dark" ? "☀️" : "🌙"}
             </button>
           </div>
+        </div>
+        <div className="header-account">
+          {user ? (
+            <span title={user.email}>{user.email}</span>
+          ) : (
+            <span>👤 Guest (local only)</span>
+          )}
         </div>
       </header>
 
