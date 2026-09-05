@@ -15,14 +15,23 @@ export default function Quiz({ words, onUpdate }) {
   const [history, setHistory] = useState([])
   const [qIndex, setQIndex] = useState(0)
 
+  // Only reshuffle when the level filter changes or the word set actually
+  // grows/shrinks (new data loaded) - NOT on every answer. `onUpdate` gives
+  // `words` a brand-new array reference on every rating (it replaces the
+  // rated word's object), so depending on `words` itself here would reshuffle
+  // the whole pool - and jump to a different current word - the instant you
+  // answer, before you ever click "Next".
   const pool = useMemo(() => {
     let ws = words
     if (levelFilter !== "all") ws = ws.filter(w => w.level.includes(levelFilter))
     return shuffle(ws)
-  }, [words, levelFilter, qIndex])
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [words.length, levelFilter])
 
   const current = pool[qIndex % pool.length]
-  const options = useMemo(() => current ? getOptions(current, words) : [], [current, words])
+  // Draw distractors from the (stable, level-filtered) pool, and only when
+  // the question actually changes - not on every unrelated `words` update.
+  const options = useMemo(() => current ? getOptions(current, pool) : [], [current, pool])
 
   const answer = useCallback((opt) => {
     if (answered !== null) return
@@ -39,7 +48,7 @@ export default function Quiz({ words, onUpdate }) {
 
   const next = () => { setAnswered(null); setQIndex(i => i + 1) }
 
-  const restart = () => { setScore({ correct: 0, wrong: 0 }); setHistory([]); setAnswered(null); setQIndex(i => i + 1) }
+  const restart = () => { setScore({ correct: 0, wrong: 0 }); setHistory([]); setAnswered(null); setQIndex(0) }
 
   const total = score.correct + score.wrong
   const accuracy = total ? Math.round((score.correct / total) * 100) : 0

@@ -207,7 +207,9 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; b
 .fc-card:hover { border-color: var(--border2); }
 .fc-level-row { display: flex; gap: 5px; margin-bottom: 1rem; }
 .fc-front { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 1rem 0; }
+.fc-word-row { display: flex; align-items: baseline; gap: 8px; }
 .fc-article { font-size: 1.6rem; color: var(--accent-text); font-weight: 500; }
+.fc-article-blank { color: var(--text3); font-weight: 700; letter-spacing: 1px; }
 .fc-word { font-size: 1.8rem; font-weight: 700; color: var(--text); }
 .fc-meta-line { font-size: 0.78rem; color: var(--text3); margin-top: 4px; }
 .fc-back { padding-top: 0; }
