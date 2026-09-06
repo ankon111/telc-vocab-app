@@ -2,6 +2,7 @@ import { useState, useEffect, useCallback } from "react"
 import VocabList from "./components/VocabList"
 import Flashcard from "./components/Flashcard"
 import Quiz from "./components/Quiz"
+import Revise from "./components/Revise"
 import Stats from "./components/Stats"
 import { auth, signInWithGoogle, saveProgressToFirebase, loadProgressFromFirebase } from "./firebase"
 import { onAuthStateChanged, signOut } from "firebase/auth"
@@ -48,6 +49,11 @@ const TAB_ICONS = {
   stats: (
     <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
       <line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/><line x1="2" y1="20" x2="22" y2="20"/>
+    </svg>
+  ),
+  revise: (
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <polyline points="23 4 23 10 17 10"/><path d="M20.49 15A9 9 0 1 1 21 12"/>
     </svg>
   ),
 }
@@ -119,6 +125,7 @@ export default function App() {
       reviewCount: progress[w.id]?.reviewCount ?? 0,
       lastReviewed: progress[w.id]?.lastReviewed ?? null,
       difficulty: progress[w.id]?.difficulty ?? "new",
+      lastRating: progress[w.id]?.lastRating ?? null,
     }))
     setAllWords(words)
   }, [])
@@ -207,6 +214,7 @@ export default function App() {
     { id: "list", label: "Vocab", icon: TAB_ICONS.list },
     { id: "flash", label: "Flash", icon: TAB_ICONS.flash },
     { id: "quiz", label: "Quiz", icon: TAB_ICONS.quiz },
+    { id: "revise", label: "Revise", icon: TAB_ICONS.revise },
     { id: "stats", label: "Stats", icon: TAB_ICONS.stats },
   ]
 
@@ -440,6 +448,7 @@ export default function App() {
         {tab === "list" && <VocabList words={allWords} onUpdate={updateProgress} progress={progress} />}
         {tab === "flash" && <Flashcard words={allWords} todaysDeck={todaysDeck} onUpdate={updateProgress} progress={progress} />}
         {tab === "quiz" && <Quiz words={todaysDeck} onUpdate={updateProgress} progress={progress} />}
+        {tab === "revise" && <Revise words={allWords} onUpdate={updateProgress} />}
         {tab === "stats" && <Stats words={allWords} progress={progress} reviewed={reviewed} mastered={mastered} />}
       </main>
     </div>

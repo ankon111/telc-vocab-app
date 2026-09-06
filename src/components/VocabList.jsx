@@ -44,7 +44,7 @@ function LevelBadge({ level }) {
   return <span className="badge badge-b1">B1</span>
 }
 
-function WordCard({ word, onUpdate }) {
+export function WordCard({ word, onUpdate }) {
   const [expanded, setExpanded] = useState(false)
 
   const toggleStar = (e) => {
