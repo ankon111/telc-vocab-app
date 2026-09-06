@@ -368,7 +368,7 @@ export default function App() {
                         {w.level.join(" · ")}
                       </span>
                       <span className="badge badge-type">{w.type}</span>
-                      <span className={`diff-badge diff-${w.difficulty}`}>{w.difficulty}</span>
+                      <span className={`diff-badge diff-${w.difficulty}`}>{w.lastRating || w.difficulty}</span>
                     </div>
                     <div className="tc-expand-hint">tap to expand</div>
                   </div>
@@ -446,7 +446,9 @@ export default function App() {
           </div>
         )}
         {tab === "list" && <VocabList words={allWords} onUpdate={updateProgress} progress={progress} />}
-        {tab === "flash" && <Flashcard words={allWords} todaysDeck={todaysDeck} onUpdate={updateProgress} progress={progress} />}
+        <div style={{ display: tab === "flash" ? "block" : "none" }}>
+          <Flashcard words={allWords} todaysDeck={todaysDeck} onUpdate={updateProgress} progress={progress} />
+        </div>
         {tab === "quiz" && <Quiz words={todaysDeck} onUpdate={updateProgress} progress={progress} />}
         {tab === "revise" && <Revise words={allWords} onUpdate={updateProgress} />}
         {tab === "stats" && <Stats words={allWords} progress={progress} reviewed={reviewed} mastered={mastered} />}

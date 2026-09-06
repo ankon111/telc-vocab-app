@@ -109,7 +109,7 @@ export default function FlashcardPlayer({ deck, onUpdate, resetKey }) {
                 <span key={l} className={`badge ${l === "A2" ? "badge-a2" : "badge-b1"}`}>{l}</span>
               ))}
               <span className="badge badge-type">{current.type}</span>
-              <span className={`badge badge-diff diff-${current.difficulty}`}>{current.difficulty}</span>
+              <span className={`badge badge-diff diff-${current.difficulty}`}>{current.lastRating || current.difficulty}</span>
             </div>
 
             <div className="fc-front">

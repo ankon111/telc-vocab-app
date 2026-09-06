@@ -6,14 +6,14 @@ const BATCH_KEY = "telc_flashcard_batch"
 function loadBatchState() {
   try {
     const raw = localStorage.getItem(BATCH_KEY)
-    return raw ? JSON.parse(raw) : { batchMode: false, batchSize: 30, batchNum: 1 }
-  } catch { return { batchMode: false, batchSize: 30, batchNum: 1 } }
+    return raw ? JSON.parse(raw) : { batchMode: true, batchSize: 30, batchNum: 1 }
+  } catch { return { batchMode: true, batchSize: 30, batchNum: 1 } }
 }
 
 export default function Flashcard({ words, todaysDeck, onUpdate }) {
   const [levelFilter, setLevelFilter] = useState("all")
   const [deckType, setDeckType] = useState("all")
-  const [core700Only, setCore700Only] = useState(false)
+  const [core700Only, setCore700Only] = useState(true)
   const [tagFilter, setTagFilter] = useState("all")
 
   const initialBatch = useMemo(loadBatchState, [])
